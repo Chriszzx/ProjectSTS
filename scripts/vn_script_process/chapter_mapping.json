@@ -1,0 +1,120 @@
+{
+  "description": "Mapping from split_output file numbers to chapter directories and file naming patterns",
+  "protagonist_name": "紗夜",
+  "unnamed_dialogue_marker": "so",
+  "choice_branch_marker": "###",
+  "mappings": [
+    {
+      "range": [1, 1],
+      "directory": "prologue",
+      "naming": "name.txt",
+      "title_tag": "name_input",
+      "note": "Name input scene"
+    },
+    {
+      "range": [2, 2],
+      "directory": "prologue",
+      "naming": "hajimari.txt",
+      "title_tag": "",
+      "note": "Opening scene"
+    },
+    {
+      "range": [3, 9],
+      "directory": "prologue",
+      "naming": "prologue_{n}.txt",
+      "title_tag": "序章",
+      "note": "Prologue scenes, n starts from 1"
+    },
+    {
+      "range": [10, 55],
+      "directory": "chapter1",
+      "naming": "chapter1_{n}.txt",
+      "title_tag": "一章",
+      "note": "Chapter 1, n starts from 1"
+    },
+    {
+      "range": [56, 81],
+      "directory": "chapter2",
+      "naming": "chapter2_{n}.txt",
+      "title_tag": "二章",
+      "note": "Chapter 2, n starts from 1"
+    },
+    {
+      "range": [82, 126],
+      "directory": "chapter3",
+      "naming": "chapter3_{n}.txt",
+      "title_tag": "三章",
+      "note": "Chapter 3, n starts from 1"
+    },
+    {
+      "range": [127, 127],
+      "directory": "natsuko",
+      "naming": "natsuko_{n}.txt",
+      "title_tag": "夏帆",
+      "note": "Natsuko (夏帆) route, standalone"
+    },
+    {
+      "range": [128, 189],
+      "directory": "chapter4",
+      "naming": "chapter4_{n}.txt",
+      "title_tag": "四章",
+      "note": "Chapter 4"
+    },
+    {
+      "range": [190, 230],
+      "directory": "hinase",
+      "naming": "hinase_{n}.txt",
+      "title_tag": "日生",
+      "note": "Hinase (日生) route"
+    },
+    {
+      "range": [231, 278],
+      "directory": "chapter5",
+      "naming": "chapter5_{n}.txt",
+      "title_tag": "五章",
+      "note": "Chapter 5"
+    },
+    {
+      "range": [279, 326],
+      "directory": "kirishima",
+      "naming": "kirishima_{n}.txt",
+      "title_tag": "桐島",
+      "note": "Kirishima (桐島) route"
+    },
+    {
+      "range": [327, 331],
+      "directory": "chiyo",
+      "naming": "chiyo_{n}.txt",
+      "title_tag": "千代",
+      "note": "Chiyo (千代) route"
+    },
+    {
+      "range": [332, 341],
+      "directory": "chapter6",
+      "naming": "chapter6_{n}.txt",
+      "title_tag": "六章",
+      "note": "Chapter 6"
+    },
+    {
+      "range": [342, 378],
+      "directory": "chapter7_kuro",
+      "naming": "chapter7_kuro_{n}.txt",
+      "title_tag": "黒の章",
+      "note": "Chapter 7 - Black chapter (黒の章)"
+    },
+    {
+      "range": [379, 441],
+      "directory": "chapter7_ao",
+      "naming": "chapter7_ao_{n}.txt",
+      "title_tag": "蒼の章",
+      "note": "Chapter 7 - Blue chapter (蒼の章)"
+    },
+    {
+      "range": [442, 442],
+      "directory": "ending",
+      "naming": "ending_{n}.txt",
+      "title_tag": "",
+      "note": "Ending scene"
+    }
+  ]
+}
