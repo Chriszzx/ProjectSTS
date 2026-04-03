@@ -11,7 +11,7 @@ Processing pipeline (on raw lines, preserving empty lines initially):
   2. Namespace merge (character name + dialogue → single line)
      - Also joins multi-line dialogues broken by NAME placeholders
   3. Merge NAME duplicate pairs (insert canonical name 紗夜)
-  4. Mark unnamed dialogue (so prefix for protagonist lines)
+  4. Mark unnamed dialogue (canonical protagonist full-name speaker prefix)
   5. Mark choice branches (### prefix for alternate choices)
   6. Clean up (remove empty lines, trailing whitespace)
 """
@@ -29,7 +29,7 @@ from typing import List, Set, Tuple, Optional
 # ---------------------------------------------------------------------------
 
 PROTAGONIST_NAME = "紗夜"
-UNNAMED_DIALOGUE_MARKER = "so"
+UNNAMED_DIALOGUE_SPEAKER = "遠野　紗夜"
 CHOICE_BRANCH_MARKER = "###"
 JOIN_MARK = "\ufff0"
 NAME_JOIN_MARK = "\ufff1"
@@ -192,14 +192,21 @@ def _find_name_insertion_index(text: str) -> Optional[int]:
 
             if indicator in HONORIFIC_INDICATORS:
                 if idx == 0:
-                    score = 100
+                    # If the fragment itself starts with an honorific and the next
+                    # char is real content, the missing name belongs at the start.
+                    # Example: ちゃんじゃないか -> 紗夜ちゃんじゃないか
+                    score = 115 if not (after and after in PUNCTUATION_CHARS) else 40
                 elif before in PUNCTUATION_CHARS or before in "，, ":
                     score = 110
                 else:
                     score = 90
             else:
                 if idx == 0:
-                    score = 85
+                    # Strongly prefer a true leading particle fragment like:
+                    # は俺の世界で... -> 紗夜は俺の世界で...
+                    # but avoid cases like で、に意見を... where the first token is
+                    # just a carried-over conjunction before the actual gap.
+                    score = 115 if not (after and after in PUNCTUATION_CHARS) else 40
                 elif before in PUNCTUATION_CHARS or before in "，, ":
                     score = 105
                 elif before in "はがをのにもとでへだ":
@@ -225,6 +232,42 @@ def _find_name_insertion_index(text: str) -> Optional[int]:
 def _starts_with_name_indicator(text: str) -> bool:
     """Return True if a continuation line starts with a likely NAME indicator."""
     return any(text.startswith(ind) for ind in LEADING_NAME_INDICATORS)
+
+
+def _next_nonempty_line(lines: List[str], start: int) -> str:
+    """Return the next non-empty stripped line from start, or empty string."""
+    i = start
+    while i < len(lines):
+        text = lines[i].strip()
+        if text:
+            return text
+        i += 1
+    return ""
+
+
+def _looks_like_speaker_dialogue_start(text: str) -> bool:
+    """
+    Return True if a line following a speaker label looks like actual dialogue.
+
+    This is stricter than generic NAME-fragment detection. It is used to decide
+    whether a token that matches a character-name entry should interrupt an
+    in-progress multi-line join. For example:
+    - `男子生徒` + `「あ、遠野さん！...」` -> True (real speaker line)
+    - `侍女` + `お嬢様、何をして...」` -> True (bare dialogue fragment)
+    - `死神` + `を主人公にしよう...」` -> False (ordinary continuation)
+    """
+    if not text:
+        return False
+    if text.startswith("「") or text.startswith("『"):
+        return True
+    if _is_clear_name_junction(text):
+        return True
+    if text.endswith(("」", "』")):
+        particle_starts = [ind for ind in LEADING_NAME_INDICATORS if ind not in HONORIFIC_INDICATORS]
+        if any(text.startswith(ind) for ind in particle_starts):
+            return False
+        return True
+    return False
 
 
 def extract_char_prefix(line: str, char_names: Set[str]) -> Optional[Tuple[str, str]]:
@@ -314,7 +357,9 @@ def step_namespace_merge(lines: List[str], char_names: Set[str]) -> List[str]:
                             j += 1
                             continue
                         if is_char_name(cont, char_names):
-                            break
+                            nxt = _next_nonempty_line(lines, j + 1)
+                            if _looks_like_speaker_dialogue_start(nxt):
+                                break
                         if cont.startswith("「"):
                             break
                         if cont.startswith("『"):
@@ -351,7 +396,9 @@ def step_namespace_merge(lines: List[str], char_names: Set[str]) -> List[str]:
                             j += 1
                             continue
                         if is_char_name(cont, char_names):
-                            break
+                            nxt = _next_nonempty_line(lines, j + 1)
+                            if _looks_like_speaker_dialogue_start(nxt):
+                                break
                         if cont.startswith("「"):
                             break
                         if cont.startswith("『"):
@@ -652,15 +699,16 @@ def step_mark_unnamed_dialogue(lines: List[str], char_names: Set[str]) -> List[s
     Mark dialogue lines that have no speaker prefix.
 
     Lines starting with 「 (and optionally ending with 」) that don't
-    already have a character name prefix get the 'so' marker prefix.
+    already have a character name prefix get the canonical protagonist
+    full-name speaker prefix.
 
-    Result: so「台词」
+    Result: 遠野　紗夜「台词」
     """
     result: List[str] = []
 
     for line in lines:
         if line.startswith("「"):
-            result.append(UNNAMED_DIALOGUE_MARKER + line)
+            result.append(UNNAMED_DIALOGUE_SPEAKER + line)
         else:
             result.append(line)
 
@@ -739,7 +787,7 @@ def process_file(filepath: str, char_names: Set[str]) -> List[str]:
     # Step 4: Resolve standalone character names
     lines = step_resolve_standalone_names(lines, char_names)
 
-    # Step 5: Mark unnamed dialogue
+    # Step 5: Mark unnamed dialogue with protagonist full-name speaker prefix
     lines = step_mark_unnamed_dialogue(lines, char_names)
 
     # Step 6: Mark choice branches

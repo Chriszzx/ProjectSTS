@@ -1,6 +1,6 @@
 ---
 name: vn-script-process
-description: Preprocess raw ProjectSTS / Shinigami to Shoujo visual novel script dumps before translation. Use this whenever the user wants to clean OG.txt or OG/split_output/*.txt into translation-ready scene files, map split files into chapter/route directories, normalize protagonist placeholder handling, mark unnamed protagonist dialogue with so, or separate common/route outputs by split order instead of the legacy pipeline. Prefer this skill over ad-hoc manual cleanup whenever the request involves raw VN script restructuring, namespace merge, duplicate NAME-placeholder repair, or dry-run generation of cleaned script files.
+description: Preprocess raw ProjectSTS / Shinigami to Shoujo visual novel script dumps before translation. Use this whenever the user wants to clean OG.txt or OG/split_output/*.txt into translation-ready scene files, map split files into chapter/route directories, normalize protagonist placeholder handling, rewrite unnamed protagonist dialogue with the canonical full speaker name `遠野　紗夜`, or separate common/route outputs by split order instead of the legacy pipeline. Prefer this skill over ad-hoc manual cleanup whenever the request involves raw VN script restructuring, namespace merge, duplicate NAME-placeholder repair, or dry-run generation of cleaned script files.
 ---
 
 # VN Script Process
@@ -12,7 +12,7 @@ This skill is intentionally separate from translation. Its job is preprocessing 
 - merge name lines with dialogue lines
 - preserve narration
 - resolve protagonist placeholder behavior consistently
-- mark unnamed protagonist dialogue with `so`
+- rewrite unnamed protagonist dialogue as `遠野　紗夜「...」`
 - map outputs into chapter/route directories by split number
 
 ## Files in this skill
@@ -45,15 +45,15 @@ Do **not** reuse the legacy `combination.py` behavior blindly.
 
 These are the important user-approved rules.
 
-### 1) Unnamed protagonist dialogue uses `so`
+### 1) Unnamed protagonist dialogue uses `遠野　紗夜`
 
-Keep unnamed protagonist dialogue unnamed, but mark it.
+Rewrite unnamed protagonist dialogue to the protagonist's canonical full Japanese speaker name.
 
 Example:
 - raw: `「……」`
-- output: `so「……」`
+- output: `遠野　紗夜「……」`
 
-Do **not** rewrite unnamed protagonist dialogue to full-name speaker lines.
+Do **not** use the old `so` marker in new output.
 
 ### 2) Protagonist placeholder resolves to `紗夜`
 
@@ -94,7 +94,7 @@ For consecutive choice lines written as `『...』`:
 3. Join multiline dialogue safely
 4. Merge duplicate NAME-placeholder variants
 5. Resolve standalone name-call remnants like `蒼` -> `蒼「紗夜」` when appropriate
-6. Mark unnamed dialogue with `so`
+6. Mark unnamed dialogue with `遠野　紗夜`
 7. Mark alternate choice lines with `###`
 8. Clean and write output
 
@@ -186,7 +186,7 @@ Verify these outputs still hold:
 
 Also verify:
 - no leftover duplicate pair artifacts
-- no forced protagonist speaker prefix except `so`
+- no leftover `so` markers in newly generated output
 - no internal join markers leaked into output
 
 ## When responding to the user
