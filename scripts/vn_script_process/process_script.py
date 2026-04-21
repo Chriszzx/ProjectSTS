@@ -274,11 +274,16 @@ def extract_char_prefix(line: str, char_names: Set[str]) -> Optional[Tuple[str, 
     """
     Extract (character_name, rest) from a merged line like 角色名「台词」.
     Returns None if no character prefix found.
+
+    Only matches when the rest starts with "「", ensuring the line is actual
+    dialogue (after namespace merge) rather than choice text or narration
+    that merely starts with a character name (e.g. "兄に事情を話す").
     """
     for name in sorted(char_names, key=len, reverse=True):
         if line.startswith(name) and len(line) > len(name):
             rest = line[len(name):]
-            return (name, rest)
+            if rest.startswith("「"):
+                return (name, rest)
     return None
 
 
@@ -752,6 +757,281 @@ def step_mark_choices(lines: List[str]) -> List[str]:
 
 
 # ---------------------------------------------------------------------------
+# Step 6b: Fix NAME-break artifacts in non-dialogue and dialogue text
+# ---------------------------------------------------------------------------
+
+# Particles that indicate a NAME was removed right before them
+_NAME_PARTICLES = ("は", "が", "を", "の", "に", "も", "と", "で", "へ", "だ", "って")
+_HONORIFIC_STARTS = ("ちゃん", "さん", "くん", "君", "様")
+
+# The protagonist last name that appears at break points
+_LAST_NAME = "遠野"
+_FULL_NAME = "遠野" + PROTAGONIST_NAME  # 遠野紗夜
+
+
+def _line_ends_with_lastname(text: str) -> bool:
+    """Check if a line ends with the protagonist's last name 遠野.
+    Matches both standalone 遠野 and 遠野 inside dialogue text."""
+    stripped = text.rstrip()
+    if not stripped.endswith(_LAST_NAME):
+        return False
+    # Ensure 遠野 is at the very end (not followed by other chars)
+    after_idx = stripped.rfind(_LAST_NAME) + len(_LAST_NAME)
+    if after_idx < len(stripped):
+        return False
+    return True
+
+
+def _line_starts_with_name_particle(text: str) -> bool:
+    """Check if a line starts with a particle or honorific that indicates
+    a NAME was removed before it."""
+    if not text:
+        return False
+    for ind in sorted(list(_NAME_PARTICLES) + list(_HONORIFIC_STARTS), key=len, reverse=True):
+        if text.startswith(ind):
+            return True
+    return False
+
+
+def _is_in_dialogue(line: str, in_dialogue_flag: bool) -> bool:
+    """Track whether we're inside a 「」 dialogue block."""
+    # Simple heuristic: count open/close brackets
+    opens = line.count("「")
+    closes = line.count("」")
+    return in_dialogue_flag  # Use the tracking flag passed in
+
+
+def step_fix_name_breaks(lines: List[str]) -> List[str]:
+    """
+    Fix text broken by NAME-placeholder removal.
+
+    Handles four patterns:
+    1. Line ending with 遠野 + next line starting with particle/honorific
+       → merge, inserting 紗夜 at the junction
+    2. Line ending with 遠野 + next line is a clear continuation
+       → merge, inserting 紗夜
+    3. Duplicate consecutive line pairs (NAME + generic variant)
+       → deduplicate, inserting 紗夜
+    4. Dialogue containing unclosed 遠野 inside 「」
+       → merge continuation lines, inserting 紗夜
+    """
+    if not lines:
+        return lines
+
+    # First pass: fix duplicate pairs (Pattern B / Rule 3)
+    lines = _fix_duplicate_pairs(lines)
+
+    # Second pass: fix 遠野 breaks (Patterns A, C, D / Rules 1, 2, 4)
+    lines = _fix_lastname_breaks(lines)
+
+    return lines
+
+
+def _fix_duplicate_pairs(lines: List[str]) -> List[str]:
+    """Remove consecutive duplicate line pairs, keeping one with 紗夜 inserted
+    at NAME gap points."""
+    result: List[str] = []
+    i = 0
+    while i < len(lines):
+        if i + 1 < len(lines) and lines[i] == lines[i + 1]:
+            # Found a duplicate pair — merge by inserting 紗夜 at NAME gaps
+            merged = _insert_name_in_line(lines[i])
+            result.append(merged)
+            i += 2
+        else:
+            result.append(lines[i])
+            i += 1
+    return result
+
+
+def _insert_name_in_line(line: str) -> str:
+    """Insert 紗夜 after 遠野 at NAME gap points in a line."""
+    if _LAST_NAME not in line:
+        return line
+
+    # Don't insert if 紗夜 already follows 遠野
+    full = _LAST_NAME + PROTAGONIST_NAME
+    if full in line:
+        return line
+
+    # Find 遠野 that is NOT part of a speaker prefix (遠野　紗夜「)
+    # and NOT already followed by 紗夜
+    result = []
+    i = 0
+    while i < len(line):
+        if line[i:i + len(_LAST_NAME)] == _LAST_NAME:
+            # Check what follows 遠野
+            after = i + len(_LAST_NAME)
+            # Skip if this is a speaker prefix (遠野　紗夜)
+            if after < len(line) and line[after:after + len(PROTAGONIST_NAME)] == PROTAGONIST_NAME:
+                result.append(line[i:i + len(_LAST_NAME) + len(PROTAGONIST_NAME)])
+                i += len(_LAST_NAME) + len(PROTAGONIST_NAME)
+                continue
+            # Skip if inside 『』and followed by 』 (name placeholder)
+            if after < len(line) and line[after] == "』":
+                result.append(_LAST_NAME + PROTAGONIST_NAME)
+                i += len(_LAST_NAME)
+                continue
+            # Skip if followed by a space + 紗夜 (already has the name)
+            if after < len(line) and line[after] in ("　", " ") and \
+               after + 1 < len(line) and line[after + 1:after + 1 + len(PROTAGONIST_NAME)] == PROTAGONIST_NAME:
+                result.append(line[i:i + len(_LAST_NAME) + 1 + len(PROTAGONIST_NAME)])
+                i += len(_LAST_NAME) + 1 + len(PROTAGONIST_NAME)
+                continue
+            # Insert 紗夜 after 遠野
+            result.append(_LAST_NAME + PROTAGONIST_NAME)
+            i += len(_LAST_NAME)
+        else:
+            result.append(line[i])
+            i += 1
+
+    return "".join(result)
+
+
+def _fix_lastname_breaks(lines: List[str]) -> List[str]:
+    """Fix lines ending with 遠野 by joining with the next line and inserting 紗夜.
+    Also fixes unclosed dialogue from NAME removal inside dialogue text."""
+    result: List[str] = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+
+        # Check if this line ends with 遠野 (Pattern A/C/D)
+        if _line_ends_with_lastname(line) and i + 1 < len(lines):
+            next_line = lines[i + 1]
+
+            # Pattern C: next line starts with a particle or honorific
+            if _line_starts_with_name_particle(next_line):
+                merged = line + PROTAGONIST_NAME + next_line
+                result.append(merged)
+                i += 2
+                continue
+
+            # Pattern A: next line is a clear continuation
+            if _is_continuation(next_line, line):
+                merged = line + PROTAGONIST_NAME + next_line
+                result.append(merged)
+                i += 2
+                continue
+
+            # Pattern D: inside dialogue (line has 「 but no 」)
+            if _has_unclosed_dialogue(line):
+                merged = line + PROTAGONIST_NAME + next_line
+                result.append(merged)
+                i += 2
+                continue
+
+        # Pattern E: unclosed dialogue with NAME-break inside
+        # e.g. 遠野　十夜「おはよう、 \n (next independent line)
+        # Also: 遠野　紗夜「あ、はい。遠野 \n と申します。」
+        if _has_unclosed_dialogue(line) and i + 1 < len(lines):
+            next_line = lines[i + 1]
+            dialogue_inner = _extract_unclosed_dialogue_inner(line)
+            if dialogue_inner and (
+                dialogue_inner.endswith(("、", "……", "…", "，")) or
+                dialogue_inner.endswith(_LAST_NAME)
+            ):
+                # Priority 1: if next line is a new speaker, close this dialogue
+                if _is_new_speaker_line(next_line):
+                    result.append(line + PROTAGONIST_NAME + "」")
+                    result.append(next_line)
+                    i += 2
+                    continue
+                # Priority 2: next line is the NAME continuation (starts with 」 or particle)
+                if next_line.startswith("」") or \
+                   (next_line.endswith("」") and not _is_new_speaker_line(next_line)) or \
+                   (_line_starts_with_name_particle(next_line) and not _is_new_speaker_line(next_line)):
+                    merged = line + PROTAGONIST_NAME + next_line
+                    result.append(merged)
+                    i += 2
+                    continue
+
+        result.append(line)
+        i += 1
+
+    return result
+
+
+def _extract_unclosed_dialogue_inner(line: str) -> Optional[str]:
+    """Extract the inner text of an unclosed dialogue.
+    Returns None if line doesn't have an unclosed dialogue."""
+    if not _has_unclosed_dialogue(line):
+        return None
+    # Find the last 「 that doesn't have a matching 」
+    last_open = line.rfind("「")
+    if last_open == -1:
+        return None
+    return line[last_open + 1:]
+
+
+def _looks_like_name_continuation(line: str) -> bool:
+    """Check if a line looks like it continues after a NAME placeholder
+    within dialogue."""
+    if not line:
+        return False
+    # Starts with a particle after the name slot
+    if _line_starts_with_name_particle(line):
+        return True
+    # Starts with closing bracket
+    if line.startswith("」"):
+        return True
+    # Short continuation that ends with 」
+    if line.endswith("」") and len(line) <= 15:
+        return True
+    return False
+
+
+def _is_new_speaker_line(line: str) -> bool:
+    """Check if a line starts a new speaker's dialogue."""
+    if not line:
+        return False
+    # Starts with a character name pattern followed by 「
+    if "「" in line:
+        prefix = line[:line.index("「")]
+        if len(prefix) >= 2 and not prefix.startswith("「"):
+            return True
+    # Starts with 「 (unnamed dialogue)
+    if line.startswith("「"):
+        return True
+    return False
+
+
+def _is_continuation(next_line: str, current_line: str) -> bool:
+    """Determine if next_line is a continuation of current_line
+    (i.e. not a new sentence or independent content)."""
+    if not next_line:
+        return False
+
+    # Starts with a particle-like continuation
+    if _line_starts_with_name_particle(next_line):
+        return True
+
+    # Starts with lowercase hiragana that connects to previous (like の, で)
+    first_char = next_line[0]
+    if first_char in "ののにとでへが":
+        return True
+
+    # Starts with a closing bracket continuation like 』 or ）
+    if next_line.startswith(("』", "）", ")")):
+        return True
+
+    # Next line starts with a verb/particle that clearly continues
+    # e.g. の場合～, です, と申します
+    if next_line.startswith("の"):
+        return True
+
+    return False
+
+
+def _has_unclosed_dialogue(line: str) -> bool:
+    """Check if a line has an unclosed 「 (i.e. 「 count > 」 count)."""
+    opens = line.count("「")
+    closes = line.count("」")
+    return opens > closes
+
+
+# ---------------------------------------------------------------------------
 # Step 7: Clean up
 # ---------------------------------------------------------------------------
 
@@ -792,6 +1072,9 @@ def process_file(filepath: str, char_names: Set[str]) -> List[str]:
 
     # Step 6: Mark choice branches
     lines = step_mark_choices(lines)
+
+    # Step 6b: Fix NAME-break artifacts
+    lines = step_fix_name_breaks(lines)
 
     # Step 7: Final cleanup
     lines = step_cleanup(lines)
