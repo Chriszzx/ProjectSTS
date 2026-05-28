@@ -1,0 +1,2043 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_22.txt",
+    "chapter": "chapter2",
+    "total_lines": 111,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "その時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "臥待　春夫「あれ、君達。ここで何をやってるんだい？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "臥待　春夫「あれ、君達。ここで何をやってるんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "その時だった。",
+        "after": "遠野　紗夜「臥待さん」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「臥待さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「あれ、君達。ここで何をやってるんだい？」",
+        "after": "蒼「春夫か」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼「春夫か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「臥待さん」",
+        "after": "私達は臥待堂の店主、臥待春夫さんに出会した。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私達は臥待堂の店主、臥待春夫さんに出会した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「春夫か」",
+        "after": "日生　光「こんにちは、臥待さん」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "日生　光「こんにちは、臥待さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私達は臥待堂の店主、臥待春夫さんに出会した。",
+        "after": "臥待　春夫「おお、日生君まで。こんにちは」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "臥待　春夫「おお、日生君まで。こんにちは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「こんにちは、臥待さん」",
+        "after": "遠野　紗夜「こんにちは」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「こんにちは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「おお、日生君まで。こんにちは」",
+        "after": "丁寧に頭を下げた日生先輩を見て、私も慌ててそれに倣う。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "丁寧に頭を下げた日生先輩を見て、私も慌ててそれに倣う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「こんにちは」",
+        "after": "臥待　春夫「うん。紗夜ちゃんも」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "臥待　春夫「うん。紗夜ちゃんも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "丁寧に頭を下げた日生先輩を見て、私も慌ててそれに倣う。",
+        "after": "臥待　春夫「うん。君もね」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "臥待　春夫「うん。君もね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「うん。紗夜ちゃんも」",
+        "after": "臥待さんはそれを可笑しそうにしながらに言う。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "臥待さんはそれを可笑しそうにしながらに言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「うん。君もね」",
+        "after": "蒼「春夫。店の方はちゃんと鍵をかけておいた」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "蒼「春夫。店の方はちゃんと鍵をかけておいた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんはそれを可笑しそうにしながらに言う。",
+        "after": "と、蒼。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "と、蒼。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「春夫。店の方はちゃんと鍵をかけておいた」",
+        "after": "臥待　春夫「ああ、そう。ご苦労様です」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "臥待　春夫「ああ、そう。ご苦労様です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "と、蒼。",
+        "after": "突拍子もない発言に臥待さんは驚くこともなく言葉を返す。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "突拍子もない発言に臥待さんは驚くこともなく言葉を返す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ああ、そう。ご苦労様です」",
+        "after": "臥待　春夫「で、今日はまた見ない人がいるけど？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "臥待　春夫「で、今日はまた見ない人がいるけど？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "突拍子もない発言に臥待さんは驚くこともなく言葉を返す。",
+        "after": "語尾を上げ、臥待さんは桐島先輩とルイスさんを交互に見た。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "語尾を上げ、臥待さんは桐島先輩とルイスさんを交互に見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「で、今日はまた見ない人がいるけど？」",
+        "after": "遠野　紗夜「あ、はい。こちらは……」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「あ、はい。こちらは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "語尾を上げ、臥待さんは桐島先輩とルイスさんを交互に見た。",
+        "after": "桐島　七葵「桐島七葵です」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "桐島　七葵「桐島七葵です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、はい。こちらは……」",
+        "after": "日生　光「ちなみに、桐島君は僕と同級なんだよね」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "日生　光「ちなみに、桐島君は僕と同級なんだよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「桐島七葵です」",
+        "after": "桐島　七葵「ああ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "桐島　七葵「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ちなみに、桐島君は僕と同級なんだよね」",
+        "after": "日生先輩の言葉に頷く桐島先輩。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "日生先輩の言葉に頷く桐島先輩。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「ああ」",
+        "after": "臥待　春夫「ふむふむ。で、この一際目立ったお方はどちら様？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "臥待　春夫「ふむふむ。で、この一際目立ったお方はどちら様？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩の言葉に頷く桐島先輩。",
+        "after": "ルイス「僕はルイスだ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ルイス「僕はルイスだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「ふむふむ。で、この一際目立ったお方はどちら様？」",
+        "after": "臥待　春夫「ルイス？　東洋人にしては変わった名前だなぁ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "臥待　春夫「ルイス？　東洋人にしては変わった名前だなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「僕はルイスだ」",
+        "after": "臥待さんは随分と感心した風に呟く。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "臥待さんは随分と感心した風に呟く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ルイス？　東洋人にしては変わった名前だなぁ」",
+        "after": "『東洋人』"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "『東洋人』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "臥待さんは随分と感心した風に呟く。",
+        "after": "事情も何も知らぬ臥待さんはそんなことも平気で言う。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "事情も何も知らぬ臥待さんはそんなことも平気で言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『東洋人』",
+        "after": "臥待　春夫「何だか、見かけるたびに新しい人を連れてくるね」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "臥待　春夫「何だか、見かけるたびに新しい人を連れてくるね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "事情も何も知らぬ臥待さんはそんなことも平気で言う。",
+        "after": "それは、私と蒼、どちらに言っているのだろう。はたまた両方なのか。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "それは、私と蒼、どちらに言っているのだろう。はたまた両方なのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「何だか、見かけるたびに新しい人を連れてくるね」",
+        "after": "臥待　春夫「初めまして。時計塔の近くにある古本屋をやっている臥待春夫です」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "臥待　春夫「初めまして。時計塔の近くにある古本屋をやっている臥待春夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "それは、私と蒼、どちらに言っているのだろう。はたまた両方なのか。",
+        "after": "臥待さんが自己紹介すると、今まで特に興味のない様子だったルイスさんの表情がぱっと明るくなった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "臥待さんが自己紹介すると、今まで特に興味のない様子だったルイスさんの表情がぱっと明るくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「初めまして。時計塔の近くにある古本屋をやっている臥待春夫です」",
+        "after": "ルイス「おお！　では、貴方があの本屋の本当の主なのか！」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "ルイス「おお！　では、貴方があの本屋の本当の主なのか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんが自己紹介すると、今まで特に興味のない様子だったルイスさんの表情がぱっと明るくなった。",
+        "after": "臥待　春夫「そうだよ。ということは、君はうちに来たことがあるのかな」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "臥待　春夫「そうだよ。ということは、君はうちに来たことがあるのかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「おお！　では、貴方があの本屋の本当の主なのか！」",
+        "after": "ルイス「ああ！　あそこに行けば、名の知れていない本でも分かるだろうと言われたんだ！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "ルイス「ああ！　あそこに行けば、名の知れていない本でも分かるだろうと言われたんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そうだよ。ということは、君はうちに来たことがあるのかな」",
+        "after": "臥待　春夫「誰から聞いたんだい、そんなこと……」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "臥待　春夫「誰から聞いたんだい、そんなこと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「ああ！　あそこに行けば、名の知れていない本でも分かるだろうと言われたんだ！」",
+        "after": "少々興奮気味のルイスさんとは対照的に臥待さんは困り顔で笑う。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "少々興奮気味のルイスさんとは対照的に臥待さんは困り顔で笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「誰から聞いたんだい、そんなこと……」",
+        "after": "気を取り直し、臥待さんは改めて私達に訊ねる。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "気を取り直し、臥待さんは改めて私達に訊ねる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少々興奮気味のルイスさんとは対照的に臥待さんは困り顔で笑う。",
+        "after": "臥待　春夫「それで、君達はこんなに大勢でどうしたの？　もしかして、冒険の途中とか？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "臥待　春夫「それで、君達はこんなに大勢でどうしたの？　もしかして、冒険の途中とか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "気を取り直し、臥待さんは改めて私達に訊ねる。",
+        "after": "後半部分は明らかにからかう目的で言ったのだろう。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "後半部分は明らかにからかう目的で言ったのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「それで、君達はこんなに大勢でどうしたの？　もしかして、冒険の途中とか？」",
+        "after": "けれど、ルイスさんにその手の冗談は聞かない。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "けれど、ルイスさんにその手の冗談は聞かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "後半部分は明らかにからかう目的で言ったのだろう。",
+        "after": "ルイス「よく分かったな！」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "ルイス「よく分かったな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "けれど、ルイスさんにその手の冗談は聞かない。",
+        "after": "桐島　七葵「は！？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "桐島　七葵「は！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「よく分かったな！」",
+        "after": "臥待　春夫「そうか、そうか。うんうんうん、何だかそうだと思ったんだよー」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "臥待　春夫「そうか、そうか。うんうんうん、何だかそうだと思ったんだよー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「は！？」",
+        "after": "臥待　春夫「なんていうか、こう街の中をうろうろと集団で歩いていると勇者様ご一行みたいな……」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "臥待　春夫「なんていうか、こう街の中をうろうろと集団で歩いていると勇者様ご一行みたいな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そうか、そうか。うんうんうん、何だかそうだと思ったんだよー」",
+        "after": "ルイスさんは手を広げ、お決まりの台詞を言う。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "ルイスさんは手を広げ、お決まりの台詞を言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「なんていうか、こう街の中をうろうろと集団で歩いていると勇者様ご一行みたいな……」",
+        "after": "ルイス「そうさ！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "ルイス「そうさ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイスさんは手を広げ、お決まりの台詞を言う。",
+        "after": "ルイス「僕は、遠野十夜の書いた『ユメミルセカイ』の主人公だからね！」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "ルイス「僕は、遠野十夜の書いた『ユメミルセカイ』の主人公だからね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「そうさ！」",
+        "after": "臥待　春夫「『ユメミルセカイ』……？」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "臥待　春夫「『ユメミルセカイ』……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「僕は、遠野十夜の書いた『ユメミルセカイ』の主人公だからね！」",
+        "after": "臥待さんは急に笑うのを止めた。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "臥待さんは急に笑うのを止めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「『ユメミルセカイ』……？」",
+        "after": "臥待　春夫「って、あの『ユメミルセカイ』のかい？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "臥待　春夫「って、あの『ユメミルセカイ』のかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんは急に笑うのを止めた。",
+        "after": "蒼「春夫、お前は知っているのか？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "蒼「春夫、お前は知っているのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「って、あの『ユメミルセカイ』のかい？」",
+        "after": "臥待　春夫「うん。一応ね。実物も持ってるよ」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "臥待　春夫「うん。一応ね。実物も持ってるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「春夫、お前は知っているのか？」",
+        "after": "蒼「私はそのような本を見かけたことがないが」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "蒼「私はそのような本を見かけたことがないが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「うん。一応ね。実物も持ってるよ」",
+        "after": "臥待　春夫「あはは。売り物の場所には置いてないからね」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "臥待　春夫「あはは。売り物の場所には置いてないからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私はそのような本を見かけたことがないが」",
+        "after": "蒼「帰ったら早速探してみるとしよう」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "蒼「帰ったら早速探してみるとしよう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「あはは。売り物の場所には置いてないからね」",
+        "after": "臥待　春夫「うん。そうすると良いよ」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "臥待　春夫「うん。そうすると良いよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「帰ったら早速探してみるとしよう」",
+        "after": "臥待　春夫「しかし……まさか、こんな所であの本を知っている人と会うなんてなぁ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "臥待　春夫「しかし……まさか、こんな所であの本を知っている人と会うなんてなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「うん。そうすると良いよ」",
+        "after": "言いながら、臥待さんはしげしげとルイスさんを眺める。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "言いながら、臥待さんはしげしげとルイスさんを眺める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「しかし……まさか、こんな所であの本を知っている人と会うなんてなぁ」",
+        "after": "臥待　春夫「ほら。こう言っては何だけど、売れてないからさぁ。まさに知る人ぞ知るって感じで」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "臥待　春夫「ほら。こう言っては何だけど、売れてないからさぁ。まさに知る人ぞ知るって感じで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "言いながら、臥待さんはしげしげとルイスさんを眺める。",
+        "after": "あはは、とあっけらんかんと笑う。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "あはは、とあっけらんかんと笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ほら。こう言っては何だけど、売れてないからさぁ。まさに知る人ぞ知るって感じで」",
+        "after": "遠野　紗夜「…………そうですね」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「…………そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あはは、とあっけらんかんと笑う。",
+        "after": "そう呟くと、ようやく気付いたようで"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "そう呟くと、ようやく気付いたようで",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………そうですね」",
+        "after": "臥待　春夫「ああ、ごめんごめん。気に障ったかな」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "臥待　春夫「ああ、ごめんごめん。気に障ったかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "そう呟くと、ようやく気付いたようで",
+        "after": "と、私に言った。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "と、私に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ああ、ごめんごめん。気に障ったかな」",
+        "after": "私はにこりと笑って首を横にした。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "私はにこりと笑って首を横にした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、私に言った。",
+        "after": "遠野　紗夜「いえ、事実そうですし」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「いえ、事実そうですし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はにこりと笑って首を横にした。",
+        "after": "臥待さんの言う通り、『遠野十夜』の本はあまり売れていない。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "臥待さんの言う通り、『遠野十夜』の本はあまり売れていない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ、事実そうですし」",
+        "after": "物語の内容があまりにも独特で一般受けしないからだそうだ。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "物語の内容があまりにも独特で一般受けしないからだそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待さんの言う通り、『遠野十夜』の本はあまり売れていない。",
+        "after": "臥待　春夫「……ふーむ」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "臥待　春夫「……ふーむ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "物語の内容があまりにも独特で一般受けしないからだそうだ。",
+        "after": "臥待　春夫「確かにこうしてみると、君は『ユメミルセカイ』の主人公の容姿だよね」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "臥待　春夫「確かにこうしてみると、君は『ユメミルセカイ』の主人公の容姿だよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「……ふーむ」",
+        "after": "臥待　春夫「で、その『ユメミルセカイ』の主人公君が一体どうしたんだい？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "臥待　春夫「で、その『ユメミルセカイ』の主人公君が一体どうしたんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「確かにこうしてみると、君は『ユメミルセカイ』の主人公の容姿だよね」",
+        "after": "蒼「作者を探している」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "蒼「作者を探している」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「で、その『ユメミルセカイ』の主人公君が一体どうしたんだい？」",
+        "after": "臥待　春夫「作者？　作者って遠野十夜を？」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "臥待　春夫「作者？　作者って遠野十夜を？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「作者を探している」",
+        "after": "ルイス「ああ、そうさ」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "ルイス「ああ、そうさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「作者？　作者って遠野十夜を？」",
+        "after": "遠野　紗夜「臥待さん、どこかで兄を見かけませんでしたか？」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「臥待さん、どこかで兄を見かけませんでしたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「ああ、そうさ」",
+        "after": "臥待さんは空を見つめ、顎を撫でながらうなる。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "臥待さんは空を見つめ、顎を撫でながらうなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「臥待さん、どこかで兄を見かけませんでしたか？」",
+        "after": "臥待　春夫「……うーん」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "臥待　春夫「……うーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんは空を見つめ、顎を撫でながらうなる。",
+        "after": "臥待　春夫「残念ながら見てないな」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "臥待　春夫「残念ながら見てないな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「……うーん」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「残念ながら見てないな」",
+        "after": "僅かな期待は泡のように弾け飛んだ。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "僅かな期待は泡のように弾け飛んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "臥待　春夫「……でも、君達は『ユメミルセカイ』の作者を探してどうするつもりなんだい？」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "臥待　春夫「……でも、君達は『ユメミルセカイ』の作者を探してどうするつもりなんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "僅かな期待は泡のように弾け飛んだ。",
+        "after": "ルイス「どうもこうも、主人公である僕はあの結末を変更してもらう為にここまでやってきたんだよ」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "ルイス「どうもこうも、主人公である僕はあの結末を変更してもらう為にここまでやってきたんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「……でも、君達は『ユメミルセカイ』の作者を探してどうするつもりなんだい？」",
+        "after": "臥待　春夫「結末を変えに？　へえ、そうなのか。ルイス君は、あの結末は受け入れがたかったのかな？」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "臥待　春夫「結末を変えに？　へえ、そうなのか。ルイス君は、あの結末は受け入れがたかったのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「どうもこうも、主人公である僕はあの結末を変更してもらう為にここまでやってきたんだよ」",
+        "after": "臥待　春夫「まあ、でも他人から見ればあの結末は悲惨極まりないしね。気持ちは分からないでもないかな」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "臥待　春夫「まあ、でも他人から見ればあの結末は悲惨極まりないしね。気持ちは分からないでもないかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「結末を変えに？　へえ、そうなのか。ルイス君は、あの結末は受け入れがたかったのかな？」",
+        "after": "臥待さんは面白げに私達……というより自分自身に話すように言った。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "臥待さんは面白げに私達……というより自分自身に話すように言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「まあ、でも他人から見ればあの結末は悲惨極まりないしね。気持ちは分からないでもないかな」",
+        "after": "そして、しばらく何か考えるよう一拍置いた後、ルイスさんにこう告げた。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "そして、しばらく何か考えるよう一拍置いた後、ルイスさんにこう告げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待さんは面白げに私達……というより自分自身に話すように言った。",
+        "after": "臥待　春夫「でもさ、君は本当に結末を変えたいと思ってるのかい？」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "臥待　春夫「でもさ、君は本当に結末を変えたいと思ってるのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "そして、しばらく何か考えるよう一拍置いた後、ルイスさんにこう告げた。",
+        "after": "ルイス「…………」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "ルイス「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「でもさ、君は本当に結末を変えたいと思ってるのかい？」",
+        "after": "ルイス「それはどういう意味だい？」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "ルイス「それはどういう意味だい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「…………」",
+        "after": "低い声だった。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "低い声だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「それはどういう意味だい？」",
+        "after": "臥待　春夫「いやさ、疑問に思ったんだよ。本当に結末を変えてもらいたいのなら、もう遠野十夜には会えてるんじゃないかなって」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "臥待　春夫「いやさ、疑問に思ったんだよ。本当に結末を変えてもらいたいのなら、もう遠野十夜には会えてるんじゃないかなって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "低い声だった。",
+        "after": "臥待　春夫「だって、その様子からすると結構前から探してるんだろう？　それでも見つからないとなると、ねぇ」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "臥待　春夫「だって、その様子からすると結構前から探してるんだろう？　それでも見つからないとなると、ねぇ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「いやさ、疑問に思ったんだよ。本当に結末を変えてもらいたいのなら、もう遠野十夜には会えてるんじゃないかなって」",
+        "after": "遠野　紗夜「それは……」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「だって、その様子からすると結構前から探してるんだろう？　それでも見つからないとなると、ねぇ」",
+        "after": "臥待　春夫「でも、ただ縁がないだけかもしれないし」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "臥待　春夫「でも、ただ縁がないだけかもしれないし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは……」",
+        "after": "ルイス「…………」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "ルイス「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「でも、ただ縁がないだけかもしれないし」",
+        "after": "臥待　春夫「頑張って。応援してるよ」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "臥待　春夫「頑張って。応援してるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「…………」",
+        "after": "臥待さんはにこやかにルイスさんの肩を叩いた。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "臥待さんはにこやかにルイスさんの肩を叩いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「頑張って。応援してるよ」",
+        "after": "臥待　春夫「それじゃ」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "臥待　春夫「それじゃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんはにこやかにルイスさんの肩を叩いた。",
+        "after": "波乱の種を残し、去ってしまう。"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "波乱の種を残し、去ってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「それじゃ」",
+        "after": "ルイス「…………」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "ルイス「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "波乱の種を残し、去ってしまう。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「…………」",
+        "after": "ルイスさんは何も言わず、俯いたままだった。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "ルイスさんは何も言わず、俯いたままだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "今、彼は何を思っているのだろう？"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "今、彼は何を思っているのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイスさんは何も言わず、俯いたままだった。",
+        "after": "ショックを受けているのか、それとも怒りに打ち震えているのか、何も言わぬままだと分からない。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "ショックを受けているのか、それとも怒りに打ち震えているのか、何も言わぬままだと分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今、彼は何を思っているのだろう？",
+        "after": "微妙な雰囲気だった。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "微妙な雰囲気だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ショックを受けているのか、それとも怒りに打ち震えているのか、何も言わぬままだと分からない。",
+        "after": "皆が奥底で思っていることを、ああしてはっきり口に出されると、場の空気が苦しくなる。"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "皆が奥底で思っていることを、ああしてはっきり口に出されると、場の空気が苦しくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "微妙な雰囲気だった。",
+        "after": "私達は顔を見合わせ、何も口にしないまま、目で合図して頷く。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "私達は顔を見合わせ、何も口にしないまま、目で合図して頷く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "皆が奥底で思っていることを、ああしてはっきり口に出されると、場の空気が苦しくなる。",
+        "after": "遠野　紗夜「…………とりあえず、もう一度手分けして探しましょうか」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　紗夜「…………とりあえず、もう一度手分けして探しましょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私達は顔を見合わせ、何も口にしないまま、目で合図して頷く。",
+        "after": "日生　光「そうだね」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "日生　光「そうだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………とりあえず、もう一度手分けして探しましょうか」",
+        "after": null
+      }
+    }
+  ]
+}

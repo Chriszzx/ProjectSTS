@@ -1,0 +1,993 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_17.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 54,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "保健室の白い天井、その一点を見続けている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "今頃、夏帆達は授業を受けているのだろう。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "今頃、夏帆達は授業を受けているのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "保健室の白い天井、その一点を見続けている。",
+        "after": "ここはとても静かで、一人きりではないと分かっていても、私だけが世界に取り残された気分になる。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "ここはとても静かで、一人きりではないと分かっていても、私だけが世界に取り残された気分になる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今頃、夏帆達は授業を受けているのだろう。",
+        "after": "布団をかぶり、中で小さく蹲る。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "布団をかぶり、中で小さく蹲る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ここはとても静かで、一人きりではないと分かっていても、私だけが世界に取り残された気分になる。",
+        "after": "こんな所にいるくらいなら、早く家に帰りたい。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "こんな所にいるくらいなら、早く家に帰りたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "布団をかぶり、中で小さく蹲る。",
+        "after": "これが夢ならば、早く夢から覚めたい。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "これが夢ならば、早く夢から覚めたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな所にいるくらいなら、早く家に帰りたい。",
+        "after": "そして、そのどちらでも構わない。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "そして、そのどちらでも構わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これが夢ならば、早く夢から覚めたい。",
+        "after": "早く、兄さんに会いたい。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "早く、兄さんに会いたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、そのどちらでも構わない。",
+        "after": "？？？「遠野さん」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "？？？「遠野さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "早く、兄さんに会いたい。",
+        "after": "私の名前を呼ぶ声。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私の名前を呼ぶ声。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「遠野さん」",
+        "after": "それは兄ではない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "それは兄ではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前を呼ぶ声。",
+        "after": "私はのそりと布団から顔を出すと、「はい」と小さく返事をした。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "私はのそりと布団から顔を出すと、「はい」と小さく返事をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは兄ではない。",
+        "after": "養護教諭「どう？　具合の方は」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "養護教諭「どう？　具合の方は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "私はのそりと布団から顔を出すと、「はい」と小さく返事をした。",
+        "after": "遠野　紗夜「大丈夫です」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「どう？　具合の方は」",
+        "after": "ここに運ばれる前に既に回復していたのだから、むしろここにいる方がおかしいとさえいえる。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "ここに運ばれる前に既に回復していたのだから、むしろここにいる方がおかしいとさえいえる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「大丈夫です」",
+        "after": "養護教諭「この前に引き続きね……。病院にはちゃんと行った？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "養護教諭「この前に引き続きね……。病院にはちゃんと行った？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "ここに運ばれる前に既に回復していたのだから、むしろここにいる方がおかしいとさえいえる。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「この前に引き続きね……。病院にはちゃんと行った？」",
+        "after": "私は嘘を吐く。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私は嘘を吐く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "養護教諭「そう。大丈夫だって？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "養護教諭「そう。大丈夫だって？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "私は嘘を吐く。",
+        "after": "遠野　紗夜「はい。安静にしていれば問題ないと」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「はい。安静にしていれば問題ないと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「そう。大丈夫だって？」",
+        "after": "養護教諭「そう……。今日はどうする？　もう帰る？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "養護教諭「そう……。今日はどうする？　もう帰る？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。安静にしていれば問題ないと」",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「そう……。今日はどうする？　もう帰る？」",
+        "after": "私は頷くと、すぐにベッドから足を降ろした。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私は頷くと、すぐにベッドから足を降ろした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "一刻も早くここから出て行きたかった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "一刻も早くここから出て行きたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は頷くと、すぐにベッドから足を降ろした。",
+        "after": "まずは鞄を取りに戻って、それから担任に事情を説明しなければ……。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "まずは鞄を取りに戻って、それから担任に事情を説明しなければ……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一刻も早くここから出て行きたかった。",
+        "after": "養護教諭「ああ、担任の先生には私から言っておくわよ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "養護教諭「ああ、担任の先生には私から言っておくわよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "まずは鞄を取りに戻って、それから担任に事情を説明しなければ……。",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「ああ、担任の先生には私から言っておくわよ」",
+        "after": "お辞儀をして、私は扉へと向かう。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "お辞儀をして、私は扉へと向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "養護教諭「帰りは一人で大丈夫？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "養護教諭「帰りは一人で大丈夫？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "お辞儀をして、私は扉へと向かう。",
+        "after": "遠野　紗夜「車を呼ぶので心配ありません」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「車を呼ぶので心配ありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「帰りは一人で大丈夫？」",
+        "after": "養護教諭「……そう？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "養護教諭「……そう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「車を呼ぶので心配ありません」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「……そう？」",
+        "after": "養護教諭「遠野さん」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "養護教諭「遠野さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「……何でしょうか？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「……何でしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「遠野さん」",
+        "after": "養護教諭「今日のこと、ご実家にはまだ連絡していないのだけれど……」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "養護教諭「今日のこと、ご実家にはまだ連絡していないのだけれど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何でしょうか？」",
+        "after": "続く言葉を遮る様に喋る。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "続く言葉を遮る様に喋る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "養護教諭「今日のこと、ご実家にはまだ連絡していないのだけれど……」",
+        "after": "遠野　紗夜「ああ、それは丁度良かった。私の方から後で連絡をいれておくので、先生はどうぞお構いなく」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「ああ、それは丁度良かった。私の方から後で連絡をいれておくので、先生はどうぞお構いなく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "続く言葉を遮る様に喋る。",
+        "after": "養護教諭「そう言って、連絡しないつもりでしょう？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "養護教諭「そう言って、連絡しないつもりでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ、それは丁度良かった。私の方から後で連絡をいれておくので、先生はどうぞお構いなく」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「そう言って、連絡しないつもりでしょう？」",
+        "after": "少し目を細めた後、すぐに視線を逸らす。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "少し目を細めた後、すぐに視線を逸らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「どうせ、連絡を取っても以前と変わりありませんよ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「どうせ、連絡を取っても以前と変わりありませんよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少し目を細めた後、すぐに視線を逸らす。",
+        "after": "養護教諭「そのことだけど、何かご家庭に事情があるのかしら？　あまり、親御さんと仲が良くないみたいだし……一度、お母様とお父様でじっくりお話してみるのはどう？」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "養護教諭「そのことだけど、何かご家庭に事情があるのかしら？　あまり、親御さんと仲が良くないみたいだし……一度、お母様とお父様でじっくりお話してみるのはどう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうせ、連絡を取っても以前と変わりありませんよ」",
+        "after": "遠野　紗夜「母はもう随分と前にいなくなりました」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「母はもう随分と前にいなくなりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「そのことだけど、何かご家庭に事情があるのかしら？　あまり、親御さんと仲が良くないみたいだし……一度、お母様とお父様でじっくりお話してみるのはどう？」",
+        "after": "養護教諭「え？　でも、資料にはお母様のお名前もあるけれど」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "養護教諭「え？　でも、資料にはお母様のお名前もあるけれど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「母はもう随分と前にいなくなりました」",
+        "after": "遠野　紗夜「その人はもう何年も前に家から出て行きました。ただ、世間体の為に離縁していないだけでしょう」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「その人はもう何年も前に家から出て行きました。ただ、世間体の為に離縁していないだけでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「え？　でも、資料にはお母様のお名前もあるけれど」",
+        "after": "養護教諭「…………」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "養護教諭「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「その人はもう何年も前に家から出て行きました。ただ、世間体の為に離縁していないだけでしょう」",
+        "after": "顔を見なくとも、相手が言葉を詰まらせた様子が見て取れる。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "顔を見なくとも、相手が言葉を詰まらせた様子が見て取れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "養護教諭「…………」",
+        "after": "私は扉に手をかけた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "私は扉に手をかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "顔を見なくとも、相手が言葉を詰まらせた様子が見て取れる。",
+        "after": "養護教諭「私から直接お父様に何か言った方が良いかしら？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "養護教諭「私から直接お父様に何か言った方が良いかしら？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "私は扉に手をかけた。",
+        "after": "ため息を吐き、扉を途中まで開けたままの状態で私は振り返る。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ため息を吐き、扉を途中まで開けたままの状態で私は振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "養護教諭「私から直接お父様に何か言った方が良いかしら？」",
+        "after": "遠野　紗夜「……お気持ちはありがたいですが、私はこのことに関して何も望んでいません」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「……お気持ちはありがたいですが、私はこのことに関して何も望んでいません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ため息を吐き、扉を途中まで開けたままの状態で私は振り返る。",
+        "after": "養護教諭「けれど、いくら友達がいてくれても、一人は辛いでしょう？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "養護教諭「けれど、いくら友達がいてくれても、一人は辛いでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "養護教諭",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……お気持ちはありがたいですが、私はこのことに関して何も望んでいません」",
+        "after": "遠野　紗夜「一人ではありません」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「一人ではありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "養護教諭「けれど、いくら友達がいてくれても、一人は辛いでしょう？」",
+        "after": "遠野　紗夜「私には兄がいるので。兄さえいてくれれば他に誰も、何もいりません」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「私には兄がいるので。兄さえいてくれれば他に誰も、何もいりません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「一人ではありません」",
+        "after": null
+      }
+    }
+  ]
+}

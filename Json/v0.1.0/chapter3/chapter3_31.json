@@ -1,0 +1,1409 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_31.txt",
+    "chapter": "chapter3",
+    "total_lines": 76,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "授業も終わり、次の移動教室がてら、私と夏帆の二人は図書館に立ち寄った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「え？　もう帰ってしまわれたのですか？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「え？　もう帰ってしまわれたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "授業も終わり、次の移動教室がてら、私と夏帆の二人は図書館に立ち寄った。",
+        "after": "蒼「ああ。ここでお前達が来るまでの間、ずっと夏目の様子を眺めていたが、音が鳴り響く五分ほど前に用があると言い、ここを出て行った」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "蒼「ああ。ここでお前達が来るまでの間、ずっと夏目の様子を眺めていたが、音が鳴り響く五分ほど前に用があると言い、ここを出て行った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　もう帰ってしまわれたのですか？」",
+        "after": "遠野　紗夜「そうだったのですか……」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「そうだったのですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ。ここでお前達が来るまでの間、ずっと夏目の様子を眺めていたが、音が鳴り響く五分ほど前に用があると言い、ここを出て行った」",
+        "after": "肩すかしを食わされ、声を落としたが、すぐに両手を合わせ明るく振る舞う。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "肩すかしを食わされ、声を落としたが、すぐに両手を合わせ明るく振る舞う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうだったのですか……」",
+        "after": "遠野　紗夜「あ、ですが、ちゃんと見えていたのですね」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「あ、ですが、ちゃんと見えていたのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "肩すかしを食わされ、声を落としたが、すぐに両手を合わせ明るく振る舞う。",
+        "after": "蒼「そうだな」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、ですが、ちゃんと見えていたのですね」",
+        "after": "蒼は相変わらず、本に夢中なようで視線を落としたまま答えた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "蒼は相変わらず、本に夢中なようで視線を落としたまま答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そうだな」",
+        "after": "私は彼の横を通り過ぎると、窓に手を置いた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は彼の横を通り過ぎると、窓に手を置いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼は相変わらず、本に夢中なようで視線を落としたまま答えた。",
+        "after": "硝子越しから覗き見える教室棟。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "硝子越しから覗き見える教室棟。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼の横を通り過ぎると、窓に手を置いた。",
+        "after": "全体像が見えるわけじゃない。見えているのは東側の外観の一部。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "全体像が見えるわけじゃない。見えているのは東側の外観の一部。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "硝子越しから覗き見える教室棟。",
+        "after": "けれど、この位置なら私達の教室くらいは見える。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "けれど、この位置なら私達の教室くらいは見える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全体像が見えるわけじゃない。見えているのは東側の外観の一部。",
+        "after": "現にこうしてクラスメイトの姿が何人か確認出来る。生憎と私はそこまで視力があるわけではないので、誰が誰だか判別はつかないのだけれど。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "現にこうしてクラスメイトの姿が何人か確認出来る。生憎と私はそこまで視力があるわけではないので、誰が誰だか判別はつかないのだけれど。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、この位置なら私達の教室くらいは見える。",
+        "after": "日生　光「しかし、よく気付いたね」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「しかし、よく気付いたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "現にこうしてクラスメイトの姿が何人か確認出来る。生憎と私はそこまで視力があるわけではないので、誰が誰だか判別はつかないのだけれど。",
+        "after": "日生先輩が横に立った。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "日生先輩が横に立った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「しかし、よく気付いたね」",
+        "after": "彼も私達と同じく、授業の合間にここへ立ち寄ったのだそうだ。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "彼も私達と同じく、授業の合間にここへ立ち寄ったのだそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩が横に立った。",
+        "after": "遠野　紗夜「ここで本を読んでいると日が落ちた時には真っ先に気付くことが出来るので、それで」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「ここで本を読んでいると日が落ちた時には真っ先に気付くことが出来るので、それで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼も私達と同じく、授業の合間にここへ立ち寄ったのだそうだ。",
+        "after": "日生　光「へえ。……確かに、眺めは良いね。うん、偉い偉い」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "日生　光「へえ。……確かに、眺めは良いね。うん、偉い偉い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ここで本を読んでいると日が落ちた時には真っ先に気付くことが出来るので、それで」",
+        "after": "日生先輩は小さい子にやるように私の頭を撫でる。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "日生先輩は小さい子にやるように私の頭を撫でる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「へえ。……確かに、眺めは良いね。うん、偉い偉い」",
+        "after": "宮沢　夏帆「でもさぁ、出て行くんなら、うちらにお礼くらい言ってもいいと思わない～？　今度、商店街で見かけたら問いつめてやる」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「でもさぁ、出て行くんなら、うちらにお礼くらい言ってもいいと思わない～？　今度、商店街で見かけたら問いつめてやる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は小さい子にやるように私の頭を撫でる。",
+        "after": "蒼「礼ならば言っていたぞ。それと『また明日も来る』ともな」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「礼ならば言っていたぞ。それと『また明日も来る』ともな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でもさぁ、出て行くんなら、うちらにお礼くらい言ってもいいと思わない～？　今度、商店街で見かけたら問いつめてやる」",
+        "after": "遠野　紗夜「え……」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「え……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「礼ならば言っていたぞ。それと『また明日も来る』ともな」",
+        "after": "宮沢　夏帆「嘘！？　今日だけじゃなかったの！？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「嘘！？　今日だけじゃなかったの！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え……」",
+        "after": "蒼「私は、嘘など吐いていないつもりだが？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼「私は、嘘など吐いていないつもりだが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「嘘！？　今日だけじゃなかったの！？」",
+        "after": "宮沢　夏帆「う～、分かってるよぉ～」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "宮沢　夏帆「う～、分かってるよぉ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私は、嘘など吐いていないつもりだが？」",
+        "after": "夏帆はじとっと蒼を可愛らしく睨み、頬を膨らませる。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "夏帆はじとっと蒼を可愛らしく睨み、頬を膨らませる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「う～、分かってるよぉ～」",
+        "after": "それとは対照的に、冷静なのは日生先輩だ。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "それとは対照的に、冷静なのは日生先輩だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆はじとっと蒼を可愛らしく睨み、頬を膨らませる。",
+        "after": "日生　光「『また明日も来る』ねぇ。まさか、ずっとここに来るつもりかな」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "日生　光「『また明日も来る』ねぇ。まさか、ずっとここに来るつもりかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "それとは対照的に、冷静なのは日生先輩だ。",
+        "after": "遠野　紗夜「さあ……どうなのでしょう？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「さあ……どうなのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「『また明日も来る』ねぇ。まさか、ずっとここに来るつもりかな」",
+        "after": "蒼「本人がそう言うのならばそうなのだろう」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "蒼「本人がそう言うのならばそうなのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「さあ……どうなのでしょう？」",
+        "after": "日生　光「蒼さんはヴィルヘルムさんのことを信じてるんですね」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "日生　光「蒼さんはヴィルヘルムさんのことを信じてるんですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「本人がそう言うのならばそうなのだろう」",
+        "after": "蒼「信じる信じないの問題ではない。今のところ疑う余地がないから疑わないだけだ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "蒼「信じる信じないの問題ではない。今のところ疑う余地がないから疑わないだけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「蒼さんはヴィルヘルムさんのことを信じてるんですね」",
+        "after": "蒼「それに、例えヴィルヘルムの言葉が嘘だとしても、こちらに何の影響があるわけでもない」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼「それに、例えヴィルヘルムの言葉が嘘だとしても、こちらに何の影響があるわけでもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「信じる信じないの問題ではない。今のところ疑う余地がないから疑わないだけだ」",
+        "after": "日生　光「まあ、そうだけど……蒼さんは、ヴィルヘルムさんに興味があるんじゃなくて？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「まあ、そうだけど……蒼さんは、ヴィルヘルムさんに興味があるんじゃなくて？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それに、例えヴィルヘルムの言葉が嘘だとしても、こちらに何の影響があるわけでもない」",
+        "after": "蒼「その通りだが、正確にいえば少し違うのかもしれない」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「その通りだが、正確にいえば少し違うのかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、そうだけど……蒼さんは、ヴィルヘルムさんに興味があるんじゃなくて？」",
+        "after": "日生　光「と、いうと？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生　光「と、いうと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「その通りだが、正確にいえば少し違うのかもしれない」",
+        "after": "蒼「私は、ヴィルヘルムと夏目の物語に興味がある」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "蒼「私は、ヴィルヘルムと夏目の物語に興味がある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「と、いうと？」",
+        "after": "日生　光「……物語？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "日生　光「……物語？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私は、ヴィルヘルムと夏目の物語に興味がある」",
+        "after": "蒼「そうだ」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "蒼「そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……物語？」",
+        "after": "ぱたんと本を閉じ、ようやく本を読むのを止めるのかと思ったら、そうではなく次の本に手をかけた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "ぱたんと本を閉じ、ようやく本を読むのを止めるのかと思ったら、そうではなく次の本に手をかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そうだ」",
+        "after": "彼は新たな本の表紙を細い目で見つめると、表紙を捲る。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "彼は新たな本の表紙を細い目で見つめると、表紙を捲る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぱたんと本を閉じ、ようやく本を読むのを止めるのかと思ったら、そうではなく次の本に手をかけた。",
+        "after": "蒼「最近、気付いたことがある。自分が何故にこうも人に興味を惹かれるのか」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "蒼「最近、気付いたことがある。自分が何故にこうも人に興味を惹かれるのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は新たな本の表紙を細い目で見つめると、表紙を捲る。",
+        "after": "蒼「それは、人が本と同じだからだ」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「それは、人が本と同じだからだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「最近、気付いたことがある。自分が何故にこうも人に興味を惹かれるのか」",
+        "after": "蒼「この世界には数多の物語がある。それこそ、時や、国や、様式上の種別すらも関係なくそれらは存在している」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "蒼「この世界には数多の物語がある。それこそ、時や、国や、様式上の種別すらも関係なくそれらは存在している」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それは、人が本と同じだからだ」",
+        "after": "蒼「それはお前達、人間も同じだということに気付いたのだ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "蒼「それはお前達、人間も同じだということに気付いたのだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「この世界には数多の物語がある。それこそ、時や、国や、様式上の種別すらも関係なくそれらは存在している」",
+        "after": "蒼「数多の本と同じように人も人種、性別、年齢など関係なく様々な物語を抱えている」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "蒼「数多の本と同じように人も人種、性別、年齢など関係なく様々な物語を抱えている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それはお前達、人間も同じだということに気付いたのだ」",
+        "after": "蒼「ともゑやルイスがそうであったように」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "蒼「ともゑやルイスがそうであったように」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「数多の本と同じように人も人種、性別、年齢など関係なく様々な物語を抱えている」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ともゑやルイスがそうであったように」",
+        "after": "蒼「それが面白いのか面白くないのかはどうでもいいことだ」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "蒼「それが面白いのか面白くないのかはどうでもいいことだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "蒼「ただ、物語の結末を私は知りたい」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "蒼「ただ、物語の結末を私は知りたい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それが面白いのか面白くないのかはどうでもいいことだ」",
+        "after": "宮沢　夏帆「……蒼の言うことって抽象的すぎて意味分かんないんだけど、ようはヴィルが何で夏目のことを気にしてるのかとかそういうことが気になるってことだよねぇ？　じゃあ、何で追いかけなかったの～？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "宮沢　夏帆「……蒼の言うことって抽象的すぎて意味分かんないんだけど、ようはヴィルが何で夏目のことを気にしてるのかとかそういうことが気になるってことだよねぇ？　じゃあ、何で追いかけなかったの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ただ、物語の結末を私は知りたい」",
+        "after": "宮沢　夏帆「知りたいなら本人に直接聞けば良いじゃん。教えてくれなかったら自分で調べればいいわけだし」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "宮沢　夏帆「知りたいなら本人に直接聞けば良いじゃん。教えてくれなかったら自分で調べればいいわけだし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……蒼の言うことって抽象的すぎて意味分かんないんだけど、ようはヴィルが何で夏目のことを気にしてるのかとかそういうことが気になるってことだよねぇ？　じゃあ、何で追いかけなかったの～？」",
+        "after": "蒼「その必要はない」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "蒼「その必要はない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「知りたいなら本人に直接聞けば良いじゃん。教えてくれなかったら自分で調べればいいわけだし」",
+        "after": "宮沢　夏帆「何で？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "宮沢　夏帆「何で？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「その必要はない」",
+        "after": "蒼「先程、日生に言ったことと同じだ」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "蒼「先程、日生に言ったことと同じだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何で？」",
+        "after": "蒼「ヴィルヘルムがここに来ようが来まいが関係なく物語は進んでいる」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "蒼「ヴィルヘルムがここに来ようが来まいが関係なく物語は進んでいる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「先程、日生に言ったことと同じだ」",
+        "after": "宮沢　夏帆「はあ？　何それ～？」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "宮沢　夏帆「はあ？　何それ～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ヴィルヘルムがここに来ようが来まいが関係なく物語は進んでいる」",
+        "after": "遠野　紗夜「貴方は読み手側だから」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「貴方は読み手側だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「はあ？　何それ～？」",
+        "after": "遠野　紗夜「……ですよね？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「……ですよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は読み手側だから」",
+        "after": "私は上目遣いに、してやったりというような顔で彼を見た。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "私は上目遣いに、してやったりというような顔で彼を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ですよね？」",
+        "after": "蒼はようやく蒼色の眸を私に向けた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "蒼はようやく蒼色の眸を私に向けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は上目遣いに、してやったりというような顔で彼を見た。",
+        "after": "蒼「……そうだ。これはヴィルヘルムと夏目の物語だ。私は、それをただ傍目から鑑賞しているだけに過ぎない」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "蒼「……そうだ。これはヴィルヘルムと夏目の物語だ。私は、それをただ傍目から鑑賞しているだけに過ぎない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼はようやく蒼色の眸を私に向けた。",
+        "after": "日生　光「つまり、自分から直接干渉することはないと？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "日生　光「つまり、自分から直接干渉することはないと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……そうだ。これはヴィルヘルムと夏目の物語だ。私は、それをただ傍目から鑑賞しているだけに過ぎない」",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「つまり、自分から直接干渉することはないと？」",
+        "after": "蒼「私は傍観者だからな」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "蒼「私は傍観者だからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "そう言うと、視線を元に戻し、再び本を読み始めた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "そう言うと、視線を元に戻し、再び本を読み始めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私は傍観者だからな」",
+        "after": "日生　光「傍観者ねぇ。でも、その理論でいくと……」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "日生　光「傍観者ねぇ。でも、その理論でいくと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、視線を元に戻し、再び本を読み始めた。",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「傍観者ねぇ。でも、その理論でいくと……」",
+        "after": "日生先輩は何やらぼやいたと思ったら、はたと止まった。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生先輩は何やらぼやいたと思ったら、はたと止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "日生　光「…………ま、いいや」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "日生　光「…………ま、いいや」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は何やらぼやいたと思ったら、はたと止まった。",
+        "after": "ふっと口の端を上げ、意味ありげに笑った。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "ふっと口の端を上げ、意味ありげに笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「…………ま、いいや」",
+        "after": "私はその表情が気になり、"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "私はその表情が気になり、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふっと口の端を上げ、意味ありげに笑った。",
+        "after": "遠野　紗夜「どうかしましたか？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「どうかしましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその表情が気になり、",
+        "after": "と、訊ねたが、"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "と、訊ねたが、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「どうかしましたか？」",
+        "after": "日生　光「何でもないよ」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "日生　光「何でもないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "と、訊ねたが、",
+        "after": "と、いつものようにかわされてしまった。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "と、いつものようにかわされてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「何でもないよ」",
+        "after": null
+      }
+    }
+  ]
+}

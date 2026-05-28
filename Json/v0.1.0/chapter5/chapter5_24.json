@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_24.txt",
+    "chapter": "chapter5",
+    "total_lines": 49,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "激しく焦がれる、この気持ちは何と呼ぶのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "強い感情にこちらの心が押し潰されそうになる。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "強い感情にこちらの心が押し潰されそうになる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "激しく焦がれる、この気持ちは何と呼ぶのだろうか？",
+        "after": "その勢いたるや、まるで、"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "その勢いたるや、まるで、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "強い感情にこちらの心が押し潰されそうになる。",
+        "after": "全てを飲み込み走り続ける激流の様であった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "全てを飲み込み走り続ける激流の様であった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その勢いたるや、まるで、",
+        "after": "この声の主が、果たして男のものなのか女のものなのかは分からない。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "この声の主が、果たして男のものなのか女のものなのかは分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全てを飲み込み走り続ける激流の様であった。",
+        "after": "声が聞こえるといっても、実際に耳にしているのではなく、"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "声が聞こえるといっても、実際に耳にしているのではなく、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この声の主が、果たして男のものなのか女のものなのかは分からない。",
+        "after": "自らの意識に直接語りかけられていたのだから。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "自らの意識に直接語りかけられていたのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声が聞こえるといっても、実際に耳にしているのではなく、",
+        "after": "けれど、夢の中で俺は声の主を『彼』だと何故か確信していた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "けれど、夢の中で俺は声の主を『彼』だと何故か確信していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自らの意識に直接語りかけられていたのだから。",
+        "after": "声の感じに覚えはない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "声の感じに覚えはない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、夢の中で俺は声の主を『彼』だと何故か確信していた。",
+        "after": "けれど、知っている。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "けれど、知っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声の感じに覚えはない。",
+        "after": "遠いどこかで聞き覚えのあるような気がしてならなかった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠いどこかで聞き覚えのあるような気がしてならなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、知っている。",
+        "after": "やがて、俺という存在に気づいたのか、『彼』は俺に問いかけてきた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "やがて、俺という存在に気づいたのか、『彼』は俺に問いかけてきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠いどこかで聞き覚えのあるような気がしてならなかった。",
+        "after": "だがしかし、誰だと問われたところで、今の俺には答えようがない。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "だがしかし、誰だと問われたところで、今の俺には答えようがない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて、俺という存在に気づいたのか、『彼』は俺に問いかけてきた。",
+        "after": "俺が黙っていると、『彼』もそれ以上は追求しなかった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "俺が黙っていると、『彼』もそれ以上は追求しなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だがしかし、誰だと問われたところで、今の俺には答えようがない。",
+        "after": "先程までは、風音と葉擦れの音しか聞こえなかったというのに、"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "先程までは、風音と葉擦れの音しか聞こえなかったというのに、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺が黙っていると、『彼』もそれ以上は追求しなかった。",
+        "after": "今は煩いほどに彼の言葉が感覚のないはずの頭に耳に指先に足にと全身に流れ込んでくる。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "今は煩いほどに彼の言葉が感覚のないはずの頭に耳に指先に足にと全身に流れ込んでくる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "先程までは、風音と葉擦れの音しか聞こえなかったというのに、",
+        "after": "会いたい。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "会いたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今は煩いほどに彼の言葉が感覚のないはずの頭に耳に指先に足にと全身に流れ込んでくる。",
+        "after": "想いは切なる程に熱く熱く、まるで叫びのようだ。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "想いは切なる程に熱く熱く、まるで叫びのようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "会いたい。",
+        "after": "それほどまでに、彼は桜の花が見たいのだろうか。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "それほどまでに、彼は桜の花が見たいのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "想いは切なる程に熱く熱く、まるで叫びのようだ。",
+        "after": "見たい。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "見たい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それほどまでに、彼は桜の花が見たいのだろうか。",
+        "after": "淡紅に色めくその姿を。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "淡紅に色めくその姿を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "見たい。",
+        "after": "最も美しい姿を。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "最も美しい姿を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "淡紅に色めくその姿を。",
+        "after": "全く不思議な夢だ。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "全く不思議な夢だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最も美しい姿を。",
+        "after": "夢は相変わらず醒めることなく、"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "夢は相変わらず醒めることなく、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全く不思議な夢だ。",
+        "after": "私は『彼』と一心同体となって桜を見上げるのだ。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私は『彼』と一心同体となって桜を見上げるのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夢は相変わらず醒めることなく、",
+        "after": "桜、桜よ。春の桜。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "桜、桜よ。春の桜。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は『彼』と一心同体となって桜を見上げるのだ。",
+        "after": "ちっぽけな自分と比べ、貴方の何と大きなことか。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "ちっぽけな自分と比べ、貴方の何と大きなことか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。春の桜。",
+        "after": "桜、桜よ。春の桜。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "桜、桜よ。春の桜。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ちっぽけな自分と比べ、貴方の何と大きなことか。",
+        "after": "貴方と比べれば、数ならぬ身。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "貴方と比べれば、数ならぬ身。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。春の桜。",
+        "after": "せめて、貴方の心に少しでも残ることが出来るのならば、"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "せめて、貴方の心に少しでも残ることが出来るのならば、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方と比べれば、数ならぬ身。",
+        "after": "この身誰に踏みにじられようが構わない。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "この身誰に踏みにじられようが構わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "せめて、貴方の心に少しでも残ることが出来るのならば、",
+        "after": "いい加減煩わしく感じたが、"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "いい加減煩わしく感じたが、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この身誰に踏みにじられようが構わない。",
+        "after": "声は一向に止む気配を見せず、桜への愛を吟ずる。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "声は一向に止む気配を見せず、桜への愛を吟ずる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いい加減煩わしく感じたが、",
+        "after": "俺は次第に彼を憐れに思うようになった。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "俺は次第に彼を憐れに思うようになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声は一向に止む気配を見せず、桜への愛を吟ずる。",
+        "after": "遠野　紗夜「何故、お前はそんなに桜の花を思うのか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「何故、お前はそんなに桜の花を思うのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "俺は次第に彼を憐れに思うようになった。",
+        "after": "何度も何度も打ち付ける想いに、絆されてしまったのか、"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "何度も何度も打ち付ける想いに、絆されてしまったのか、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「何故、お前はそんなに桜の花を思うのか？」",
+        "after": "それとも彼の意識がうつってしまったのか、"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "それとも彼の意識がうつってしまったのか、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何度も何度も打ち付ける想いに、絆されてしまったのか、",
+        "after": "そんなことを問うてしまった。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "そんなことを問うてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それとも彼の意識がうつってしまったのか、",
+        "after": "すると、『彼』は言った。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "すると、『彼』は言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんなことを問うてしまった。",
+        "after": "桜、桜よ。春の桜。我が愛しき花よ。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "桜、桜よ。春の桜。我が愛しき花よ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すると、『彼』は言った。",
+        "after": "貴方と一つしか変わらないのに、何故に溝は深いのだろうか。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "貴方と一つしか変わらないのに、何故に溝は深いのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。春の桜。我が愛しき花よ。",
+        "after": "千年、八千年、この世が続いても、"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "千年、八千年、この世が続いても、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方と一つしか変わらないのに、何故に溝は深いのだろうか。",
+        "after": "決して巡り会うことは出来ぬ。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "決して巡り会うことは出来ぬ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千年、八千年、この世が続いても、",
+        "after": "答えなのかそうでないのか、よく分からぬ言葉だった。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "答えなのかそうでないのか、よく分からぬ言葉だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "決して巡り会うことは出来ぬ。",
+        "after": "だがしかし、千年、八千年経っても会えぬというのならば、"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "だがしかし、千年、八千年経っても会えぬというのならば、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "答えなのかそうでないのか、よく分からぬ言葉だった。",
+        "after": "それは永遠に会えぬということではないか。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "それは永遠に会えぬということではないか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だがしかし、千年、八千年経っても会えぬというのならば、",
+        "after": "俺は益々彼を憐れに思った。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "俺は益々彼を憐れに思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは永遠に会えぬということではないか。",
+        "after": "ここまで思っても、願っても、永遠に叶うことのない思いとは"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "ここまで思っても、願っても、永遠に叶うことのない思いとは",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は益々彼を憐れに思った。",
+        "after": "果たしてどのようなものなのだろうか。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "果たしてどのようなものなのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ここまで思っても、願っても、永遠に叶うことのない思いとは",
+        "after": null
+      }
+    }
+  ]
+}

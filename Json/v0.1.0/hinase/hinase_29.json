@@ -1,0 +1,2945 @@
+{
+  "meta": {
+    "file": "hinase/hinase_29.txt",
+    "chapter": "hinase",
+    "total_lines": 160,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "墓標に花を置く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "まだ青々とした小振りの菊の花と枯れた薔薇の花。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "まだ青々とした小振りの菊の花と枯れた薔薇の花。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "墓標に花を置く。",
+        "after": "彼女は枯れた花を手に取った。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "彼女は枯れた花を手に取った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まだ青々とした小振りの菊の花と枯れた薔薇の花。",
+        "after": "日生祖母「これは……」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "日生祖母「これは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生祖母",
+      "special_char": true,
+      "context": {
+        "before": "彼女は枯れた花を手に取った。",
+        "after": "遠野　紗夜「こんにちは」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「こんにちは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生祖母「これは……」",
+        "after": "日生祖母「貴方は……」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "日生祖母「貴方は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生祖母",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こんにちは」",
+        "after": "私を見るなり、お祖母様はきつく目を細めた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "私を見るなり、お祖母様はきつく目を細めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生祖母「貴方は……」",
+        "after": "遠野　紗夜「すみません。たまたまお祖母様を見かけて、ここまで後をつけてしまいました」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「すみません。たまたまお祖母様を見かけて、ここまで後をつけてしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私を見るなり、お祖母様はきつく目を細めた。",
+        "after": "日生祖母「正直に話すのですね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "日生祖母「正直に話すのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生祖母",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません。たまたまお祖母様を見かけて、ここまで後をつけてしまいました」",
+        "after": "遠野　紗夜「嘘を吐いても意味がないと思ったので」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「嘘を吐いても意味がないと思ったので」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生祖母「正直に話すのですね」",
+        "after": "日生祖母「…………」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "日生祖母「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生祖母",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「嘘を吐いても意味がないと思ったので」",
+        "after": "私は周りを見渡した。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "私は周りを見渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生祖母「…………」",
+        "after": "ここには一度来たことがある。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ここには一度来たことがある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は周りを見渡した。",
+        "after": "以前、光さんに連れてこられた場所だ。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "以前、光さんに連れてこられた場所だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ここには一度来たことがある。",
+        "after": "遠野　紗夜「お祖母様は光さんのご両親へのお供えですか？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「お祖母様は光さんのご両親へのお供えですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "以前、光さんに連れてこられた場所だ。",
+        "after": "日生祖母「私は貴方の祖母になった覚えはありません」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "日生祖母「私は貴方の祖母になった覚えはありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生祖母",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お祖母様は光さんのご両親へのお供えですか？」",
+        "after": "遠野　紗夜「それは失礼致しました。では、お名前を教えて頂けないでしょうか？　でなければ、何とお呼びしたらいいのか困ってしまいます」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「それは失礼致しました。では、お名前を教えて頂けないでしょうか？　でなければ、何とお呼びしたらいいのか困ってしまいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生祖母「私は貴方の祖母になった覚えはありません」",
+        "after": "日生　紫「日生紫です」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "日生　紫「日生紫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは失礼致しました。では、お名前を教えて頂けないでしょうか？　でなければ、何とお呼びしたらいいのか困ってしまいます」",
+        "after": "遠野　紗夜「『紫様』……。そう呼んでも宜しいですか？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「『紫様』……。そう呼んでも宜しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「日生紫です」",
+        "after": "日生　紫「勝手になさい」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　紫「勝手になさい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「『紫様』……。そう呼んでも宜しいですか？」",
+        "after": "遠野　紗夜「では、紫様。もし宜しかったら、この後少しの間だけでもお時間を頂けないでしょうか？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「では、紫様。もし宜しかったら、この後少しの間だけでもお時間を頂けないでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「勝手になさい」",
+        "after": "日生　紫「何をするというのです？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　紫「何をするというのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、紫様。もし宜しかったら、この後少しの間だけでもお時間を頂けないでしょうか？」",
+        "after": "遠野　紗夜「他愛もない話でもしようかと」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「他愛もない話でもしようかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「何をするというのです？」",
+        "after": "日生　紫「下らないですね。そのことに何の意味があるというのですか？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "日生　紫「下らないですね。そのことに何の意味があるというのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「他愛もない話でもしようかと」",
+        "after": "遠野　紗夜「少しでもお互いが近付く可能性になります」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「少しでもお互いが近付く可能性になります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「下らないですね。そのことに何の意味があるというのですか？」",
+        "after": "日生　紫「私は貴方のことは気に入りません」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "日生　紫「私は貴方のことは気に入りません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「少しでもお互いが近付く可能性になります」",
+        "after": "遠野　紗夜「分かっています。ですが、私としては今後ともお付き合いがある紫様にはなるべく気に入ってもらいたいと思っています」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「分かっています。ですが、私としては今後ともお付き合いがある紫様にはなるべく気に入ってもらいたいと思っています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「私は貴方のことは気に入りません」",
+        "after": "私が言うと、紫様は間を置いて聞いた。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "私が言うと、紫様は間を置いて聞いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「分かっています。ですが、私としては今後ともお付き合いがある紫様にはなるべく気に入ってもらいたいと思っています」",
+        "after": "日生　紫「……それは、光さんの為ということですか？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "日生　紫「……それは、光さんの為ということですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "私が言うと、紫様は間を置いて聞いた。",
+        "after": "遠野　紗夜「はい。それに、私の為でもあり紫様の為でもあると思っています」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「はい。それに、私の為でもあり紫様の為でもあると思っています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……それは、光さんの為ということですか？」",
+        "after": "そして、再び間。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "そして、再び間。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。それに、私の為でもあり紫様の為でもあると思っています」",
+        "after": "日生　紫「…………」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "日生　紫「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "そして、再び間。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「…………」",
+        "after": "日生　紫「貴方は光さんに恋をしているのですね」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　紫「貴方は光さんに恋をしているのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「貴方は光さんに恋をしているのですね」",
+        "after": "深く頷いた。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "深く頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "日生　紫「好いた方と結ばれることは幸せなことなのでしょうか。私にはよく分かりません」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "日生　紫「好いた方と結ばれることは幸せなことなのでしょうか。私にはよく分かりません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "深く頷いた。",
+        "after": "遠野　紗夜「普通に考えれば幸せなことだと思いますが……？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「普通に考えれば幸せなことだと思いますが……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「好いた方と結ばれることは幸せなことなのでしょうか。私にはよく分かりません」",
+        "after": "内心、何を言い出すのだろうと疑問に思いながら答える。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "内心、何を言い出すのだろうと疑問に思いながら答える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「普通に考えれば幸せなことだと思いますが……？」",
+        "after": "日生　紫「私と主人とは十六の時、縁談で初めてお会いしました」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "日生　紫「私と主人とは十六の時、縁談で初めてお会いしました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "内心、何を言い出すのだろうと疑問に思いながら答える。",
+        "after": "日生　紫「身分も出自も悪くありませんでしたし、断る理由も特になかったのでそのままお受けし結婚したのです」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "日生　紫「身分も出自も悪くありませんでしたし、断る理由も特になかったのでそのままお受けし結婚したのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「私と主人とは十六の時、縁談で初めてお会いしました」",
+        "after": "日生　紫「貴方のように恋をして添い遂げたわけではありません」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "日生　紫「貴方のように恋をして添い遂げたわけではありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「身分も出自も悪くありませんでしたし、断る理由も特になかったのでそのままお受けし結婚したのです」",
+        "after": "遠野　紗夜「紫様は他に誰か好きな方がいらっしゃったのですか？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「紫様は他に誰か好きな方がいらっしゃったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「貴方のように恋をして添い遂げたわけではありません」",
+        "after": "日生　紫「いいえ。そのような方は私の中で存在しませんでした」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "日生　紫「いいえ。そのような方は私の中で存在しませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「紫様は他に誰か好きな方がいらっしゃったのですか？」",
+        "after": "遠野　紗夜「では、誰かに恋をしたことがないのですか？」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「では、誰かに恋をしたことがないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「いいえ。そのような方は私の中で存在しませんでした」",
+        "after": "日生　紫「ええ」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "日生　紫「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、誰かに恋をしたことがないのですか？」",
+        "after": "日生　紫「だからなのか、私には貴方達を理解出来ません」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "日生　紫「だからなのか、私には貴方達を理解出来ません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「ええ」",
+        "after": "日生　紫「恋というのは、熱に浮かされた譫言のようなものに過ぎないと思っていました」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "日生　紫「恋というのは、熱に浮かされた譫言のようなものに過ぎないと思っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「だからなのか、私には貴方達を理解出来ません」",
+        "after": "日生　紫「恋をして全てを捨て去り、宛のない未来を選ぶより、現実を考慮し、分かりやすい安定の道を選んだのです」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "日生　紫「恋をして全てを捨て去り、宛のない未来を選ぶより、現実を考慮し、分かりやすい安定の道を選んだのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「恋というのは、熱に浮かされた譫言のようなものに過ぎないと思っていました」",
+        "after": "日生　紫「結果、私は今まで何の苦労もなく生きてきました」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "日生　紫「結果、私は今まで何の苦労もなく生きてきました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「恋をして全てを捨て去り、宛のない未来を選ぶより、現実を考慮し、分かりやすい安定の道を選んだのです」",
+        "after": "日生　紫「ただ誤算だったのは、その主人を早くに亡くしてしまったことでしょうね」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "日生　紫「ただ誤算だったのは、その主人を早くに亡くしてしまったことでしょうね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「結果、私は今まで何の苦労もなく生きてきました」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「ただ誤算だったのは、その主人を早くに亡くしてしまったことでしょうね」",
+        "after": "日生　紫「……貴方はそんな私を可哀想だと思いますか？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "日生　紫「……貴方はそんな私を可哀想だと思いますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "はい"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "はい",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「……貴方はそんな私を可哀想だと思いますか？」",
+        "after": "いいえ"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "いいえ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いいえ",
+        "after": "日生　紫「……何故、そう思うのですか？」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "日生　紫「……何故、そう思うのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "遠野　紗夜「貴方は自分を不幸だと思っていないからです」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「貴方は自分を不幸だと思っていないからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……何故、そう思うのですか？」",
+        "after": "日生　紫「…………」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　紫「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は自分を不幸だと思っていないからです」",
+        "after": "遠野　紗夜「はい。貴方は可哀想な女性だと思います」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「はい。貴方は可哀想な女性だと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「…………」",
+        "after": "日生　紫「何故そう思うのです？」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "日生　紫「何故そう思うのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。貴方は可哀想な女性だと思います」",
+        "after": "遠野　紗夜「貴方が恋に憧れているからです」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「貴方が恋に憧れているからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「何故そう思うのです？」",
+        "after": "日生　紫「…………」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "日生　紫「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方が恋に憧れているからです」",
+        "after": "二人しばらく見合わせた後、紫様の方から顔を背けた。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "二人しばらく見合わせた後、紫様の方から顔を背けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「…………」",
+        "after": "日生　紫「……貴方は本当に正直な女性ですね」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "日生　紫「……貴方は本当に正直な女性ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "二人しばらく見合わせた後、紫様の方から顔を背けた。",
+        "after": "遠野　紗夜「いけなかったでしょうか？」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「いけなかったでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……貴方は本当に正直な女性ですね」",
+        "after": "日生　紫「私は嘘を吐く人は嫌いです」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "日生　紫「私は嘘を吐く人は嫌いです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いけなかったでしょうか？」",
+        "after": "紫様の視線がゆっくりと墓標へと向かった。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "紫様の視線がゆっくりと墓標へと向かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「私は嘘を吐く人は嫌いです」",
+        "after": "日生　紫「……彼女も貴方のような人なら良かったのかしら」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生　紫「……彼女も貴方のような人なら良かったのかしら」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "紫様の視線がゆっくりと墓標へと向かった。",
+        "after": "日生　紫「それとも、私が『恋』というものを理解していたのなら何かが違っていたのかもしれませんね」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "日生　紫「それとも、私が『恋』というものを理解していたのなら何かが違っていたのかもしれませんね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……彼女も貴方のような人なら良かったのかしら」",
+        "after": "遠野　紗夜「……彼女、ですか？」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "遠野　紗夜「……彼女、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「それとも、私が『恋』というものを理解していたのなら何かが違っていたのかもしれませんね」",
+        "after": "日生　紫「光さんの母親です」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "日生　紫「光さんの母親です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……彼女、ですか？」",
+        "after": "遠野　紗夜「ああ……」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「ああ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「光さんの母親です」",
+        "after": "遠野　紗夜「光さんから聞きました。光さんのご両親は駆け落ちして結婚したのだと」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「光さんから聞きました。光さんのご両親は駆け落ちして結婚したのだと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ……」",
+        "after": "日生　紫「ええ。私が二人の結婚に反対したからです」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "日生　紫「ええ。私が二人の結婚に反対したからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんから聞きました。光さんのご両親は駆け落ちして結婚したのだと」",
+        "after": "遠く遠く見つめるように。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠く遠く見つめるように。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「ええ。私が二人の結婚に反対したからです」",
+        "after": "目の前の墓標には何もない。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "目の前の墓標には何もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠く遠く見つめるように。",
+        "after": "遠野　紗夜「……紫様は後悔しているのですか？　お二人を失ったことは自分のせいだと」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「……紫様は後悔しているのですか？　お二人を失ったことは自分のせいだと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "目の前の墓標には何もない。",
+        "after": "遠く遠く。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠く遠く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……紫様は後悔しているのですか？　お二人を失ったことは自分のせいだと」",
+        "after": "今、この人は目の前の墓標ではなく、過ぎ去りし過去の幻を見ているのだろうと思った。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "今、この人は目の前の墓標ではなく、過ぎ去りし過去の幻を見ているのだろうと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠く遠く。",
+        "after": "日生　紫「…………」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "日生　紫「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "今、この人は目の前の墓標ではなく、過ぎ去りし過去の幻を見ているのだろうと思った。",
+        "after": "日生　紫「……少し、余計なことを話しすぎました」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "日生　紫「……少し、余計なことを話しすぎました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「…………」",
+        "after": "紫様は私の質問に答えてはくれなかった。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "紫様は私の質問に答えてはくれなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「……少し、余計なことを話しすぎました」",
+        "after": "それが、答えなのだとすぐに分かった。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "それが、答えなのだとすぐに分かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "紫様は私の質問に答えてはくれなかった。",
+        "after": "紫様はもしかしたら本当はとても寂しがり屋なのではないのかと思った。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "紫様はもしかしたら本当はとても寂しがり屋なのではないのかと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それが、答えなのだとすぐに分かった。",
+        "after": "夫を亡くし、自分の息子まで亡くし、彼女は一人だった。"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "夫を亡くし、自分の息子まで亡くし、彼女は一人だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "紫様はもしかしたら本当はとても寂しがり屋なのではないのかと思った。",
+        "after": "強がってはみせるけれど、本当は淋しかったのではないだろうか。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "強がってはみせるけれど、本当は淋しかったのではないだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夫を亡くし、自分の息子まで亡くし、彼女は一人だった。",
+        "after": "それに、紫様は恋などしないと言ったけれど、彼女には『愛』があった。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "それに、紫様は恋などしないと言ったけれど、彼女には『愛』があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "強がってはみせるけれど、本当は淋しかったのではないだろうか。",
+        "after": "確かに『恋』はしなかったのかもしれない。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "確かに『恋』はしなかったのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それに、紫様は恋などしないと言ったけれど、彼女には『愛』があった。",
+        "after": "けれど、自分の息子や、その孫である光さんを確かに愛しているのだとは分かる。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "けれど、自分の息子や、その孫である光さんを確かに愛しているのだとは分かる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに『恋』はしなかったのかもしれない。",
+        "after": "でなければ、こんな風に後悔もしないはずだ。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "でなければ、こんな風に後悔もしないはずだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、自分の息子や、その孫である光さんを確かに愛しているのだとは分かる。",
+        "after": "私は紫様のことを好意的に思った。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "私は紫様のことを好意的に思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "でなければ、こんな風に後悔もしないはずだ。",
+        "after": "羨ましいとさえ思った。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "羨ましいとさえ思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は紫様のことを好意的に思った。",
+        "after": "何故なら、私は愛されてもいなかったのだから。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "何故なら、私は愛されてもいなかったのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "羨ましいとさえ思った。",
+        "after": "遠野　紗夜「光さんは」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「光さんは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何故なら、私は愛されてもいなかったのだから。",
+        "after": "私はぽつりと切り出した。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "私はぽつりと切り出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「光さんは」",
+        "after": "遠野　紗夜「少なくとも光さんは、貴方のことを恨んでるようには見えません」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　紗夜「少なくとも光さんは、貴方のことを恨んでるようには見えません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はぽつりと切り出した。",
+        "after": "遠野　紗夜「彼は言っていました。お祖母様は可哀想な人だと」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "遠野　紗夜「彼は言っていました。お祖母様は可哀想な人だと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「少なくとも光さんは、貴方のことを恨んでるようには見えません」",
+        "after": "遠野　紗夜「恨むどころか、むしろ感謝しているとさえ」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "遠野　紗夜「恨むどころか、むしろ感謝しているとさえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼は言っていました。お祖母様は可哀想な人だと」",
+        "after": "日生　紫「光さんが……？」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "日生　紫「光さんが……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「恨むどころか、むしろ感謝しているとさえ」",
+        "after": "目を見張る紫様に対し、私は"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "目を見張る紫様に対し、私は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「光さんが……？」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "目を見張る紫様に対し、私は",
+        "after": "と頷いた。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "と頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "紫様は地面に視線を落とす。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "紫様は地面に視線を落とす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と頷いた。",
+        "after": "日生　紫「……そんなことはないでしょう。あの子は私を恨んでいます」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "日生　紫「……そんなことはないでしょう。あの子は私を恨んでいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "紫様は地面に視線を落とす。",
+        "after": "遠野　紗夜「そんなことは」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「そんなことは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……そんなことはないでしょう。あの子は私を恨んでいます」",
+        "after": "日生　紫「でなければ、私の元から去ったりはしなかったでしょう」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "日生　紫「でなければ、私の元から去ったりはしなかったでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そんなことは」",
+        "after": "遠野　紗夜「ですが、戻って来たではありませんか」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「ですが、戻って来たではありませんか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「でなければ、私の元から去ったりはしなかったでしょう」",
+        "after": "日生　紫「…………」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "日生　紫「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、戻って来たではありませんか」",
+        "after": "私は更に言葉を続けた。"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "私は更に言葉を続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「…………」",
+        "after": "遠野　紗夜「光さんは以前仰いました。縛られることが嫌で、家を抜け出したけれど、結局はここへ戻ってきたと」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "遠野　紗夜「光さんは以前仰いました。縛られることが嫌で、家を抜け出したけれど、結局はここへ戻ってきたと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は更に言葉を続けた。",
+        "after": "遠野　紗夜「帰る場所はここなのだと分かったからと仰っていました」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "遠野　紗夜「帰る場所はここなのだと分かったからと仰っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんは以前仰いました。縛られることが嫌で、家を抜け出したけれど、結局はここへ戻ってきたと」",
+        "after": "紫様は私の言葉にしばらく黙った後、落とした視線をあげた。"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "紫様は私の言葉にしばらく黙った後、落とした視線をあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「帰る場所はここなのだと分かったからと仰っていました」",
+        "after": "日生　紫「……貴方の方こそどうなのです？」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "日生　紫「……貴方の方こそどうなのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "紫様は私の言葉にしばらく黙った後、落とした視線をあげた。",
+        "after": "遠野　紗夜「私ですか？」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "遠野　紗夜「私ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「……貴方の方こそどうなのです？」",
+        "after": "日生　紫「貴方は先程から私のことを憐れんでいるように見えますが、本当に憐れまれるべきは貴方の方なのではありませんか？」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "日生　紫「貴方は先程から私のことを憐れんでいるように見えますが、本当に憐れまれるべきは貴方の方なのではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私ですか？」",
+        "after": "日生　紫「貴方の噂は色々と聞いています。正直、光さんから貴方との縁談を持ちかけられた時には反対しました」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "日生　紫「貴方の噂は色々と聞いています。正直、光さんから貴方との縁談を持ちかけられた時には反対しました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「貴方は先程から私のことを憐れんでいるように見えますが、本当に憐れまれるべきは貴方の方なのではありませんか？」",
+        "after": "遠野　紗夜「光さんから？」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「光さんから？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「貴方の噂は色々と聞いています。正直、光さんから貴方との縁談を持ちかけられた時には反対しました」",
+        "after": "私が驚いた声を出すと、紫様は怪訝そうな顔をする。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "私が驚いた声を出すと、紫様は怪訝そうな顔をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「光さんから？」",
+        "after": "日生　紫「光さんから聞いていなかったのですか？　この縁談自体、光さんから是非にと言われたものなのですよ」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "日生　紫「光さんから聞いていなかったのですか？　この縁談自体、光さんから是非にと言われたものなのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "私が驚いた声を出すと、紫様は怪訝そうな顔をする。",
+        "after": "遠野　紗夜「知りませんでした……」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "遠野　紗夜「知りませんでした……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「光さんから聞いていなかったのですか？　この縁談自体、光さんから是非にと言われたものなのですよ」",
+        "after": "初めて知った。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "初めて知った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「知りませんでした……」",
+        "after": "日生家側の誰かが持ちかけたものだとは知ってはいたけれど……。"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "日生家側の誰かが持ちかけたものだとは知ってはいたけれど……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "初めて知った。",
+        "after": "彼は言ってくれなかった。何故？"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "彼は言ってくれなかった。何故？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生家側の誰かが持ちかけたものだとは知ってはいたけれど……。",
+        "after": "日生　紫「……本当に、彼は貴方の何を気に入ったのか」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "日生　紫「……本当に、彼は貴方の何を気に入ったのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "彼は言ってくれなかった。何故？",
+        "after": "私の考えを余所に紫様は呟いた。"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "私の考えを余所に紫様は呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　紫「……本当に、彼は貴方の何を気に入ったのか」",
+        "after": "私は目線を紫様に戻し、互いに見合った。"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "私は目線を紫様に戻し、互いに見合った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の考えを余所に紫様は呟いた。",
+        "after": "日生　紫「貴方に罪はない。むしろ同情に値すると。そう、分かってはいます。悪いのは全て…………」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "日生　紫「貴方に罪はない。むしろ同情に値すると。そう、分かってはいます。悪いのは全て…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "私は目線を紫様に戻し、互いに見合った。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「貴方に罪はない。むしろ同情に値すると。そう、分かってはいます。悪いのは全て…………」",
+        "after": "手の平が急激に冷たくなっていくのを感じる。"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "手の平が急激に冷たくなっていくのを感じる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "大丈夫、と心の中で繰り返す。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "大丈夫、と心の中で繰り返す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手の平が急激に冷たくなっていくのを感じる。",
+        "after": "大丈夫だ。私には光さんがいる。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "大丈夫だ。私には光さんがいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "大丈夫、と心の中で繰り返す。",
+        "after": "瞼の裏に愛しい人の姿を思い浮かべ、決意を固めた私は、ゆっくりと自ら切り出した。"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "瞼の裏に愛しい人の姿を思い浮かべ、決意を固めた私は、ゆっくりと自ら切り出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "大丈夫だ。私には光さんがいる。",
+        "after": "遠野　紗夜「私は紫様が仰る通り、庶民出の男と娼婦から生まれた子です」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「私は紫様が仰る通り、庶民出の男と娼婦から生まれた子です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "瞼の裏に愛しい人の姿を思い浮かべ、決意を固めた私は、ゆっくりと自ら切り出した。",
+        "after": "遠野　紗夜「紫様は憐れまれるべきと仰いましたが、違います。私は蔑まれるべき存在です」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "遠野　紗夜「紫様は憐れまれるべきと仰いましたが、違います。私は蔑まれるべき存在です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は紫様が仰る通り、庶民出の男と娼婦から生まれた子です」",
+        "after": "遠野　紗夜「遠野という血を汚したのは私なのですから……」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "遠野　紗夜「遠野という血を汚したのは私なのですから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「紫様は憐れまれるべきと仰いましたが、違います。私は蔑まれるべき存在です」",
+        "after": "遠野　紗夜「紫様。私は紫様のお話を聞いた時、羨ましいと思いました」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "遠野　紗夜「紫様。私は紫様のお話を聞いた時、羨ましいと思いました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「遠野という血を汚したのは私なのですから……」",
+        "after": "遠野　紗夜「紫様は恋はなかったと仰いましたが、それでも息子さんや光さんのことは愛していらっしゃいます」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「紫様は恋はなかったと仰いましたが、それでも息子さんや光さんのことは愛していらっしゃいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「紫様。私は紫様のお話を聞いた時、羨ましいと思いました」",
+        "after": "遠野　紗夜「私の場合は恋はあったけれど、愛されなかった……」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "遠野　紗夜「私の場合は恋はあったけれど、愛されなかった……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「紫様は恋はなかったと仰いましたが、それでも息子さんや光さんのことは愛していらっしゃいます」",
+        "after": "遠野　紗夜「私は裏切った父を、人の物を平然と奪ったあの女も許さない」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「私は裏切った父を、人の物を平然と奪ったあの女も許さない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私の場合は恋はあったけれど、愛されなかった……」",
+        "after": "遠野　紗夜「そして、その間に生まれた私自身を……」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "遠野　紗夜「そして、その間に生まれた私自身を……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は裏切った父を、人の物を平然と奪ったあの女も許さない」",
+        "after": "遠野　紗夜「私を否定し、閉じ込めた、あの家を、私は決して許さない」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "遠野　紗夜「私を否定し、閉じ込めた、あの家を、私は決して許さない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そして、その間に生まれた私自身を……」",
+        "after": "遠野　紗夜「だからこそ、私は遠野の家を飛び出しました。けれど、それは遠野から抜け出したわけではない」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "遠野　紗夜「だからこそ、私は遠野の家を飛び出しました。けれど、それは遠野から抜け出したわけではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私を否定し、閉じ込めた、あの家を、私は決して許さない」",
+        "after": "遠野　紗夜「そのことを父に指摘された時には何も言えませんでした。事実だからです」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "遠野　紗夜「そのことを父に指摘された時には何も言えませんでした。事実だからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「だからこそ、私は遠野の家を飛び出しました。けれど、それは遠野から抜け出したわけではない」",
+        "after": "遠野　紗夜「私は未だ遠野の恩恵に預かっているのです」"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "遠野　紗夜「私は未だ遠野の恩恵に預かっているのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そのことを父に指摘された時には何も言えませんでした。事実だからです」",
+        "after": "遠野　紗夜「私は……本当は遠野と名乗ってはいけない存在だというのに、遠野に縋って生きている」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "遠野　紗夜「私は……本当は遠野と名乗ってはいけない存在だというのに、遠野に縋って生きている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は未だ遠野の恩恵に預かっているのです」",
+        "after": "遠野　紗夜「私自身は世間知らずで、一人では何も出来ない、ただの小娘に過ぎません」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "遠野　紗夜「私自身は世間知らずで、一人では何も出来ない、ただの小娘に過ぎません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は……本当は遠野と名乗ってはいけない存在だというのに、遠野に縋って生きている」",
+        "after": "遠野　紗夜「……それでも、私との縁談をお受けして下さったことに感謝致します」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "遠野　紗夜「……それでも、私との縁談をお受けして下さったことに感謝致します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私自身は世間知らずで、一人では何も出来ない、ただの小娘に過ぎません」",
+        "after": "遠野　紗夜「光さんにも紫様にも……」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "遠野　紗夜「光さんにも紫様にも……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それでも、私との縁談をお受けして下さったことに感謝致します」",
+        "after": "遠野　紗夜「光さんは仰って下さいました。私は私であっていいのだと」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "遠野　紗夜「光さんは仰って下さいました。私は私であっていいのだと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんにも紫様にも……」",
+        "after": "遠野　紗夜「私はその言葉に救われたのです」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "遠野　紗夜「私はその言葉に救われたのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんは仰って下さいました。私は私であっていいのだと」",
+        "after": "そうだ。"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "そうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私はその言葉に救われたのです」",
+        "after": "誰もが否定した私を、彼は認めてくれた。"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "誰もが否定した私を、彼は認めてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうだ。",
+        "after": "彼はこんな私を愛してくれた。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "彼はこんな私を愛してくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰もが否定した私を、彼は認めてくれた。",
+        "after": "紫様は私を憐れむでもなく、卑下するでもなく、私達に似合いの言葉を言った。"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "紫様は私を憐れむでもなく、卑下するでもなく、私達に似合いの言葉を言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はこんな私を愛してくれた。",
+        "after": "日生　紫「可哀想な女性。貴方も私も」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "日生　紫「可哀想な女性。貴方も私も」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "紫様は私を憐れむでもなく、卑下するでもなく、私達に似合いの言葉を言った。",
+        "after": "遠野　紗夜「けれど、私達には光さんがいます」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "遠野　紗夜「けれど、私達には光さんがいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　紫「可哀想な女性。貴方も私も」",
+        "after": "一瞬の驚き。"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "一瞬の驚き。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「けれど、私達には光さんがいます」",
+        "after": "そして、紫様はほんの僅か顔を和らげた。"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "そして、紫様はほんの僅か顔を和らげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一瞬の驚き。",
+        "after": "日生　紫「……そうですね」"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "日生　紫「……そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　紫",
+      "special_char": true,
+      "context": {
+        "before": "そして、紫様はほんの僅か顔を和らげた。",
+        "after": null
+      }
+    }
+  ]
+}

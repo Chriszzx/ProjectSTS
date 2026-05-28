@@ -1,0 +1,2266 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_12.txt",
+    "chapter": "chapter2",
+    "total_lines": 123,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "二人はお城の目の前までやってきます。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "けれど、ルイスの存在を知った女王様の"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "けれど、ルイスの存在を知った女王様の",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人はお城の目の前までやってきます。",
+        "after": "魔法で、門は荊で閉ざされてしまった"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "魔法で、門は荊で閉ざされてしまった",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、ルイスの存在を知った女王様の",
+        "after": "のです。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "のです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "魔法で、門は荊で閉ざされてしまった",
+        "after": "家の前までつくと、ルイスさんは目を煌めかせた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "家の前までつくと、ルイスさんは目を煌めかせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "のです。",
+        "after": "ルイス「おお！　ここが君の家かい！？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ルイス「おお！　ここが君の家かい！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "家の前までつくと、ルイスさんは目を煌めかせた。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「おお！　ここが君の家かい！？」",
+        "after": "ルイス「素晴らしい！　まるでお城のようじゃないか！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ルイス「素晴らしい！　まるでお城のようじゃないか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「そうでしょうか？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「そうでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「素晴らしい！　まるでお城のようじゃないか！」",
+        "after": "私は首を捻った。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私は首を捻った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうでしょうか？」",
+        "after": "確かに、普通のマンションという風にはあまり見えないけれど、かといってお城には見えない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "確かに、普通のマンションという風にはあまり見えないけれど、かといってお城には見えない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は首を捻った。",
+        "after": "ルイス「ああ！」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "ルイス「ああ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "確かに、普通のマンションという風にはあまり見えないけれど、かといってお城には見えない。",
+        "after": "けれど、どうやらルイスさんにはそう見えているらしく、満面の笑みで頷いた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "けれど、どうやらルイスさんにはそう見えているらしく、満面の笑みで頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「ああ！」",
+        "after": "遠野　紗夜「あの、それではここで待っていて下さいますか？　今、兄を呼んできます」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「あの、それではここで待っていて下さいますか？　今、兄を呼んできます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、どうやらルイスさんにはそう見えているらしく、満面の笑みで頷いた。",
+        "after": "遠野　紗夜「日生先輩、宜しくお願い致します」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「日生先輩、宜しくお願い致します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの、それではここで待っていて下さいますか？　今、兄を呼んできます」",
+        "after": "日生　光「はいはい、了解しましたよ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "日生　光「はいはい、了解しましたよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩、宜しくお願い致します」",
+        "after": "日生先輩に後を任せ、私は一人家に向かう。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生先輩に後を任せ、私は一人家に向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はいはい、了解しましたよ」",
+        "after": "遠野　紗夜「ただいま。兄さん……」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「ただいま。兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩に後を任せ、私は一人家に向かう。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ただいま。兄さん……」",
+        "after": "しん、と静まりかえった空間。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "しん、と静まりかえった空間。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「兄さん？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「兄さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "しん、と静まりかえった空間。",
+        "after": "呼んでも誰の返事もない。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "呼んでも誰の返事もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "呼んでも誰の返事もない。",
+        "after": "遠野　紗夜「兄さん、いますか？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「兄さん、いますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、いますか？」",
+        "after": "遠野　紗夜「いない……」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「いない……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "いつもなら、椅子に座って本を読んでいるか、執筆しているかのどちらかだというのに。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "いつもなら、椅子に座って本を読んでいるか、執筆しているかのどちらかだというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いない……」",
+        "after": "私は誰もいないその部屋へ足を踏み入れる。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "私は誰もいないその部屋へ足を踏み入れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもなら、椅子に座って本を読んでいるか、執筆しているかのどちらかだというのに。",
+        "after": "机の上に置かれた真っ白な原稿。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "机の上に置かれた真っ白な原稿。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は誰もいないその部屋へ足を踏み入れる。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "机の上に置かれた真っ白な原稿。",
+        "after": "その上を指でなぞる。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "その上を指でなぞる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "表題は『死神と少女』とだけ書かれている。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "表題は『死神と少女』とだけ書かれている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その上を指でなぞる。",
+        "after": "日生　光「どうだった？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "日生　光「どうだった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "表題は『死神と少女』とだけ書かれている。",
+        "after": "遠野　紗夜「兄はいないようです」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「兄はいないようです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どうだった？」",
+        "after": "ルイス「なっ……！」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "ルイス「なっ……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄はいないようです」",
+        "after": "遠野　紗夜「多分、どこかへ出かけているのではないかと思うのですが……」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「多分、どこかへ出かけているのではないかと思うのですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「なっ……！」",
+        "after": "兄がいないことを告げると、先程まで明るかった表情はどこにいったのだろうかと思うくらい、ルイスさんは必死な形相をし、私の肩に掴みかかった。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "兄がいないことを告げると、先程まで明るかった表情はどこにいったのだろうかと思うくらい、ルイスさんは必死な形相をし、私の肩に掴みかかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「多分、どこかへ出かけているのではないかと思うのですが……」",
+        "after": "ルイス「そんな！　もう一度よく見てくれ！！」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "ルイス「そんな！　もう一度よく見てくれ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "兄がいないことを告げると、先程まで明るかった表情はどこにいったのだろうかと思うくらい、ルイスさんは必死な形相をし、私の肩に掴みかかった。",
+        "after": "遠野　紗夜「何度見たところで結果は変わりありません」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「何度見たところで結果は変わりありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「そんな！　もう一度よく見てくれ！！」",
+        "after": "遠野　紗夜「ここまで来て頂いて申し訳ありませんが、今回は諦めてもらうしか……」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「ここまで来て頂いて申し訳ありませんが、今回は諦めてもらうしか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何度見たところで結果は変わりありません」",
+        "after": "ルイス「諦められるものか！！」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "ルイス「諦められるものか！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ここまで来て頂いて申し訳ありませんが、今回は諦めてもらうしか……」",
+        "after": "ルイス「僕はどうしても『遠野十夜』に会わなくちゃいけないんだ！！」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "ルイス「僕はどうしても『遠野十夜』に会わなくちゃいけないんだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「諦められるものか！！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「僕はどうしても『遠野十夜』に会わなくちゃいけないんだ！！」",
+        "after": "勝手なことを言うものだと思った。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "勝手なことを言うものだと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "ルイス「君がいないというなら、僕にもこの目で確かめさせてくれ！！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "ルイス「君がいないというなら、僕にもこの目で確かめさせてくれ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "勝手なことを言うものだと思った。",
+        "after": "日生　光「落ち着いて、ルイスさん」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "日生　光「落ち着いて、ルイスさん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「君がいないというなら、僕にもこの目で確かめさせてくれ！！」",
+        "after": "日生先輩が私の肩を掴んだルイスさんの手を退けてくれる。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "日生先輩が私の肩を掴んだルイスさんの手を退けてくれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「落ち着いて、ルイスさん」",
+        "after": "ルイス「落ち着いてなどいられるわけないだろう！！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "ルイス「落ち着いてなどいられるわけないだろう！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩が私の肩を掴んだルイスさんの手を退けてくれる。",
+        "after": "ルイス「まさか、君、嘘を吐いているわけじゃないだろうね！？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "ルイス「まさか、君、嘘を吐いているわけじゃないだろうね！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「落ち着いてなどいられるわけないだろう！！」",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「まさか、君、嘘を吐いているわけじゃないだろうね！？」",
+        "after": "ルイス「本当は部屋にいるのに、いないと嘘を吐いてるんだ！！」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "ルイス「本当は部屋にいるのに、いないと嘘を吐いてるんだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "遠野　紗夜「ですから、何度も申し上げたように兄は出かけているのです」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「ですから、何度も申し上げたように兄は出かけているのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「本当は部屋にいるのに、いないと嘘を吐いてるんだ！！」",
+        "after": "ルイス「嘘だ！！」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "ルイス「嘘だ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですから、何度も申し上げたように兄は出かけているのです」",
+        "after": "遠野　紗夜「……っ！」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「嘘だ！！」",
+        "after": "その時、自分でもはっきりとこみ上げる怒りを感じた。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "その時、自分でもはっきりとこみ上げる怒りを感じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ！」",
+        "after": "ルイス「そんなことを言って、僕を君のお兄さんに会わせないつもりだろう！」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "ルイス「そんなことを言って、僕を君のお兄さんに会わせないつもりだろう！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "その時、自分でもはっきりとこみ上げる怒りを感じた。",
+        "after": "遠野　紗夜「嘘ではありません！！」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「嘘ではありません！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「そんなことを言って、僕を君のお兄さんに会わせないつもりだろう！」",
+        "after": "遠野　紗夜「私は嘘なんてついていません！　勝手なこと言わないで下さい！！」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「私は嘘なんてついていません！　勝手なこと言わないで下さい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「嘘ではありません！！」",
+        "after": "日生　光「……お嬢？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　光「……お嬢？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は嘘なんてついていません！　勝手なこと言わないで下さい！！」",
+        "after": "遠野　紗夜「あ……っ」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「あ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……お嬢？」",
+        "after": "かっとなったというのは正にこのことだ。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "かっとなったというのは正にこのことだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ……っ」",
+        "after": "気が付くと、日生先輩が不思議そうにこちらを見ていた。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "気が付くと、日生先輩が不思議そうにこちらを見ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "かっとなったというのは正にこのことだ。",
+        "after": "彼だけじゃない。蒼もルイスさんも私に注目している。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "彼だけじゃない。蒼もルイスさんも私に注目している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "気が付くと、日生先輩が不思議そうにこちらを見ていた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼だけじゃない。蒼もルイスさんも私に注目している。",
+        "after": "遠野　紗夜「……すみません。つい、声を荒げてしまいました」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「……すみません。つい、声を荒げてしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私はすぐに謝り、それ以上自分の姿を見られるのが嫌で、俯いた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "私はすぐに謝り、それ以上自分の姿を見られるのが嫌で、俯いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……すみません。つい、声を荒げてしまいました」",
+        "after": "恥ずかしい。ああ、恥ずかしい。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "恥ずかしい。ああ、恥ずかしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はすぐに謝り、それ以上自分の姿を見られるのが嫌で、俯いた。",
+        "after": "出来るなら、この場からいなくなってしまいたかった。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "出来るなら、この場からいなくなってしまいたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "恥ずかしい。ああ、恥ずかしい。",
+        "after": "日生　光「いや、まあ仕方ないよ」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生　光「いや、まあ仕方ないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "出来るなら、この場からいなくなってしまいたかった。",
+        "after": "日生先輩は私の肩を抱き、慰めの言葉をかける。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "日生先輩は私の肩を抱き、慰めの言葉をかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「いや、まあ仕方ないよ」",
+        "after": "日生　光「ルイスさんも。僕は、彼女は嘘なんか吐いてないと思いますよ」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "日生　光「ルイスさんも。僕は、彼女は嘘なんか吐いてないと思いますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は私の肩を抱き、慰めの言葉をかける。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ルイスさんも。僕は、彼女は嘘なんか吐いてないと思いますよ」",
+        "after": "ルイス「…………」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "ルイス「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "しばらくの沈黙の後。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "しばらくの沈黙の後。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「…………」",
+        "after": "ルイス「……そうだな」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "ルイス「……そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "しばらくの沈黙の後。",
+        "after": "ルイス「すまない。僕は焦っていたようだ……」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "ルイス「すまない。僕は焦っていたようだ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「……そうだな」",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「すまない。僕は焦っていたようだ……」",
+        "after": "謝られ、ようやく顔を上げるが、目は合わさない。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "謝られ、ようやく顔を上げるが、目は合わさない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": "蒼「しかし、何故お前はそんなに焦る必要がある？」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "蒼「しかし、何故お前はそんなに焦る必要がある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "謝られ、ようやく顔を上げるが、目は合わさない。",
+        "after": "日生　光「そうだね。お兄さんがいないのなら、お嬢がいう通り後日来るか、それとも帰ってくるのを待つかした方が良いんじゃない？」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "日生　光「そうだね。お兄さんがいないのなら、お嬢がいう通り後日来るか、それとも帰ってくるのを待つかした方が良いんじゃない？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「しかし、何故お前はそんなに焦る必要がある？」",
+        "after": "微妙な空気を断ち切るような蒼の発言に、それに合わせる日生先輩。"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "微妙な空気を断ち切るような蒼の発言に、それに合わせる日生先輩。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「そうだね。お兄さんがいないのなら、お嬢がいう通り後日来るか、それとも帰ってくるのを待つかした方が良いんじゃない？」",
+        "after": "ルイスさんは重々しげに口を開く。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "ルイスさんは重々しげに口を開く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "微妙な空気を断ち切るような蒼の発言に、それに合わせる日生先輩。",
+        "after": "ルイス「……僕には、時間がないんだ」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "ルイス「……僕には、時間がないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイスさんは重々しげに口を開く。",
+        "after": "日生　光「時間？」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "日生　光「時間？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「……僕には、時間がないんだ」",
+        "after": "ルイス「僕は、夜が来るまでの間しかいられないんだ」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "ルイス「僕は、夜が来るまでの間しかいられないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「時間？」",
+        "after": "日生　光「夜が来るまでって、今日までの？」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "日生　光「夜が来るまでって、今日までの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「僕は、夜が来るまでの間しかいられないんだ」",
+        "after": "ルイス「ああ」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "ルイス「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「夜が来るまでって、今日までの？」",
+        "after": "日生　光「それはまた何故？」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "日生　光「それはまた何故？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「ああ」",
+        "after": "ルイス「僕がこの世界にやって来る条件なんだ」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "ルイス「僕がこの世界にやって来る条件なんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それはまた何故？」",
+        "after": "ルイス「日が沈む時までに、僕は、僕は元の世界に帰らなければならない」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "ルイス「日が沈む時までに、僕は、僕は元の世界に帰らなければならない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「僕がこの世界にやって来る条件なんだ」",
+        "after": "日生　光「今、何時？」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "日生　光「今、何時？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「日が沈む時までに、僕は、僕は元の世界に帰らなければならない」",
+        "after": "聞かれて、私は懐中時計を取り出す。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "聞かれて、私は懐中時計を取り出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「今、何時？」",
+        "after": "遠野　紗夜「……一時ですね」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「……一時ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "聞かれて、私は懐中時計を取り出す。",
+        "after": "日生　光「日が沈むまでというとー……今だと大体六時くらい？」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "日生　光「日が沈むまでというとー……今だと大体六時くらい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……一時ですね」",
+        "after": "その言葉を聞いたルイスさんは叫ぶ。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "その言葉を聞いたルイスさんは叫ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「日が沈むまでというとー……今だと大体六時くらい？」",
+        "after": "ルイス「大変だ！　あと五時間しか僕はこの場所にいられない！！」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "ルイス「大変だ！　あと五時間しか僕はこの場所にいられない！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "その言葉を聞いたルイスさんは叫ぶ。",
+        "after": "私はようやくルイスさんをちゃんと見ることが出来た。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "私はようやくルイスさんをちゃんと見ることが出来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「大変だ！　あと五時間しか僕はこの場所にいられない！！」",
+        "after": "彼は頭を抱え、うろたえていた。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "彼は頭を抱え、うろたえていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はようやくルイスさんをちゃんと見ることが出来た。",
+        "after": "ルイス「その間に何とかして、結末を変えてもらわないと……！！」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "ルイス「その間に何とかして、結末を変えてもらわないと……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "彼は頭を抱え、うろたえていた。",
+        "after": "遠野　紗夜「ルイスさん。何故、貴方はそんなに結末を変えたいのですか？」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "遠野　紗夜「ルイスさん。何故、貴方はそんなに結末を変えたいのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「その間に何とかして、結末を変えてもらわないと……！！」",
+        "after": "私は最初に疑問に思ったことを口にした。"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "私は最初に疑問に思ったことを口にした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ルイスさん。何故、貴方はそんなに結末を変えたいのですか？」",
+        "after": "恐らく、ここにいる誰もが同じことを思っているだろう。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "恐らく、ここにいる誰もが同じことを思っているだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は最初に疑問に思ったことを口にした。",
+        "after": "ルイス「それは……」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "ルイス「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "恐らく、ここにいる誰もが同じことを思っているだろう。",
+        "after": "けれど、ルイスさんは私の質問に対し、口籠もったまま何も言おうとしない。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "けれど、ルイスさんは私の質問に対し、口籠もったまま何も言おうとしない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「それは……」",
+        "after": "ルイス「…………」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "ルイス「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "けれど、ルイスさんは私の質問に対し、口籠もったまま何も言おうとしない。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「…………」",
+        "after": "ルイス「……とにかく、遠野十夜に会わなければいけないんだ」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "ルイス「……とにかく、遠野十夜に会わなければいけないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「でも、いないんじゃどうしようもないですよね」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "日生　光「でも、いないんじゃどうしようもないですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「……とにかく、遠野十夜に会わなければいけないんだ」",
+        "after": "日生　光「どうします？　ここで待っているという手もありますけど」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "日生　光「どうします？　ここで待っているという手もありますけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも、いないんじゃどうしようもないですよね」",
+        "after": "ルイス「でも、もしも時間までに戻って来なかったら！？」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "ルイス「でも、もしも時間までに戻って来なかったら！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どうします？　ここで待っているという手もありますけど」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「でも、もしも時間までに戻って来なかったら！？」",
+        "after": "ルイス「あああ……どうしよう。このままでは、僕はずっと……」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "ルイス「あああ……どうしよう。このままでは、僕はずっと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私は軽く息を吐いた。"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "私は軽く息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイス「あああ……どうしよう。このままでは、僕はずっと……」",
+        "after": "前を向き、落ち着き払った声で言う。"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "前を向き、落ち着き払った声で言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は軽く息を吐いた。",
+        "after": "遠野　紗夜「探しましょう」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "遠野　紗夜「探しましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "前を向き、落ち着き払った声で言う。",
+        "after": "遠野　紗夜「今、こうしている間にも時間はどんどんと過ぎていきます」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "遠野　紗夜「今、こうしている間にも時間はどんどんと過ぎていきます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「探しましょう」",
+        "after": "遠野　紗夜「兄がいないといっても、この町からは出ていないと思いますし」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　紗夜「兄がいないといっても、この町からは出ていないと思いますし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今、こうしている間にも時間はどんどんと過ぎていきます」",
+        "after": "遠野　紗夜「もし、家の方に戻っても置き手紙をしておけば大丈夫でしょう」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「もし、家の方に戻っても置き手紙をしておけば大丈夫でしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄がいないといっても、この町からは出ていないと思いますし」",
+        "after": "ルイス「君……僕に協力してくれるのかい？」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "ルイス「君……僕に協力してくれるのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「もし、家の方に戻っても置き手紙をしておけば大丈夫でしょう」",
+        "after": "遠野　紗夜「最初から協力しているつもりです。先程は、少しかっとなってしまいましたが……」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "遠野　紗夜「最初から協力しているつもりです。先程は、少しかっとなってしまいましたが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「君……僕に協力してくれるのかい？」",
+        "after": "ルイス「ありがとう！！」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "ルイス「ありがとう！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「最初から協力しているつもりです。先程は、少しかっとなってしまいましたが……」",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「ありがとう！！」",
+        "after": "私は小さく微笑んだ。"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "私は小さく微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": null
+      }
+    }
+  ]
+}

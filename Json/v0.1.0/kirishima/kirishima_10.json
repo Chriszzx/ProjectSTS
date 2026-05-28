@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_10.txt",
+    "chapter": "kirishima",
+    "total_lines": 23,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "帰り道、千代さんは桐島先輩の言葉に納得がいかなかったのか、なおも食い下がっていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "千代「ねえ、いい加減教えてくれたって良いじゃないか」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "千代「ねえ、いい加減教えてくれたって良いじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "帰り道、千代さんは桐島先輩の言葉に納得がいかなかったのか、なおも食い下がっていた。",
+        "after": "桐島　七葵「……しつこいっ！　お前らに教える義務なんてないだろうが！」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "桐島　七葵「……しつこいっ！　お前らに教える義務なんてないだろうが！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「ねえ、いい加減教えてくれたって良いじゃないか」",
+        "after": "千代「そうかも知れないけど、やっぱり気になるよ」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "千代「そうかも知れないけど、やっぱり気になるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……しつこいっ！　お前らに教える義務なんてないだろうが！」",
+        "after": "千代「俺達友達じゃないか。七葵君がすごーく小さい頃から傍にいるのに、今更隠し事するなんて狡いよ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "千代「俺達友達じゃないか。七葵君がすごーく小さい頃から傍にいるのに、今更隠し事するなんて狡いよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「そうかも知れないけど、やっぱり気になるよ」",
+        "after": "桐島　七葵「いい加減にしないと本気で殴るぞ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島　七葵「いい加減にしないと本気で殴るぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「俺達友達じゃないか。七葵君がすごーく小さい頃から傍にいるのに、今更隠し事するなんて狡いよ」",
+        "after": "遠野　紗夜「あら、暴力はいかがなものかと思います」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「あら、暴力はいかがなものかと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いい加減にしないと本気で殴るぞ」",
+        "after": "千代「ですよね！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "千代「ですよね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、暴力はいかがなものかと思います」",
+        "after": "私と千代さんは顔を見合わせ、桐島先輩を追いつめる。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私と千代さんは顔を見合わせ、桐島先輩を追いつめる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「ですよね！」",
+        "after": "けれど、桐島先輩はそんなことには意にも介さずといった感じにさっさと前に進んでいく。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "けれど、桐島先輩はそんなことには意にも介さずといった感じにさっさと前に進んでいく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と千代さんは顔を見合わせ、桐島先輩を追いつめる。",
+        "after": "桐島　七葵「……ほら、着いたぞ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島　七葵「……ほら、着いたぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "けれど、桐島先輩はそんなことには意にも介さずといった感じにさっさと前に進んでいく。",
+        "after": "そう言われた時には、既に家の前だった。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "そう言われた時には、既に家の前だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……ほら、着いたぞ」",
+        "after": "遠野　紗夜「あ、はい。いつも、ありがとうございます」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「あ、はい。いつも、ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言われた時には、既に家の前だった。",
+        "after": "桐島　七葵「ああ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "桐島　七葵「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、はい。いつも、ありがとうございます」",
+        "after": "千代「お嬢さん、また明日！　今度は学校でお会いしましょう！」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "千代「お嬢さん、また明日！　今度は学校でお会いしましょう！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ」",
+        "after": "遠野　紗夜「ええ。是非」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「ええ。是非」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん、また明日！　今度は学校でお会いしましょう！」",
+        "after": "千代「あ、七葵君のことは任せて下さい！　俺、絶対聞き出しますから！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "千代「あ、七葵君のことは任せて下さい！　俺、絶対聞き出しますから！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。是非」",
+        "after": "桐島　七葵「いい加減、諦めろ」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "桐島　七葵「いい加減、諦めろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「あ、七葵君のことは任せて下さい！　俺、絶対聞き出しますから！」",
+        "after": "千代「嫌だ」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "千代「嫌だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いい加減、諦めろ」",
+        "after": "遠野　紗夜「ふふ。宜しくお願いします。それでは、また明日お会いしましょう」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「ふふ。宜しくお願いします。それでは、また明日お会いしましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「嫌だ」",
+        "after": "私が玄関に入ったのを確認すると、二人は元来た道を引き返す。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私が玄関に入ったのを確認すると、二人は元来た道を引き返す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふふ。宜しくお願いします。それでは、また明日お会いしましょう」",
+        "after": "二人には何度か送り届けてもらったことはあるけれど、家は遠い所にあるのだろうか？"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "二人には何度か送り届けてもらったことはあるけれど、家は遠い所にあるのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が玄関に入ったのを確認すると、二人は元来た道を引き返す。",
+        "after": "……訊ねれば良かっただろうか。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "……訊ねれば良かっただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人には何度か送り届けてもらったことはあるけれど、家は遠い所にあるのだろうか？",
+        "after": null
+      }
+    }
+  ]
+}

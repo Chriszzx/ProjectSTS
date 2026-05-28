@@ -1,0 +1,1136 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_33.txt",
+    "chapter": "chapter3",
+    "total_lines": 61,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「また、いらしたのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "ヴィルヘルム「おーう」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "ヴィルヘルム「おーう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「また、いらしたのですね」",
+        "after": "私と夏帆は休み時間の僅かな合間を縫って、図書館へと訪れた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私と夏帆は休み時間の僅かな合間を縫って、図書館へと訪れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「おーう」",
+        "after": "ヴィルヘルムさんは相変わらず窓に張り付いて、私達の教室を食い入るように見つめていた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ヴィルヘルムさんは相変わらず窓に張り付いて、私達の教室を食い入るように見つめていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と夏帆は休み時間の僅かな合間を縫って、図書館へと訪れた。",
+        "after": "遠野　紗夜「あまり、動きすぎると見つかってしまいすよ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「あまり、動きすぎると見つかってしまいすよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんは相変わらず窓に張り付いて、私達の教室を食い入るように見つめていた。",
+        "after": "ヴィルヘルム「大丈夫だ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ヴィルヘルム「大丈夫だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あまり、動きすぎると見つかってしまいすよ」",
+        "after": "宮沢　夏帆「今、覗いたって夏目は移動しちゃったよ～」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "宮沢　夏帆「今、覗いたって夏目は移動しちゃったよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「大丈夫だ」",
+        "after": "ヴィルヘルム「分かってる」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ヴィルヘルム「分かってる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「今、覗いたって夏目は移動しちゃったよ～」",
+        "after": "そう言いながらも決して窓から目を逸らさない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "そう言いながらも決して窓から目を逸らさない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「分かってる」",
+        "after": "宮沢　夏帆「あーんな遠い場所、よく見えるよね～」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "宮沢　夏帆「あーんな遠い場所、よく見えるよね～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そう言いながらも決して窓から目を逸らさない。",
+        "after": "夏帆がヴィルヘルムさんの隣に立ち、手を日差し代わりにしながら私達の教室を眺め見る。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "夏帆がヴィルヘルムさんの隣に立ち、手を日差し代わりにしながら私達の教室を眺め見る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あーんな遠い場所、よく見えるよね～」",
+        "after": "ヴィルヘルム「……なあ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "ヴィルヘルム「……なあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏帆がヴィルヘルムさんの隣に立ち、手を日差し代わりにしながら私達の教室を眺め見る。",
+        "after": "宮沢　夏帆「何よ～」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "宮沢　夏帆「何よ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……なあ」",
+        "after": "ヴィルヘルム「あいつは元気でやってるのか？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "ヴィルヘルム「あいつは元気でやってるのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何よ～」",
+        "after": "宮沢　夏帆「そんなの見れば分かるじゃん」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "宮沢　夏帆「そんなの見れば分かるじゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「あいつは元気でやってるのか？」",
+        "after": "ヴィルヘルム「そうだけどさ。そうじゃなくて、お前らから見た悠希はどうだって聞いてんだよ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "ヴィルヘルム「そうだけどさ。そうじゃなくて、お前らから見た悠希はどうだって聞いてんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そんなの見れば分かるじゃん」",
+        "after": "宮沢　夏帆「どうって……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "宮沢　夏帆「どうって……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そうだけどさ。そうじゃなくて、お前らから見た悠希はどうだって聞いてんだよ」",
+        "after": "私達はそれぞれ思うまま言葉にする。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私達はそれぞれ思うまま言葉にする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「どうって……」",
+        "after": "宮沢　夏帆「性格最悪」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「性格最悪」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私達はそれぞれ思うまま言葉にする。",
+        "after": "遠野　紗夜「頭の良い方だとは思いますが……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「頭の良い方だとは思いますが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「性格最悪」",
+        "after": "ヴィルヘルム「何だよ。悠希の悪口か！？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "ヴィルヘルム「何だよ。悠希の悪口か！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「頭の良い方だとは思いますが……」",
+        "after": "宮沢　夏帆「自分で聞いたんでしょ～」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "宮沢　夏帆「自分で聞いたんでしょ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何だよ。悠希の悪口か！？」",
+        "after": "ヴィルヘルム「まあ、そうなんだけどな」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "ヴィルヘルム「まあ、そうなんだけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「自分で聞いたんでしょ～」",
+        "after": "ヴィルヘルムさんはここでようやく私達の方を向いてくれる。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "ヴィルヘルムさんはここでようやく私達の方を向いてくれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「まあ、そうなんだけどな」",
+        "after": "ヴィルヘルム「悠希の奴、俺がいなくても結構やっていってるよな」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ヴィルヘルム「悠希の奴、俺がいなくても結構やっていってるよな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんはここでようやく私達の方を向いてくれる。",
+        "after": "その声がいつもより少しばかり沈んで聞こえ、私達は顔を見合わす。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "その声がいつもより少しばかり沈んで聞こえ、私達は顔を見合わす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「悠希の奴、俺がいなくても結構やっていってるよな」",
+        "after": "遠野　紗夜「彼はあまり人と連む印象はありませんが、人付き合いが悪いわけではありませんよね」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「彼はあまり人と連む印象はありませんが、人付き合いが悪いわけではありませんよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その声がいつもより少しばかり沈んで聞こえ、私達は顔を見合わす。",
+        "after": "遠野　紗夜「いつも笑顔で人に接していらっしゃいますし……ああ、ですが最近は少し様子がおかしいようですね」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「いつも笑顔で人に接していらっしゃいますし……ああ、ですが最近は少し様子がおかしいようですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼はあまり人と連む印象はありませんが、人付き合いが悪いわけではありませんよね」",
+        "after": "ヴィルヘルム「な、何だ！？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "ヴィルヘルム「な、何だ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いつも笑顔で人に接していらっしゃいますし……ああ、ですが最近は少し様子がおかしいようですね」",
+        "after": "急にずいと寄られ、私は一歩後ずさる。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "急にずいと寄られ、私は一歩後ずさる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「な、何だ！？」",
+        "after": "遠野　紗夜「いえ、あの、私の気のせいかも知れないのですが……」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「いえ、あの、私の気のせいかも知れないのですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "急にずいと寄られ、私は一歩後ずさる。",
+        "after": "ヴィルヘルム「いいから言え！」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "ヴィルヘルム「いいから言え！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ、あの、私の気のせいかも知れないのですが……」",
+        "after": "遠野　紗夜「少々苛々しているように感じます」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「少々苛々しているように感じます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「いいから言え！」",
+        "after": "ヴィルヘルム「苛々？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "ヴィルヘルム「苛々？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「少々苛々しているように感じます」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「苛々？」",
+        "after": "病院での時も、お弁当の時にしてもそうだ。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "病院での時も、お弁当の時にしてもそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "何故か、最近彼は気が立っているように思える。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "何故か、最近彼は気が立っているように思える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "病院での時も、お弁当の時にしてもそうだ。",
+        "after": "宮沢　夏帆「ああ。そーいやそーかも～」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "宮沢　夏帆「ああ。そーいやそーかも～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "何故か、最近彼は気が立っているように思える。",
+        "after": "と、夏帆も同意してくれる。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "と、夏帆も同意してくれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ああ。そーいやそーかも～」",
+        "after": "ヴィルヘルム「そうか……」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "ヴィルヘルム「そうか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "と、夏帆も同意してくれる。",
+        "after": "ヴィルヘルムさんはようやく前のめりだった姿勢を戻した。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "ヴィルヘルムさんはようやく前のめりだった姿勢を戻した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「そうか……」",
+        "after": "ヴィルヘルム「お前、案外悠希のこと見てるんだな」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "ヴィルヘルム「お前、案外悠希のこと見てるんだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんはようやく前のめりだった姿勢を戻した。",
+        "after": "遠野　紗夜「……まあ、ここ最近は」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「……まあ、ここ最近は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前、案外悠希のこと見てるんだな」",
+        "after": "ヴィルヘルム「けど、間違ってることもあるぞ。お前は、あいつがいつも笑顔で接してるって言ったろ？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "ヴィルヘルム「けど、間違ってることもあるぞ。お前は、あいつがいつも笑顔で接してるって言ったろ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……まあ、ここ最近は」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「けど、間違ってることもあるぞ。お前は、あいつがいつも笑顔で接してるって言ったろ？」",
+        "after": "ヴィルヘルム「あれは作り笑いだ。あいつはあんな笑い方しなかった」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "ヴィルヘルム「あれは作り笑いだ。あいつはあんな笑い方しなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "宮沢　夏帆「作り笑い～？　ああ、まあ、確かにそういうことしそうだもんね～」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "宮沢　夏帆「作り笑い～？　ああ、まあ、確かにそういうことしそうだもんね～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「あれは作り笑いだ。あいつはあんな笑い方しなかった」",
+        "after": "じろり、と目があるわけではないのにヴィルヘルムさんが夏帆を睨んだ気がした。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "じろり、と目があるわけではないのにヴィルヘルムさんが夏帆を睨んだ気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「作り笑い～？　ああ、まあ、確かにそういうことしそうだもんね～」",
+        "after": "けれど、夏帆も自分の発言を撤回する気はないらしく、いたって堂々としている。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "けれど、夏帆も自分の発言を撤回する気はないらしく、いたって堂々としている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "じろり、と目があるわけではないのにヴィルヘルムさんが夏帆を睨んだ気がした。",
+        "after": "ヴィルヘルムさんはため息混じりに言った。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ヴィルヘルムさんはため息混じりに言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、夏帆も自分の発言を撤回する気はないらしく、いたって堂々としている。",
+        "after": "ヴィルヘルム「確かに夏帆の言う通り、あいつの本性はあんな上品ぶったキャラじゃねー」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "ヴィルヘルム「確かに夏帆の言う通り、あいつの本性はあんな上品ぶったキャラじゃねー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんはため息混じりに言った。",
+        "after": "ヴィルヘルム「悠希は変わったな」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "ヴィルヘルム「悠希は変わったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「確かに夏帆の言う通り、あいつの本性はあんな上品ぶったキャラじゃねー」",
+        "after": "ヴィルヘルム「朝昼ずっと見てきたけど、悠希はこの金持ち集団の中に上手く溶け込んでるように見えた」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "ヴィルヘルム「朝昼ずっと見てきたけど、悠希はこの金持ち集団の中に上手く溶け込んでるように見えた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「悠希は変わったな」",
+        "after": "ヴィルヘルム「クラスの連中にも笑顔で接して、男女関係なく、周りにも適度に人が集まってるようだし」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "ヴィルヘルム「クラスの連中にも笑顔で接して、男女関係なく、周りにも適度に人が集まってるようだし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「朝昼ずっと見てきたけど、悠希はこの金持ち集団の中に上手く溶け込んでるように見えた」",
+        "after": "ヴィルヘルム「それこそ、お前らよかずっとこのクラスに馴染んでるよ」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "ヴィルヘルム「それこそ、お前らよかずっとこのクラスに馴染んでるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「クラスの連中にも笑顔で接して、男女関係なく、周りにも適度に人が集まってるようだし」",
+        "after": "……思わぬ痛いところを突かれた。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "……思わぬ痛いところを突かれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「それこそ、お前らよかずっとこのクラスに馴染んでるよ」",
+        "after": "ヴィルヘルム「悠希はさ、すごい負けん気が強くって、すっげー口が悪くて、手も足も早くてさ。昔は喧嘩ばっかりやってたんだ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "ヴィルヘルム「悠希はさ、すごい負けん気が強くって、すっげー口が悪くて、手も足も早くてさ。昔は喧嘩ばっかりやってたんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "……思わぬ痛いところを突かれた。",
+        "after": "ヴィルヘルム「だから、こんな金持ち学校でハブにされてんじゃねーかと心配だったんだけど……そうか、上手くやってるのか」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "ヴィルヘルム「だから、こんな金持ち学校でハブにされてんじゃねーかと心配だったんだけど……そうか、上手くやってるのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「悠希はさ、すごい負けん気が強くって、すっげー口が悪くて、手も足も早くてさ。昔は喧嘩ばっかりやってたんだ」",
+        "after": "ヴィルヘルム「あいつも大人になったんだな……」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "ヴィルヘルム「あいつも大人になったんだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「だから、こんな金持ち学校でハブにされてんじゃねーかと心配だったんだけど……そうか、上手くやってるのか」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「あいつも大人になったんだな……」",
+        "after": "何故だろう。呟くヴィルヘルムさんの姿が淋しく見えた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "何故だろう。呟くヴィルヘルムさんの姿が淋しく見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": null
+      }
+    }
+  ]
+}

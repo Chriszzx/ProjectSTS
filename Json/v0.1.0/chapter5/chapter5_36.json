@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_36.txt",
+    "chapter": "chapter5",
+    "total_lines": 19,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "結局、昨日はあれから仕事があるからと自分の部屋へと戻ってしまい、何も話せなかった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "結局、昨日はあれから仕事があるからと自分の部屋へと戻ってしまい、何も話せなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "朝には、いつもと変わらぬ兄の姿があった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "朝には、いつもと変わらぬ兄の姿があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、昨日はあれから仕事があるからと自分の部屋へと戻ってしまい、何も話せなかった。",
+        "after": "けれど、聞きたいことは何も言えず、ただただいつもと変わらない朝を過ごしたのだった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "けれど、聞きたいことは何も言えず、ただただいつもと変わらない朝を過ごしたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "朝には、いつもと変わらぬ兄の姿があった。",
+        "after": "遠野　紗夜「……何だか、流されてしまった様な気がしますね」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「……何だか、流されてしまった様な気がしますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、聞きたいことは何も言えず、ただただいつもと変わらない朝を過ごしたのだった。",
+        "after": "桐島　七葵「何がだ？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島　七葵「何がだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何だか、流されてしまった様な気がしますね」",
+        "after": "遠野　紗夜「いえ、何でもありません」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「いえ、何でもありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「何がだ？」",
+        "after": "桐島　七葵「……まあいいが、早く食わないと休みが終わるぞ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "桐島　七葵「……まあいいが、早く食わないと休みが終わるぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ、何でもありません」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……まあいいが、早く食わないと休みが終わるぞ」",
+        "after": "黙々と箸を動かす。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "黙々と箸を動かす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "桐島　七葵「おいこら。そこ、菓子パンばかり食っていないでたまには野菜を食え野菜を」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島　七葵「おいこら。そこ、菓子パンばかり食っていないでたまには野菜を食え野菜を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "黙々と箸を動かす。",
+        "after": "日生　光「別に良くない？　食べなくて死ぬわけじゃあるまいし」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "日生　光「別に良くない？　食べなくて死ぬわけじゃあるまいし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「おいこら。そこ、菓子パンばかり食っていないでたまには野菜を食え野菜を」",
+        "after": "桐島　七葵「健康に悪いだろうが。ほら、俺の分をやるから食え」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "桐島　七葵「健康に悪いだろうが。ほら、俺の分をやるから食え」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「別に良くない？　食べなくて死ぬわけじゃあるまいし」",
+        "after": "日生　光「うわ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「うわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「健康に悪いだろうが。ほら、俺の分をやるから食え」",
+        "after": "宮沢　夏帆「じゃ、私のもあげる～」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "宮沢　夏帆「じゃ、私のもあげる～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うわ」",
+        "after": "夏目　悠希「俺のもあげますよ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "夏目　悠希「俺のもあげますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「じゃ、私のもあげる～」",
+        "after": "日生　光「僕、君達の残飯処分係じゃないんですけど」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生　光「僕、君達の残飯処分係じゃないんですけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺のもあげますよ」",
+        "after": "桐島　七葵「お前な、俺達はお前の為を思ってやってるんだろうが」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "桐島　七葵「お前な、俺達はお前の為を思ってやってるんだろうが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕、君達の残飯処分係じゃないんですけど」",
+        "after": "目の前のやり取りを、手を止め眺めていると、千代さんと目が合い、軽く微笑み合う。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "目の前のやり取りを、手を止め眺めていると、千代さんと目が合い、軽く微笑み合う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「お前な、俺達はお前の為を思ってやってるんだろうが」",
+        "after": null
+      }
+    }
+  ]
+}

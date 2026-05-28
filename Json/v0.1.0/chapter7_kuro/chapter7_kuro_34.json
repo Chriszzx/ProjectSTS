@@ -1,0 +1,3042 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_34.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 169,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠い昔の話をしようか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠いといっても、十年前。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠いといっても、十年前。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠い昔の話をしようか。",
+        "after": "けれど、人の身にとって十年というのは決して短いものではない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "けれど、人の身にとって十年というのは決して短いものではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠いといっても、十年前。",
+        "after": "十年あれば人は変わる。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "十年あれば人は変わる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、人の身にとって十年というのは決して短いものではない。",
+        "after": "可愛らしい少女が美しく清艶に成長するくらいには。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "可愛らしい少女が美しく清艶に成長するくらいには。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "十年あれば人は変わる。",
+        "after": "これは悲劇の物語でも喜劇の物語でもない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "これは悲劇の物語でも喜劇の物語でもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "可愛らしい少女が美しく清艶に成長するくらいには。",
+        "after": "美しい幻想物語。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "美しい幻想物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これは悲劇の物語でも喜劇の物語でもない。",
+        "after": "死神と少女の出会いの物語。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "死神と少女の出会いの物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "美しい幻想物語。",
+        "after": "薔薇の花咲くお屋敷に、それはもうとても可愛らしい少女がいた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "薔薇の花咲くお屋敷に、それはもうとても可愛らしい少女がいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神と少女の出会いの物語。",
+        "after": "肌は雪のように白く、頬は薔薇の様に赤く、髪の毛は黒檀の様に黒く艶やかで、さながら本当のお姫様の様な少女だった。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "肌は雪のように白く、頬は薔薇の様に赤く、髪の毛は黒檀の様に黒く艶やかで、さながら本当のお姫様の様な少女だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "薔薇の花咲くお屋敷に、それはもうとても可愛らしい少女がいた。",
+        "after": "少女は幸せに暮らしていた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "少女は幸せに暮らしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "肌は雪のように白く、頬は薔薇の様に赤く、髪の毛は黒檀の様に黒く艶やかで、さながら本当のお姫様の様な少女だった。",
+        "after": "誰からも愛され、この世の幸せという幸せを全て享受していた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "誰からも愛され、この世の幸せという幸せを全て享受していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は幸せに暮らしていた。",
+        "after": "けれども、悲しいことに、少女の愛する継母は少女が美しく成長するのに耐えきれず、ついには自ら命を絶ってしまったのだった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "けれども、悲しいことに、少女の愛する継母は少女が美しく成長するのに耐えきれず、ついには自ら命を絶ってしまったのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰からも愛され、この世の幸せという幸せを全て享受していた。",
+        "after": "それからというもの、少女には辛い日々が続いた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "それからというもの、少女には辛い日々が続いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれども、悲しいことに、少女の愛する継母は少女が美しく成長するのに耐えきれず、ついには自ら命を絶ってしまったのだった。",
+        "after": "父「。彼女が本当の母親だ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "父「。彼女が本当の母親だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "それからというもの、少女には辛い日々が続いた。",
+        "after": "継母がいなくなった後、すぐに紹介されたのは自分と同じ顔をした魔女だった。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "継母がいなくなった後、すぐに紹介されたのは自分と同じ顔をした魔女だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「。彼女が本当の母親だ」",
+        "after": "少女は言った。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "少女は言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "継母がいなくなった後、すぐに紹介されたのは自分と同じ顔をした魔女だった。",
+        "after": "遠野　紗夜「こんな人は私のお母様じゃないわ！！」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「こんな人は私のお母様じゃないわ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は言った。",
+        "after": "すると、魔女は冷たく嘲笑った。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "すると、魔女は冷たく嘲笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「こんな人は私のお母様じゃないわ！！」",
+        "after": "椿姫「あら、そう。気が合うわね。あたしもあんたなんか知らないわ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "椿姫「あら、そう。気が合うわね。あたしもあんたなんか知らないわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "椿姫",
+      "special_char": true,
+      "context": {
+        "before": "すると、魔女は冷たく嘲笑った。",
+        "after": "それからというもの、魔女は少女を見るたびに、ひどく苛める様になった。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "それからというもの、魔女は少女を見るたびに、ひどく苛める様になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "椿姫「あら、そう。気が合うわね。あたしもあんたなんか知らないわ」",
+        "after": "魔女は自分の娘である少女を愛してなどいなかったからだ。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "魔女は自分の娘である少女を愛してなどいなかったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それからというもの、魔女は少女を見るたびに、ひどく苛める様になった。",
+        "after": "遠野　紗夜「ごほごほっ！　ごほっ！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「ごほごほっ！　ごほっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "魔女は自分の娘である少女を愛してなどいなかったからだ。",
+        "after": "少女は苦しむ。喉が焼ける様に痛かった。少女は病気を抱えていた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "少女は苦しむ。喉が焼ける様に痛かった。少女は病気を抱えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ごほごほっ！　ごほっ！」",
+        "after": "侍女「お嬢様、大丈夫ですか！？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "侍女「お嬢様、大丈夫ですか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "侍女",
+      "special_char": false,
+      "context": {
+        "before": "少女は苦しむ。喉が焼ける様に痛かった。少女は病気を抱えていた。",
+        "after": "屋敷の使用人の一人が少女の肩を抱く。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "屋敷の使用人の一人が少女の肩を抱く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "侍女「お嬢様、大丈夫ですか！？」",
+        "after": "少女が苦しむ中、魔女は冷たい目をして言った。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "少女が苦しむ中、魔女は冷たい目をして言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "屋敷の使用人の一人が少女の肩を抱く。",
+        "after": "椿姫「そんな子、放っておきなさい。どうせ、仮病でしょう？　ああ、煩わしい」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "椿姫「そんな子、放っておきなさい。どうせ、仮病でしょう？　ああ、煩わしい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "椿姫",
+      "special_char": true,
+      "context": {
+        "before": "少女が苦しむ中、魔女は冷たい目をして言った。",
+        "after": "そう言って、少女と同じ髪と眸の色をした魔女は消えていった。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "そう言って、少女と同じ髪と眸の色をした魔女は消えていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "椿姫「そんな子、放っておきなさい。どうせ、仮病でしょう？　ああ、煩わしい」",
+        "after": "少女は一人だった。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "少女は一人だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、少女と同じ髪と眸の色をした魔女は消えていった。",
+        "after": "継母がいなくなった後、少女はろくに食事も摂らず、弱い身体はますます弱くなった。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "継母がいなくなった後、少女はろくに食事も摂らず、弱い身体はますます弱くなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は一人だった。",
+        "after": "もう愛する継母はいない。継母の存在は終わってしまった。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "もう愛する継母はいない。継母の存在は終わってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "継母がいなくなった後、少女はろくに食事も摂らず、弱い身体はますます弱くなった。",
+        "after": "その事実がどうしても幼い少女には受け入れられなかったのだ。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "その事実がどうしても幼い少女には受け入れられなかったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もう愛する継母はいない。継母の存在は終わってしまった。",
+        "after": "遠野　紗夜「ごほ……っ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「ごほ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その事実がどうしても幼い少女には受け入れられなかったのだ。",
+        "after": "そんな少女の一つの喜び。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "そんな少女の一つの喜び。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ごほ……っ」",
+        "after": "それは、自分の大好きな物語を読むことだった。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "それは、自分の大好きな物語を読むことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんな少女の一つの喜び。",
+        "after": "少女の愛する継母がいる時に読んだ最後の本。死神と少女の物語。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "少女の愛する継母がいる時に読んだ最後の本。死神と少女の物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは、自分の大好きな物語を読むことだった。",
+        "after": "実物はなくしてしまったけれど、もう空で言えるくらい少女は物語を熟読していた。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "実物はなくしてしまったけれど、もう空で言えるくらい少女は物語を熟読していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女の愛する継母がいる時に読んだ最後の本。死神と少女の物語。",
+        "after": "頭の中で本を描いて、ページを捲る。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "頭の中で本を描いて、ページを捲る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "実物はなくしてしまったけれど、もう空で言えるくらい少女は物語を熟読していた。",
+        "after": "それを読んでいる時は、少女は救われた気がした。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "それを読んでいる時は、少女は救われた気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭の中で本を描いて、ページを捲る。",
+        "after": "物語の少女は一人でずっと宛のない旅をしていた。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "物語の少女は一人でずっと宛のない旅をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それを読んでいる時は、少女は救われた気がした。",
+        "after": "少女は、物語の少女と自身の姿を重ね合わせていたのだった。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "少女は、物語の少女と自身の姿を重ね合わせていたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "物語の少女は一人でずっと宛のない旅をしていた。",
+        "after": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は、物語の少女と自身の姿を重ね合わせていたのだった。",
+        "after": "少女は繰り返し、繰り返し、物語の中の言葉を口ずさむ。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "少女は繰り返し、繰り返し、物語の中の言葉を口ずさむ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」",
+        "after": "それは、少女にとって魔法の言葉だった。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "それは、少女にとって魔法の言葉だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は繰り返し、繰り返し、物語の中の言葉を口ずさむ。",
+        "after": "この言葉を話す時、淋しさはどこかへと消え去った。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "この言葉を話す時、淋しさはどこかへと消え去った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは、少女にとって魔法の言葉だった。",
+        "after": "しかし、とうとうある晩のこと、少女に今までで一番の苦しみが襲った。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "しかし、とうとうある晩のこと、少女に今までで一番の苦しみが襲った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この言葉を話す時、淋しさはどこかへと消え去った。",
+        "after": "遠野　紗夜「ごほっごほっ！！　はあ……っ！！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「ごほっごほっ！！　はあ……っ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "しかし、とうとうある晩のこと、少女に今までで一番の苦しみが襲った。",
+        "after": "細い喉からひゅーひゅーと息が漏れ、『助けて』という声すら出ない。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "細い喉からひゅーひゅーと息が漏れ、『助けて』という声すら出ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ごほっごほっ！！　はあ……っ！！」",
+        "after": "まるで地獄の様な苦しみだと思った。睫の間から幾つも幾つも涙が溢れた。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "まるで地獄の様な苦しみだと思った。睫の間から幾つも幾つも涙が溢れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "細い喉からひゅーひゅーと息が漏れ、『助けて』という声すら出ない。",
+        "after": "このまま自分は継母と同じ様に終わってしまうのだろうか？"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "このまま自分は継母と同じ様に終わってしまうのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで地獄の様な苦しみだと思った。睫の間から幾つも幾つも涙が溢れた。",
+        "after": "そう少女が思った時、突然すっと息をするのが楽になった。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "そう少女が思った時、突然すっと息をするのが楽になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "このまま自分は継母と同じ様に終わってしまうのだろうか？",
+        "after": "遠野　紗夜「…………？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「…………？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう少女が思った時、突然すっと息をするのが楽になった。",
+        "after": "少女が不思議に思っていると、窓際に佇む一人の男の姿に気が付いた。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "少女が不思議に思っていると、窓際に佇む一人の男の姿に気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………？」",
+        "after": "いつの間にいたのだろう、窓辺から差し込む光に晒された男は不思議な格好をしていた。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "いつの間にいたのだろう、窓辺から差し込む光に晒された男は不思議な格好をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女が不思議に思っていると、窓際に佇む一人の男の姿に気が付いた。",
+        "after": "頭から足先まで全て真っ黒な衣装に身を包み、黒い頭巾から覗く眸や髪も同じ様に黒い。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "頭から足先まで全て真っ黒な衣装に身を包み、黒い頭巾から覗く眸や髪も同じ様に黒い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつの間にいたのだろう、窓辺から差し込む光に晒された男は不思議な格好をしていた。",
+        "after": "まるで存在自体が夜の様だと少女は思った。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "まるで存在自体が夜の様だと少女は思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭から足先まで全て真っ黒な衣装に身を包み、黒い頭巾から覗く眸や髪も同じ様に黒い。",
+        "after": "遠野　紗夜「お兄さんは誰……？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「お兄さんは誰……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "まるで存在自体が夜の様だと少女は思った。",
+        "after": "死神「私は死神だ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "死神「私は死神だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「お兄さんは誰……？」",
+        "after": "男の答えに少女は目を丸くして驚くと、次に笑った。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "男の答えに少女は目を丸くして驚くと、次に笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「私は死神だ」",
+        "after": "遠野　紗夜「死神のお兄さん……？"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「死神のお兄さん……？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "男の答えに少女は目を丸くして驚くと、次に笑った。",
+        "after": "ふふ……っ」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "ふふ……っ」",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「死神のお兄さん……？",
+        "after": "死神「何が可笑しい」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "死神「何が可笑しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "ふふ……っ」",
+        "after": "遠野　紗夜「本当に死神がいるなんて思わなかったの……」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「本当に死神がいるなんて思わなかったの……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「何が可笑しい」",
+        "after": "死神「お前は、私が怖くないのか？」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "死神「お前は、私が怖くないのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「本当に死神がいるなんて思わなかったの……」",
+        "after": "死神は、臆せず自分を見つめる少女を不思議に思った。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "死神は、臆せず自分を見つめる少女を不思議に思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「お前は、私が怖くないのか？」",
+        "after": "遠野　紗夜「いいえ。怖くはないわ。だって、私、ずっと貴方に会いたかったんだもの」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「いいえ。怖くはないわ。だって、私、ずっと貴方に会いたかったんだもの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神は、臆せず自分を見つめる少女を不思議に思った。",
+        "after": "死神「死神にか？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "死神「死神にか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ。怖くはないわ。だって、私、ずっと貴方に会いたかったんだもの」",
+        "after": "遠野　紗夜「そう。ようやく会えた……」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「そう。ようやく会えた……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「死神にか？」",
+        "after": "少女は死神を愛おしげに見つめた。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "少女は死神を愛おしげに見つめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そう。ようやく会えた……」",
+        "after": "物語の少女は孤独な旅の中、死神と出会い、共に旅をする。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "物語の少女は孤独な旅の中、死神と出会い、共に旅をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は死神を愛おしげに見つめた。",
+        "after": "死神のおかげで、物語の少女は孤独から救われたのだ。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "死神のおかげで、物語の少女は孤独から救われたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "物語の少女は孤独な旅の中、死神と出会い、共に旅をする。",
+        "after": "独りぼっちだった少女にとって、本の中の死神は救いだった。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "独りぼっちだった少女にとって、本の中の死神は救いだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神のおかげで、物語の少女は孤独から救われたのだ。",
+        "after": "物語を読み返すたびに、少女は死神と旅をしている気になった。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "物語を読み返すたびに、少女は死神と旅をしている気になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "独りぼっちだった少女にとって、本の中の死神は救いだった。",
+        "after": "自分も物語の少女の様に孤独から救われた気がした。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "自分も物語の少女の様に孤独から救われた気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "物語を読み返すたびに、少女は死神と旅をしている気になった。",
+        "after": "遠野　紗夜「死神のお兄さん、貴方が死神ならば、貴方は私の命を今ここで奪いますか？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「死神のお兄さん、貴方が死神ならば、貴方は私の命を今ここで奪いますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "自分も物語の少女の様に孤独から救われた気がした。",
+        "after": "少女は物語の中の台詞を口にした。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "少女は物語の中の台詞を口にした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「死神のお兄さん、貴方が死神ならば、貴方は私の命を今ここで奪いますか？」",
+        "after": "死神「私が死神であるならば、私はお前の命を奪うのだろう」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "死神「私が死神であるならば、私はお前の命を奪うのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "少女は物語の中の台詞を口にした。",
+        "after": "遠野　紗夜「私が悪いことをしたから……？」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠野　紗夜「私が悪いことをしたから……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「私が死神であるならば、私はお前の命を奪うのだろう」",
+        "after": "死神は首を振った。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "死神は首を振った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私が悪いことをしたから……？」",
+        "after": "死神「違う」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "死神「違う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "死神は首を振った。",
+        "after": "そして、死神は少女に手を差し出した。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "そして、死神は少女に手を差し出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「違う」",
+        "after": "死神「美しく繊細な創造物であるお前よ、手を差し出せ。私はお前を罰する為にここへ来たのではない」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "死神「美しく繊細な創造物であるお前よ、手を差し出せ。私はお前を罰する為にここへ来たのではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "そして、死神は少女に手を差し出した。",
+        "after": "死神「私の腕の中で永遠と穏やかに眠るが良い」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "死神「私の腕の中で永遠と穏やかに眠るが良い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "死神「美しく繊細な創造物であるお前よ、手を差し出せ。私はお前を罰する為にここへ来たのではない」",
+        "after": "死神の手を見つめながら、少女は呟いた。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "死神の手を見つめながら、少女は呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「私の腕の中で永遠と穏やかに眠るが良い」",
+        "after": "遠野　紗夜「死神のお兄さんの手を取ったら、お継母様の所へ行けるのかしら……？」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「死神のお兄さんの手を取ったら、お継母様の所へ行けるのかしら……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神の手を見つめながら、少女は呟いた。",
+        "after": "死神「どうだろうな」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "死神「どうだろうな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「死神のお兄さんの手を取ったら、お継母様の所へ行けるのかしら……？」",
+        "after": "遠野　紗夜「分からないの？」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「分からないの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「どうだろうな」",
+        "after": "死神「ああ」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "死神「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「分からないの？」",
+        "after": "遠野　紗夜「死神なのに？」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "遠野　紗夜「死神なのに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「ああ」",
+        "after": "死神「そうだ」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "死神「そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「死神なのに？」",
+        "after": "遠野　紗夜「ふふ……っ」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "遠野　紗夜「ふふ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「そうだ」",
+        "after": "少女は笑い、そしてまた物語の台詞を続けた。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "少女は笑い、そしてまた物語の台詞を続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふふ……っ」",
+        "after": "遠野　紗夜「それは困りました。それでは私の旅がここで終わってしまいます」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　紗夜「それは困りました。それでは私の旅がここで終わってしまいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は笑い、そしてまた物語の台詞を続けた。",
+        "after": "死神「何故、旅をする？」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "死神「何故、旅をする？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「それは困りました。それでは私の旅がここで終わってしまいます」",
+        "after": "少女は答えた。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "少女は答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「何故、旅をする？」",
+        "after": "遠野　紗夜「私は、世界で最も美しい言葉を探しているのです」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　紗夜「私は、世界で最も美しい言葉を探しているのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は答えた。",
+        "after": "死神「美しい言葉、それは詩か？」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "死神「美しい言葉、それは詩か？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「私は、世界で最も美しい言葉を探しているのです」",
+        "after": "遠野　紗夜「私が求めるのはもっと単純なものです」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "遠野　紗夜「私が求めるのはもっと単純なものです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「美しい言葉、それは詩か？」",
+        "after": "死神「では、愛か」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "死神「では、愛か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「私が求めるのはもっと単純なものです」",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「では、愛か」",
+        "after": "死神の言葉に少女は首をふる。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "死神の言葉に少女は首をふる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "遠野　紗夜「愛？　平和？　正義？　違う。それらのどれもが私の心を打ち響かせない。私が探しているものは、唯一であり、絶対であり、永遠であるもの。世界の全てが認める、そして共有することが出来る美しい言葉」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "遠野　紗夜「愛？　平和？　正義？　違う。それらのどれもが私の心を打ち響かせない。私が探しているものは、唯一であり、絶対であり、永遠であるもの。世界の全てが認める、そして共有することが出来る美しい言葉」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神の言葉に少女は首をふる。",
+        "after": "死神「そんなものがこの世にあるというのか？」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "死神「そんなものがこの世にあるというのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「愛？　平和？　正義？　違う。それらのどれもが私の心を打ち響かせない。私が探しているものは、唯一であり、絶対であり、永遠であるもの。世界の全てが認める、そして共有することが出来る美しい言葉」",
+        "after": "遠野　紗夜「分かりません。だから、私は探すのです。どこまでもどこまでもどこまでも……この世界全てを巡り、答えに辿り着くまで」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　紗夜「分かりません。だから、私は探すのです。どこまでもどこまでもどこまでも……この世界全てを巡り、答えに辿り着くまで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「そんなものがこの世にあるというのか？」",
+        "after": "何十、何百も読み返した物語。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "何十、何百も読み返した物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「分かりません。だから、私は探すのです。どこまでもどこまでもどこまでも……この世界全てを巡り、答えに辿り着くまで」",
+        "after": "ずっと、憧れていた物語。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "ずっと、憧れていた物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何十、何百も読み返した物語。",
+        "after": "遠野　紗夜「死神よ。もしも貴方が私の命を奪うというのならば、くれてやっても構いません。ですが、どうかこの旅が終わるまで私の命を奪わないで下さい」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「死神よ。もしも貴方が私の命を奪うというのならば、くれてやっても構いません。ですが、どうかこの旅が終わるまで私の命を奪わないで下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ずっと、憧れていた物語。",
+        "after": "死神「旅が終わるまでというが、それはいつまでなのか分からない。そのうちに、お前はきっと私の届かない所に逃げてしまうだろう」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "死神「旅が終わるまでというが、それはいつまでなのか分からない。そのうちに、お前はきっと私の届かない所に逃げてしまうだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「死神よ。もしも貴方が私の命を奪うというのならば、くれてやっても構いません。ですが、どうかこの旅が終わるまで私の命を奪わないで下さい」",
+        "after": "遠野　紗夜「ならば、私の旅についてくればいい。私は貴方の前から決して逃げません。私が死んだ時は、私の魂を貴方に差し上げましょう」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　紗夜「ならば、私の旅についてくればいい。私は貴方の前から決して逃げません。私が死んだ時は、私の魂を貴方に差し上げましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「旅が終わるまでというが、それはいつまでなのか分からない。そのうちに、お前はきっと私の届かない所に逃げてしまうだろう」",
+        "after": "言い終わった後、少女はまた笑った。"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "言い終わった後、少女はまた笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ならば、私の旅についてくればいい。私は貴方の前から決して逃げません。私が死んだ時は、私の魂を貴方に差し上げましょう」",
+        "after": "遠野　紗夜「ふふっ」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "遠野　紗夜「ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "言い終わった後、少女はまた笑った。",
+        "after": "死神「演劇はここで終いか？」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "死神「演劇はここで終いか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ふふっ」",
+        "after": "遠野　紗夜「ええ、そう」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "遠野　紗夜「ええ、そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「演劇はここで終いか？」",
+        "after": "死神は少女に触れようと手を伸ばした。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "死神は少女に触れようと手を伸ばした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そう」",
+        "after": "少女は動こうともせず、夜の様な死神の眸を見つめて言った。"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "少女は動こうともせず、夜の様な死神の眸を見つめて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神は少女に触れようと手を伸ばした。",
+        "after": "遠野　紗夜「ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　紗夜「ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は動こうともせず、夜の様な死神の眸を見つめて言った。",
+        "after": "その頬に触れる瞬間、死神の手が止まった。"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "その頬に触れる瞬間、死神の手が止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？」",
+        "after": "首を傾げる少女に死神が問う。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "首を傾げる少女に死神が問う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その頬に触れる瞬間、死神の手が止まった。",
+        "after": "死神「お前はそれが何かを知りたいのか？」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "死神「お前はそれが何かを知りたいのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "首を傾げる少女に死神が問う。",
+        "after": "遠野　紗夜「ええ、そうよ」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "遠野　紗夜「ええ、そうよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「お前はそれが何かを知りたいのか？」",
+        "after": "死神「そうか」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "死神「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうよ」",
+        "after": "そして、そのまま少女に触れることなく手を降ろすと、死神は少女に言った。"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "そして、そのまま少女に触れることなく手を降ろすと、死神は少女に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「そうか」",
+        "after": "死神「ならば、私はお前の時を止めよう」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "死神「ならば、私はお前の時を止めよう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "そして、そのまま少女に触れることなく手を降ろすと、死神は少女に言った。",
+        "after": "遠野　紗夜「時を？」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「時を？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「ならば、私はお前の時を止めよう」",
+        "after": "死神「時を止めれば、お前は死ななくて済む」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "死神「時を止めれば、お前は死ななくて済む」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「時を？」",
+        "after": "遠野　紗夜「本当？」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「本当？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「時を止めれば、お前は死ななくて済む」",
+        "after": "死神「ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "死神「ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「本当？」",
+        "after": "少女は驚いた。"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "少女は驚いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる」",
+        "after": "この死神は不思議なことに自分の願いを叶えようとしてくれているのだ。"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "この死神は不思議なことに自分の願いを叶えようとしてくれているのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は驚いた。",
+        "after": "何故、死神が自分の願いを叶えてくれるのか少女には分からない。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "何故、死神が自分の願いを叶えてくれるのか少女には分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この死神は不思議なことに自分の願いを叶えようとしてくれているのだ。",
+        "after": "けれど、死神が言った言葉の意味は分かった。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "けれど、死神が言った言葉の意味は分かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、死神が自分の願いを叶えてくれるのか少女には分からない。",
+        "after": "遠野　紗夜「その時は私の命が終わるのね」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「その時は私の命が終わるのね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、死神が言った言葉の意味は分かった。",
+        "after": "死神「そうだ。時は進みだし、お前は予定通りに私の手を取る」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "死神「そうだ。時は進みだし、お前は予定通りに私の手を取る」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「その時は私の命が終わるのね」",
+        "after": "遠野　紗夜「分かったわ」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "遠野　紗夜「分かったわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「そうだ。時は進みだし、お前は予定通りに私の手を取る」",
+        "after": "強い意志で頷いた。"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "強い意志で頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「分かったわ」",
+        "after": "それを確認すると、死神は少女の時を止めようとした。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "それを確認すると、死神は少女の時を止めようとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "強い意志で頷いた。",
+        "after": "遠野　紗夜「待って！　貴方は一緒じゃないの？　死神のお兄さん」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「待って！　貴方は一緒じゃないの？　死神のお兄さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それを確認すると、死神は少女の時を止めようとした。",
+        "after": "死神「何故だ？」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "死神「何故だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「待って！　貴方は一緒じゃないの？　死神のお兄さん」",
+        "after": "遠野　紗夜「だって、貴方も気になっているんじゃないかなと思ったの」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「だって、貴方も気になっているんじゃないかなと思ったの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「何故だ？」",
+        "after": "死神「世界で一番美しい言葉か」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "死神「世界で一番美しい言葉か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「だって、貴方も気になっているんじゃないかなと思ったの」",
+        "after": "遠野　紗夜「そうよ。……それに、旅が終わるまでというけれど、それはいつまでなのか分からない。その内に、私は貴方の届かない場所に逃げてしまうかも」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "遠野　紗夜「そうよ。……それに、旅が終わるまでというけれど、それはいつまでなのか分からない。その内に、私は貴方の届かない場所に逃げてしまうかも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「世界で一番美しい言葉か」",
+        "after": "それは一つの賭けだった。"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "それは一つの賭けだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうよ。……それに、旅が終わるまでというけれど、それはいつまでなのか分からない。その内に、私は貴方の届かない場所に逃げてしまうかも」",
+        "after": "遠野　紗夜「だからね……死神のお兄さんも私の旅についてくればいいと思うの。私は貴方の前から決して逃げない。私が死んだ時は、私の魂を貴方に差し上げるわ」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "遠野　紗夜「だからね……死神のお兄さんも私の旅についてくればいいと思うの。私は貴方の前から決して逃げない。私が死んだ時は、私の魂を貴方に差し上げるわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それは一つの賭けだった。",
+        "after": "果たして、目の前の死神は物語の死神の様に自分の傍にいてくれるのか、それとも時だけ止めて置き去りにしてしまうのか。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "果たして、目の前の死神は物語の死神の様に自分の傍にいてくれるのか、それとも時だけ止めて置き去りにしてしまうのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「だからね……死神のお兄さんも私の旅についてくればいいと思うの。私は貴方の前から決して逃げない。私が死んだ時は、私の魂を貴方に差し上げるわ」",
+        "after": "しばらく少女の眸を見つめた後、死神は静かに言った。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "しばらく少女の眸を見つめた後、死神は静かに言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "果たして、目の前の死神は物語の死神の様に自分の傍にいてくれるのか、それとも時だけ止めて置き去りにしてしまうのか。",
+        "after": "死神「分かった。私はお前と共に美しい言葉を探す旅に出よう」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "死神「分かった。私はお前と共に美しい言葉を探す旅に出よう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "しばらく少女の眸を見つめた後、死神は静かに言った。",
+        "after": "死神の言葉に少女の顔は明るく輝く。"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "死神の言葉に少女の顔は明るく輝く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「分かった。私はお前と共に美しい言葉を探す旅に出よう」",
+        "after": "遠野　紗夜「ありがとう！！」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "遠野　紗夜「ありがとう！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神の言葉に少女の顔は明るく輝く。",
+        "after": "無邪気に笑う少女はふと『ありがとう』に続く言葉が死神にないことに気付いた。"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "無邪気に笑う少女はふと『ありがとう』に続く言葉が死神にないことに気付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとう！！」",
+        "after": "遠野　紗夜「ねえ、死神のお兄さん。貴方の名前は何？」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "遠野　紗夜「ねえ、死神のお兄さん。貴方の名前は何？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "無邪気に笑う少女はふと『ありがとう』に続く言葉が死神にないことに気付いた。",
+        "after": "死神「死神は死神だ。名前などない」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "死神「死神は死神だ。名前などない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ねえ、死神のお兄さん。貴方の名前は何？」",
+        "after": "遠野　紗夜「そうなの？」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "遠野　紗夜「そうなの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「死神は死神だ。名前などない」",
+        "after": "彼の言う死神が何かは分からない。けれど、名前がないのは何だか可哀想だと思った。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "彼の言う死神が何かは分からない。けれど、名前がないのは何だか可哀想だと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうなの？」",
+        "after": "遠野　紗夜「だったら、私が死神のお兄さんに名前をつけてあげる」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "遠野　紗夜「だったら、私が死神のお兄さんに名前をつけてあげる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼の言う死神が何かは分からない。けれど、名前がないのは何だか可哀想だと思った。",
+        "after": "死神「何故だ？」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "死神「何故だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「だったら、私が死神のお兄さんに名前をつけてあげる」",
+        "after": "遠野　紗夜「だって、名前がないと不便なんだもの。これからずっと一緒にいることになるのに、死神のお兄さんじゃつまらないわ」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "遠野　紗夜「だって、名前がないと不便なんだもの。これからずっと一緒にいることになるのに、死神のお兄さんじゃつまらないわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神「何故だ？」",
+        "after": "死神が何か言う前に、少女は考え込んでいた。"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "死神が何か言う前に、少女は考え込んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「だって、名前がないと不便なんだもの。これからずっと一緒にいることになるのに、死神のお兄さんじゃつまらないわ」",
+        "after": "遠野　紗夜「名前、名前……何にしようかしら」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "遠野　紗夜「名前、名前……何にしようかしら」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "死神が何か言う前に、少女は考え込んでいた。",
+        "after": "少女は死神を上から下までじいっと穴があくくらい見つめると、彼にぴったりの名前を思いついた。"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "少女は死神を上から下までじいっと穴があくくらい見つめると、彼にぴったりの名前を思いついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「名前、名前……何にしようかしら」",
+        "after": "遠野　紗夜「そうね……お兄さんの髪と眸は夜の色をしているし、本の中の死神と少女は十の国を旅するの」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "遠野　紗夜「そうね……お兄さんの髪と眸は夜の色をしているし、本の中の死神と少女は十の国を旅するの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は死神を上から下までじいっと穴があくくらい見つめると、彼にぴったりの名前を思いついた。",
+        "after": "遠野　紗夜「だから、『十夜』。名字は私のをあげる。貴方の名前は『遠野十夜』。どうかしら？」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "遠野　紗夜「だから、『十夜』。名字は私のをあげる。貴方の名前は『遠野十夜』。どうかしら？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうね……お兄さんの髪と眸は夜の色をしているし、本の中の死神と少女は十の国を旅するの」",
+        "after": "死神「『遠野十夜』」"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "死神「『遠野十夜』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "死神",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「だから、『十夜』。名字は私のをあげる。貴方の名前は『遠野十夜』。どうかしら？」",
+        "after": "死神はもらった名前を口にした。"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "死神はもらった名前を口にした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神「『遠野十夜』」",
+        "after": "馴れない違和感に首を傾げながらも、自らの名前を繰り返した。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "馴れない違和感に首を傾げながらも、自らの名前を繰り返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神はもらった名前を口にした。",
+        "after": "遠野　十夜「私は『遠野十夜』だな」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "遠野　十夜「私は『遠野十夜』だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "馴れない違和感に首を傾げながらも、自らの名前を繰り返した。",
+        "after": "遠野　紗夜「そうよ。『十夜兄さん』」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "遠野　紗夜「そうよ。『十夜兄さん』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「私は『遠野十夜』だな」",
+        "after": "そして、死神は少女に幻想をかけた。"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "そして、死神は少女に幻想をかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうよ。『十夜兄さん』」",
+        "after": "こうして、時は止まり、死神と少女は永い永い旅をすることとなった。"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "こうして、時は止まり、死神と少女は永い永い旅をすることとなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、死神は少女に幻想をかけた。",
+        "after": null
+      }
+    }
+  ]
+}

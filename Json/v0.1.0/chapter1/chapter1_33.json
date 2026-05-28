@@ -1,0 +1,1198 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_33.txt",
+    "chapter": "chapter1",
+    "total_lines": 65,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "無事に許可証をもらった私は、館内の奥へと身を進める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "勿論、目的は手に持った本を読む為だ。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "勿論、目的は手に持った本を読む為だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "無事に許可証をもらった私は、館内の奥へと身を進める。",
+        "after": "本棚の間をすり抜け、いつもの長テーブルが見えた時、"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "本棚の間をすり抜け、いつもの長テーブルが見えた時、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "勿論、目的は手に持った本を読む為だ。",
+        "after": "千代「本当に貴方は本が好きなんですね」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "千代「本当に貴方は本が好きなんですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "本棚の間をすり抜け、いつもの長テーブルが見えた時、",
+        "after": "遠野　紗夜「千代さん？」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「千代さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「本当に貴方は本が好きなんですね」",
+        "after": "そこには先客がいた。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "そこには先客がいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「千代さん？」",
+        "after": "窓辺から柔らかい午後の日差しが差し込んでいて、私は僅かに目を細めた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "窓辺から柔らかい午後の日差しが差し込んでいて、私は僅かに目を細めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには先客がいた。",
+        "after": "遠野　紗夜「……千代さん、どうしてこんな処に？　桐島先輩なら、先程カウンターの方にいましたけれど」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「……千代さん、どうしてこんな処に？　桐島先輩なら、先程カウンターの方にいましたけれど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "窓辺から柔らかい午後の日差しが差し込んでいて、私は僅かに目を細めた。",
+        "after": "千代「いえ、七葵君ではなく、貴方に会いに来ました」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "千代「いえ、七葵君ではなく、貴方に会いに来ました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……千代さん、どうしてこんな処に？　桐島先輩なら、先程カウンターの方にいましたけれど」",
+        "after": "遠野　紗夜「私に……？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「私に……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「いえ、七葵君ではなく、貴方に会いに来ました」",
+        "after": "千代「はい」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "千代「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私に……？」",
+        "after": "そう言うと、千代さんは私に一歩近づいた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "そう言うと、千代さんは私に一歩近づいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「はい」",
+        "after": "千代「お嬢さん。俺の言葉の意味、あれから考えてくれました？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "千代「お嬢さん。俺の言葉の意味、あれから考えてくれました？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、千代さんは私に一歩近づいた。",
+        "after": "遠野　紗夜「言葉の意味……？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「言葉の意味……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん。俺の言葉の意味、あれから考えてくれました？」",
+        "after": "千代「はい」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "千代「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「言葉の意味……？」",
+        "after": "私は三度目に彼と出会った時の言葉を思い出す。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "私は三度目に彼と出会った時の言葉を思い出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「はい」",
+        "after": "彼はあの時、時計塔の前で私に『知って欲しい』と言った。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "彼はあの時、時計塔の前で私に『知って欲しい』と言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は三度目に彼と出会った時の言葉を思い出す。",
+        "after": "遠野　紗夜「…………それは、ともゑさんのことですか？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「…………それは、ともゑさんのことですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼はあの時、時計塔の前で私に『知って欲しい』と言った。",
+        "after": "千代「…………」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "千代「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………それは、ともゑさんのことですか？」",
+        "after": "彼は黙ったまま、肯定も否定もしなかった。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "彼は黙ったまま、肯定も否定もしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「…………」",
+        "after": "それまで忘れていた、いや忘れようとしていた、私の疑問が再燃した。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "それまで忘れていた、いや忘れようとしていた、私の疑問が再燃した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は黙ったまま、肯定も否定もしなかった。",
+        "after": "遠野　紗夜「……逆に質問しても宜しいですか？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「……逆に質問しても宜しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それまで忘れていた、いや忘れようとしていた、私の疑問が再燃した。",
+        "after": "遠野　紗夜「貴方は、いえ、貴方と桐島先輩は一体何を知っているのですか？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「貴方は、いえ、貴方と桐島先輩は一体何を知っているのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……逆に質問しても宜しいですか？」",
+        "after": "遠野　紗夜「ともゑさんのこと、あの時計塔でのこと、聞きました」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「ともゑさんのこと、あの時計塔でのこと、聞きました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は、いえ、貴方と桐島先輩は一体何を知っているのですか？」",
+        "after": "遠野　紗夜「恋人に裏切られての自殺未遂……正直とても驚きました」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「恋人に裏切られての自殺未遂……正直とても驚きました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんのこと、あの時計塔でのこと、聞きました」",
+        "after": "遠野　紗夜「お二人は、このことを初めから知っていたのですか？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「お二人は、このことを初めから知っていたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「恋人に裏切られての自殺未遂……正直とても驚きました」",
+        "after": "遠野　紗夜「だから、桐島先輩は私に関わるなと仰ったのですか？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「だから、桐島先輩は私に関わるなと仰ったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お二人は、このことを初めから知っていたのですか？」",
+        "after": "遠野　紗夜「……ですが、千代さんは私に気づいて欲しいと仰るし、私には何が何だか……」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「……ですが、千代さんは私に気づいて欲しいと仰るし、私には何が何だか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「だから、桐島先輩は私に関わるなと仰ったのですか？」",
+        "after": "私はそこまで言って、目を伏せた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私はそこまで言って、目を伏せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ですが、千代さんは私に気づいて欲しいと仰るし、私には何が何だか……」",
+        "after": "千代「すみません……。困らせたいわけではなかったんです」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "千代「すみません……。困らせたいわけではなかったんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私はそこまで言って、目を伏せた。",
+        "after": "気落ちした声が聞こえた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "気落ちした声が聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「すみません……。困らせたいわけではなかったんです」",
+        "after": "千代「ただ、貴方には、見えるようだったから……」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "千代「ただ、貴方には、見えるようだったから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "気落ちした声が聞こえた。",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「ただ、貴方には、見えるようだったから……」",
+        "after": "彼の言葉を不思議に思い、再び顔を元に戻した。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "彼の言葉を不思議に思い、再び顔を元に戻した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "彼はとても真剣な、けれどとても切なげな表情をしていた。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "彼はとても真剣な、けれどとても切なげな表情をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼の言葉を不思議に思い、再び顔を元に戻した。",
+        "after": "目で訴えかけるというのは、正にこういうことを言うのだろう。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "目で訴えかけるというのは、正にこういうことを言うのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はとても真剣な、けれどとても切なげな表情をしていた。",
+        "after": "千代「お嬢さん。俺や七葵君は別にあの人と関わり合いがあるわけではないんです」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "千代「お嬢さん。俺や七葵君は別にあの人と関わり合いがあるわけではないんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "目で訴えかけるというのは、正にこういうことを言うのだろう。",
+        "after": "千代「けれど、俺達は知っている。知ってしまったとでもいうんでしょうか……」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "千代「けれど、俺達は知っている。知ってしまったとでもいうんでしょうか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん。俺や七葵君は別にあの人と関わり合いがあるわけではないんです」",
+        "after": "遠野　紗夜「仰る意味が分かりません」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「仰る意味が分かりません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「けれど、俺達は知っている。知ってしまったとでもいうんでしょうか……」",
+        "after": "千代「……そうですね」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "千代「……そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「仰る意味が分かりません」",
+        "after": "千代「ですが、お嬢さん。俺は貴方に知って欲しいんです」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "千代「ですが、お嬢さん。俺は貴方に知って欲しいんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「……そうですね」",
+        "after": "千代「そして、どうか言葉を伝えて彼女を救ってあげて下さい」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "千代「そして、どうか言葉を伝えて彼女を救ってあげて下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「ですが、お嬢さん。俺は貴方に知って欲しいんです」",
+        "after": "千代「七葵君は、動いてくれないし……」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "千代「七葵君は、動いてくれないし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「そして、どうか言葉を伝えて彼女を救ってあげて下さい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「七葵君は、動いてくれないし……」",
+        "after": "彼の落ち込んだ姿にどう声をかけていいものか迷っていると、千代さんは机の上に置かれた一冊の本を私の方に寄せた。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "彼の落ち込んだ姿にどう声をかけていいものか迷っていると、千代さんは机の上に置かれた一冊の本を私の方に寄せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "千代「この本」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "千代「この本」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "彼の落ち込んだ姿にどう声をかけていいものか迷っていると、千代さんは机の上に置かれた一冊の本を私の方に寄せた。",
+        "after": "千代「もしも、貴方がこれ以上この件に対して、関わる意志があるのなら、これを読むことをお勧めします」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "千代「もしも、貴方がこれ以上この件に対して、関わる意志があるのなら、これを読むことをお勧めします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「この本」",
+        "after": "千代「でも、これ以上関わりたくないというのなら、この本を元に戻して下さい」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "千代「でも、これ以上関わりたくないというのなら、この本を元に戻して下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「もしも、貴方がこれ以上この件に対して、関わる意志があるのなら、これを読むことをお勧めします」",
+        "after": "千代「きっと、彼女のこともすぐに忘れてしまいます」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "千代「きっと、彼女のこともすぐに忘れてしまいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「でも、これ以上関わりたくないというのなら、この本を元に戻して下さい」",
+        "after": "濃い茶の革表紙には、この学院の校章と『楓葉学院大附属高等学校』という文字が印字されてあった。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "濃い茶の革表紙には、この学院の校章と『楓葉学院大附属高等学校』という文字が印字されてあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「きっと、彼女のこともすぐに忘れてしまいます」",
+        "after": "その下には更に『第５４回』と書かれている。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "その下には更に『第５４回』と書かれている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "濃い茶の革表紙には、この学院の校章と『楓葉学院大附属高等学校』という文字が印字されてあった。",
+        "after": "遠野　紗夜「これは、卒業アルバム？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「これは、卒業アルバム？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その下には更に『第５４回』と書かれている。",
+        "after": "どこをどう見ても、そうとしか思えなかった。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "どこをどう見ても、そうとしか思えなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「これは、卒業アルバム？」",
+        "after": "遠野　紗夜「これに、何が……」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「これに、何が……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "どこをどう見ても、そうとしか思えなかった。",
+        "after": "千代「…………」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "千代「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「これに、何が……」",
+        "after": "千代さんは、とても穏やかな目で私を見た。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "千代さんは、とても穏やかな目で私を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「…………」",
+        "after": "千代「あまりお嬢さんに会ってると、七葵君に何か言われそうだ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "千代「あまりお嬢さんに会ってると、七葵君に何か言われそうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代さんは、とても穏やかな目で私を見た。",
+        "after": "千代「それでは」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "千代「それでは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「あまりお嬢さんに会ってると、七葵君に何か言われそうだ」",
+        "after": "遠野　紗夜「あっ！　待っ……」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「あっ！　待っ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「それでは」",
+        "after": "彼は私の制止を振り切り、走り去ってしまった。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "彼は私の制止を振り切り、走り去ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あっ！　待っ……」",
+        "after": "残された私はしばらく彼のいなくなった空間を見つめていたけれど、そのうちに目線を机の上に落とした。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "残された私はしばらく彼のいなくなった空間を見つめていたけれど、そのうちに目線を机の上に落とした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は私の制止を振り切り、走り去ってしまった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "残された私はしばらく彼のいなくなった空間を見つめていたけれど、そのうちに目線を机の上に落とした。",
+        "after": "遠野　紗夜「……第５４回、楓葉学院大附属高等学校卒業アルバム」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「……第５４回、楓葉学院大附属高等学校卒業アルバム」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "今の年から考えると、多分五年ほど前のものになるだろう。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "今の年から考えると、多分五年ほど前のものになるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……第５４回、楓葉学院大附属高等学校卒業アルバム」",
+        "after": "指でその表紙をなぞると、無機物らしく冷ややかだった。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "指でその表紙をなぞると、無機物らしく冷ややかだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今の年から考えると、多分五年ほど前のものになるだろう。",
+        "after": null
+      }
+    }
+  ]
+}

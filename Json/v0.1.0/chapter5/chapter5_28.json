@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_28.txt",
+    "chapter": "chapter5",
+    "total_lines": 30,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "桜、桜よ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "貴方はこの国の多くに愛され、"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "貴方はこの国の多くに愛され、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。",
+        "after": "また、貴方も人を愛し、見守ってきた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "また、貴方も人を愛し、見守ってきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方はこの国の多くに愛され、",
+        "after": "桜、桜よ。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "桜、桜よ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また、貴方も人を愛し、見守ってきた。",
+        "after": "それに比べ、私の何と日の浅いことか。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "それに比べ、私の何と日の浅いことか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。",
+        "after": "俺は彼の声を聞くうちに、今は意識だけの自分の胸がひどく締め付けられるような感覚を覚えた。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "俺は彼の声を聞くうちに、今は意識だけの自分の胸がひどく締め付けられるような感覚を覚えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それに比べ、私の何と日の浅いことか。",
+        "after": "俺はこの気持ちをよく知っている。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "俺はこの気持ちをよく知っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は彼の声を聞くうちに、今は意識だけの自分の胸がひどく締め付けられるような感覚を覚えた。",
+        "after": "彼は桜に憧れているのだ。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "彼は桜に憧れているのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺はこの気持ちをよく知っている。",
+        "after": "桜、桜よ。春の桜。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "桜、桜よ。春の桜。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は桜に憧れているのだ。",
+        "after": "冬も終わりに近づけば、枝から多くの芽が吹き出し、"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "冬も終わりに近づけば、枝から多くの芽が吹き出し、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜、桜よ。春の桜。",
+        "after": "貴方は花を開かせるだろう。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "貴方は花を開かせるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "冬も終わりに近づけば、枝から多くの芽が吹き出し、",
+        "after": "けれど、私はその頃には永い眠りについてしまう。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "けれど、私はその頃には永い眠りについてしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方は花を開かせるだろう。",
+        "after": "ああ、ああ、桜が見たい。桜の花が。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ああ、ああ、桜が見たい。桜の花が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、私はその頃には永い眠りについてしまう。",
+        "after": "貴方と似ているといわれた我が身。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "貴方と似ているといわれた我が身。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、ああ、桜が見たい。桜の花が。",
+        "after": "何故、貴方との間には、"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "何故、貴方との間には、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方と似ているといわれた我が身。",
+        "after": "幾百もの秋と幾千もの冬があるのだろう。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "幾百もの秋と幾千もの冬があるのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、貴方との間には、",
+        "after": "ああ、そうか。分かってしまった。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "ああ、そうか。分かってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "幾百もの秋と幾千もの冬があるのだろう。",
+        "after": "何故、彼がこうまでも桜の花を思うのか。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "何故、彼がこうまでも桜の花を思うのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、そうか。分かってしまった。",
+        "after": "何故、自分がこうも彼の感情に惹きつけられるのか。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "何故、自分がこうも彼の感情に惹きつけられるのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、彼がこうまでも桜の花を思うのか。",
+        "after": "彼が桜の花を思うのは必然だった。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "彼が桜の花を思うのは必然だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、自分がこうも彼の感情に惹きつけられるのか。",
+        "after": "何故なら、そうあるように名付けられたのだから。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "何故なら、そうあるように名付けられたのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が桜の花を思うのは必然だった。",
+        "after": "ああ、ああ、桜が見たい。桜の花が。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "ああ、ああ、桜が見たい。桜の花が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故なら、そうあるように名付けられたのだから。",
+        "after": "どうか、華やかに色咲いておくれ。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "どうか、華やかに色咲いておくれ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、ああ、桜が見たい。桜の花が。",
+        "after": "千年でも八千年でも、この世の続く限りずっと。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "千年でも八千年でも、この世の続く限りずっと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうか、華やかに色咲いておくれ。",
+        "after": "ああ、彼が苦しみに嘆いている。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ああ、彼が苦しみに嘆いている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千年でも八千年でも、この世の続く限りずっと。",
+        "after": "この胸の苦しさは益々増すばかり。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "この胸の苦しさは益々増すばかり。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、彼が苦しみに嘆いている。",
+        "after": "きっと、この先も彼は桜の花を想い続けるのだろう。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "きっと、この先も彼は桜の花を想い続けるのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この胸の苦しさは益々増すばかり。",
+        "after": "けれど、どんなに想ったところでお前の想いは叶うことなどない。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "けれど、どんなに想ったところでお前の想いは叶うことなどない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "きっと、この先も彼は桜の花を想い続けるのだろう。",
+        "after": "何故なら、お前は……お前の名は……"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "何故なら、お前は……お前の名は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、どんなに想ったところでお前の想いは叶うことなどない。",
+        "after": "秋に咲く　　なのだから。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "秋に咲く　　なのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故なら、お前は……お前の名は……",
+        "after": null
+      }
+    }
+  ]
+}

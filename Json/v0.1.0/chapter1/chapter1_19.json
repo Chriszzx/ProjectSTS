@@ -1,0 +1,2455 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_19.txt",
+    "chapter": "chapter1",
+    "total_lines": 134,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "そして、待ちに待った当日――",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「蒼、こちらです」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「蒼、こちらです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、待ちに待った当日――",
+        "after": "私の後ろを歩く彼に手招きをする。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私の後ろを歩く彼に手招きをする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼、こちらです」",
+        "after": "蒼「……ここは？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼「……ここは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私の後ろを歩く彼に手招きをする。",
+        "after": "彼は少し歩いた所で立ち止まり、ぐるりと辺りを見渡した。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "彼は少し歩いた所で立ち止まり、ぐるりと辺りを見渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「……ここは？」",
+        "after": "遠野　紗夜「ここは、商店街です。色んなものを売ったりしている店が立ち並んだ通りのことですよ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「ここは、商店街です。色んなものを売ったりしている店が立ち並んだ通りのことですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は少し歩いた所で立ち止まり、ぐるりと辺りを見渡した。",
+        "after": "蒼「それは分かる」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「それは分かる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ここは、商店街です。色んなものを売ったりしている店が立ち並んだ通りのことですよ」",
+        "after": "蒼「私が言いたいのは、何故ここに連れてきたかだ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "蒼「私が言いたいのは、何故ここに連れてきたかだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それは分かる」",
+        "after": "私は彼に近寄り、見上げた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は彼に近寄り、見上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私が言いたいのは、何故ここに連れてきたかだ」",
+        "after": "遠野　紗夜「貴方は、本で見たもの以外には特に興味はないのですか？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「貴方は、本で見たもの以外には特に興味はないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼に近寄り、見上げた。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は、本で見たもの以外には特に興味はないのですか？」",
+        "after": "遠野　紗夜「例の写真の場所へは後でも良いではありませんか。まだお昼にもなっていないのですよ？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「例の写真の場所へは後でも良いではありませんか。まだお昼にもなっていないのですよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "遠野　紗夜「写真と同じ夕方になるまでには、時間がかかります」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「写真と同じ夕方になるまでには、時間がかかります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「例の写真の場所へは後でも良いではありませんか。まだお昼にもなっていないのですよ？」",
+        "after": "遠野　紗夜「それまでの間、他の場所へ案内することに何か問題ありますでしょうか？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「それまでの間、他の場所へ案内することに何か問題ありますでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「写真と同じ夕方になるまでには、時間がかかります」",
+        "after": "遠野　紗夜「それに、貴方だって、ここにいつまでいるか分からないとはいえ、この周辺の土地に慣れておくことに損はないはずです」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「それに、貴方だって、ここにいつまでいるか分からないとはいえ、この周辺の土地に慣れておくことに損はないはずです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それまでの間、他の場所へ案内することに何か問題ありますでしょうか？」",
+        "after": "遠野　紗夜「……それに、言ったでしょう？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「……それに、言ったでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それに、貴方だって、ここにいつまでいるか分からないとはいえ、この周辺の土地に慣れておくことに損はないはずです」",
+        "after": "遠野　紗夜「分からないことがあるのなら、知っていけば良いと」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「分からないことがあるのなら、知っていけば良いと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それに、言ったでしょう？」",
+        "after": "大体のことは言い終わり、私は笑みを浮かべて、自分の髪を払った。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "大体のことは言い終わり、私は笑みを浮かべて、自分の髪を払った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「分からないことがあるのなら、知っていけば良いと」",
+        "after": "遠野　紗夜「他に何かご意見はありますか？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「他に何かご意見はありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "大体のことは言い終わり、私は笑みを浮かべて、自分の髪を払った。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「他に何かご意見はありますか？」",
+        "after": "彼は相も変わらず何を考えているのか分からない表情で私を見た後、軽く息を吐きながら目線を逸らした。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "彼は相も変わらず何を考えているのか分からない表情で私を見た後、軽く息を吐きながら目線を逸らした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "蒼「……まあいい。確かにお前の意見にも一理ある」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "蒼「……まあいい。確かにお前の意見にも一理ある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は相も変わらず何を考えているのか分からない表情で私を見た後、軽く息を吐きながら目線を逸らした。",
+        "after": "遠野　紗夜「それは良かった」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「それは良かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……まあいい。確かにお前の意見にも一理ある」",
+        "after": "私は彼の手を取ると商店街を歩き出した。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "私は彼の手を取ると商店街を歩き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは良かった」",
+        "after": "遠野　紗夜「とりあえず、ここをしばらく廻りましょう。色々なお店があって中々面白いと思いますよ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「とりあえず、ここをしばらく廻りましょう。色々なお店があって中々面白いと思いますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼の手を取ると商店街を歩き出した。",
+        "after": "遠野　紗夜「しばらく見て回ったら、お昼にしましょう。ちょうど良いところを知っているのです」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「しばらく見て回ったら、お昼にしましょう。ちょうど良いところを知っているのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「とりあえず、ここをしばらく廻りましょう。色々なお店があって中々面白いと思いますよ」",
+        "after": "遠野　紗夜「蒼は何か食べられないものはありますか？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「蒼は何か食べられないものはありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「しばらく見て回ったら、お昼にしましょう。ちょうど良いところを知っているのです」",
+        "after": "蒼「特にない」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「特にない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼は何か食べられないものはありますか？」",
+        "after": "遠野　紗夜「そうですか。安心しました」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「そうですか。安心しました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「特にない」",
+        "after": "遠野　紗夜「あ。ちなみに、あそこに見えるのが花屋さんで、小さいですが映画館などもあるのですよ」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「あ。ちなみに、あそこに見えるのが花屋さんで、小さいですが映画館などもあるのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか。安心しました」",
+        "after": "時々、後ろを振り返りながら、とりあえず目についた場所を説明していく。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "時々、後ろを振り返りながら、とりあえず目についた場所を説明していく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ。ちなみに、あそこに見えるのが花屋さんで、小さいですが映画館などもあるのですよ」",
+        "after": "彼は終始何も言わなかったけれど、ちょうど通りの中程まで来たところで足を止めた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "彼は終始何も言わなかったけれど、ちょうど通りの中程まで来たところで足を止めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時々、後ろを振り返りながら、とりあえず目についた場所を説明していく。",
+        "after": "蒼「紗夜」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は終始何も言わなかったけれど、ちょうど通りの中程まで来たところで足を止めた。",
+        "after": "蒼「はい？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「紗夜」",
+        "after": "蒼「あれは何だ」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「あれは何だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「はい？」",
+        "after": "遠野　紗夜「あれは……」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「あれは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「あれは何だ」",
+        "after": "彼の目線の先を追った。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "彼の目線の先を追った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あれは……」",
+        "after": "三角にピンと張った耳。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "三角にピンと張った耳。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼の目線の先を追った。",
+        "after": "オレンジ色の毛並み。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "オレンジ色の毛並み。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "三角にピンと張った耳。",
+        "after": "口元から伸びた立派な髭。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "口元から伸びた立派な髭。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "オレンジ色の毛並み。",
+        "after": "首元には蝶ネクタイが縛られており、頭の上には小さくて可愛らしいシルクハットが被さっている。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "首元には蝶ネクタイが縛られており、頭の上には小さくて可愛らしいシルクハットが被さっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口元から伸びた立派な髭。",
+        "after": "遠野　紗夜「猫、ですね。着ぐるみの」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「猫、ですね。着ぐるみの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "首元には蝶ネクタイが縛られており、頭の上には小さくて可愛らしいシルクハットが被さっている。",
+        "after": "蒼「……着ぐるみ？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「……着ぐるみ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「猫、ですね。着ぐるみの」",
+        "after": "その猫の着ぐるみは子供達に囲まれて、何やらチラシを配っているらしかった。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "その猫の着ぐるみは子供達に囲まれて、何やらチラシを配っているらしかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「……着ぐるみ？」",
+        "after": "受け取った子供達の頭をその大きな手で撫でてやっているのを見ていると、何だかこちらの気もとても和やかになる。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "受け取った子供達の頭をその大きな手で撫でてやっているのを見ていると、何だかこちらの気もとても和やかになる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その猫の着ぐるみは子供達に囲まれて、何やらチラシを配っているらしかった。",
+        "after": "蒼もその様子が気になったらしく、私達はしばらくその場に佇み眺めていた。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "蒼もその様子が気になったらしく、私達はしばらくその場に佇み眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "受け取った子供達の頭をその大きな手で撫でてやっているのを見ていると、何だかこちらの気もとても和やかになる。",
+        "after": "遠野　紗夜「あ、こちらを向きましたよ」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「あ、こちらを向きましたよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼もその様子が気になったらしく、私達はしばらくその場に佇み眺めていた。",
+        "after": "？？？「！！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "？？？「！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、こちらを向きましたよ」",
+        "after": "どうしてだろうか、急に着ぐるみの動きがきょろきょろ辺りを見渡したりと挙動不審になる。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "どうしてだろうか、急に着ぐるみの動きがきょろきょろ辺りを見渡したりと挙動不審になる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「！！」",
+        "after": "男の子「にゃんこ、どうしたのー？　わたわたしてるー」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "男の子「にゃんこ、どうしたのー？　わたわたしてるー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "男の子",
+      "special_char": false,
+      "context": {
+        "before": "どうしてだろうか、急に着ぐるみの動きがきょろきょろ辺りを見渡したりと挙動不審になる。",
+        "after": "女の子「あ」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "女の子「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女の子",
+      "special_char": false,
+      "context": {
+        "before": "男の子「にゃんこ、どうしたのー？　わたわたしてるー」",
+        "after": "小さな女の子が叫んだ時には、猫の着ぐるみはその場を駆けだしていた。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "小さな女の子が叫んだ時には、猫の着ぐるみはその場を駆けだしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女の子「あ」",
+        "after": "女の子「にゃんこどこ行くのーーーー！！」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "女の子「にゃんこどこ行くのーーーー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女の子",
+      "special_char": false,
+      "context": {
+        "before": "小さな女の子が叫んだ時には、猫の着ぐるみはその場を駆けだしていた。",
+        "after": "男の子「逃げたぞ追いかけろーー！！」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "男の子「逃げたぞ追いかけろーー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "男の子",
+      "special_char": false,
+      "context": {
+        "before": "女の子「にゃんこどこ行くのーーーー！！」",
+        "after": "そして、その後を追いかける子供達。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "そして、その後を追いかける子供達。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "男の子「逃げたぞ追いかけろーー！！」",
+        "after": "蒼「何だ」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "蒼「何だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "そして、その後を追いかける子供達。",
+        "after": "遠野　紗夜「さあ……」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「さあ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何だ」",
+        "after": "私達は首を傾げた。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "私達は首を傾げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「さあ……」",
+        "after": "ウエイトレス「いらっしゃいませー。二名様ですね。こちらの席にどうぞ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "ウエイトレス「いらっしゃいませー。二名様ですね。こちらの席にどうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ウエイトレス",
+      "special_char": false,
+      "context": {
+        "before": "私達は首を傾げた。",
+        "after": "商店街をあらかた見回った私達は近くの喫茶店に入った。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "商店街をあらかた見回った私達は近くの喫茶店に入った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ウエイトレス「いらっしゃいませー。二名様ですね。こちらの席にどうぞ」",
+        "after": "店員に案内されて、窓際の席につき、メニューを決めた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "店員に案内されて、窓際の席につき、メニューを決めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "商店街をあらかた見回った私達は近くの喫茶店に入った。",
+        "after": "窓はステンドグラスになっており、藤の花が描かれている。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "窓はステンドグラスになっており、藤の花が描かれている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "店員に案内されて、窓際の席につき、メニューを決めた。",
+        "after": "勿論それだけではなく、硝子になっている部分全てに装飾がされてあり、"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "勿論それだけではなく、硝子になっている部分全てに装飾がされてあり、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "窓はステンドグラスになっており、藤の花が描かれている。",
+        "after": "しかもその全てが和を感じさせるもので、店内は和洋折衷入り交じった何とも幻想的な雰囲気に包まれていた。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "しかもその全てが和を感じさせるもので、店内は和洋折衷入り交じった何とも幻想的な雰囲気に包まれていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "勿論それだけではなく、硝子になっている部分全てに装飾がされてあり、",
+        "after": "ここは私のお気に入りの場所の一つだった。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "ここは私のお気に入りの場所の一つだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しかもその全てが和を感じさせるもので、店内は和洋折衷入り交じった何とも幻想的な雰囲気に包まれていた。",
+        "after": "出された水を少し口にし、机の上に置くと私は彼に話しかけた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "出された水を少し口にし、机の上に置くと私は彼に話しかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ここは私のお気に入りの場所の一つだった。",
+        "after": "遠野　紗夜「そういえば……」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「そういえば……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "出された水を少し口にし、机の上に置くと私は彼に話しかけた。",
+        "after": "蒼「何だ？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "蒼「何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そういえば……」",
+        "after": "彼はステンドグラスから私へと視線を移す。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "彼はステンドグラスから私へと視線を移す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「何だ？」",
+        "after": "遠野　紗夜「服、着替えたのですね」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「服、着替えたのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼はステンドグラスから私へと視線を移す。",
+        "after": "蒼「ああ……。春夫に、これに着替えろと言われた」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "蒼「ああ……。春夫に、これに着替えろと言われた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「服、着替えたのですね」",
+        "after": "遠野　紗夜「とても、お似合いだと思いますよ」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「とても、お似合いだと思いますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ……。春夫に、これに着替えろと言われた」",
+        "after": "蒼「そうか？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "蒼「そうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「とても、お似合いだと思いますよ」",
+        "after": "遠野　紗夜「はい。とても」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「はい。とても」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうか？」",
+        "after": "恐らく、臥待さんが色々と配慮してくれたのだろう。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "恐らく、臥待さんが色々と配慮してくれたのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。とても」",
+        "after": "確かにあの格好で町を練り歩くのには問題がある。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "確かにあの格好で町を練り歩くのには問題がある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "恐らく、臥待さんが色々と配慮してくれたのだろう。",
+        "after": "ただでさえも彼は目立つ容姿をしているのに、あの格好では更に注目を浴びてしまう。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "ただでさえも彼は目立つ容姿をしているのに、あの格好では更に注目を浴びてしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かにあの格好で町を練り歩くのには問題がある。",
+        "after": "何せ、彼は『死神』と噂されていたくらいなのだから。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "何せ、彼は『死神』と噂されていたくらいなのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただでさえも彼は目立つ容姿をしているのに、あの格好では更に注目を浴びてしまう。",
+        "after": "遠野　紗夜「ちなみに、どうですか？　外に出てみた感想は」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠野　紗夜「ちなみに、どうですか？　外に出てみた感想は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何せ、彼は『死神』と噂されていたくらいなのだから。",
+        "after": "蒼「未だ少し歩いただけだろう。それだけで判断しろと言われても無理がある」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "蒼「未だ少し歩いただけだろう。それだけで判断しろと言われても無理がある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ちなみに、どうですか？　外に出てみた感想は」",
+        "after": "遠野　紗夜「それはそうですね。失礼しました」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　紗夜「それはそうですね。失礼しました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「未だ少し歩いただけだろう。それだけで判断しろと言われても無理がある」",
+        "after": "グラスの中の氷が溶けてからんと崩れた。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "グラスの中の氷が溶けてからんと崩れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それはそうですね。失礼しました」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "グラスの中の氷が溶けてからんと崩れた。",
+        "after": "目の前に座った彼は腕を組み、私を見た。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "目の前に座った彼は腕を組み、私を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "いや、違う。私の後ろにある窓を見ているのだ。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "いや、違う。私の後ろにある窓を見ているのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目の前に座った彼は腕を組み、私を見た。",
+        "after": "蒼「……だが、この町は、随分と雑然としているな」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "蒼「……だが、この町は、随分と雑然としているな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "いや、違う。私の後ろにある窓を見ているのだ。",
+        "after": "遠野　紗夜「雑然、ですか？」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "遠野　紗夜「雑然、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……だが、この町は、随分と雑然としているな」",
+        "after": "私は組んだ両手に顎を乗せた。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "私は組んだ両手に顎を乗せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「雑然、ですか？」",
+        "after": "蒼「ああ。様々な文化が溶け合って存在している気がする」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "蒼「ああ。様々な文化が溶け合って存在している気がする」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は組んだ両手に顎を乗せた。",
+        "after": "蒼「例えば、この商店街や時計塔などは西洋的外観をした建物が多いというのに、その近くにある民家は和風だ」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "蒼「例えば、この商店街や時計塔などは西洋的外観をした建物が多いというのに、その近くにある民家は和風だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ。様々な文化が溶け合って存在している気がする」",
+        "after": "蒼「春夫の家、あれは商家というのだろう？」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "蒼「春夫の家、あれは商家というのだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「例えば、この商店街や時計塔などは西洋的外観をした建物が多いというのに、その近くにある民家は和風だ」",
+        "after": "遠野　紗夜「よくご存じですね」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "遠野　紗夜「よくご存じですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「春夫の家、あれは商家というのだろう？」",
+        "after": "遠野　紗夜「そうですね……。蒼が言っている通り、そういう意味では雑然としているのかもしれませんね」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「そうですね……。蒼が言っている通り、そういう意味では雑然としているのかもしれませんね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「よくご存じですね」",
+        "after": "遠野　紗夜「この商店街に立てられた建物も西洋のようで西洋でない雰囲気のものもありますしね」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　紗夜「この商店街に立てられた建物も西洋のようで西洋でない雰囲気のものもありますしね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね……。蒼が言っている通り、そういう意味では雑然としているのかもしれませんね」",
+        "after": "遠野　紗夜「この喫茶店などもそうですね」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「この喫茶店などもそうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この商店街に立てられた建物も西洋のようで西洋でない雰囲気のものもありますしね」",
+        "after": "蒼「確かに、外観などは西洋風建築を意識しているが、所々不思議な部分があるな」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "蒼「確かに、外観などは西洋風建築を意識しているが、所々不思議な部分があるな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この喫茶店などもそうですね」",
+        "after": "遠野　紗夜「ふふ。そういった和式と西洋式の様式を一緒に取り入れることをこちらの言葉で『和洋折衷』と言うのですが」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　紗夜「ふふ。そういった和式と西洋式の様式を一緒に取り入れることをこちらの言葉で『和洋折衷』と言うのですが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「確かに、外観などは西洋風建築を意識しているが、所々不思議な部分があるな」",
+        "after": "遠野　紗夜「この町は、元々貿易港でしたので。他の土地よりも、外国から受けた影響が大きいのです」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "遠野　紗夜「この町は、元々貿易港でしたので。他の土地よりも、外国から受けた影響が大きいのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふふ。そういった和式と西洋式の様式を一緒に取り入れることをこちらの言葉で『和洋折衷』と言うのですが」",
+        "after": "蒼「港か……。ならば、船も見ることが出来るのか」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "蒼「港か……。ならば、船も見ることが出来るのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この町は、元々貿易港でしたので。他の土地よりも、外国から受けた影響が大きいのです」",
+        "after": "遠野　紗夜「ええ。後で海にも行ってみますか？」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "遠野　紗夜「ええ。後で海にも行ってみますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「港か……。ならば、船も見ることが出来るのか」",
+        "after": "蒼「ああ、そうだな」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "蒼「ああ、そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。後で海にも行ってみますか？」",
+        "after": "区切りの良いところで、頼んだ品がやって来た。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "区切りの良いところで、頼んだ品がやって来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ、そうだな」",
+        "after": "ウエイトレス「お待たせ致しました。長芋と明太子の和風ドリアとほうれん草と卵のドリアです。ご注文の品は以上で宜しいでしょうか」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "ウエイトレス「お待たせ致しました。長芋と明太子の和風ドリアとほうれん草と卵のドリアです。ご注文の品は以上で宜しいでしょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ウエイトレス",
+      "special_char": false,
+      "context": {
+        "before": "区切りの良いところで、頼んだ品がやって来た。",
+        "after": "遠野　紗夜「はい。ありがとうございます」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「はい。ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ウエイトレス「お待たせ致しました。長芋と明太子の和風ドリアとほうれん草と卵のドリアです。ご注文の品は以上で宜しいでしょうか」",
+        "after": "机の上に置かれたドリアが二つ。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "机の上に置かれたドリアが二つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。ありがとうございます」",
+        "after": "蒼は分からないだろうからと私が適当に頼んだのだ。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "蒼は分からないだろうからと私が適当に頼んだのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "机の上に置かれたドリアが二つ。",
+        "after": "私はここに来ると決まって、ドリアを頼むことにしている。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "私はここに来ると決まって、ドリアを頼むことにしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼は分からないだろうからと私が適当に頼んだのだ。",
+        "after": "遠野　紗夜「さあ、どうぞ。ここの喫茶店のドリア、美味しいのですよ」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「さあ、どうぞ。ここの喫茶店のドリア、美味しいのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はここに来ると決まって、ドリアを頼むことにしている。",
+        "after": "自分が口をつける前に彼が口に入れるのを待った。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "自分が口をつける前に彼が口に入れるのを待った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「さあ、どうぞ。ここの喫茶店のドリア、美味しいのですよ」",
+        "after": "彼はスプーンを手に持つと、早速口につける。"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "彼はスプーンを手に持つと、早速口につける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分が口をつける前に彼が口に入れるのを待った。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼はスプーンを手に持つと、早速口につける。",
+        "after": "彼の様子がおかしい。ドリアを口に入れてから、ぴたっと動きが止まってしまった。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "彼の様子がおかしい。ドリアを口に入れてから、ぴたっと動きが止まってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "遠野　紗夜「……どうしたのですか？　もしかして、お口に合わなかったとか……」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "遠野　紗夜「……どうしたのですか？　もしかして、お口に合わなかったとか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼の様子がおかしい。ドリアを口に入れてから、ぴたっと動きが止まってしまった。",
+        "after": "彼は一言呟いた。"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "彼は一言呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……どうしたのですか？　もしかして、お口に合わなかったとか……」",
+        "after": "蒼「……熱い」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "蒼「……熱い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は一言呟いた。",
+        "after": "遠野　紗夜「お水！！　お水を飲んで下さい！！」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "遠野　紗夜「お水！！　お水を飲んで下さい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……熱い」",
+        "after": "私は慌てて、彼と自分の水を手に取らせた。"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "私は慌てて、彼と自分の水を手に取らせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お水！！　お水を飲んで下さい！！」",
+        "after": "蒼「……っ、はあ……」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "蒼「……っ、はあ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は慌てて、彼と自分の水を手に取らせた。",
+        "after": "遠野　紗夜「……大丈夫ですか？」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "遠野　紗夜「……大丈夫ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……っ、はあ……」",
+        "after": "遠野　紗夜「すみません……。熱いので気をつけて下さいというのを忘れていました……」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "遠野　紗夜「すみません……。熱いので気をつけて下さいというのを忘れていました……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……大丈夫ですか？」",
+        "after": "蒼「そういうことは早く言え」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "蒼「そういうことは早く言え」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません……。熱いので気をつけて下さいというのを忘れていました……」",
+        "after": "彼は私の分まで水を飲み干すと、再びドリアを見下ろした。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "彼は私の分まで水を飲み干すと、再びドリアを見下ろした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そういうことは早く言え」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は私の分まで水を飲み干すと、再びドリアを見下ろした。",
+        "after": "蒼「……何だ？」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "蒼「……何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「いえ。まだ、熱いのでしばらく待っていた方が良いですよ」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「いえ。まだ、熱いのでしばらく待っていた方が良いですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……何だ？」",
+        "after": "蒼「言われなくとも分かっている」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "蒼「言われなくとも分かっている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ。まだ、熱いのでしばらく待っていた方が良いですよ」",
+        "after": "ウエイトレス「ありがとうございました」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "ウエイトレス「ありがとうございました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ウエイトレス",
+      "special_char": false,
+      "context": {
+        "before": "蒼「言われなくとも分かっている」",
+        "after": "遠野　紗夜「……さて。お昼も食べ終わりましたし、次はどうしましょうか」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "遠野　紗夜「……さて。お昼も食べ終わりましたし、次はどうしましょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ウエイトレス「ありがとうございました」",
+        "after": "蒼「お前に任せる」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "蒼「お前に任せる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……さて。お昼も食べ終わりましたし、次はどうしましょうか」",
+        "after": "遠野　紗夜「では……」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "遠野　紗夜「では……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前に任せる」",
+        "after": "学校に案内する"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "学校に案内する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「では……」",
+        "after": "港に案内する"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "港に案内する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "学校に案内する",
+        "after": "公園に案内する"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "公園に案内する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "港に案内する",
+        "after": "住宅街に案内する"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "住宅街に案内する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "公園に案内する",
+        "after": null
+      }
+    }
+  ]
+}

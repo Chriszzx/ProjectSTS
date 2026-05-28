@@ -1,0 +1,1782 @@
+{
+  "meta": {
+    "file": "hinase/hinase_20.txt",
+    "chapter": "hinase",
+    "total_lines": 97,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「わあ……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「凄いです！！　これでホームラン二回目ですよ！！」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「凄いです！！　これでホームラン二回目ですよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「わあ……！」",
+        "after": "日生　光「そうですねー」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "日生　光「そうですねー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「凄いです！！　これでホームラン二回目ですよ！！」",
+        "after": "遠野　紗夜「光さんは、本当に何でも出来るのですね……」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「光さんは、本当に何でも出来るのですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうですねー」",
+        "after": "日生　光「うん。僕は完璧だから」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "日生　光「うん。僕は完璧だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんは、本当に何でも出来るのですね……」",
+        "after": "この裏付けされた自信。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "この裏付けされた自信。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「うん。僕は完璧だから」",
+        "after": "確かに、彼は完璧だと思う。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "確かに、彼は完璧だと思う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この裏付けされた自信。",
+        "after": "遠野　紗夜「私も負けてはいられませんね……！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「私も負けてはいられませんね……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "確かに、彼は完璧だと思う。",
+        "after": "日生　光「お。じゃあ、交代ね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "日生　光「お。じゃあ、交代ね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も負けてはいられませんね……！」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「お。じゃあ、交代ね」",
+        "after": "足を開き、バッドを構える。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "足を開き、バッドを構える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "確かこんな風にすればいいはず、と以前読んだ本を思い出す。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "確かこんな風にすればいいはず、と以前読んだ本を思い出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "足を開き、バッドを構える。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "確かこんな風にすればいいはず、と以前読んだ本を思い出す。",
+        "after": "けれど、現実は本のように上手くはいかない。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "けれど、現実は本のように上手くはいかない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「あー……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "日生　光「あー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "けれど、現実は本のように上手くはいかない。",
+        "after": "見事な空振り。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "見事な空振り。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あー……」",
+        "after": "バットを振った反動で少しよろける。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "バットを振った反動で少しよろける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "見事な空振り。",
+        "after": "遠野　紗夜「……結構、大変……なの……ですね……」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「……結構、大変……なの……ですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "バットを振った反動で少しよろける。",
+        "after": "はあはあ、と早くも一球目から息が乱れる。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "はあはあ、と早くも一球目から息が乱れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……結構、大変……なの……ですね……」",
+        "after": "日生　光「次くるよ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　光「次くるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "はあはあ、と早くも一球目から息が乱れる。",
+        "after": "声をかけられ、はっとする間に次のボールが発射された。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "声をかけられ、はっとする間に次のボールが発射された。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「次くるよ」",
+        "after": "空振りすらすることなく、ボールはネットにぶつかった。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "空振りすらすることなく、ボールはネットにぶつかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声をかけられ、はっとする間に次のボールが発射された。",
+        "after": "その後も諦めずに何度も繰り返した。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "その後も諦めずに何度も繰り返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "空振りすらすることなく、ボールはネットにぶつかった。",
+        "after": "何球目か分からないが、もう大分体力が尽きてきた頃だった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "何球目か分からないが、もう大分体力が尽きてきた頃だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その後も諦めずに何度も繰り返した。",
+        "after": "遠野　紗夜「っ！」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何球目か分からないが、もう大分体力が尽きてきた頃だった。",
+        "after": "日生　光「おー、打てたじゃないか」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "日生　光「おー、打てたじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「っ！」",
+        "after": "ようやく、バットにボールが当たった。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "ようやく、バットにボールが当たった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「おー、打てたじゃないか」",
+        "after": "ボールは真っ直ぐに飛んだが、低く、すぐに地面に当たりバウンドして転がっていった。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "ボールは真っ直ぐに飛んだが、低く、すぐに地面に当たりバウンドして転がっていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ようやく、バットにボールが当たった。",
+        "after": "ボールがバットに当たるというのは、意外にも衝撃を喰らうものだと初めて知った。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "ボールがバットに当たるというのは、意外にも衝撃を喰らうものだと初めて知った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ボールは真っ直ぐに飛んだが、低く、すぐに地面に当たりバウンドして転がっていった。",
+        "after": "遠野　紗夜「う、腕が痺れます……」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「う、腕が痺れます……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ボールがバットに当たるというのは、意外にも衝撃を喰らうものだと初めて知った。",
+        "after": "思わず片手を離して、手を開いたり閉じたりする。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "思わず片手を離して、手を開いたり閉じたりする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「う、腕が痺れます……」",
+        "after": "私は振り返り、後ろで見守ってくれているはずの光さんに嬉しげに報告した。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "私は振り返り、後ろで見守ってくれているはずの光さんに嬉しげに報告した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思わず片手を離して、手を開いたり閉じたりする。",
+        "after": "遠野　紗夜「ですが、見ましたか！？　打てましたよ！」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「ですが、見ましたか！？　打てましたよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は振り返り、後ろで見守ってくれているはずの光さんに嬉しげに報告した。",
+        "after": "日生　光「うんうん、凄い凄い」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「うんうん、凄い凄い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、見ましたか！？　打てましたよ！」",
+        "after": "そう言って笑う光さんの背後には数人の人影があった。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "そう言って笑う光さんの背後には数人の人影があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「うんうん、凄い凄い」",
+        "after": "おじさんＡ「美人な姉ちゃんがんばれー！！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "おじさんＡ「美人な姉ちゃんがんばれー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "おじさんＡ",
+      "special_char": false,
+      "context": {
+        "before": "そう言って笑う光さんの背後には数人の人影があった。",
+        "after": "おじさんＢ「脇だ！　脇！　脇を締めるのがコツだよ！！」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "おじさんＢ「脇だ！　脇！　脇を締めるのがコツだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "おじさんＢ",
+      "special_char": false,
+      "context": {
+        "before": "おじさんＡ「美人な姉ちゃんがんばれー！！」",
+        "after": "いつの間にか私達の周りにはギャラリーが出来ていたようだった。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "いつの間にか私達の周りにはギャラリーが出来ていたようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "おじさんＢ「脇だ！　脇！　脇を締めるのがコツだよ！！」",
+        "after": "遠野　紗夜「あ、ありがとうございます……」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「あ、ありがとうございます……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いつの間にか私達の周りにはギャラリーが出来ていたようだった。",
+        "after": "日生　光「ほら！　次！！　次来るよ！！」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "日生　光「ほら！　次！！　次来るよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、ありがとうございます……」",
+        "after": "遠野　紗夜「はい！」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「はい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ほら！　次！！　次来るよ！！」",
+        "after": "言われて、すぐに前を向く。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "言われて、すぐに前を向く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい！」",
+        "after": "遠野　紗夜「っ！！」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「っ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "言われて、すぐに前を向く。",
+        "after": "見事な空振り。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "見事な空振り。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「っ！！」",
+        "after": "勢い余って尻餅をついた。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "勢い余って尻餅をついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "見事な空振り。",
+        "after": "遠野　紗夜「……何だか、驚いてしまいました」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「……何だか、驚いてしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "勢い余って尻餅をついた。",
+        "after": "遠野　紗夜「まさか、いつの間にか人が集まっていただなんて……」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「まさか、いつの間にか人が集まっていただなんて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何だか、驚いてしまいました」",
+        "after": "日生　光「まあ、滅茶苦茶目立ってたからねぇ」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "日生　光「まあ、滅茶苦茶目立ってたからねぇ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「まさか、いつの間にか人が集まっていただなんて……」",
+        "after": "遠野　紗夜「……やはり、この格好でやるのは無理があったでしょうか？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「……やはり、この格好でやるのは無理があったでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、滅茶苦茶目立ってたからねぇ」",
+        "after": "スカートをつまむ。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "スカートをつまむ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……やはり、この格好でやるのは無理があったでしょうか？」",
+        "after": "日生　光「……いやぁ？　それよりも、紗夜が可愛かったからじゃないの？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "日生　光「……いやぁ？　それよりも、紗夜が可愛かったからじゃないの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "スカートをつまむ。",
+        "after": "遠野　紗夜「……それは、惚気ですか？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「……それは、惚気ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……いやぁ？　それよりも、紗夜が可愛かったからじゃないの？」",
+        "after": "日生　光「そうですよー惚気です」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "日生　光「そうですよー惚気です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それは、惚気ですか？」",
+        "after": "遠野　紗夜「……ふふっ」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「……ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうですよー惚気です」",
+        "after": "遠野　紗夜「今度、行く時にはもっと相応しい格好で行くことにします」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「今度、行く時にはもっと相応しい格好で行くことにします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ふふっ」",
+        "after": "日生　光「それってズボンってこと？　……うーん、カジュアルな姿も見てみたいと思うけど」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "日生　光「それってズボンってこと？　……うーん、カジュアルな姿も見てみたいと思うけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今度、行く時にはもっと相応しい格好で行くことにします」",
+        "after": "日生　光「良いんじゃない、そのままで」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "日生　光「良いんじゃない、そのままで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それってズボンってこと？　……うーん、カジュアルな姿も見てみたいと思うけど」",
+        "after": "遠野　紗夜「また、浮いてしまいますよ？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「また、浮いてしまいますよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「良いんじゃない、そのままで」",
+        "after": "日生　光「それがまた、君らしくって良いよ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　光「それがまた、君らしくって良いよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「また、浮いてしまいますよ？」",
+        "after": "遠野　紗夜「私らしくてですか？」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「私らしくてですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それがまた、君らしくって良いよ」",
+        "after": "日生　光「うん」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "日生　光「うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私らしくてですか？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うん」",
+        "after": "遠野　紗夜「……なら、このままでいることにします」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「……なら、このままでいることにします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "自然と繋がっていた手。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "自然と繋がっていた手。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……なら、このままでいることにします」",
+        "after": "並んで歩いていることが、とても気恥ずかしくて、とても嬉しい。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "並んで歩いていることが、とても気恥ずかしくて、とても嬉しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自然と繋がっていた手。",
+        "after": "しばらく他愛もない話をしながら歩いていると、とあるアイスクリーム屋が目についた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "しばらく他愛もない話をしながら歩いていると、とあるアイスクリーム屋が目についた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "並んで歩いていることが、とても気恥ずかしくて、とても嬉しい。",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "しばらく他愛もない話をしながら歩いていると、とあるアイスクリーム屋が目についた。",
+        "after": "遠野　紗夜「光さん」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「光さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "日生　光「え？」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生　光「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さん」",
+        "after": "遠野　紗夜「アイス、食べませんか？」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「アイス、食べませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「え？」",
+        "after": "日生　光「……アイスか。何が良い？　買ってくるよ」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "日生　光「……アイスか。何が良い？　買ってくるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「アイス、食べませんか？」",
+        "after": "遠野　紗夜「え？　あ……では、苺で」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「え？　あ……では、苺で」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……アイスか。何が良い？　買ってくるよ」",
+        "after": "日生　光「ん、りょーかい」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "日生　光「ん、りょーかい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　あ……では、苺で」",
+        "after": "そう言うと、店の方へと駆けていく。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "そう言うと、店の方へと駆けていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ん、りょーかい」",
+        "after": "暫くして、光さんはアイスクリームを片手に戻ってきた。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "暫くして、光さんはアイスクリームを片手に戻ってきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言うと、店の方へと駆けていく。",
+        "after": "日生　光「はい、どうぞ」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "日生　光「はい、どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "暫くして、光さんはアイスクリームを片手に戻ってきた。",
+        "after": "手渡された薄紅色のアイスクリーム。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "手渡された薄紅色のアイスクリーム。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はい、どうぞ」",
+        "after": "遠野　紗夜「ありがとうございます。あの、代金は……」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「ありがとうございます。あの、代金は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "手渡された薄紅色のアイスクリーム。",
+        "after": "日生　光「いくらエスコートされているのは僕だとしても、こういうのは奢らせてよ」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "日生　光「いくらエスコートされているのは僕だとしても、こういうのは奢らせてよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます。あの、代金は……」",
+        "after": "ここで反論すればかえって失礼だと思い、"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "ここで反論すればかえって失礼だと思い、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「いくらエスコートされているのは僕だとしても、こういうのは奢らせてよ」",
+        "after": "遠野　紗夜「では、遠慮なく」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　紗夜「では、遠慮なく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ここで反論すればかえって失礼だと思い、",
+        "after": "と、素直に応じる。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "と、素直に応じる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「では、遠慮なく」",
+        "after": "日生　光「それでよし」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "日生　光「それでよし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "と、素直に応じる。",
+        "after": "遠野　紗夜「……光さんの分は？」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　紗夜「……光さんの分は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それでよし」",
+        "after": "日生　光「僕はいいから、紗夜だけ食べな」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "日生　光「僕はいいから、紗夜だけ食べな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……光さんの分は？」",
+        "after": "遠野　紗夜「はぁ……」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「はぁ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕はいいから、紗夜だけ食べな」",
+        "after": "……光さんがいらないなら言うべきではなかったか、と少しばかり後悔する。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "……光さんがいらないなら言うべきではなかったか、と少しばかり後悔する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はぁ……」",
+        "after": "一舐めすると、舌先から一気に体が冷えていく気がした。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "一舐めすると、舌先から一気に体が冷えていく気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "……光さんがいらないなら言うべきではなかったか、と少しばかり後悔する。",
+        "after": "日生　光「美味しい？」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "日生　光「美味しい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "一舐めすると、舌先から一気に体が冷えていく気がした。",
+        "after": "遠野　紗夜「はい。美味しいです」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "遠野　紗夜「はい。美味しいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「美味しい？」",
+        "after": "日生　光「じゃあ、僕も一口」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "日生　光「じゃあ、僕も一口」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。美味しいです」",
+        "after": "私は手に持ったアイスクリームを彼に渡そうとすると、素早くキスされた。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "私は手に持ったアイスクリームを彼に渡そうとすると、素早くキスされた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「じゃあ、僕も一口」",
+        "after": "日生　光「……うん。甘いね」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "日生　光「……うん。甘いね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は手に持ったアイスクリームを彼に渡そうとすると、素早くキスされた。",
+        "after": "突然のことにアイスクリームを落としそうになったけれど、光さんが手を添えてくれたおかげで難を逃れた。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "突然のことにアイスクリームを落としそうになったけれど、光さんが手を添えてくれたおかげで難を逃れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「……うん。甘いね」",
+        "after": "遠野　紗夜「それは、確かに甘いです……」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「それは、確かに甘いです……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "突然のことにアイスクリームを落としそうになったけれど、光さんが手を添えてくれたおかげで難を逃れた。",
+        "after": "日生　光「あはっ」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "日生　光「あはっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは、確かに甘いです……」",
+        "after": "彼は少し癖のあるいつもの笑い方をした。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "彼は少し癖のあるいつもの笑い方をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あはっ」",
+        "after": null
+      }
+    }
+  ]
+}

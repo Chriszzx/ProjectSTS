@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_13.txt",
+    "chapter": "kirishima",
+    "total_lines": 15,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　十夜「紗夜、入るよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「兄さん」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「兄さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「紗夜、入るよ」",
+        "after": "兄が現れ、一度作業を中断する。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "兄が現れ、一度作業を中断する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん」",
+        "after": "遠野　十夜「何をしているんだい？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　十夜「何をしているんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄が現れ、一度作業を中断する。",
+        "after": "私は身を引いて、机の上に散らばった作りかけのブレスレットを見せた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私は身を引いて、机の上に散らばった作りかけのブレスレットを見せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「何をしているんだい？」",
+        "after": "遠野　十夜「これは？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　十夜「これは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "私は身を引いて、机の上に散らばった作りかけのブレスレットを見せた。",
+        "after": "遠野　紗夜「ブレスレットです。夏帆が今アクセサリーを作るのに嵌っているらしく、それに便乗して私も作ってみることにしたのです。……変でしょうか？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「ブレスレットです。夏帆が今アクセサリーを作るのに嵌っているらしく、それに便乗して私も作ってみることにしたのです。……変でしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「これは？」",
+        "after": "遠野　十夜「まさか。すごく良く出来ていると思うよ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　十夜「まさか。すごく良く出来ていると思うよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ブレスレットです。夏帆が今アクセサリーを作るのに嵌っているらしく、それに便乗して私も作ってみることにしたのです。……変でしょうか？」",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「まさか。すごく良く出来ていると思うよ」",
+        "after": "遠野　十夜「そうか。家に帰ってくるなり、ずっと部屋に閉じこもっていると思ったら、これを作ってたのか」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　十夜「そうか。家に帰ってくるなり、ずっと部屋に閉じこもっていると思ったら、これを作ってたのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "遠野　紗夜「はい。兄さんはどうしたのですか？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「はい。兄さんはどうしたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そうか。家に帰ってくるなり、ずっと部屋に閉じこもっていると思ったら、これを作ってたのか」",
+        "after": "遠野　十夜「俺は紗夜に本を読み聞かせてあげようと思って来たんだけどな」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　十夜「俺は紗夜に本を読み聞かせてあげようと思って来たんだけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。兄さんはどうしたのですか？」",
+        "after": "遠野　紗夜「……あ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「……あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「俺は紗夜に本を読み聞かせてあげようと思って来たんだけどな」",
+        "after": "遠野　紗夜「……少し待って下さいませんか？　今、片づけます」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「……少し待って下さいませんか？　今、片づけます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……あ」",
+        "after": "遠野　十夜「急がなくてもいいよ。ゆっくりおいで」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　十夜「急がなくてもいいよ。ゆっくりおいで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……少し待って下さいませんか？　今、片づけます」",
+        "after": null
+      }
+    }
+  ]
+}

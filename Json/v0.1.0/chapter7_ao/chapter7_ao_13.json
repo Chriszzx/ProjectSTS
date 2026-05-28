@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_13.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 31,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "小さな頃の私は友達という友達がいなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "学校にあまり行けなくて、周りは大人ばかりで"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "学校にあまり行けなくて、周りは大人ばかりで",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "小さな頃の私は友達という友達がいなかった。",
+        "after": "年相応の相手がいなかったせいでもあったけれど、"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "年相応の相手がいなかったせいでもあったけれど、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "学校にあまり行けなくて、周りは大人ばかりで",
+        "after": "それで特に困るということはなかった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "それで特に困るということはなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "年相応の相手がいなかったせいでもあったけれど、",
+        "after": "何故なら、私のお友達は部屋の中に溢れていたからだ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "何故なら、私のお友達は部屋の中に溢れていたからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それで特に困るということはなかった。",
+        "after": "本棚に飾られた本や所々に置かれた人形達。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "本棚に飾られた本や所々に置かれた人形達。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故なら、私のお友達は部屋の中に溢れていたからだ。",
+        "after": "それらは等しく私の傍にいてくれるお友達だった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "それらは等しく私の傍にいてくれるお友達だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本棚に飾られた本や所々に置かれた人形達。",
+        "after": "ある日、お父様が私に新しいお人形を買ってくれた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ある日、お父様が私に新しいお人形を買ってくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それらは等しく私の傍にいてくれるお友達だった。",
+        "after": "父「お土産だ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "父「お土産だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "ある日、お父様が私に新しいお人形を買ってくれた。",
+        "after": "遠野　紗夜「ありがとう！　お父様！！　私、大事にするわ！！」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「ありがとう！　お父様！！　私、大事にするわ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「お土産だ」",
+        "after": "父から手渡されたのは、長い髪を二つ結びにした可愛らしいお人形。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "父から手渡されたのは、長い髪を二つ結びにした可愛らしいお人形。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとう！　お父様！！　私、大事にするわ！！」",
+        "after": "新しいお友達が出来た。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "新しいお友達が出来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父から手渡されたのは、長い髪を二つ結びにした可愛らしいお人形。",
+        "after": "私はこのことを真っ先に知らせなければと、母の元へと走った。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私はこのことを真っ先に知らせなければと、母の元へと走った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "新しいお友達が出来た。",
+        "after": "遠野　紗夜「お母様！」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「お母様！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はこのことを真っ先に知らせなければと、母の元へと走った。",
+        "after": "遠野　紗夜「お母様！　今日ね、お父様が新しいお人形を買ってくれたの！　可愛いでしょう？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「お母様！　今日ね、お父様が新しいお人形を買ってくれたの！　可愛いでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お母様！」",
+        "after": "私はそう言って、人形を大事に抱きしめた。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "私はそう言って、人形を大事に抱きしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お母様！　今日ね、お父様が新しいお人形を買ってくれたの！　可愛いでしょう？」",
+        "after": "遠野　紗夜「私の大事なお友達なのよ」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「私の大事なお友達なのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はそう言って、人形を大事に抱きしめた。",
+        "after": "白雪「……そう。良かったですね」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "白雪「……そう。良かったですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "白雪",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「私の大事なお友達なのよ」",
+        "after": "遠野　紗夜「うん！　皆にも見せてくるわ！」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「うん！　皆にも見せてくるわ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "白雪「……そう。良かったですね」",
+        "after": "遠野　紗夜「ねえ、見て！　私のお友達！！」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「ねえ、見て！　私のお友達！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「うん！　皆にも見せてくるわ！」",
+        "after": "侍女「あら、お嬢様。可愛いお友達ですね」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "侍女「あら、お嬢様。可愛いお友達ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "侍女",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ねえ、見て！　私のお友達！！」",
+        "after": "そう言って、伸ばそうとする手を拒否した。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "そう言って、伸ばそうとする手を拒否した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "侍女「あら、お嬢様。可愛いお友達ですね」",
+        "after": "遠野　紗夜「駄目よ！　これは私のお友達なの！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「駄目よ！　これは私のお友達なの！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、伸ばそうとする手を拒否した。",
+        "after": "侍女「ふふっ。そうですか。それはすみませんでした」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "侍女「ふふっ。そうですか。それはすみませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "侍女",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「駄目よ！　これは私のお友達なの！」",
+        "after": "私は彼女のことがとても気に入って、"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私は彼女のことがとても気に入って、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "侍女「ふふっ。そうですか。それはすみませんでした」",
+        "after": "とてもとても大事にしていた。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "とてもとても大事にしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼女のことがとても気に入って、",
+        "after": "誰かにとられることが嫌で、"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "誰かにとられることが嫌で、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "とてもとても大事にしていた。",
+        "after": "触れられるのが嫌で、"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "触れられるのが嫌で、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰かにとられることが嫌で、",
+        "after": "私の部屋に大事に大事に飾っていた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私の部屋に大事に大事に飾っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "触れられるのが嫌で、",
+        "after": "初めて彼女を見た時、"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "初めて彼女を見た時、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の部屋に大事に大事に飾っていた。",
+        "after": "自分のお気に入りだった人形と似ているなと思った。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "自分のお気に入りだった人形と似ているなと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "初めて彼女を見た時、",
+        "after": null
+      }
+    }
+  ]
+}

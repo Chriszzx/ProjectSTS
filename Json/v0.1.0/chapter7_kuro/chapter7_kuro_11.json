@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_11.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 26,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "兄に見送られ、学校へと目指す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "不思議なことに金魚はまだ私の目の前を泳いでいる。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "不思議なことに金魚はまだ私の目の前を泳いでいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄に見送られ、学校へと目指す。",
+        "after": "金魚は私の周りだけではなく、遠くの方にも小さい体で揺らいでいた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "金魚は私の周りだけではなく、遠くの方にも小さい体で揺らいでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "不思議なことに金魚はまだ私の目の前を泳いでいる。",
+        "after": "おかしなことに、誰もこの異常には気付いていないのか、皆いつもと変わらない様子を見せていた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "おかしなことに、誰もこの異常には気付いていないのか、皆いつもと変わらない様子を見せていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "金魚は私の周りだけではなく、遠くの方にも小さい体で揺らいでいた。",
+        "after": "時計塔の前では、既に夏帆が私を待っていた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "時計塔の前では、既に夏帆が私を待っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "おかしなことに、誰もこの異常には気付いていないのか、皆いつもと変わらない様子を見せていた。",
+        "after": "宮沢　夏帆「あ、ちゃーん」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "宮沢　夏帆「あ、ちゃーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "時計塔の前では、既に夏帆が私を待っていた。",
+        "after": "大きく手を振って、私の下に駆けてくる。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "大きく手を振って、私の下に駆けてくる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あ、ちゃーん」",
+        "after": "夏帆が触れると、金魚はすうっと夏帆の体を透り抜けた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "夏帆が触れると、金魚はすうっと夏帆の体を透り抜けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "大きく手を振って、私の下に駆けてくる。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏帆が触れると、金魚はすうっと夏帆の体を透り抜けた。",
+        "after": "宮沢　夏帆「どうしたの～？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "宮沢　夏帆「どうしたの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「どうしたの～？」",
+        "after": "夏帆はどうなのだろう。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "夏帆はどうなのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": "遠野　紗夜「夏帆には『これ』が見えますか？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「夏帆には『これ』が見えますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏帆はどうなのだろう。",
+        "after": "私は目の前にいる金魚を指さした。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私は目の前にいる金魚を指さした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆には『これ』が見えますか？」",
+        "after": "夏帆は私の指差した先を凝らすように見た。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "夏帆は私の指差した先を凝らすように見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は目の前にいる金魚を指さした。",
+        "after": "宮沢　夏帆「何が～？　『これ』？　『これ』って何？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "宮沢　夏帆「何が～？　『これ』？　『これ』って何？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は私の指差した先を凝らすように見た。",
+        "after": "私の言葉を理解出来ない夏帆はどうやら金魚が見えない様だ。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私の言葉を理解出来ない夏帆はどうやら金魚が見えない様だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「何が～？　『これ』？　『これ』って何？」",
+        "after": "遠野　紗夜「いえ、何でもないんです。すみません」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「いえ、何でもないんです。すみません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の言葉を理解出来ない夏帆はどうやら金魚が見えない様だ。",
+        "after": "そう言うと、夏帆は私を真顔でじいと見つめ、次にぱっと笑顔になった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "そう言うと、夏帆は私を真顔でじいと見つめ、次にぱっと笑顔になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ、何でもないんです。すみません」",
+        "after": "宮沢　夏帆「ま、いーや。行こう」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「ま、いーや。行こう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、夏帆は私を真顔でじいと見つめ、次にぱっと笑顔になった。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ま、いーや。行こう」",
+        "after": "先往く彼女の後を追う。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "先往く彼女の後を追う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "私はまだ夢を見ているのだろうか。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私はまだ夢を見ているのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "先往く彼女の後を追う。",
+        "after": "これは夢なのか。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "これは夢なのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はまだ夢を見ているのだろうか。",
+        "after": "それとも、現実なのか。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "それとも、現実なのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これは夢なのか。",
+        "after": "そのどちらにせよ、私が幻想を見ていることに変わりはない。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "そのどちらにせよ、私が幻想を見ていることに変わりはない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それとも、現実なのか。",
+        "after": null
+      }
+    }
+  ]
+}

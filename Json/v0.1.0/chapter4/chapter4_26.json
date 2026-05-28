@@ -1,0 +1,891 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_26.txt",
+    "chapter": "chapter4",
+    "total_lines": 48,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "三年教室前。以前にも訪れた日生先輩の教室だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "桐島　七葵「失礼するぞ」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "桐島　七葵「失礼するぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "三年教室前。以前にも訪れた日生先輩の教室だ。",
+        "after": "桐島先輩は躊躇せずに扉を開ける。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "桐島先輩は躊躇せずに扉を開ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「失礼するぞ」",
+        "after": "中にいた数人の先輩方と軽く目があった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "中にいた数人の先輩方と軽く目があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は躊躇せずに扉を開ける。",
+        "after": "桐島　七葵「おい、日生！」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "桐島　七葵「おい、日生！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "中にいた数人の先輩方と軽く目があった。",
+        "after": "日生　光「あれ、桐島君。それにお嬢も。……二人して何か僕に用事？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "日生　光「あれ、桐島君。それにお嬢も。……二人して何か僕に用事？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「おい、日生！」",
+        "after": "桐島先輩は日生先輩の腕を掴み、廊下へと引っ張り出す。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "桐島先輩は日生先輩の腕を掴み、廊下へと引っ張り出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あれ、桐島君。それにお嬢も。……二人して何か僕に用事？」",
+        "after": "何が何だか分からないといった風に私を見た日生先輩だけれど、私の表情も真剣だった為か、状況を察し、大人しく私達に連れられる。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "何が何だか分からないといった風に私を見た日生先輩だけれど、私の表情も真剣だった為か、状況を察し、大人しく私達に連れられる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は日生先輩の腕を掴み、廊下へと引っ張り出す。",
+        "after": "ある程度、人気がない所まで引っ張り込むと、ようやく桐島先輩は日生先輩を離した。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "ある程度、人気がない所まで引っ張り込むと、ようやく桐島先輩は日生先輩を離した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何が何だか分からないといった風に私を見た日生先輩だけれど、私の表情も真剣だった為か、状況を察し、大人しく私達に連れられる。",
+        "after": "桐島　七葵「昨日はどういうつもりだ？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "桐島　七葵「昨日はどういうつもりだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "ある程度、人気がない所まで引っ張り込むと、ようやく桐島先輩は日生先輩を離した。",
+        "after": "日生　光「……はあ？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "日生　光「……はあ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「昨日はどういうつもりだ？」",
+        "after": "一瞬、目を見開いた後、日生先輩は眉を顰める。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "一瞬、目を見開いた後、日生先輩は眉を顰める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「……はあ？」",
+        "after": "日生　光「何を言ってるのやらさっぱり分からないんですが？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "日生　光「何を言ってるのやらさっぱり分からないんですが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "一瞬、目を見開いた後、日生先輩は眉を顰める。",
+        "after": "桐島　七葵「では、質問の仕方を変えるぞ。昨日の夕方、俺達と会ったことをお前は覚えているな」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "桐島　七葵「では、質問の仕方を変えるぞ。昨日の夕方、俺達と会ったことをお前は覚えているな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「何を言ってるのやらさっぱり分からないんですが？」",
+        "after": "日生　光「何だそれ。やっぱり、何のことだかさっぱり分からない」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "日生　光「何だそれ。やっぱり、何のことだかさっぱり分からない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「では、質問の仕方を変えるぞ。昨日の夕方、俺達と会ったことをお前は覚えているな」",
+        "after": "遠野　紗夜「覚えていらっしゃらないのですか？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「覚えていらっしゃらないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「何だそれ。やっぱり、何のことだかさっぱり分からない」",
+        "after": "日生　光「だから何を？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生　光「だから何を？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「覚えていらっしゃらないのですか？」",
+        "after": "少し苛ついたような言い方だった。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "少し苛ついたような言い方だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「だから何を？」",
+        "after": "遠野　紗夜「昨日、夕方、貴方は私を連れ去り言いました。『話があると』」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「昨日、夕方、貴方は私を連れ去り言いました。『話があると』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少し苛ついたような言い方だった。",
+        "after": "日生　光「僕が？　お嬢を？　夢でも見たんじゃなくて？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　光「僕が？　お嬢を？　夢でも見たんじゃなくて？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「昨日、夕方、貴方は私を連れ去り言いました。『話があると』」",
+        "after": "遠野　紗夜「そんなはずはありません。あの場には桐島先輩もいましたから」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「そんなはずはありません。あの場には桐島先輩もいましたから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕が？　お嬢を？　夢でも見たんじゃなくて？」",
+        "after": "日生　光「へえ。じゃあ、人違いだ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　光「へえ。じゃあ、人違いだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そんなはずはありません。あの場には桐島先輩もいましたから」",
+        "after": "桐島　七葵「そんなわけないだろう。あれは確かにお前自身だった」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「そんなわけないだろう。あれは確かにお前自身だった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「へえ。じゃあ、人違いだ」",
+        "after": "日生　光「そんなことを言われても僕には覚えがない」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "日生　光「そんなことを言われても僕には覚えがない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そんなわけないだろう。あれは確かにお前自身だった」",
+        "after": "日生　光「大体、僕がお嬢に話があるなんて、とっくに終わったことじゃないか」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "日生　光「大体、僕がお嬢に話があるなんて、とっくに終わったことじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そんなことを言われても僕には覚えがない」",
+        "after": "日生先輩ははっと鼻で笑うと、桐島先輩から私に視線を寄越した。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "日生先輩ははっと鼻で笑うと、桐島先輩から私に視線を寄越した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「大体、僕がお嬢に話があるなんて、とっくに終わったことじゃないか」",
+        "after": "日生　光「好きだって」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "日生　光「好きだって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩ははっと鼻で笑うと、桐島先輩から私に視線を寄越した。",
+        "after": "遠野　紗夜「……日生先輩！」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「……日生先輩！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「好きだって」",
+        "after": "私が強く声をあげると、日生先輩は悪びれた様子も見せず、逆に可笑しそうに笑って言った。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私が強く声をあげると、日生先輩は悪びれた様子も見せず、逆に可笑しそうに笑って言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……日生先輩！」",
+        "after": "日生　光「大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "日生　光「大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私が強く声をあげると、日生先輩は悪びれた様子も見せず、逆に可笑しそうに笑って言った。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ」",
+        "after": "桐島先輩が？　と私は隣を見上げた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "桐島先輩が？　と私は隣を見上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "桐島先輩はちっと小さく舌打ちした。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "桐島先輩はちっと小さく舌打ちした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩が？　と私は隣を見上げた。",
+        "after": "桐島　七葵「……日生、話をすり替えるな！」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "桐島　七葵「……日生、話をすり替えるな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩はちっと小さく舌打ちした。",
+        "after": "日生　光「別にすり替えるつもりなんてないさ。昨日の夕方、君達に会ったかでしょ？　何度も言うようだけど、結論としては『会っていない』」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "日生　光「別にすり替えるつもりなんてないさ。昨日の夕方、君達に会ったかでしょ？　何度も言うようだけど、結論としては『会っていない』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……日生、話をすり替えるな！」",
+        "after": "日生　光「君達の勘違いじゃない？　と言いたいところだけど、二人して同じ幻想を見るわけないしね」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生　光「君達の勘違いじゃない？　と言いたいところだけど、二人して同じ幻想を見るわけないしね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「別にすり替えるつもりなんてないさ。昨日の夕方、君達に会ったかでしょ？　何度も言うようだけど、結論としては『会っていない』」",
+        "after": "日生　光「でも、僕には本当に覚えがない。僕は昨日の夕方はすぐに家に帰ったし、お嬢を攫ったという覚えも、話があるだなんて言った覚えもない」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "日生　光「でも、僕には本当に覚えがない。僕は昨日の夕方はすぐに家に帰ったし、お嬢を攫ったという覚えも、話があるだなんて言った覚えもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君達の勘違いじゃない？　と言いたいところだけど、二人して同じ幻想を見るわけないしね」",
+        "after": "日生　光「『お前は日生光か』なんて聞かれても、僕は僕でしかないし、紗夜『日生光』かと聞かれたらそうだとしか言えないな」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "日生　光「『お前は日生光か』なんて聞かれても、僕は僕でしかないし、紗夜『日生光』かと聞かれたらそうだとしか言えないな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも、僕には本当に覚えがない。僕は昨日の夕方はすぐに家に帰ったし、お嬢を攫ったという覚えも、話があるだなんて言った覚えもない」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「『お前は日生光か』なんて聞かれても、僕は僕でしかないし、紗夜『日生光』かと聞かれたらそうだとしか言えないな」",
+        "after": "私は桐島先輩と顔を見合わせる。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "私は桐島先輩と顔を見合わせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生先輩の言うことが本当だとしたら、あの時のあの人は誰だというのだろうか？"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "日生先輩の言うことが本当だとしたら、あの時のあの人は誰だというのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は桐島先輩と顔を見合わせる。",
+        "after": "黙り込む私達に日生先輩はある提案をする。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "黙り込む私達に日生先輩はある提案をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩の言うことが本当だとしたら、あの時のあの人は誰だというのだろうか？",
+        "after": "日生　光「そんなに疑うなら、僕の家に来る？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "日生　光「そんなに疑うなら、僕の家に来る？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "黙り込む私達に日生先輩はある提案をする。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そんなに疑うなら、僕の家に来る？」",
+        "after": "日生　光「昨日の夕方なら、ずっと家にいたからさ。お祖母様なら証言してくれるよ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "日生　光「昨日の夕方なら、ずっと家にいたからさ。お祖母様なら証言してくれるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "日生　光「……ああ、でも身内の言葉じゃ信じられないかな？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "日生　光「……ああ、でも身内の言葉じゃ信じられないかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「昨日の夕方なら、ずっと家にいたからさ。お祖母様なら証言してくれるよ」",
+        "after": "日生　光「まあ、聞きたければいつでもどうぞ。歓迎するよ」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "日生　光「まあ、聞きたければいつでもどうぞ。歓迎するよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……ああ、でも身内の言葉じゃ信じられないかな？」",
+        "after": "彼は微笑みを浮かべて、立ち憚る桐島先輩の胸を突き、教室に戻っていった。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "彼は微笑みを浮かべて、立ち憚る桐島先輩の胸を突き、教室に戻っていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「まあ、聞きたければいつでもどうぞ。歓迎するよ」",
+        "after": null
+      }
+    }
+  ]
+}

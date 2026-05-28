@@ -1,0 +1,2818 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_9.txt",
+    "chapter": "chapter1",
+    "total_lines": 153,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "その日、私は急いでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「夏帆、帰りましょう」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「夏帆、帰りましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その日、私は急いでいた。",
+        "after": "宮沢　夏帆「え？　あ、う、うん！」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "宮沢　夏帆「え？　あ、う、うん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏帆、帰りましょう」",
+        "after": "宮沢　夏帆「珍しいね」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "宮沢　夏帆「珍しいね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「え？　あ、う、うん！」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「珍しいね」",
+        "after": "宮沢　夏帆「紗夜ちゃんが急いでるなんてさぁ～」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "宮沢　夏帆「紗夜ちゃんが急いでるなんてさぁ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「そうですか？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「そうですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんが急いでるなんてさぁ～」",
+        "after": "宮沢　夏帆「妙にソワソワしてるし～」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "宮沢　夏帆「妙にソワソワしてるし～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「妙にソワソワしてるし～」",
+        "after": "宮沢　夏帆「怪しい。何かあるの？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "宮沢　夏帆「怪しい。何かあるの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "じと目で見つめる夏帆に対し、隠し事をしているわけではないのに、妙にどきりとした。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "じと目で見つめる夏帆に対し、隠し事をしているわけではないのに、妙にどきりとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「怪しい。何かあるの？」",
+        "after": "遠野　紗夜「い、いえ。別に大したことではないのですよ。……ただ、少し気になっていることが」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「い、いえ。別に大したことではないのですよ。……ただ、少し気になっていることが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "じと目で見つめる夏帆に対し、隠し事をしているわけではないのに、妙にどきりとした。",
+        "after": "宮沢　夏帆「気になること？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "宮沢　夏帆「気になること？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「い、いえ。別に大したことではないのですよ。……ただ、少し気になっていることが」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「気になること？」",
+        "after": "頷くと、夏帆は声を高らかにした。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "頷くと、夏帆は声を高らかにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "宮沢　夏帆「何々！？　それって私にも秘密のこと～！？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "宮沢　夏帆「何々！？　それって私にも秘密のこと～！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "頷くと、夏帆は声を高らかにした。",
+        "after": "遠野　紗夜「そういうわけではないですよ」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「そういうわけではないですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何々！？　それって私にも秘密のこと～！？」",
+        "after": "息を吐いて、気を落ち着かせ、私は夏帆にこれから行く先について説明する。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "息を吐いて、気を落ち着かせ、私は夏帆にこれから行く先について説明する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そういうわけではないですよ」",
+        "after": "遠野　紗夜「臥待堂書店。夏帆は前にも行ったことがありますよね？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「臥待堂書店。夏帆は前にも行ったことがありますよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "息を吐いて、気を落ち着かせ、私は夏帆にこれから行く先について説明する。",
+        "after": "宮沢　夏帆「あー、うん。あの古っくさいところね」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「あー、うん。あの古っくさいところね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「臥待堂書店。夏帆は前にも行ったことがありますよね？」",
+        "after": "そのあまりの物言いに私は思わず苦笑いを浮かべたが、特に諫めることもなく話を続ける。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "そのあまりの物言いに私は思わず苦笑いを浮かべたが、特に諫めることもなく話を続ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あー、うん。あの古っくさいところね」",
+        "after": "遠野　紗夜「そこに今から行こうかと思いまして」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「そこに今から行こうかと思いまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そのあまりの物言いに私は思わず苦笑いを浮かべたが、特に諫めることもなく話を続ける。",
+        "after": "宮沢　夏帆「ふーん。また、本でも買いに行くのー？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「ふーん。また、本でも買いに行くのー？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そこに今から行こうかと思いまして」",
+        "after": "遠野　紗夜「いえ、違います」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「いえ、違います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふーん。また、本でも買いに行くのー？」",
+        "after": "遠野　紗夜「ただ、あれからどうなったのか話が聞きたくて」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「ただ、あれからどうなったのか話が聞きたくて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ、違います」",
+        "after": "そう。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "そう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ただ、あれからどうなったのか話が聞きたくて」",
+        "after": "私は昨日からずっと彼のことが気になって仕方がなかった。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "私は昨日からずっと彼のことが気になって仕方がなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう。",
+        "after": "あれからちゃんと彼は病院に戻ったのか、その後どうなったのか自分の目でも確認したかった。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "あれからちゃんと彼は病院に戻ったのか、その後どうなったのか自分の目でも確認したかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は昨日からずっと彼のことが気になって仕方がなかった。",
+        "after": "けれど、夏帆がそのことを知るはずもなく。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "けれど、夏帆がそのことを知るはずもなく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あれからちゃんと彼は病院に戻ったのか、その後どうなったのか自分の目でも確認したかった。",
+        "after": "宮沢　夏帆「あれから？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "宮沢　夏帆「あれから？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "けれど、夏帆がそのことを知るはずもなく。",
+        "after": "遠野　紗夜「ええと、そうですね……」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「ええと、そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あれから？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええと、そうですね……」",
+        "after": "私はどう説明しようかと、顎に手をやり考えた。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "私はどう説明しようかと、顎に手をやり考えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "そして、一つ思いついた。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "そして、一つ思いついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はどう説明しようかと、顎に手をやり考えた。",
+        "after": "遠野　紗夜「……良かったら、夏帆も来ますか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「……良かったら、夏帆も来ますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、一つ思いついた。",
+        "after": "宮沢　夏帆「良いの？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "宮沢　夏帆「良いの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……良かったら、夏帆も来ますか？」",
+        "after": "口で説明するよりも、実際に行って説明した方が分かりやすい。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "口で説明するよりも、実際に行って説明した方が分かりやすい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「良いの？」",
+        "after": "遠野　紗夜「勿論」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「勿論」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "口で説明するよりも、実際に行って説明した方が分かりやすい。",
+        "after": "宮沢　夏帆「う、うん！　じゃあ行くー！！」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "宮沢　夏帆「う、うん！　じゃあ行くー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「勿論」",
+        "after": "私達は二人で臥待堂へと急いだ。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "私達は二人で臥待堂へと急いだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「う、うん！　じゃあ行くー！！」",
+        "after": "宮沢　夏帆「臥待堂かぁ。そういえば、久しぶりだな～」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "宮沢　夏帆「臥待堂かぁ。そういえば、久しぶりだな～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私達は二人で臥待堂へと急いだ。",
+        "after": "遠野　紗夜「そういえばそうでしたね」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「そういえばそうでしたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「臥待堂かぁ。そういえば、久しぶりだな～」",
+        "after": "夏帆には今まで何度か一緒に付き合ってもらったことがある。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "夏帆には今まで何度か一緒に付き合ってもらったことがある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そういえばそうでしたね」",
+        "after": "宮沢　夏帆「あの時さ、紗夜ちゃん本に夢中になって私の存在かんっぺき忘れてたよねぇ～」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "宮沢　夏帆「あの時さ、紗夜ちゃん本に夢中になって私の存在かんっぺき忘れてたよねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆には今まで何度か一緒に付き合ってもらったことがある。",
+        "after": "あの時、というのは以前夏帆と共に臥待堂に訪れた際、本を手にした歓びが先だってしまい、夏帆を置いて帰ってしまった日の出来事だ。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "あの時、というのは以前夏帆と共に臥待堂に訪れた際、本を手にした歓びが先だってしまい、夏帆を置いて帰ってしまった日の出来事だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あの時さ、紗夜ちゃん本に夢中になって私の存在かんっぺき忘れてたよねぇ～」",
+        "after": "遠野　紗夜「あの時は……すみませんでした……」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「あの時は……すみませんでした……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あの時、というのは以前夏帆と共に臥待堂に訪れた際、本を手にした歓びが先だってしまい、夏帆を置いて帰ってしまった日の出来事だ。",
+        "after": "宮沢　夏帆「あははっ。いや、まあらしいんだけどねー」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "宮沢　夏帆「あははっ。いや、まあらしいんだけどねー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの時は……すみませんでした……」",
+        "after": "今は微妙に笑い話になっているけれど、当時は顔が真っ青になったものだ。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "今は微妙に笑い話になっているけれど、当時は顔が真っ青になったものだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あははっ。いや、まあらしいんだけどねー」",
+        "after": "道すがら思い出話に花を咲かしていると、時計塔の前に佇むその姿に目が留まった。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "道すがら思い出話に花を咲かしていると、時計塔の前に佇むその姿に目が留まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今は微妙に笑い話になっているけれど、当時は顔が真っ青になったものだ。",
+        "after": "？？？「…………」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "？？？「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "道すがら思い出話に花を咲かしていると、時計塔の前に佇むその姿に目が留まった。",
+        "after": "その人は時計塔を見上げていた。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "その人は時計塔を見上げていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「…………」",
+        "after": "遠野　紗夜「！」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その人は時計塔を見上げていた。",
+        "after": "遠野　紗夜「……あの人」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「……あの人」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「！」",
+        "after": "宮沢　夏帆「どうしたの～？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "宮沢　夏帆「どうしたの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……あの人」",
+        "after": "向こうも私の存在に気が付いたようで小さくお辞儀をした。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "向こうも私の存在に気が付いたようで小さくお辞儀をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「どうしたの～？」",
+        "after": "？？？「…………」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "？？？「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "向こうも私の存在に気が付いたようで小さくお辞儀をした。",
+        "after": "遠野　紗夜「こんにちは。またお会いしましたね」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「こんにちは。またお会いしましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "？？？「…………」",
+        "after": "？？？「そうね」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "？？？「そうね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こんにちは。またお会いしましたね」",
+        "after": "彼女はにっこりと笑う。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "彼女はにっこりと笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「そうね」",
+        "after": "また彼女に会うとは思いもしなかった。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "また彼女に会うとは思いもしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はにっこりと笑う。",
+        "after": "宮沢　夏帆「……紗夜ちゃん」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "宮沢　夏帆「……紗夜ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "また彼女に会うとは思いもしなかった。",
+        "after": "袖を引っ張られ、耳打ちされる。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "袖を引っ張られ、耳打ちされる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……紗夜ちゃん」",
+        "after": "宮沢　夏帆「誰、この人」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "宮沢　夏帆「誰、この人」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "袖を引っ張られ、耳打ちされる。",
+        "after": "遠野　紗夜「あ、ええとこの人は……」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「あ、ええとこの人は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「誰、この人」",
+        "after": "説明しようにも私は彼女の名前も知らず、困り顔で目をやると"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "説明しようにも私は彼女の名前も知らず、困り顔で目をやると",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、ええとこの人は……」",
+        "after": "？？？「太宰ともゑよ」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "？？？「太宰ともゑよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "説明しようにも私は彼女の名前も知らず、困り顔で目をやると",
+        "after": "と、彼女は自ら名乗ってくれた。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "と、彼女は自ら名乗ってくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「太宰ともゑよ」",
+        "after": "遠野　紗夜「あ、太宰さん……」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「あ、太宰さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、彼女は自ら名乗ってくれた。",
+        "after": "呟くと、彼女はからからと笑った。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "呟くと、彼女はからからと笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、太宰さん……」",
+        "after": "太宰　ともゑ「やだわ。ともゑって呼んでちょうだいな」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "太宰　ともゑ「やだわ。ともゑって呼んでちょうだいな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "呟くと、彼女はからからと笑った。",
+        "after": "太宰　ともゑ「わたしの名字、少し堅い感じがしてあまり好きじゃないの」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "太宰　ともゑ「わたしの名字、少し堅い感じがしてあまり好きじゃないの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「やだわ。ともゑって呼んでちょうだいな」",
+        "after": "遠野　紗夜「……ともゑさん、ですか」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「……ともゑさん、ですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「わたしの名字、少し堅い感じがしてあまり好きじゃないの」",
+        "after": "太宰　ともゑ「……ふふっ。なぁに？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "太宰　ともゑ「……ふふっ。なぁに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ともゑさん、ですか」",
+        "after": "彼女はまるで花のように明るく笑う。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "彼女はまるで花のように明るく笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「……ふふっ。なぁに？」",
+        "after": "見ていて気持ちの良い笑顔だ。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "見ていて気持ちの良い笑顔だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はまるで花のように明るく笑う。",
+        "after": "遠野　紗夜「あ、いえ。試しに呼んでみただけで……」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「あ、いえ。試しに呼んでみただけで……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "見ていて気持ちの良い笑顔だ。",
+        "after": "太宰　ともゑ「そう」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "太宰　ともゑ「そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、いえ。試しに呼んでみただけで……」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「そう」",
+        "after": "太宰　ともゑ「……そちらの可愛らしいお嬢さんは？」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "太宰　ともゑ「……そちらの可愛らしいお嬢さんは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "遠野　紗夜「あ、彼女は私のクラスメイトで……」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "遠野　紗夜「あ、彼女は私のクラスメイトで……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……そちらの可愛らしいお嬢さんは？」",
+        "after": "宮沢　夏帆「宮沢夏帆。……です」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "宮沢　夏帆「宮沢夏帆。……です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、彼女は私のクラスメイトで……」",
+        "after": "夏帆は小さく答えた。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "夏帆は小さく答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「宮沢夏帆。……です」",
+        "after": "どうやら警戒しているらしく、私の袖を掴んで離さない。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "どうやら警戒しているらしく、私の袖を掴んで離さない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆は小さく答えた。",
+        "after": "太宰　ともゑ「ふふ。本当に可愛らしいのね。紗夜ちゃんとはまた違った感じで」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "太宰　ともゑ「ふふ。本当に可愛らしいのね。紗夜ちゃんとはまた違った感じで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "どうやら警戒しているらしく、私の袖を掴んで離さない。",
+        "after": "太宰　ともゑ「明るい髪の色がとても綺麗」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "太宰　ともゑ「明るい髪の色がとても綺麗」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ふふ。本当に可愛らしいのね。紗夜ちゃんとはまた違った感じで」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「明るい髪の色がとても綺麗」",
+        "after": "夏帆の白い肌がほんのりと赤くなる。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "夏帆の白い肌がほんのりと赤くなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "私の袖が離された。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "私の袖が離された。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆の白い肌がほんのりと赤くなる。",
+        "after": "太宰　ともゑ「でも、二人は仲良しなのに、あまり似てないのね」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "太宰　ともゑ「でも、二人は仲良しなのに、あまり似てないのね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私の袖が離された。",
+        "after": "宮沢　夏帆「そ、そうですか？」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "宮沢　夏帆「そ、そうですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「でも、二人は仲良しなのに、あまり似てないのね」",
+        "after": "太宰　ともゑ「ええ。…………」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "太宰　ともゑ「ええ。…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そ、そうですか？」",
+        "after": "彼女の顔が笑顔から一瞬にして真面目な顔になって黙ってしまった。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "彼女の顔が笑顔から一瞬にして真面目な顔になって黙ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「ええ。…………」",
+        "after": "いや、真面目な顔というより、どこかぼんやりとしたような感じにも見受けられる。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "いや、真面目な顔というより、どこかぼんやりとしたような感じにも見受けられる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の顔が笑顔から一瞬にして真面目な顔になって黙ってしまった。",
+        "after": "太宰　ともゑ「…………」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "太宰　ともゑ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "いや、真面目な顔というより、どこかぼんやりとしたような感じにも見受けられる。",
+        "after": "宮沢　夏帆「……？」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "宮沢　夏帆「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「…………」",
+        "after": "私と夏帆は互いに顔を見合わせる。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "私と夏帆は互いに顔を見合わせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……？」",
+        "after": "一体、どうしたというのだろう。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "一体、どうしたというのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と夏帆は互いに顔を見合わせる。",
+        "after": "すると、彼女はぼそりと呟いた。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "すると、彼女はぼそりと呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一体、どうしたというのだろう。",
+        "after": "太宰　ともゑ「……二人とも、楓葉の生徒さんなのね」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "太宰　ともゑ「……二人とも、楓葉の生徒さんなのね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "すると、彼女はぼそりと呟いた。",
+        "after": "宮沢　夏帆「はい」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "宮沢　夏帆「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……二人とも、楓葉の生徒さんなのね」",
+        "after": "太宰　ともゑ「…………」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "太宰　ともゑ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「はい」",
+        "after": "また黙ってしまった。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "また黙ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「…………」",
+        "after": "今度は私から話しかける。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "今度は私から話しかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また黙ってしまった。",
+        "after": "遠野　紗夜「……あの、ともゑさん。今日はどうしてここに？」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「……あの、ともゑさん。今日はどうしてここに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今度は私から話しかける。",
+        "after": "太宰　ともゑ「……ああ」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "太宰　ともゑ「……ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……あの、ともゑさん。今日はどうしてここに？」",
+        "after": "彼女の目に光が宿り、再び顔には笑顔が浮かぶ。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "彼女の目に光が宿り、再び顔には笑顔が浮かぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「……ああ」",
+        "after": "太宰　ともゑ「どうしてもね、気になってしまって」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "太宰　ともゑ「どうしてもね、気になってしまって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "彼女の目に光が宿り、再び顔には笑顔が浮かぶ。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「どうしてもね、気になってしまって」",
+        "after": "ともゑさんは時計塔を見上げた。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "ともゑさんは時計塔を見上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "太宰　ともゑ「この場所。何だか私、前にも来たことがある気がするの」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "太宰　ともゑ「この場所。何だか私、前にも来たことがある気がするの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんは時計塔を見上げた。",
+        "after": "太宰　ともゑ「だから、ここにいたら何か思い出せる気がして」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "太宰　ともゑ「だから、ここにいたら何か思い出せる気がして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「この場所。何だか私、前にも来たことがある気がするの」",
+        "after": "太宰　ともゑ「この間ここで倒れた時もね、ずっと私、ここでこうしていたのよ」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "太宰　ともゑ「この間ここで倒れた時もね、ずっと私、ここでこうしていたのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「だから、ここにいたら何か思い出せる気がして」",
+        "after": "太宰　ともゑ「そうしたら、頭がボーッとして、その後は貴方も知ってるとおり」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "太宰　ともゑ「そうしたら、頭がボーッとして、その後は貴方も知ってるとおり」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「この間ここで倒れた時もね、ずっと私、ここでこうしていたのよ」",
+        "after": "遠野　紗夜「そうだったのですか……」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "遠野　紗夜「そうだったのですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「そうしたら、頭がボーッとして、その後は貴方も知ってるとおり」",
+        "after": "太宰　ともゑ「ええ」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "太宰　ともゑ「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうだったのですか……」",
+        "after": "太宰　ともゑ「……貴方達は？」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "太宰　ともゑ「……貴方達は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ええ」",
+        "after": "遠野　紗夜「私達は、今から臥待堂に寄ろうと思いまして」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　紗夜「私達は、今から臥待堂に寄ろうと思いまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……貴方達は？」",
+        "after": "太宰　ともゑ「そうなの」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "太宰　ともゑ「そうなの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私達は、今から臥待堂に寄ろうと思いまして」",
+        "after": "遠野　紗夜「宜しければ、ともゑさんも行きませんか？」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "遠野　紗夜「宜しければ、ともゑさんも行きませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「そうなの」",
+        "after": "私の申し出にともゑさんは笑って首を振る。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "私の申し出にともゑさんは笑って首を振る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「宜しければ、ともゑさんも行きませんか？」",
+        "after": "太宰　ともゑ「止めておくわ」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "太宰　ともゑ「止めておくわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私の申し出にともゑさんは笑って首を振る。",
+        "after": "太宰　ともゑ「……私、もう少しだけここにいたいの」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "太宰　ともゑ「……私、もう少しだけここにいたいの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「止めておくわ」",
+        "after": "遠野　紗夜「そうですか」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「そうですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……私、もう少しだけここにいたいの」",
+        "after": "太宰　ともゑ「ごめんなさいね」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "太宰　ともゑ「ごめんなさいね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか」",
+        "after": "遠野　紗夜「あ、いえ。お気になさらずに」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「あ、いえ。お気になさらずに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ごめんなさいね」",
+        "after": "遠野　紗夜「それでは、失礼しますね」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「それでは、失礼しますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、いえ。お気になさらずに」",
+        "after": "太宰　ともゑ「ええ」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "太宰　ともゑ「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それでは、失礼しますね」",
+        "after": "臥待堂まで歩いていく最中、随分と足取りが軽くなった夏帆を見る。"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "臥待堂まで歩いていく最中、随分と足取りが軽くなった夏帆を見る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「ええ」",
+        "after": "宮沢　夏帆「……ふふっ"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "宮沢　夏帆「……ふふっ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待堂まで歩いていく最中、随分と足取りが軽くなった夏帆を見る。",
+        "after": "遠野　紗夜「楽しそうですね」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "遠野　紗夜「楽しそうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……ふふっ",
+        "after": "宮沢　夏帆「だって、可愛いって言われたんだもん」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "宮沢　夏帆「だって、可愛いって言われたんだもん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「楽しそうですね」",
+        "after": "宮沢　夏帆「……なんか、いい人っぽかったね！」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "宮沢　夏帆「……なんか、いい人っぽかったね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「だって、可愛いって言われたんだもん」",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……なんか、いい人っぽかったね！」",
+        "after": "私は彼女の笑顔を思い出した。"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "私は彼女の笑顔を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "確かに、あの笑顔は誰からも好かれる要素を持っている。"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "確かに、あの笑顔は誰からも好かれる要素を持っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼女の笑顔を思い出した。",
+        "after": "宮沢　夏帆「でもさ、何かここにいたら何か思い出せる気が～とか言ってたけど、あれ何なの？」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "宮沢　夏帆「でもさ、何かここにいたら何か思い出せる気が～とか言ってたけど、あれ何なの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "確かに、あの笑顔は誰からも好かれる要素を持っている。",
+        "after": "遠野　紗夜「ああ……。彼女、どうやら記憶を失っているみたいで」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "遠野　紗夜「ああ……。彼女、どうやら記憶を失っているみたいで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でもさ、何かここにいたら何か思い出せる気が～とか言ってたけど、あれ何なの？」",
+        "after": "宮沢　夏帆「あー、だからここにいると思い出すとか言ってたんだぁ」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "宮沢　夏帆「あー、だからここにいると思い出すとか言ってたんだぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ……。彼女、どうやら記憶を失っているみたいで」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あー、だからここにいると思い出すとか言ってたんだぁ」",
+        "after": "宮沢　夏帆「記憶、思い出せると良いね」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "宮沢　夏帆「記憶、思い出せると良いね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "そう言った夏帆に私は驚いて足を止めた。"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "そう言った夏帆に私は驚いて足を止めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「記憶、思い出せると良いね」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言った夏帆に私は驚いて足を止めた。",
+        "after": "宮沢　夏帆「……どーしたの？」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "宮沢　夏帆「……どーしたの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "夏帆が不思議そうに私の方を振り返る。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "夏帆が不思議そうに私の方を振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……どーしたの？」",
+        "after": "私は目を瞬かせた。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "私は目を瞬かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆が不思議そうに私の方を振り返る。",
+        "after": "遠野　紗夜「あ、いえ……」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "遠野　紗夜「あ、いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は目を瞬かせた。",
+        "after": "遠野　紗夜「その、やはり記憶は思い出した方が良いのかと思いまして」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "遠野　紗夜「その、やはり記憶は思い出した方が良いのかと思いまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、いえ……」",
+        "after": "宮沢　夏帆「？　普通そうじゃん？」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "宮沢　夏帆「？　普通そうじゃん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「その、やはり記憶は思い出した方が良いのかと思いまして」",
+        "after": "遠野　紗夜「……普通」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "遠野　紗夜「……普通」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「？　普通そうじゃん？」",
+        "after": "私は自分の足下を見つめ、しばらく考えた。"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "私は自分の足下を見つめ、しばらく考えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……普通」",
+        "after": "遠野　紗夜「そう、ですね。普通そうですよね」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "遠野　紗夜「そう、ですね。普通そうですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は自分の足下を見つめ、しばらく考えた。",
+        "after": "無理に明るく言って、再び歩き出した。"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "無理に明るく言って、再び歩き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そう、ですね。普通そうですよね」",
+        "after": "宮沢　夏帆「？　変なの～」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "宮沢　夏帆「？　変なの～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "無理に明るく言って、再び歩き出した。",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1429 @@
+{
+  "meta": {
+    "file": "prologue/prologue_3.txt",
+    "chapter": "prologue",
+    "total_lines": 80,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「……それでは、兄さん。行ってきます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　十夜「ああ。気をつけて行ってくるんだぞ」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　十夜「ああ。気をつけて行ってくるんだぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それでは、兄さん。行ってきます」",
+        "after": "遠野　紗夜「はい！」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「はい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ。気をつけて行ってくるんだぞ」",
+        "after": "笑顔で兄と別れ、扉を閉めた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "笑顔で兄と別れ、扉を閉めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい！」",
+        "after": "手すりに掴まり、木製の階段を下る。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "手すりに掴まり、木製の階段を下る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "笑顔で兄と別れ、扉を閉めた。",
+        "after": "エントランスまで辿り着くと、管理人の姿が目に入った。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "エントランスまで辿り着くと、管理人の姿が目に入った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手すりに掴まり、木製の階段を下る。",
+        "after": "遠野　紗夜「おはようございます」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「おはようございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "エントランスまで辿り着くと、管理人の姿が目に入った。",
+        "after": "私が挨拶をすると、向こうも丁寧にお辞儀をし返す。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "私が挨拶をすると、向こうも丁寧にお辞儀をし返す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「おはようございます」",
+        "after": "管理人「おはようございます。今日もいい天気ですよ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "管理人「おはようございます。今日もいい天気ですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "管理人",
+      "special_char": true,
+      "context": {
+        "before": "私が挨拶をすると、向こうも丁寧にお辞儀をし返す。",
+        "after": "外に出ると、太陽の光が目に入り、私は思わず目を瞑った。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "外に出ると、太陽の光が目に入り、私は思わず目を瞑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "管理人「おはようございます。今日もいい天気ですよ」",
+        "after": "閉じた瞼の中でもちかちかと火花の様に光が走り、再び正常な視界を取り戻すのに少しの時間を要した。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "閉じた瞼の中でもちかちかと火花の様に光が走り、再び正常な視界を取り戻すのに少しの時間を要した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "外に出ると、太陽の光が目に入り、私は思わず目を瞑った。",
+        "after": "確かに、いい天気の様だ。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "確かに、いい天気の様だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "閉じた瞼の中でもちかちかと火花の様に光が走り、再び正常な視界を取り戻すのに少しの時間を要した。",
+        "after": "私達が町はずれにある屋敷を捨て、このマンションに移り住んだのは、私が高校に入学することが決まってしばらくのことだった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私達が町はずれにある屋敷を捨て、このマンションに移り住んだのは、私が高校に入学することが決まってしばらくのことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに、いい天気の様だ。",
+        "after": "初め、屋敷を出て行きたいと言った時には、家の者には強く反対されたのだけれど、"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "初め、屋敷を出て行きたいと言った時には、家の者には強く反対されたのだけれど、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達が町はずれにある屋敷を捨て、このマンションに移り住んだのは、私が高校に入学することが決まってしばらくのことだった。",
+        "after": "私自身の強い希望と、向こうが指定した場所に暮らすことを条件にし、ようやく私達はあの場所から解放されたのだった。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私自身の強い希望と、向こうが指定した場所に暮らすことを条件にし、ようやく私達はあの場所から解放されたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "初め、屋敷を出て行きたいと言った時には、家の者には強く反対されたのだけれど、",
+        "after": "あれから、一度として屋敷には戻ってはいないが、どうやら管理人を通してこちらの様子は知らされている様で、向こうからは何も言って来ない。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "あれから、一度として屋敷には戻ってはいないが、どうやら管理人を通してこちらの様子は知らされている様で、向こうからは何も言って来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私自身の強い希望と、向こうが指定した場所に暮らすことを条件にし、ようやく私達はあの場所から解放されたのだった。",
+        "after": "世間のことなど何も知らぬ私だったけれど、既に一年半もの時が経ち、ここでの生活も大分慣れてきた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "世間のことなど何も知らぬ私だったけれど、既に一年半もの時が経ち、ここでの生活も大分慣れてきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あれから、一度として屋敷には戻ってはいないが、どうやら管理人を通してこちらの様子は知らされている様で、向こうからは何も言って来ない。",
+        "after": "最初のうちこそは戸惑ったものだが、私がここまで問題なくやってこれたのは、偏に兄の存在があったからだ。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "最初のうちこそは戸惑ったものだが、私がここまで問題なくやってこれたのは、偏に兄の存在があったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "世間のことなど何も知らぬ私だったけれど、既に一年半もの時が経ち、ここでの生活も大分慣れてきた。",
+        "after": "兄は作家活動をしており、私より世間に通じている為、生活する為の処世術の大半は兄から教えられた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "兄は作家活動をしており、私より世間に通じている為、生活する為の処世術の大半は兄から教えられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初のうちこそは戸惑ったものだが、私がここまで問題なくやってこれたのは、偏に兄の存在があったからだ。",
+        "after": "また、兄と暮らしているおかげで不安や淋しさなどといった煩わしい感情にも振り回されずに済んだ。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "また、兄と暮らしているおかげで不安や淋しさなどといった煩わしい感情にも振り回されずに済んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は作家活動をしており、私より世間に通じている為、生活する為の処世術の大半は兄から教えられた。",
+        "after": "私が屋敷を出て行きたいと言った時も、兄だけは唯一反対しなかった。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私が屋敷を出て行きたいと言った時も、兄だけは唯一反対しなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また、兄と暮らしているおかげで不安や淋しさなどといった煩わしい感情にも振り回されずに済んだ。",
+        "after": "兄はいつでも私の味方だった。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "兄はいつでも私の味方だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が屋敷を出て行きたいと言った時も、兄だけは唯一反対しなかった。",
+        "after": "私の日常は、そう変わらない。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私の日常は、そう変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄はいつでも私の味方だった。",
+        "after": "毎日のように学校に通い、毎日のように家に帰り、時々、兄が紡ぐ物語に耳を傾ける。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "毎日のように学校に通い、毎日のように家に帰り、時々、兄が紡ぐ物語に耳を傾ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の日常は、そう変わらない。",
+        "after": "日々は、この繰り返しで過ぎていく。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "日々は、この繰り返しで過ぎていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "毎日のように学校に通い、毎日のように家に帰り、時々、兄が紡ぐ物語に耳を傾ける。",
+        "after": "それはまるで、終わりのない物語のように思っていた。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "それはまるで、終わりのない物語のように思っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日々は、この繰り返しで過ぎていく。",
+        "after": "いつまでも穏やかに、この時間が流れていくのだと。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "いつまでも穏やかに、この時間が流れていくのだと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それはまるで、終わりのない物語のように思っていた。",
+        "after": "永遠に続いていくものだと。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "永遠に続いていくものだと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつまでも穏やかに、この時間が流れていくのだと。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "永遠に続いていくものだと。",
+        "after": "そして、この時計塔は"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "そして、この時計塔は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "今日も、この時計の針は止まったまま。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "今日も、この時計の針は止まったまま。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、この時計塔は",
+        "after": "？？？「おはよ～。紗夜ちゃん！」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "？？？「おはよ～。紗夜ちゃん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "今日も、この時計の針は止まったまま。",
+        "after": "特徴的な甘い声が聞こえ、私はそこにいる人物に笑顔を向けた。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "特徴的な甘い声が聞こえ、私はそこにいる人物に笑顔を向けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「おはよ～。紗夜ちゃん！」",
+        "after": "遠野　紗夜「おはようございます、夏帆」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「おはようございます、夏帆」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "特徴的な甘い声が聞こえ、私はそこにいる人物に笑顔を向けた。",
+        "after": "宮沢　夏帆「あ～もう、相変わらず早いよぉ。今日こそは絶対に私の方が早く来てると思ったのにぃ～」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "宮沢　夏帆「あ～もう、相変わらず早いよぉ。今日こそは絶対に私の方が早く来てると思ったのにぃ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「おはようございます、夏帆」",
+        "after": "長い髪を二つに結ったこの可愛らしい少女の名は、『宮沢夏帆』。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "長い髪を二つに結ったこの可愛らしい少女の名は、『宮沢夏帆』。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あ～もう、相変わらず早いよぉ。今日こそは絶対に私の方が早く来てると思ったのにぃ～」",
+        "after": "私の級友であり、大切な友人だ。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "私の級友であり、大切な友人だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "長い髪を二つに結ったこの可愛らしい少女の名は、『宮沢夏帆』。",
+        "after": "遠野　紗夜「ふふ」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「ふふ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の級友であり、大切な友人だ。",
+        "after": "私が笑うと彼女は顔を膨らませるのを止めた。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "私が笑うと彼女は顔を膨らませるのを止めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふふ」",
+        "after": "宮沢　夏帆「ちなみに、何してたのぉ～？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "宮沢　夏帆「ちなみに、何してたのぉ～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私が笑うと彼女は顔を膨らませるのを止めた。",
+        "after": "遠野　紗夜「何をですか？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「何をですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちなみに、何してたのぉ～？」",
+        "after": "宮沢　夏帆「私に気付く前、ずーっと時計塔見てたよね～？」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "宮沢　夏帆「私に気付く前、ずーっと時計塔見てたよね～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何をですか？」",
+        "after": "遠野　紗夜「ああ、はい。特に意味はないのです。……今日も、この時計塔は止まったままだなと思っただけで」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「ああ、はい。特に意味はないのです。……今日も、この時計塔は止まったままだなと思っただけで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「私に気付く前、ずーっと時計塔見てたよね～？」",
+        "after": "そう言って、もう一度空を仰ぐ。今度は、夏帆も一緒だ。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "そう言って、もう一度空を仰ぐ。今度は、夏帆も一緒だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ああ、はい。特に意味はないのです。……今日も、この時計塔は止まったままだなと思っただけで」",
+        "after": "宮沢　夏帆「あー、そういえばそうだね～」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "宮沢　夏帆「あー、そういえばそうだね～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、もう一度空を仰ぐ。今度は、夏帆も一緒だ。",
+        "after": "宮沢　夏帆「いつからだったっけ。この時計が動かなくなっちゃったのって」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "宮沢　夏帆「いつからだったっけ。この時計が動かなくなっちゃったのって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あー、そういえばそうだね～」",
+        "after": "遠野　紗夜「十年前ですよ」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「十年前ですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「いつからだったっけ。この時計が動かなくなっちゃったのって」",
+        "after": "宮沢　夏帆「ふーん。もうそんなに経っちゃうんだねぇ～」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "宮沢　夏帆「ふーん。もうそんなに経っちゃうんだねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「十年前ですよ」",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふーん。もうそんなに経っちゃうんだねぇ～」",
+        "after": "煉瓦で作られた瀟洒な外観。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "煉瓦で作られた瀟洒な外観。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "その天辺に飾られた大きな四角い盤。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "その天辺に飾られた大きな四角い盤。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "煉瓦で作られた瀟洒な外観。",
+        "after": "時を刻む為の二つの針は、一つに交わる前で止めている。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "時を刻む為の二つの針は、一つに交わる前で止めている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その天辺に飾られた大きな四角い盤。",
+        "after": "鳴鐘時計台。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "鳴鐘時計台。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時を刻む為の二つの針は、一つに交わる前で止めている。",
+        "after": "この時計塔は、百年以上前に作られたものらしい。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "この時計塔は、百年以上前に作られたものらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鳴鐘時計台。",
+        "after": "何でも、外国からの技術を取り入れようと制作されたようで、その後の幾たびの戦火の中でも焼け落ちることなく、今では国の文化財の一つとして保護されている。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "何でも、外国からの技術を取り入れようと制作されたようで、その後の幾たびの戦火の中でも焼け落ちることなく、今では国の文化財の一つとして保護されている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この時計塔は、百年以上前に作られたものらしい。",
+        "after": "時刻む町、鳴鐘。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "時刻む町、鳴鐘。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何でも、外国からの技術を取り入れようと制作されたようで、その後の幾たびの戦火の中でも焼け落ちることなく、今では国の文化財の一つとして保護されている。",
+        "after": "この町が、そんな風に呼ばれるようになったのも、この時計塔のおかげなのかもしれない。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "この町が、そんな風に呼ばれるようになったのも、この時計塔のおかげなのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時刻む町、鳴鐘。",
+        "after": "宮沢　夏帆「いい加減直さないのかなぁ。これって、一応町のシンボルなんだよねぇ？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "宮沢　夏帆「いい加減直さないのかなぁ。これって、一応町のシンボルなんだよねぇ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "この町が、そんな風に呼ばれるようになったのも、この時計塔のおかげなのかもしれない。",
+        "after": "私は顔を元に戻すと、神妙な面持ちで言った。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "私は顔を元に戻すと、神妙な面持ちで言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「いい加減直さないのかなぁ。これって、一応町のシンボルなんだよねぇ？」",
+        "after": "遠野　紗夜「直さない、ではなく、どうやら直せないそうですよ」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「直さない、ではなく、どうやら直せないそうですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は顔を元に戻すと、神妙な面持ちで言った。",
+        "after": "宮沢　夏帆「そうなの？」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "宮沢　夏帆「そうなの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「直さない、ではなく、どうやら直せないそうですよ」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そうなの？」",
+        "after": "遠野　紗夜「私も詳しくは知らないのですが、今まで何度か修理しようと試みたそうです」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「私も詳しくは知らないのですが、今まで何度か修理しようと試みたそうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "遠野　紗夜「けれど、どんなに調査をしても、この時計が止まった理由が分からないらしく、今もまだそれっきりだそうで……あくまで人づてに聞いた話なのですけどね」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「けれど、どんなに調査をしても、この時計が止まった理由が分からないらしく、今もまだそれっきりだそうで……あくまで人づてに聞いた話なのですけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も詳しくは知らないのですが、今まで何度か修理しようと試みたそうです」",
+        "after": "宮沢　夏帆「ふぅん」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "宮沢　夏帆「ふぅん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、どんなに調査をしても、この時計が止まった理由が分からないらしく、今もまだそれっきりだそうで……あくまで人づてに聞いた話なのですけどね」",
+        "after": "夏帆は特に興味なさげに呟くと、急に何かを思い出したかの様に顔を輝かせた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "夏帆は特に興味なさげに呟くと、急に何かを思い出したかの様に顔を輝かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ふぅん」",
+        "after": "宮沢　夏帆「あ、そうそう！　ねえ、そんなことより聞いてよぉ～～！」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "宮沢　夏帆「あ、そうそう！　ねえ、そんなことより聞いてよぉ～～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は特に興味なさげに呟くと、急に何かを思い出したかの様に顔を輝かせた。",
+        "after": "遠野　紗夜「何ですか？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「何ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あ、そうそう！　ねえ、そんなことより聞いてよぉ～～！」",
+        "after": "夏帆と二人、馴れた通学路を歩く。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "夏帆と二人、馴れた通学路を歩く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「何ですか？」",
+        "after": "赤の煉瓦路。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "赤の煉瓦路。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆と二人、馴れた通学路を歩く。",
+        "after": "細く伸びた黒の町灯。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "細く伸びた黒の町灯。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "赤の煉瓦路。",
+        "after": "それに合わせたように赤茶色の壁が何軒にも連なる。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "それに合わせたように赤茶色の壁が何軒にも連なる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "細く伸びた黒の町灯。",
+        "after": "どこか異国情緒溢れる町並み。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "どこか異国情緒溢れる町並み。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それに合わせたように赤茶色の壁が何軒にも連なる。",
+        "after": "鳴鐘町は、古くから港湾都市として栄えた港町である。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "鳴鐘町は、古くから港湾都市として栄えた港町である。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どこか異国情緒溢れる町並み。",
+        "after": "その為、町のあちこちにこうした外国の影響が見られた跡が残されている。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "その為、町のあちこちにこうした外国の影響が見られた跡が残されている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鳴鐘町は、古くから港湾都市として栄えた港町である。",
+        "after": "和洋折衷な町は独特で、とても美しく、私はこの町がとても気に入っている。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "和洋折衷な町は独特で、とても美しく、私はこの町がとても気に入っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その為、町のあちこちにこうした外国の影響が見られた跡が残されている。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "和洋折衷な町は独特で、とても美しく、私はこの町がとても気に入っている。",
+        "after": "緩やかな斜面。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "緩やかな斜面。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "息を吸うと微かに潮の香りが漂う。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "息を吸うと微かに潮の香りが漂う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "緩やかな斜面。",
+        "after": "今日もこの町は変わらない。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "今日もこの町は変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "息を吸うと微かに潮の香りが漂う。",
+        "after": null
+      }
+    }
+  ]
+}

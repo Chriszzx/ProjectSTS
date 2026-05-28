@@ -1,0 +1,1006 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_6.txt",
+    "chapter": "chapter3",
+    "total_lines": 55,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "お弁当を作る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "とは、いったものの……。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "とは、いったものの……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お弁当を作る。",
+        "after": "遠野　紗夜「一体、お弁当とは何を作ったら良いものなのでしょうか」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「一体、お弁当とは何を作ったら良いものなのでしょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "とは、いったものの……。",
+        "after": "無意識に言葉に出していて、はっとし、本日何度目かのため息を吐いた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "無意識に言葉に出していて、はっとし、本日何度目かのため息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「一体、お弁当とは何を作ったら良いものなのでしょうか」",
+        "after": "そもそも、私はまともに料理をしたことがない。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "そもそも、私はまともに料理をしたことがない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "無意識に言葉に出していて、はっとし、本日何度目かのため息を吐いた。",
+        "after": "私がああもお弁当作りを拒んだのにはそんな理由があったからだ。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "私がああもお弁当作りを拒んだのにはそんな理由があったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そもそも、私はまともに料理をしたことがない。",
+        "after": "作る機会も作る必要性も特になかった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "作る機会も作る必要性も特になかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私がああもお弁当作りを拒んだのにはそんな理由があったからだ。",
+        "after": "実家にいる時は勿論、兄と暮らしている今ですらも。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "実家にいる時は勿論、兄と暮らしている今ですらも。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "作る機会も作る必要性も特になかった。",
+        "after": "なので、突然お弁当を作れと言われても、どうしたらいいのか分からない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "なので、突然お弁当を作れと言われても、どうしたらいいのか分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "実家にいる時は勿論、兄と暮らしている今ですらも。",
+        "after": "商店街を歩きながら、何か良いアイディアはないかと探す。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "商店街を歩きながら、何か良いアイディアはないかと探す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "なので、突然お弁当を作れと言われても、どうしたらいいのか分からない。",
+        "after": "ふと、香ばしい匂いが漂ってくるのに気が付いた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "ふと、香ばしい匂いが漂ってくるのに気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "商店街を歩きながら、何か良いアイディアはないかと探す。",
+        "after": "私は匂いに誘われるまま、小さなパン屋の前で立ち止まった。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "私は匂いに誘われるまま、小さなパン屋の前で立ち止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふと、香ばしい匂いが漂ってくるのに気が付いた。",
+        "after": "ショーウィンドウの向こう側には美味しそうなパンが並んでいる。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ショーウィンドウの向こう側には美味しそうなパンが並んでいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は匂いに誘われるまま、小さなパン屋の前で立ち止まった。",
+        "after": "店内には何人かの客がトングでパンを挟んでいたり、レジの前に並んでいたりする様子が見て取れた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "店内には何人かの客がトングでパンを挟んでいたり、レジの前に並んでいたりする様子が見て取れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ショーウィンドウの向こう側には美味しそうなパンが並んでいる。",
+        "after": "？？？「こんな所で何をしているんですか？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "？？？「こんな所で何をしているんですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "店内には何人かの客がトングでパンを挟んでいたり、レジの前に並んでいたりする様子が見て取れた。",
+        "after": "背後から何の気配もなしに突然話しかけられ、私はがばりと音がするくらい大げさに振り返った。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "背後から何の気配もなしに突然話しかけられ、私はがばりと音がするくらい大げさに振り返った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「こんな所で何をしているんですか？」",
+        "after": "遠野　紗夜「！　千代さん！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「！　千代さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "背後から何の気配もなしに突然話しかけられ、私はがばりと音がするくらい大げさに振り返った。",
+        "after": "千代「こんにちは、お嬢さん！」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "千代「こんにちは、お嬢さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「！　千代さん！」",
+        "after": "千代さんは元気よく挨拶をする。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "千代さんは元気よく挨拶をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「こんにちは、お嬢さん！」",
+        "after": "私はそれにつられるように自然と笑顔になる。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "私はそれにつられるように自然と笑顔になる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんは元気よく挨拶をする。",
+        "after": "遠野　紗夜「こんにちは……お散歩ですか？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「こんにちは……お散歩ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はそれにつられるように自然と笑顔になる。",
+        "after": "千代「はい！　お嬢さんはお買い物ですか？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "千代「はい！　お嬢さんはお買い物ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こんにちは……お散歩ですか？」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「はい！　お嬢さんはお買い物ですか？」",
+        "after": "千代「そうですか！　やっぱり！」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "千代「そうですか！　やっぱり！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "遠野　紗夜「やっぱり、ですか？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「やっぱり、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「そうですか！　やっぱり！」",
+        "after": "私は首を傾げる。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "私は首を傾げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「やっぱり、ですか？」",
+        "after": "千代「あの！　俺、良かったらお嬢さんのこと手伝いますよ！」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "千代「あの！　俺、良かったらお嬢さんのこと手伝いますよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私は首を傾げる。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「あの！　俺、良かったらお嬢さんのこと手伝いますよ！」",
+        "after": "きょとんとする私に、千代さんはすまなそうに頬を掻きながらわけを説明した。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "きょとんとする私に、千代さんはすまなそうに頬を掻きながらわけを説明した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "千代「あ、すみません。今日のこと、俺もずっと聞いてましたから」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "千代「あ、すみません。今日のこと、俺もずっと聞いてましたから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "きょとんとする私に、千代さんはすまなそうに頬を掻きながらわけを説明した。",
+        "after": "ああ、と私は頷く。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "ああ、と私は頷く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「あ、すみません。今日のこと、俺もずっと聞いてましたから」",
+        "after": "そういえば、昼食時、会話に参加こそしていなかったけれど千代さんもあの場にいたのだ。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "そういえば、昼食時、会話に参加こそしていなかったけれど千代さんもあの場にいたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、と私は頷く。",
+        "after": "千代「それで、お嬢さん。さっきからずっと悩んでいましたよね。明日のお弁当のことで」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "千代「それで、お嬢さん。さっきからずっと悩んでいましたよね。明日のお弁当のことで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "そういえば、昼食時、会話に参加こそしていなかったけれど千代さんもあの場にいたのだ。",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「それで、お嬢さん。さっきからずっと悩んでいましたよね。明日のお弁当のことで」",
+        "after": "千代「一緒に考えます！！　いや、考えさせて下さい！！」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "千代「一緒に考えます！！　いや、考えさせて下さい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "千代さんはそう言って私に頭を下げる。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "千代さんはそう言って私に頭を下げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「一緒に考えます！！　いや、考えさせて下さい！！」",
+        "after": "一瞬、周りの目を本気で気にしたけれど、千代さんには関係のないことだった。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "一瞬、周りの目を本気で気にしたけれど、千代さんには関係のないことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんはそう言って私に頭を下げる。",
+        "after": "千代「すみません……。本当は、作るのをお手伝いしたりとか、荷物持ちくらいになれたら良いんですが……」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "千代「すみません……。本当は、作るのをお手伝いしたりとか、荷物持ちくらいになれたら良いんですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "一瞬、周りの目を本気で気にしたけれど、千代さんには関係のないことだった。",
+        "after": "千代さんはゆっくりと頭を上げ、私の顔を窺う。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "千代さんはゆっくりと頭を上げ、私の顔を窺う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「すみません……。本当は、作るのをお手伝いしたりとか、荷物持ちくらいになれたら良いんですが……」",
+        "after": "その垂れた眉が可愛く思えて、私は思わず声に出して笑ってしまった。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "その垂れた眉が可愛く思えて、私は思わず声に出して笑ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんはゆっくりと頭を上げ、私の顔を窺う。",
+        "after": "遠野　紗夜「……ふふっ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「……ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その垂れた眉が可愛く思えて、私は思わず声に出して笑ってしまった。",
+        "after": "遠野　紗夜「千代さん、ありがとうございます」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「千代さん、ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ふふっ」",
+        "after": "千代「え？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "千代「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さん、ありがとうございます」",
+        "after": "遠野　紗夜「助かります。ずっと、一人で悩んでいても全然答えが出せなくて。千代さんが一緒なら楽しく考えることが出来そうですね」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「助かります。ずっと、一人で悩んでいても全然答えが出せなくて。千代さんが一緒なら楽しく考えることが出来そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「え？」",
+        "after": "千代「は……はい！　ありがとうございます！！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "千代「は……はい！　ありがとうございます！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「助かります。ずっと、一人で悩んでいても全然答えが出せなくて。千代さんが一緒なら楽しく考えることが出来そうですね」",
+        "after": "遠野　紗夜「では、早速ですが、どうしましょうか。買い物をする前に、作るものを決めなければいけないと気付いてしまいましたが……」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「では、早速ですが、どうしましょうか。買い物をする前に、作るものを決めなければいけないと気付いてしまいましたが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「は……はい！　ありがとうございます！！」",
+        "after": "遠野　紗夜「ですが、何分私は何を作りたいという思いも、作り方も知りませんので、困っていた所なのです」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「ですが、何分私は何を作りたいという思いも、作り方も知りませんので、困っていた所なのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、早速ですが、どうしましょうか。買い物をする前に、作るものを決めなければいけないと気付いてしまいましたが……」",
+        "after": "千代「あ、なら、蒼さんの所に行くのはどうでしょう？」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "千代「あ、なら、蒼さんの所に行くのはどうでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、何分私は何を作りたいという思いも、作り方も知りませんので、困っていた所なのです」",
+        "after": "遠野　紗夜「蒼の所に、ですか？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「蒼の所に、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「あ、なら、蒼さんの所に行くのはどうでしょう？」",
+        "after": "千代「はい。分からなければ調べれば良いんですよ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "千代「はい。分からなければ調べれば良いんですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼の所に、ですか？」",
+        "after": "遠野　紗夜「本で、ということですか。確かに、本なら作り方も必要なものも書いていますしね」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「本で、ということですか。確かに、本なら作り方も必要なものも書いていますしね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「はい。分からなければ調べれば良いんですよ」",
+        "after": "千代「そういうことです」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "千代「そういうことです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本で、ということですか。確かに、本なら作り方も必要なものも書いていますしね」",
+        "after": "私は改めて自分から千代さんに頼む。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "私は改めて自分から千代さんに頼む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「そういうことです」",
+        "after": "遠野　紗夜「では、私に付き合って下さいますか？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「では、私に付き合って下さいますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は改めて自分から千代さんに頼む。",
+        "after": "千代「勿論です！」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "千代「勿論です！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、私に付き合って下さいますか？」",
+        "after": null
+      }
+    }
+  ]
+}

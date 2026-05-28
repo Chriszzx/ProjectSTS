@@ -1,0 +1,1082 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_22.txt",
+    "chapter": "chapter1",
+    "total_lines": 59,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「今日は、楽しかったですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「私も普段、町中を歩き回るなんてことないので、とても新鮮でした」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「私も普段、町中を歩き回るなんてことないので、とても新鮮でした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今日は、楽しかったですね」",
+        "after": "蒼「そうか」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "蒼「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も普段、町中を歩き回るなんてことないので、とても新鮮でした」",
+        "after": "遠野　紗夜「蒼はどこか気になった場所はありましたか？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「蒼はどこか気になった場所はありましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうか」",
+        "after": "彼は考える素振りもなく即答する。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "彼は考える素振りもなく即答する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼はどこか気になった場所はありましたか？」",
+        "after": "蒼「図書館だな」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "蒼「図書館だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は考える素振りもなく即答する。",
+        "after": "遠野　紗夜「……学校の？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「……学校の？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「図書館だな」",
+        "after": "蒼「お前の言う通りならば、かなりの量の本が置いてあるのだろう？　ならば、是非とも一度行ってみたいものだ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "蒼「お前の言う通りならば、かなりの量の本が置いてあるのだろう？　ならば、是非とも一度行ってみたいものだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……学校の？」",
+        "after": "私は思わず、口元を隠して笑った。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は思わず、口元を隠して笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「お前の言う通りならば、かなりの量の本が置いてあるのだろう？　ならば、是非とも一度行ってみたいものだ」",
+        "after": "何とも本好きの彼らしい言葉だと思ったからだ。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "何とも本好きの彼らしい言葉だと思ったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は思わず、口元を隠して笑った。",
+        "after": "遠野　紗夜「そうですね。ならば、今度……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「そうですね。ならば、今度……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何とも本好きの彼らしい言葉だと思ったからだ。",
+        "after": "言いかけた途中、"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "言いかけた途中、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね。ならば、今度……」",
+        "after": "？？？「あ……っ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "？？？「あ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "言いかけた途中、",
+        "after": "誰かが声をあげたのが聞こえ、何事かと目をやった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "誰かが声をあげたのが聞こえ、何事かと目をやった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「あ……っ」",
+        "after": "遠野　紗夜「貴方は……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「貴方は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "誰かが声をあげたのが聞こえ、何事かと目をやった。",
+        "after": "彼は私を見るなり、後ろを指差し叫んだ。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "彼は私を見るなり、後ろを指差し叫んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方は……」",
+        "after": "？？？「大変です！　向こうに女の人が倒れて！！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "？？？「大変です！　向こうに女の人が倒れて！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "彼は私を見るなり、後ろを指差し叫んだ。",
+        "after": "遠野　紗夜「え────」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「え────」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "？？？「大変です！　向こうに女の人が倒れて！！」",
+        "after": "？？？「おい！　大丈夫か！！」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "？？？「おい！　大丈夫か！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え────」",
+        "after": "？？？「はっ……はあ……っ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "？？？「はっ……はあ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「おい！　大丈夫か！！」",
+        "after": "私達がその場に駆けつけると、そこには地面に膝をつき、こちらを見やる桐島先輩の姿があった。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私達がその場に駆けつけると、そこには地面に膝をつき、こちらを見やる桐島先輩の姿があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「はっ……はあ……っ」",
+        "after": "遠野　紗夜「！　桐島先輩……っ！？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「！　桐島先輩……っ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私達がその場に駆けつけると、そこには地面に膝をつき、こちらを見やる桐島先輩の姿があった。",
+        "after": "桐島　七葵「お前は……」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「お前は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「！　桐島先輩……っ！？」",
+        "after": "そして、桐島先輩の腕に抱えられた、見覚えある女性の姿。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "そして、桐島先輩の腕に抱えられた、見覚えある女性の姿。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「お前は……」",
+        "after": "遠野　紗夜「ともゑさん！」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「ともゑさん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、桐島先輩の腕に抱えられた、見覚えある女性の姿。",
+        "after": "私が叫ぶと、彼は落ち着いた風に言った。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "私が叫ぶと、彼は落ち着いた風に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさん！」",
+        "after": "桐島　七葵「知り合いか」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "桐島　七葵「知り合いか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私が叫ぶと、彼は落ち着いた風に言った。",
+        "after": "遠野　紗夜「はい！　一体、どうしたのですか！？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「はい！　一体、どうしたのですか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「知り合いか」",
+        "after": "桐島　七葵「分からん。いきなり、目の前で倒れてこの有様だ」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "桐島　七葵「分からん。いきなり、目の前で倒れてこの有様だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい！　一体、どうしたのですか！？」",
+        "after": "私は桐島先輩と同じくその場に座り込み、彼女の姿を覗き込んだ。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "私は桐島先輩と同じくその場に座り込み、彼女の姿を覗き込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「分からん。いきなり、目の前で倒れてこの有様だ」",
+        "after": "太宰　ともゑ「は……っ、あ……っ」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "太宰　ともゑ「は……っ、あ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私は桐島先輩と同じくその場に座り込み、彼女の姿を覗き込んだ。",
+        "after": "ともゑさんは浅く短い呼吸を繰り返し、腕と足がびくびくと痙攣していた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "ともゑさんは浅く短い呼吸を繰り返し、腕と足がびくびくと痙攣していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「は……っ、あ……っ」",
+        "after": "桐島　七葵「救急車は呼んだ。もうすぐここにやって来るはずだ」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "桐島　七葵「救急車は呼んだ。もうすぐここにやって来るはずだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんは浅く短い呼吸を繰り返し、腕と足がびくびくと痙攣していた。",
+        "after": "私は何か袋はないかと鞄の中をまさぐると紙袋を見つけ、それに空気を入れた。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "私は何か袋はないかと鞄の中をまさぐると紙袋を見つけ、それに空気を入れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「救急車は呼んだ。もうすぐここにやって来るはずだ」",
+        "after": "そして、膨らんだ袋の入り口を彼女の口に押し当てると彼女に息を吸わせる。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "そして、膨らんだ袋の入り口を彼女の口に押し当てると彼女に息を吸わせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は何か袋はないかと鞄の中をまさぐると紙袋を見つけ、それに空気を入れた。",
+        "after": "遠野　紗夜「ともゑさん！　ゆっくりとで良いので呼吸して下さい！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「ともゑさん！　ゆっくりとで良いので呼吸して下さい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、膨らんだ袋の入り口を彼女の口に押し当てると彼女に息を吸わせる。",
+        "after": "袋は彼女が息を吸って吐き出すたびに膨らんだり縮んだりを繰り返した。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "袋は彼女が息を吸って吐き出すたびに膨らんだり縮んだりを繰り返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさん！　ゆっくりとで良いので呼吸して下さい！」",
+        "after": "そうして、呼吸を繰り返しているうちに少しずつ、彼女の痙攣も治まり始めていた。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "そうして、呼吸を繰り返しているうちに少しずつ、彼女の痙攣も治まり始めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "袋は彼女が息を吸って吐き出すたびに膨らんだり縮んだりを繰り返した。",
+        "after": "遠野　紗夜「ともゑさん！　もう少しの辛抱ですよ！」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「ともゑさん！　もう少しの辛抱ですよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そうして、呼吸を繰り返しているうちに少しずつ、彼女の痙攣も治まり始めていた。",
+        "after": "念の為、まだ袋を彼女から外さないでおきながら声をかけると、意識が戻ったのか彼女は私を見るなり"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "念の為、まだ袋を彼女から外さないでおきながら声をかけると、意識が戻ったのか彼女は私を見るなり",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさん！　もう少しの辛抱ですよ！」",
+        "after": "太宰　ともゑ「……ない」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "太宰　ともゑ「……ない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "念の為、まだ袋を彼女から外さないでおきながら声をかけると、意識が戻ったのか彼女は私を見るなり",
+        "after": "と、聞き取れない小さな声で何か呟いた。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "と、聞き取れない小さな声で何か呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「……ない」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、聞き取れない小さな声で何か呟いた。",
+        "after": "私が何かと耳を近づけようとすると、がしりと腕を掴まれた。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "私が何かと耳を近づけようとすると、がしりと腕を掴まれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「きゃ……っ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「きゃ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私が何かと耳を近づけようとすると、がしりと腕を掴まれた。",
+        "after": "太宰　ともゑ「……ぃ！！」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "太宰　ともゑ「……ぃ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「きゃ……っ」",
+        "after": "遠野　紗夜「っ！　痛……っ」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「っ！　痛……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……ぃ！！」",
+        "after": "強く掴まれた腕に、ぎりりと爪が食い込む。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "強く掴まれた腕に、ぎりりと爪が食い込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「っ！　痛……っ」",
+        "after": "遠野　紗夜「っ！」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "強く掴まれた腕に、ぎりりと爪が食い込む。",
+        "after": "ぞわりとした。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ぞわりとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「っ！」",
+        "after": "桐島　七葵「おい！　何やってるんだっ！！」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "桐島　七葵「おい！　何やってるんだっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "ぞわりとした。",
+        "after": "桐島先輩が無理矢理手を離させる。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "桐島先輩が無理矢理手を離させる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「おい！　何やってるんだっ！！」",
+        "after": "遠野　紗夜「……っ！」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩が無理矢理手を離させる。",
+        "after": "遠くからサイレンの音が聞こえてきた。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠くからサイレンの音が聞こえてきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ！」",
+        "after": "桐島　七葵「来たか……！」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "桐島　七葵「来たか……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠くからサイレンの音が聞こえてきた。",
+        "after": "私はその音を耳にしながら、目の前の彼女の様子におののいていた。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私はその音を耳にしながら、目の前の彼女の様子におののいていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「来たか……！」",
+        "after": "遠野　紗夜「……っ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその音を耳にしながら、目の前の彼女の様子におののいていた。",
+        "after": "私を射抜く、強い眸。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "私を射抜く、強い眸。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ」",
+        "after": "その奥に潜む深い、深い、憎しみの色。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "その奥に潜む深い、深い、憎しみの色。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を射抜く、強い眸。",
+        "after": null
+      }
+    }
+  ]
+}

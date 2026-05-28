@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "file": "hinase/hinase_3.txt",
+    "chapter": "hinase",
+    "total_lines": 15,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "入り口のない高い高い塔に閉じ籠められたお姫様。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "彼女は歌う歌う。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "彼女は歌う歌う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "入り口のない高い高い塔に閉じ籠められたお姫様。",
+        "after": "それは、まだ見ぬ自由を夢見て？"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "それは、まだ見ぬ自由を夢見て？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は歌う歌う。",
+        "after": "誰かが助けに来るのを待っているから歌うの？"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "誰かが助けに来るのを待っているから歌うの？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは、まだ見ぬ自由を夢見て？",
+        "after": "彼女を囚えているのは誰？"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "彼女を囚えているのは誰？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰かが助けに来るのを待っているから歌うの？",
+        "after": "ねえ……私をここから……………"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ねえ……私をここから……………",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女を囚えているのは誰？",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ねえ……私をここから……………",
+        "after": "変な夢を見た。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "変な夢を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "昨日、あんな話をしたからだろうか？"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "昨日、あんな話をしたからだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "変な夢を見た。",
+        "after": "カーテンの隙間から漏れる光がゆらゆらと地面に波打っている。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "カーテンの隙間から漏れる光がゆらゆらと地面に波打っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "昨日、あんな話をしたからだろうか？",
+        "after": "どうしてだろう？"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "どうしてだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "カーテンの隙間から漏れる光がゆらゆらと地面に波打っている。",
+        "after": "私は泣いていた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "私は泣いていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうしてだろう？",
+        "after": "別に嫌な夢を見たわけでもないというのに、可笑しい。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "別に嫌な夢を見たわけでもないというのに、可笑しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は泣いていた。",
+        "after": "口に染み入る塩辛い味。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "口に染み入る塩辛い味。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "別に嫌な夢を見たわけでもないというのに、可笑しい。",
+        "after": "どうせなら、甘い方が良いと思った。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "どうせなら、甘い方が良いと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口に染み入る塩辛い味。",
+        "after": null
+      }
+    }
+  ]
+}

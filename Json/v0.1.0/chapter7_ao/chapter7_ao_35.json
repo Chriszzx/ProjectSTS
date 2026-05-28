@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_35.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 28,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "廊下を歩いていると、見覚えのある女性が目についた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "司書「あ、遠野さん」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "司書「あ、遠野さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "廊下を歩いていると、見覚えのある女性が目についた。",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「あ、遠野さん」",
+        "after": "目が合うと、私は頭を下げるだけの会釈をした。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "目が合うと、私は頭を下げるだけの会釈をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "それだけで過ぎ去ろうとしたのだけれど、"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "それだけで過ぎ去ろうとしたのだけれど、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目が合うと、私は頭を下げるだけの会釈をした。",
+        "after": "司書「最近、図書館に来ていないけど、どうしたの？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "司書「最近、図書館に来ていないけど、どうしたの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "それだけで過ぎ去ろうとしたのだけれど、",
+        "after": "話しかけられてしまった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "話しかけられてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「最近、図書館に来ていないけど、どうしたの？」",
+        "after": "遠野　紗夜「すみません、少し忙しくて本を読む暇がなくなってしまって」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「すみません、少し忙しくて本を読む暇がなくなってしまって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "話しかけられてしまった。",
+        "after": "司書「あら、そうなの？　じゃあ、本が嫌いになったわけじゃないのね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "司書「あら、そうなの？　じゃあ、本が嫌いになったわけじゃないのね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません、少し忙しくて本を読む暇がなくなってしまって」",
+        "after": "遠野　紗夜「ええ。本は好きです」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「ええ。本は好きです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「あら、そうなの？　じゃあ、本が嫌いになったわけじゃないのね」",
+        "after": "司書「ふふっ。良かったわ。折角の貴重な文学少女を失うかと思ってたわ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "司書「ふふっ。良かったわ。折角の貴重な文学少女を失うかと思ってたわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。本は好きです」",
+        "after": "司書官は冗談めかして笑う。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "司書官は冗談めかして笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「ふふっ。良かったわ。折角の貴重な文学少女を失うかと思ってたわ」",
+        "after": "私も薄く笑みを浮かべていると、突然何かを思い出したかのように両手をぱんと合わせて言った。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私も薄く笑みを浮かべていると、突然何かを思い出したかのように両手をぱんと合わせて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書官は冗談めかして笑う。",
+        "after": "司書「ああ！　そういえば、彼が貴方を探していたわよ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "司書「ああ！　そういえば、彼が貴方を探していたわよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "私も薄く笑みを浮かべていると、突然何かを思い出したかのように両手をぱんと合わせて言った。",
+        "after": "遠野　紗夜「彼？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「彼？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「ああ！　そういえば、彼が貴方を探していたわよ」",
+        "after": "司書「蒼君」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "司書「蒼君」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼？」",
+        "after": "私の瞼がぴくりと動いた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私の瞼がぴくりと動いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「蒼君」",
+        "after": "遠野　紗夜「蒼が……？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「蒼が……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の瞼がぴくりと動いた。",
+        "after": "司書「ええ、ちょっと前に図書館に来て『紗夜はいないのか』って聞かれたけど」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "司書「ええ、ちょっと前に図書館に来て『紗夜はいないのか』って聞かれたけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼が……？」",
+        "after": "遠野　紗夜「…………そうですか」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「…………そうですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「ええ、ちょっと前に図書館に来て『紗夜はいないのか』って聞かれたけど」",
+        "after": "素っ気なく返した私の態度に何の違和感を持たぬ司書官は、私の肩を軽く叩くと、"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "素っ気なく返した私の態度に何の違和感を持たぬ司書官は、私の肩を軽く叩くと、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………そうですか」",
+        "after": "司書「じゃあ、またいつでも好きな時にいらっしゃいな。待ってるわよ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "司書「じゃあ、またいつでも好きな時にいらっしゃいな。待ってるわよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "素っ気なく返した私の態度に何の違和感を持たぬ司書官は、私の肩を軽く叩くと、",
+        "after": "そう言って、通り過ぎていった。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "そう言って、通り過ぎていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「じゃあ、またいつでも好きな時にいらっしゃいな。待ってるわよ」",
+        "after": "私は一人、しばらくその場を動けずにいた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "私は一人、しばらくその場を動けずにいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、通り過ぎていった。",
+        "after": "図書館に行かなくて良かった。そう心底思った。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "図書館に行かなくて良かった。そう心底思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は一人、しばらくその場を動けずにいた。",
+        "after": "けれど、心はどこか空虚だった。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "けれど、心はどこか空虚だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "図書館に行かなくて良かった。そう心底思った。",
+        "after": "何故、空虚なのか考えないでいた。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "何故、空虚なのか考えないでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、心はどこか空虚だった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何故、空虚なのか考えないでいた。",
+        "after": null
+      }
+    }
+  ]
+}

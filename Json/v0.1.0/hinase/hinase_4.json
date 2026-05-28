@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "file": "hinase/hinase_4.txt",
+    "chapter": "hinase",
+    "total_lines": 23,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "頭が痛い。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "頭が痛い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私は襲い来る頭痛にこめかみを押さえた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私は襲い来る頭痛にこめかみを押さえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭が痛い。",
+        "after": "この原因は恐らく夢を見たせいだ。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "この原因は恐らく夢を見たせいだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は襲い来る頭痛にこめかみを押さえた。",
+        "after": "どうして、あんな風に泣いたりしたのだろう？"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "どうして、あんな風に泣いたりしたのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この原因は恐らく夢を見たせいだ。",
+        "after": "この心の空白は一体何なのだろう？"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "この心の空白は一体何なのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうして、あんな風に泣いたりしたのだろう？",
+        "after": "私は眸を伏せ、朝の爽やかさとは対照的に気怠げなまま玄関の扉を開けた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "私は眸を伏せ、朝の爽やかさとは対照的に気怠げなまま玄関の扉を開けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この心の空白は一体何なのだろう？",
+        "after": "日生　光「紗夜」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "日生　光「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は眸を伏せ、朝の爽やかさとは対照的に気怠げなまま玄関の扉を開けた。",
+        "after": "日生　光「日生先輩！　どうして、ここに……」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "日生　光「日生先輩！　どうして、ここに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「紗夜」",
+        "after": "そこにいたのは日生先輩だった。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "そこにいたのは日生先輩だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「日生先輩！　どうして、ここに……」",
+        "after": "彼は私を見るなり、優しく微笑んだ。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "彼は私を見るなり、優しく微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこにいたのは日生先輩だった。",
+        "after": "日生　光「学校、行くんでしょう？　だから、迎えに来たんだよ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "日生　光「学校、行くんでしょう？　だから、迎えに来たんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "彼は私を見るなり、優しく微笑んだ。",
+        "after": "日生　光「君が淋しがっているんじゃないかと思って」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "日生　光「君が淋しがっているんじゃないかと思って」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「学校、行くんでしょう？　だから、迎えに来たんだよ」",
+        "after": "ああ、どうして。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "ああ、どうして。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「君が淋しがっているんじゃないかと思って」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ああ、どうして。",
+        "after": "思わず、手を伸ばした。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "思わず、手を伸ばした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "お願いです、どうかどうか"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "お願いです、どうかどうか",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思わず、手を伸ばした。",
+        "after": "私を"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私を",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お願いです、どうかどうか",
+        "after": "日生　光「捉まえた」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "日生　光「捉まえた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私を",
+        "after": "日生先輩は、私の手を取り笑う。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生先輩は、私の手を取り笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「捉まえた」",
+        "after": "私はそのことにひどく安堵した。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私はそのことにひどく安堵した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は、私の手を取り笑う。",
+        "after": "日生　光「じゃ、行こうか。お姫様」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　光「じゃ、行こうか。お姫様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私はそのことにひどく安堵した。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃ、行こうか。お姫様」",
+        "after": null
+      }
+    }
+  ]
+}

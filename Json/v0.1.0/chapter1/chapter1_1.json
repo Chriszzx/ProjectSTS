@@ -1,0 +1,1547 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_1.txt",
+    "chapter": "chapter1",
+    "total_lines": 85,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「あの、それで蒼さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "私がそう呼ぶと、彼は訝しげな顔をする。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私がそう呼ぶと、彼は訝しげな顔をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あの、それで蒼さん」",
+        "after": "蒼「……『さん』？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "蒼「……『さん』？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私がそう呼ぶと、彼は訝しげな顔をする。",
+        "after": "蒼「私の名を『蒼』だと名付けたのはお前ではなかったのか」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼「私の名を『蒼』だと名付けたのはお前ではなかったのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……『さん』？」",
+        "after": "どうやら呼び方が気に入らなかったらしく、彼は遠回しに呼び直しを要求した。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "どうやら呼び方が気に入らなかったらしく、彼は遠回しに呼び直しを要求した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私の名を『蒼』だと名付けたのはお前ではなかったのか」",
+        "after": "遠野　紗夜「そうですが、けれど『さん』はあくまでも敬称で……」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「そうですが、けれど『さん』はあくまでも敬称で……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "どうやら呼び方が気に入らなかったらしく、彼は遠回しに呼び直しを要求した。",
+        "after": "蒼「紗夜」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですが、けれど『さん』はあくまでも敬称で……」",
+        "after": "名前を呼ばれ、思わずどきりとする。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "名前を呼ばれ、思わずどきりとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「紗夜」",
+        "after": "蒼「私の名は『蒼』だ。……そうだろう？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "蒼「私の名は『蒼』だ。……そうだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "名前を呼ばれ、思わずどきりとする。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私の名は『蒼』だ。……そうだろう？」",
+        "after": "私を見下ろす彼の眸をじっと見つめ、"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "私を見下ろす彼の眸をじっと見つめ、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……では、『蒼』」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「……では、『蒼』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私を見下ろす彼の眸をじっと見つめ、",
+        "after": "彼に負けて渋々と呼び直す。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "彼に負けて渋々と呼び直す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……では、『蒼』」",
+        "after": "蒼「それでいい。何だ？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "蒼「それでいい。何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼に負けて渋々と呼び直す。",
+        "after": "遠野　紗夜「貴方はどうするつもりなのです？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「貴方はどうするつもりなのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それでいい。何だ？」",
+        "after": "蒼「どうするつもりとは？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "蒼「どうするつもりとは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方はどうするつもりなのです？」",
+        "after": "遠野　紗夜「今後のことです。このまま、記憶を失ったままで構わないと仰るのですか？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「今後のことです。このまま、記憶を失ったままで構わないと仰るのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「どうするつもりとは？」",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今後のことです。このまま、記憶を失ったままで構わないと仰るのですか？」",
+        "after": "今度は私が訝しむ番だった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "今度は私が訝しむ番だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "彼もそのことに気が付いたのかは分からないが、"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "彼もそのことに気が付いたのかは分からないが、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今度は私が訝しむ番だった。",
+        "after": "蒼「何故、お前が気にする必要がある」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「何故、お前が気にする必要がある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼もそのことに気が付いたのかは分からないが、",
+        "after": "と、言った。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "と、言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「何故、お前が気にする必要がある」",
+        "after": "なので、私は……"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "なので、私は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、言った。",
+        "after": "『貴方が心配だから』"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "『貴方が心配だから』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "choice_group": 1,
+      "route": "共通 (その他/日生光/桐島七葵/蒼/遠野十夜)",
+      "context": {
+        "before": "なので、私は……",
+        "after": "###『家族が心配しているから』"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "###『家族が心配しているから』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『貴方が心配だから』",
+        "after": "遠野　紗夜「貴方が心配だからです」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「貴方が心配だからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "###『家族が心配しているから』",
+        "after": "そう言うと、彼はまた私に問い返した。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "そう言うと、彼はまた私に問い返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方が心配だからです」",
+        "after": "蒼「何故、お前が私を心配する必要がある？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「何故、お前が私を心配する必要がある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、彼はまた私に問い返した。",
+        "after": "蒼「お前と私は出会ったばかりで、私はお前のことを知らないし、お前も私のことを知っているわけではないだろう」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "蒼「お前と私は出会ったばかりで、私はお前のことを知らないし、お前も私のことを知っているわけではないだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、お前が私を心配する必要がある？」",
+        "after": "蒼「知っていることといえば、互いの名前だけだ」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "蒼「知っていることといえば、互いの名前だけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前と私は出会ったばかりで、私はお前のことを知らないし、お前も私のことを知っているわけではないだろう」",
+        "after": "遠野　紗夜「そうですが……」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「そうですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「知っていることといえば、互いの名前だけだ」",
+        "after": "彼の言うことは尤もだった。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "彼の言うことは尤もだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですが……」",
+        "after": "確かに、私達は出会ったばかりの何も知らぬ者同士だ。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "確かに、私達は出会ったばかりの何も知らぬ者同士だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼の言うことは尤もだった。",
+        "after": "けれど……"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "けれど……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに、私達は出会ったばかりの何も知らぬ者同士だ。",
+        "after": "蒼「なのに、何故お前は私の身を案じる？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「なのに、何故お前は私の身を案じる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "けれど……",
+        "after": "彼の問いに私はきっぱりと答える。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "彼の問いに私はきっぱりと答える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「なのに、何故お前は私の身を案じる？」",
+        "after": "遠野　紗夜「誰かを心配するのに他人とか身内とかそういうことは関係ありません」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「誰かを心配するのに他人とか身内とかそういうことは関係ありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼の問いに私はきっぱりと答える。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「誰かを心配するのに他人とか身内とかそういうことは関係ありません」",
+        "after": "遠野　紗夜「きっと、今頃貴方のご家族が心配していらっしゃると思うのです」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「きっと、今頃貴方のご家族が心配していらっしゃると思うのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "そう言うと、彼は僅かに眉を顰めた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "そう言うと、彼は僅かに眉を顰めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「きっと、今頃貴方のご家族が心配していらっしゃると思うのです」",
+        "after": "蒼「家族とは何だ？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "蒼「家族とは何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、彼は僅かに眉を顰めた。",
+        "after": "遠野　紗夜「え……」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「え……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「家族とは何だ？」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え……」",
+        "after": "遠野　紗夜「その……家族とは、貴方を必要とし、貴方を大切に想う人々のことですよ」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「その……家族とは、貴方を必要とし、貴方を大切に想う人々のことですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "私は言いながらも体を固くした。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "私は言いながらも体を固くした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「その……家族とは、貴方を必要とし、貴方を大切に想う人々のことですよ」",
+        "after": "蒼「そんな存在がいるとも思えんな」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "蒼「そんな存在がいるとも思えんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は言いながらも体を固くした。",
+        "after": "遠野　紗夜「最初から可能性を否定するのは無意味なことだと思います」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「最初から可能性を否定するのは無意味なことだと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そんな存在がいるとも思えんな」",
+        "after": "私と彼はしばらくの間、何も言わずに黙った。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "私と彼はしばらくの間、何も言わずに黙った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「最初から可能性を否定するのは無意味なことだと思います」",
+        "after": "遠野　紗夜「とにかく……」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「とにかく……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私と彼はしばらくの間、何も言わずに黙った。",
+        "after": "短く息を吐き出した。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "短く息を吐き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「とにかく……」",
+        "after": "このまま彼を放置するわけにもいかないので、どこか、例えば交番などに連れて行こうと思った。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "このまま彼を放置するわけにもいかないので、どこか、例えば交番などに連れて行こうと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "短く息を吐き出した。",
+        "after": "突然、腕を掴まれた。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "突然、腕を掴まれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "このまま彼を放置するわけにもいかないので、どこか、例えば交番などに連れて行こうと思った。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "突然、腕を掴まれた。",
+        "after": "気付くと、私は彼の胸の中にすっぽりと体を埋めていた。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "気付くと、私は彼の胸の中にすっぽりと体を埋めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "わけも分からず、引き寄せた張本人を見上げ、一体何事かと訊ねようとした。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "わけも分からず、引き寄せた張本人を見上げ、一体何事かと訊ねようとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "気付くと、私は彼の胸の中にすっぽりと体を埋めていた。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "わけも分からず、引き寄せた張本人を見上げ、一体何事かと訊ねようとした。",
+        "after": "けれど、彼の視線は私ではなく、その奥へと向けられていた。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "けれど、彼の視線は私ではなく、その奥へと向けられていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "すぐ後ろで物音が聞こえた。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "すぐ後ろで物音が聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、彼の視線は私ではなく、その奥へと向けられていた。",
+        "after": "遠野　紗夜「……今、何か……」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「……今、何か……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "すぐ後ろで物音が聞こえた。",
+        "after": "言いながら、ゆっくりと振り返る。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "言いながら、ゆっくりと振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……今、何か……」",
+        "after": "蒼「人が倒れているな」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "蒼「人が倒れているな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "言いながら、ゆっくりと振り返る。",
+        "after": "遠野　紗夜「！」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「人が倒れているな」",
+        "after": "振り返った先。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "振り返った先。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「！」",
+        "after": "最初に目に触れたのは、闇の中で浮かび上がる白いワンピースだった。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "最初に目に触れたのは、闇の中で浮かび上がる白いワンピースだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "振り返った先。",
+        "after": "遠野　紗夜「大丈夫ですか！！」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「大丈夫ですか！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "最初に目に触れたのは、闇の中で浮かび上がる白いワンピースだった。",
+        "after": "私は蒼から離れると、倒れた女性の下へと駆け寄った。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "私は蒼から離れると、倒れた女性の下へと駆け寄った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「大丈夫ですか！！」",
+        "after": "？？？「…………」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "？？？「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "私は蒼から離れると、倒れた女性の下へと駆け寄った。",
+        "after": "その女性は、蒼白い顔をして、浅く短い呼吸を繰り返していた。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "その女性は、蒼白い顔をして、浅く短い呼吸を繰り返していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「…………」",
+        "after": "どうやら、完全に気を失っているだけのようだった。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "どうやら、完全に気を失っているだけのようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その女性は、蒼白い顔をして、浅く短い呼吸を繰り返していた。",
+        "after": "遠野　紗夜「どこか怪我をしたのでしょうか……？」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「どこか怪我をしたのでしょうか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "どうやら、完全に気を失っているだけのようだった。",
+        "after": "手持ちの本を傍らに置き、地面に跪く。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "手持ちの本を傍らに置き、地面に跪く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「どこか怪我をしたのでしょうか……？」",
+        "after": "頭の天辺から足先まで見回すが、どこかに怪我をしている様子もない。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "頭の天辺から足先まで見回すが、どこかに怪我をしている様子もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手持ちの本を傍らに置き、地面に跪く。",
+        "after": "怪我でなければ、発作か何かかもしれない。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "怪我でなければ、発作か何かかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭の天辺から足先まで見回すが、どこかに怪我をしている様子もない。",
+        "after": "私は背後に立つ蒼を見上げた。彼が自分以外の唯一の人だった。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "私は背後に立つ蒼を見上げた。彼が自分以外の唯一の人だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "怪我でなければ、発作か何かかもしれない。",
+        "after": "けれど、彼は特に焦った様子もなく、ただじっと私達を見下ろしているばかりだった。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "けれど、彼は特に焦った様子もなく、ただじっと私達を見下ろしているばかりだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は背後に立つ蒼を見上げた。彼が自分以外の唯一の人だった。",
+        "after": "周りには他に誰もおらず、助けを求めることも出来ない。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "周りには他に誰もおらず、助けを求めることも出来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、彼は特に焦った様子もなく、ただじっと私達を見下ろしているばかりだった。",
+        "after": "私は視線を女性へと戻し、焦る心を抑え、必死に頭を巡らす。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "私は視線を女性へと戻し、焦る心を抑え、必死に頭を巡らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "周りには他に誰もおらず、助けを求めることも出来ない。",
+        "after": "？？？「あれ、紗夜ちゃんじゃないか。どうしたのかな？」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "？？？「あれ、紗夜ちゃんじゃないか。どうしたのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "私は視線を女性へと戻し、焦る心を抑え、必死に頭を巡らす。",
+        "after": "私を呼ぶ声、はっとして顔をあげると、そこに見知った顔があった。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "私を呼ぶ声、はっとして顔をあげると、そこに見知った顔があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「あれ、紗夜ちゃんじゃないか。どうしたのかな？」",
+        "after": "遠野　紗夜「臥待さん……？」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "遠野　紗夜「臥待さん……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私を呼ぶ声、はっとして顔をあげると、そこに見知った顔があった。",
+        "after": "臥待さんは『やあ』という風に手をあげると、次に眉を顰め、首を傾げた。"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "臥待さんは『やあ』という風に手をあげると、次に眉を顰め、首を傾げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「臥待さん……？」",
+        "after": "臥待　春夫「あれ、その人……」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "臥待　春夫「あれ、その人……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんは『やあ』という風に手をあげると、次に眉を顰め、首を傾げた。",
+        "after": "遠野　紗夜「良かった……っ！」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "遠野　紗夜「良かった……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「あれ、その人……」",
+        "after": "遠野　紗夜「すみません！　救急車を呼んで下さい！！　人が倒れています！！」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　紗夜「すみません！　救急車を呼んで下さい！！　人が倒れています！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「良かった……っ！」",
+        "after": "臥待　春夫「あ、ああ！　分かった！！」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "臥待　春夫「あ、ああ！　分かった！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません！　救急車を呼んで下さい！！　人が倒れています！！」",
+        "after": null
+      }
+    }
+  ]
+}

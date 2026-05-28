@@ -1,0 +1,1733 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_26.txt",
+    "chapter": "chapter2",
+    "total_lines": 96,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "結末】",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "猟師Ａ「はははははっ！」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "猟師Ａ「はははははっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "結末】",
+        "after": "猟師Ａ「ルイス。お前、本の読み過ぎで頭イカレちまったんじゃないか？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "猟師Ａ「ルイス。お前、本の読み過ぎで頭イカレちまったんじゃないか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「はははははっ！」",
+        "after": "ルイス「そんなことはない！　僕は、確かに彼女を……ローザを愛しているんだ！」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ルイス「そんなことはない！　僕は、確かに彼女を……ローザを愛しているんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ａ「ルイス。お前、本の読み過ぎで頭イカレちまったんじゃないか？」",
+        "after": "猟師Ｂ「ローザってお前が好きな本に出てくる女だろ？　この世界にはいないじゃないか」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "猟師Ｂ「ローザってお前が好きな本に出てくる女だろ？　この世界にはいないじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｂ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「そんなことはない！　僕は、確かに彼女を……ローザを愛しているんだ！」",
+        "after": "ルイス「この世界にはいなくとも、彼女は存在する！」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ルイス「この世界にはいなくとも、彼女は存在する！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ｂ「ローザってお前が好きな本に出てくる女だろ？　この世界にはいないじゃないか」",
+        "after": "猟師Ｂ「はあ？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "猟師Ｂ「はあ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｂ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「この世界にはいなくとも、彼女は存在する！」",
+        "after": "ルイス「そして、いつかローザは迎えに来てくれる！　そしたら僕は、不思議な国で彼女と一緒に過ごすんだ！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ルイス「そして、いつかローザは迎えに来てくれる！　そしたら僕は、不思議な国で彼女と一緒に過ごすんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ｂ「はあ？」",
+        "after": "猟師Ａ「お前、馬鹿も休み休み言えよ。そりゃ、物語の話だろうが」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "猟師Ａ「お前、馬鹿も休み休み言えよ。そりゃ、物語の話だろうが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「そして、いつかローザは迎えに来てくれる！　そしたら僕は、不思議な国で彼女と一緒に過ごすんだ！」",
+        "after": "猟師Ｃ「そうだ、ルイス。君はただ現実逃避してるだけなのさ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "猟師Ｃ「そうだ、ルイス。君はただ現実逃避してるだけなのさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「お前、馬鹿も休み休み言えよ。そりゃ、物語の話だろうが」",
+        "after": "ルイス「君……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "ルイス「君……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ｃ「そうだ、ルイス。君はただ現実逃避してるだけなのさ」",
+        "after": "猟師Ｃ「世界は今ここにあるのが世界。君がいう不思議な国どころかローザという女性もいない」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "猟師Ｃ「世界は今ここにあるのが世界。君がいう不思議な国どころかローザという女性もいない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「君……」",
+        "after": "猟師Ｃ「夢ばかり見るのも良いが、きちんと今あるものを見たらどうなんだい？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "猟師Ｃ「夢ばかり見るのも良いが、きちんと今あるものを見たらどうなんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「世界は今ここにあるのが世界。君がいう不思議な国どころかローザという女性もいない」",
+        "after": "ルイス「……君も僕を馬鹿にするんだね」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "ルイス「……君も僕を馬鹿にするんだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ｃ「夢ばかり見るのも良いが、きちんと今あるものを見たらどうなんだい？」",
+        "after": "猟師Ｃ「…………」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "猟師Ｃ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「……君も僕を馬鹿にするんだね」",
+        "after": "ルイス「……っ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "ルイス「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "猟師Ｃ「…………」",
+        "after": "ルイス「いいさ！　君達には分かってもらおうとも思わない！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "ルイス「いいさ！　君達には分かってもらおうとも思わない！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ルイス",
+      "special_char": true,
+      "context": {
+        "before": "ルイス「……っ」",
+        "after": "猟師Ａ「あ！　ルイス！！」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "猟師Ａ「あ！　ルイス！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "ルイス「いいさ！　君達には分かってもらおうとも思わない！」",
+        "after": "猟師Ａ「……行っちまったよ。あいつ、大丈夫かね？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "猟師Ａ「……行っちまったよ。あいつ、大丈夫かね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「あ！　ルイス！！」",
+        "after": "猟師Ｂ「放っておけよ。どうせ、すぐに戻ってくるさ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "猟師Ｂ「放っておけよ。どうせ、すぐに戻ってくるさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｂ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「……行っちまったよ。あいつ、大丈夫かね？」",
+        "after": "猟師Ａ「どうなのかね？　なーんか、最近あいつ輪をかけておかしくなっちまってるからなぁ」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "猟師Ａ「どうなのかね？　なーんか、最近あいつ輪をかけておかしくなっちまってるからなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｂ「放っておけよ。どうせ、すぐに戻ってくるさ」",
+        "after": "猟師Ｃ「…………」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "猟師Ｃ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「どうなのかね？　なーんか、最近あいつ輪をかけておかしくなっちまってるからなぁ」",
+        "after": "猟師Ａ「お前はどうなんだ？　ルイスと仲良かっただろ」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "猟師Ａ「お前はどうなんだ？　ルイスと仲良かっただろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「…………」",
+        "after": "猟師Ｃ「そうだな……」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "猟師Ｃ「そうだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「お前はどうなんだ？　ルイスと仲良かっただろ」",
+        "after": "猟師Ｃ「でも、ああなったらどうしようもない。本の中の女性に本気で恋をするなんて、正気の沙汰とは思えないよ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "猟師Ｃ「でも、ああなったらどうしようもない。本の中の女性に本気で恋をするなんて、正気の沙汰とは思えないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「そうだな……」",
+        "after": "猟師Ａ「ははっ、ちげえねえ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "猟師Ａ「ははっ、ちげえねえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「でも、ああなったらどうしようもない。本の中の女性に本気で恋をするなんて、正気の沙汰とは思えないよ」",
+        "after": "猟師Ａ「大体、俺達猟師の間には本なんて頭固ぇもん必要ねーもんな。あんなもん読むから頭おかしくなっちまうんだよ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "猟師Ａ「大体、俺達猟師の間には本なんて頭固ぇもん必要ねーもんな。あんなもん読むから頭おかしくなっちまうんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「ははっ、ちげえねえ」",
+        "after": "猟師Ａ「俺達は、ただその日暮らしに獲物が捕れるか捕れないか考えてりゃいいんだ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "猟師Ａ「俺達は、ただその日暮らしに獲物が捕れるか捕れないか考えてりゃいいんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「大体、俺達猟師の間には本なんて頭固ぇもん必要ねーもんな。あんなもん読むから頭おかしくなっちまうんだよ」",
+        "after": "猟師Ｃ「あとは、食べて、寝て、村の女を嫁にして、子供を育てる為にまた狩りをして」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "猟師Ｃ「あとは、食べて、寝て、村の女を嫁にして、子供を育てる為にまた狩りをして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「俺達は、ただその日暮らしに獲物が捕れるか捕れないか考えてりゃいいんだ」",
+        "after": "猟師Ａ「そうそう」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "猟師Ａ「そうそう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「あとは、食べて、寝て、村の女を嫁にして、子供を育てる為にまた狩りをして」",
+        "after": "猟師Ｂ「おい、そろそろ行こうぜ。何か獲物を仕留めなきゃサボってると思われちまう」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "猟師Ｂ「おい、そろそろ行こうぜ。何か獲物を仕留めなきゃサボってると思われちまう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｂ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「そうそう」",
+        "after": "猟師Ａ「おう」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "猟師Ａ「おう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ａ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｂ「おい、そろそろ行こうぜ。何か獲物を仕留めなきゃサボってると思われちまう」",
+        "after": "猟師Ｃ「…………」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "猟師Ｃ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ａ「おう」",
+        "after": "後ろを振り返る。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "後ろを振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「…………」",
+        "after": "薄暗い森の中は、一歩間違えば馴れた者でさえも帰る道を分からなくさせる。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "薄暗い森の中は、一歩間違えば馴れた者でさえも帰る道を分からなくさせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "後ろを振り返る。",
+        "after": "地面に敷き詰められた葉を踏みしめながら、俺は一人森の奥へと進んだ。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "地面に敷き詰められた葉を踏みしめながら、俺は一人森の奥へと進んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "薄暗い森の中は、一歩間違えば馴れた者でさえも帰る道を分からなくさせる。",
+        "after": "この時期、自然の恩恵に授かる為に、多くの動物がこの森に集まってくる。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "この時期、自然の恩恵に授かる為に、多くの動物がこの森に集まってくる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "地面に敷き詰められた葉を踏みしめながら、俺は一人森の奥へと進んだ。",
+        "after": "やがて来る冬に備える為に、"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "やがて来る冬に備える為に、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この時期、自然の恩恵に授かる為に、多くの動物がこの森に集まってくる。",
+        "after": "一日でも長く生きる為に、"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "一日でも長く生きる為に、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて来る冬に備える為に、",
+        "after": "繰り返している。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "繰り返している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一日でも長く生きる為に、",
+        "after": "俺もこの動物たちと同じなのだ。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "俺もこの動物たちと同じなのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "繰り返している。",
+        "after": "日々、生きる為に、狩りをして生計を立て、村に帰り、食事をし、就寝し、"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "日々、生きる為に、狩りをして生計を立て、村に帰り、食事をし、就寝し、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺もこの動物たちと同じなのだ。",
+        "after": "そんな毎日をひたすらに繰り返している。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "そんな毎日をひたすらに繰り返している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日々、生きる為に、狩りをして生計を立て、村に帰り、食事をし、就寝し、",
+        "after": "いつもと同じく繰り返されていく毎日。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "いつもと同じく繰り返されていく毎日。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんな毎日をひたすらに繰り返している。",
+        "after": "けれど、この日常を疑問に思い始めたのはいつの頃だったのだろう？"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "けれど、この日常を疑問に思い始めたのはいつの頃だったのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもと同じく繰り返されていく毎日。",
+        "after": "下らない。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "下らない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、この日常を疑問に思い始めたのはいつの頃だったのだろう？",
+        "after": "目の前の茂みをかき分ける。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "目の前の茂みをかき分ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "下らない。",
+        "after": "ようやく、目指していた場所へ辿り着いた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "ようやく、目指していた場所へ辿り着いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目の前の茂みをかき分ける。",
+        "after": "この辺りは、少し拓けた野原のようになっている。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "この辺りは、少し拓けた野原のようになっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ようやく、目指していた場所へ辿り着いた。",
+        "after": "猟師Ｃ「ルイス？」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "猟師Ｃ「ルイス？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "この辺りは、少し拓けた野原のようになっている。",
+        "after": "声をかけるものの、返事が返ってこない。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "声をかけるものの、返事が返ってこない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「ルイス？」",
+        "after": "猟師Ｃ「おかしいな……。いつもなら、この辺りで彼は読書に耽っているはずだというのに」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "猟師Ｃ「おかしいな……。いつもなら、この辺りで彼は読書に耽っているはずだというのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "声をかけるものの、返事が返ってこない。",
+        "after": "しばらく、辺りを見回ってみる。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "しばらく、辺りを見回ってみる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「おかしいな……。いつもなら、この辺りで彼は読書に耽っているはずだというのに」",
+        "after": "しんとした空気に、踏みしめた葉の音がやけに響く。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "しんとした空気に、踏みしめた葉の音がやけに響く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しばらく、辺りを見回ってみる。",
+        "after": "周囲には人は疎か、動物がいる気配すらも感じない。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "周囲には人は疎か、動物がいる気配すらも感じない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しんとした空気に、踏みしめた葉の音がやけに響く。",
+        "after": "まるで、この世界には自分しかいないようだ。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "まるで、この世界には自分しかいないようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "周囲には人は疎か、動物がいる気配すらも感じない。",
+        "after": "猟師Ｃ「……っと」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "猟師Ｃ「……っと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "まるで、この世界には自分しかいないようだ。",
+        "after": "足下に何かぶつかった。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "足下に何かぶつかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「……っと」",
+        "after": "猟師Ｃ「これは……」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "猟師Ｃ「これは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "足下に何かぶつかった。",
+        "after": "本が落ちていた。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "本が落ちていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「これは……」",
+        "after": "それは、一冊の本だった。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "それは、一冊の本だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本が落ちていた。",
+        "after": "ルイスがいつも大切に持っていた物語。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "ルイスがいつも大切に持っていた物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは、一冊の本だった。",
+        "after": "ページを開くと、白黒の絵が現れる。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "ページを開くと、白黒の絵が現れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ルイスがいつも大切に持っていた物語。",
+        "after": "主人公が黒いドレスの少女と不思議の国を巡る中、身なりのいい服を着た猫が歌を口ずさんでいるシーンが描かれていた。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "主人公が黒いドレスの少女と不思議の国を巡る中、身なりのいい服を着た猫が歌を口ずさんでいるシーンが描かれていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ページを開くと、白黒の絵が現れる。",
+        "after": "猟師Ｃ「『ようこそ旅人。ここは不思議の国』」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "猟師Ｃ「『ようこそ旅人。ここは不思議の国』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "主人公が黒いドレスの少女と不思議の国を巡る中、身なりのいい服を着た猫が歌を口ずさんでいるシーンが描かれていた。",
+        "after": "猟師Ｃ「『よくぞここへと参られた。僕らは君を歓迎しよう』」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "猟師Ｃ「『よくぞここへと参られた。僕らは君を歓迎しよう』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「『ようこそ旅人。ここは不思議の国』」",
+        "after": "猟師Ｃ「『その疲れた心と体を僕らは癒そう』」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "猟師Ｃ「『その疲れた心と体を僕らは癒そう』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「『よくぞここへと参られた。僕らは君を歓迎しよう』」",
+        "after": "猟師Ｃ「『君は、猫と手を取りダンスを踊る』」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "猟師Ｃ「『君は、猫と手を取りダンスを踊る』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「『その疲れた心と体を僕らは癒そう』」",
+        "after": "猟師Ｃ「『君は、彼女と手を取り歌を唄う』」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "猟師Ｃ「『君は、彼女と手を取り歌を唄う』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "猟師Ｃ「『君は、猫と手を取りダンスを踊る』」",
+        "after": "例え、この目が潰されていたとしても俺はこの歌を口ずさめただろう。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "例え、この目が潰されていたとしても俺はこの歌を口ずさめただろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「『君は、彼女と手を取り歌を唄う』」",
+        "after": "俺はよく知っていた。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "俺はよく知っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "例え、この目が潰されていたとしても俺はこの歌を口ずさめただろう。",
+        "after": "この歌を、"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "この歌を、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺はよく知っていた。",
+        "after": "この物語を。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "この物語を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この歌を、",
+        "after": "猟師Ｃ「ルイス。お前は、自分の夢を追いかけて、ついには実現したんだな」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "猟師Ｃ「ルイス。お前は、自分の夢を追いかけて、ついには実現したんだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "この物語を。",
+        "after": "物語の世界に憧れたのは彼だけではない。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "物語の世界に憧れたのは彼だけではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「ルイス。お前は、自分の夢を追いかけて、ついには実現したんだな」",
+        "after": "最初にこの本を貸したのは、俺だった。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "最初にこの本を貸したのは、俺だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "物語の世界に憧れたのは彼だけではない。",
+        "after": "こんな風になりたかった。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "こんな風になりたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初にこの本を貸したのは、俺だった。",
+        "after": "知らない世界へと旅をしたかった。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "知らない世界へと旅をしたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな風になりたかった。",
+        "after": "次々と目の前で繰り広げられる事件に巻き込まれたかった。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "次々と目の前で繰り広げられる事件に巻き込まれたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "知らない世界へと旅をしたかった。",
+        "after": "誰かに必要とされたかった。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "誰かに必要とされたかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "次々と目の前で繰り広げられる事件に巻き込まれたかった。",
+        "after": "何の変哲もない日常、"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "何の変哲もない日常、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰かに必要とされたかった。",
+        "after": "他と変わらない自分、"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "他と変わらない自分、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何の変哲もない日常、",
+        "after": "多くの中の一人という存在。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "多くの中の一人という存在。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "他と変わらない自分、",
+        "after": "俺は、彼が羨ましかったんだろう。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "俺は、彼が羨ましかったんだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "多くの中の一人という存在。",
+        "after": "口では馬鹿にしながらも、あんな風に素直に夢を見ることが出来る彼のことを羨ましいと思っていたんだ。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "口では馬鹿にしながらも、あんな風に素直に夢を見ることが出来る彼のことを羨ましいと思っていたんだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は、彼が羨ましかったんだろう。",
+        "after": "猟師Ｃ「だけど、ルイス」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "猟師Ｃ「だけど、ルイス」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "口では馬鹿にしながらも、あんな風に素直に夢を見ることが出来る彼のことを羨ましいと思っていたんだ。",
+        "after": "本を閉じた。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "本を閉じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「だけど、ルイス」",
+        "after": "猟師Ｃ「僕は、いつまでも夢を見続けていたいのさ」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "猟師Ｃ「僕は、いつまでも夢を見続けていたいのさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "本を閉じた。",
+        "after": "目の前の白と黒の世界で彼は自分の夢を叶えた。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "目の前の白と黒の世界で彼は自分の夢を叶えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「僕は、いつまでも夢を見続けていたいのさ」",
+        "after": "猟師Ｃ「だから僕は、永遠に主人公にはなれそうにもないよ」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "猟師Ｃ「だから僕は、永遠に主人公にはなれそうにもないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "猟師Ｃ",
+      "special_char": false,
+      "context": {
+        "before": "目の前の白と黒の世界で彼は自分の夢を叶えた。",
+        "after": "森の奥に見えるは荊の門。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "森の奥に見えるは荊の門。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "猟師Ｃ「だから僕は、永遠に主人公にはなれそうにもないよ」",
+        "after": "そこを潜れば、"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "そこを潜れば、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "森の奥に見えるは荊の門。",
+        "after": "その奥に潜んだお城へと行くことが出来る。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "その奥に潜んだお城へと行くことが出来る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこを潜れば、",
+        "after": "白はやがて赤に"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "白はやがて赤に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その奥に潜んだお城へと行くことが出来る。",
+        "after": "不思議な不思議な国"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "不思議な不思議な国",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "白はやがて赤に",
+        "after": "そこでは、赤く赤く美しい薔薇が咲き誇る"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "そこでは、赤く赤く美しい薔薇が咲き誇る",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "不思議な不思議な国",
+        "after": null
+      }
+    }
+  ]
+}

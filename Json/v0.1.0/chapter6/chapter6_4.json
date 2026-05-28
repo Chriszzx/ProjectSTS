@@ -1,0 +1,1103 @@
+{
+  "meta": {
+    "file": "chapter6/chapter6_4.txt",
+    "chapter": "chapter6",
+    "total_lines": 62,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　十夜「来たのか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "蒼「紗夜はどこだ」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "蒼「紗夜はどこだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「来たのか……」",
+        "after": "遠野　十夜「なら、部屋で眠っているよ」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　十夜「なら、部屋で眠っているよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「紗夜はどこだ」",
+        "after": "蒼「そうか」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「なら、部屋で眠っているよ」",
+        "after": "私は短く答えると、直ぐさま敷居をまたいだ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私は短く答えると、直ぐさま敷居をまたいだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そうか」",
+        "after": "十夜は私が"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "十夜は私が",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は短く答えると、直ぐさま敷居をまたいだ。",
+        "after": "に会うのを止めなかった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "に会うのを止めなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "十夜は私が",
+        "after": "ただ、すれ違い様、私達は互いに視線を交わし、すっと目を細めあった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ただ、すれ違い様、私達は互いに視線を交わし、すっと目を細めあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "に会うのを止めなかった。",
+        "after": "瞬き一つ程の出来事だったが、それだけで私達は通じ合った。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "瞬き一つ程の出来事だったが、それだけで私達は通じ合った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ、すれ違い様、私達は互いに視線を交わし、すっと目を細めあった。",
+        "after": "私達は相対する存在なのだと。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私達は相対する存在なのだと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "瞬き一つ程の出来事だったが、それだけで私達は通じ合った。",
+        "after": "の部屋に訪れると、彼女はどうやら深い眠りについているようだった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "の部屋に訪れると、彼女はどうやら深い眠りについているようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は相対する存在なのだと。",
+        "after": "遠野　十夜「眠ったまま、ずっと起きてこないんだ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　十夜「眠ったまま、ずっと起きてこないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "の部屋に訪れると、彼女はどうやら深い眠りについているようだった。",
+        "after": "桐島　七葵「眠ったまま？　ずっとですか？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "桐島　七葵「眠ったまま？　ずっとですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「眠ったまま、ずっと起きてこないんだ」",
+        "after": "遠野　十夜「ああ……」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　十夜「ああ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「眠ったまま？　ずっとですか？」",
+        "after": "蒼「まるで、絵本に出てくる姫のようだな」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "蒼「まるで、絵本に出てくる姫のようだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ……」",
+        "after": "自分でも随分とロマンチシズムに溢れた物言いだとも思ったが、それ以外の表現で言い表せなかった。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "自分でも随分とロマンチシズムに溢れた物言いだとも思ったが、それ以外の表現で言い表せなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「まるで、絵本に出てくる姫のようだな」",
+        "after": "彼女の長い髪がまるで幾重にも折り重なった漣のように広がっている。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "彼女の長い髪がまるで幾重にも折り重なった漣のように広がっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも随分とロマンチシズムに溢れた物言いだとも思ったが、それ以外の表現で言い表せなかった。",
+        "after": "薄い衣の下から覗く白い胸は上下していた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "薄い衣の下から覗く白い胸は上下していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の長い髪がまるで幾重にも折り重なった漣のように広がっている。",
+        "after": "形の良い赤い唇から規則正しい息が漏れていた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "形の良い赤い唇から規則正しい息が漏れていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "薄い衣の下から覗く白い胸は上下していた。",
+        "after": "彼女の生がそこにあると、まざまざと感じられる。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "彼女の生がそこにあると、まざまざと感じられる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "形の良い赤い唇から規則正しい息が漏れていた。",
+        "after": "私は彼女の瓜実顔の輪郭を一度手の甲で撫でた。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私は彼女の瓜実顔の輪郭を一度手の甲で撫でた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の生がそこにあると、まざまざと感じられる。",
+        "after": "眠っている姿でさえ美しい。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "眠っている姿でさえ美しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼女の瓜実顔の輪郭を一度手の甲で撫でた。",
+        "after": "けれど、違う。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "けれど、違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "眠っている姿でさえ美しい。",
+        "after": "蒼「。お前は美しい。眠りについた今さえも。しかし、私の知るお前はもっと美しいはずだ」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼「。お前は美しい。眠りについた今さえも。しかし、私の知るお前はもっと美しいはずだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "けれど、違う。",
+        "after": "遠野　十夜「蒼。お前は紗夜のことを……」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　十夜「蒼。お前は紗夜のことを……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「。お前は美しい。眠りについた今さえも。しかし、私の知るお前はもっと美しいはずだ」",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「蒼。お前は紗夜のことを……」",
+        "after": "私は彼女に目を向けたまま一切動かさなかった。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "私は彼女に目を向けたまま一切動かさなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "蒼「お前は私に助けてくれるのかと訊ねたな」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「お前は私に助けてくれるのかと訊ねたな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は彼女に目を向けたまま一切動かさなかった。",
+        "after": "蒼「あの日の返事を今返そう」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "蒼「あの日の返事を今返そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前は私に助けてくれるのかと訊ねたな」",
+        "after": "枕元に手を置き、顔を寄せた。香しい花の匂いがした。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "枕元に手を置き、顔を寄せた。香しい花の匂いがした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「あの日の返事を今返そう」",
+        "after": "彼女が私に触れたあの日。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "彼女が私に触れたあの日。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "枕元に手を置き、顔を寄せた。香しい花の匂いがした。",
+        "after": "怖いと言っていた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "怖いと言っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女が私に触れたあの日。",
+        "after": "私には彼女が何に対して畏れているのか、何をそれ程までに畏れる必要があるのか、また畏れるということ自体も分からなかったが、"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "私には彼女が何に対して畏れているのか、何をそれ程までに畏れる必要があるのか、また畏れるということ自体も分からなかったが、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "怖いと言っていた。",
+        "after": "ただ彼女が助けてくれと私に請うならば、その願いを叶えるまでだと思った。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "ただ彼女が助けてくれと私に請うならば、その願いを叶えるまでだと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私には彼女が何に対して畏れているのか、何をそれ程までに畏れる必要があるのか、また畏れるということ自体も分からなかったが、",
+        "after": "私の体が影となり、彼女の白い顔に僅かな闇が落ちた。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "私の体が影となり、彼女の白い顔に僅かな闇が落ちた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ彼女が助けてくれと私に請うならば、その願いを叶えるまでだと思った。",
+        "after": "互いの息を感じられる程近くに彼女がいた。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "互いの息を感じられる程近くに彼女がいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の体が影となり、彼女の白い顔に僅かな闇が落ちた。",
+        "after": "私の垂れ下がった髪が彼女の前髪に触れた。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "私の垂れ下がった髪が彼女の前髪に触れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "互いの息を感じられる程近くに彼女がいた。",
+        "after": "黒と金。決して、交わることのない。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "黒と金。決して、交わることのない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の垂れ下がった髪が彼女の前髪に触れた。",
+        "after": "蒼「紗夜」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "蒼「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "黒と金。決して、交わることのない。",
+        "after": "一度名前を呼ぶが、彼女が目覚めることはない。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "一度名前を呼ぶが、彼女が目覚めることはない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「紗夜」",
+        "after": "果たして、目が覚めて、私の姿を見たとき、彼女はどう思うのだろう。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "果たして、目が覚めて、私の姿を見たとき、彼女はどう思うのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一度名前を呼ぶが、彼女が目覚めることはない。",
+        "after": "怯えてしまわないだろうか。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "怯えてしまわないだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "果たして、目が覚めて、私の姿を見たとき、彼女はどう思うのだろう。",
+        "after": "彼女が言う畏れとは、もしや私自身のことではないだろうか。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "彼女が言う畏れとは、もしや私自身のことではないだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "怯えてしまわないだろうか。",
+        "after": "しかし、今更思ったところで、引き返すことなど出来はしない。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "しかし、今更思ったところで、引き返すことなど出来はしない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女が言う畏れとは、もしや私自身のことではないだろうか。",
+        "after": "蒼「紗夜」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "蒼「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "しかし、今更思ったところで、引き返すことなど出来はしない。",
+        "after": "この言葉を言った時、お前は十夜から私の下に走り寄ってきた。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "この言葉を言った時、お前は十夜から私の下に走り寄ってきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「紗夜」",
+        "after": "蒼「おいで」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "蒼「おいで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "この言葉を言った時、お前は十夜から私の下に走り寄ってきた。",
+        "after": "私は彼女に口づけた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "私は彼女に口づけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「おいで」",
+        "after": "桐島　七葵「お、おいっ……！」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "桐島　七葵「お、おいっ……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私は彼女に口づけた。",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お、おいっ……！」",
+        "after": "何故、こうすれば良いと思ったのは分からない。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "何故、こうすれば良いと思ったのは分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "ただ、以前読んだ絵本に書いてあった。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "ただ、以前読んだ絵本に書いてあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、こうすれば良いと思ったのは分からない。",
+        "after": "眠りの魔法についた姫を起こす方法。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "眠りの魔法についた姫を起こす方法。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ、以前読んだ絵本に書いてあった。",
+        "after": "それに現状を重ね合わせ、感化されたのかとも思ったが、しかし、何かそれとも違うような気がした。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "それに現状を重ね合わせ、感化されたのかとも思ったが、しかし、何かそれとも違うような気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "眠りの魔法についた姫を起こす方法。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "それに現状を重ね合わせ、感化されたのかとも思ったが、しかし、何かそれとも違うような気がした。",
+        "after": "私は彼女から離れ、暫く様子を窺っていた。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私は彼女から離れ、暫く様子を窺っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "閉じた瞼がぴくりと動いた。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "閉じた瞼がぴくりと動いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼女から離れ、暫く様子を窺っていた。",
+        "after": "長い睫を震わし、ゆっくりとその中を覗かせていく。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "長い睫を震わし、ゆっくりとその中を覗かせていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "閉じた瞼がぴくりと動いた。",
+        "after": "夜のような真黒の眸。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "夜のような真黒の眸。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "長い睫を震わし、ゆっくりとその中を覗かせていく。",
+        "after": "その奥に自分の姿が鮮やかに浮かんで見えた。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "その奥に自分の姿が鮮やかに浮かんで見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夜のような真黒の眸。",
+        "after": "まるで、自分が夜の中にいるような錯覚を覚えた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "まるで、自分が夜の中にいるような錯覚を覚えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その奥に自分の姿が鮮やかに浮かんで見えた。",
+        "after": "彼女は私を見るなり微笑んだ。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "彼女は私を見るなり微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで、自分が夜の中にいるような錯覚を覚えた。",
+        "after": null
+      }
+    }
+  ]
+}

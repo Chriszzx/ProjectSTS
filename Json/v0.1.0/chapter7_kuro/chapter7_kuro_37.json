@@ -1,0 +1,741 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_37.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 40,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "終】",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "少女は歌う。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "少女は歌う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "終】",
+        "after": "美しい声で、金糸雀の様に歌う。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "美しい声で、金糸雀の様に歌う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は歌う。",
+        "after": "父「紗夜」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "父「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "美しい声で、金糸雀の様に歌う。",
+        "after": "歌は止まり、少女は虚ろ気な視線を寄越した。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "歌は止まり、少女は虚ろ気な視線を寄越した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「紗夜」",
+        "after": "遠野　紗夜「お父様……」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「お父様……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "歌は止まり、少女は虚ろ気な視線を寄越した。",
+        "after": "父「具合の方はどうだ？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "父「具合の方はどうだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「お父様……」",
+        "after": "遠野　紗夜「まだ……」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「まだ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「具合の方はどうだ？」",
+        "after": "父「そうか。まあいい。無理はするな」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "父「そうか。まあいい。無理はするな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「まだ……」",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「そうか。まあいい。無理はするな」",
+        "after": "少女は顔に暗い影を落とす。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "少女は顔に暗い影を落とす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "遠野　紗夜「……あの、お父様」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「……あの、お父様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女は顔に暗い影を落とす。",
+        "after": "父「何だ？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "父「何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……あの、お父様」",
+        "after": "遠野　紗夜「お父様は本当に私のお父様なのですか？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「お父様は本当に私のお父様なのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「何だ？」",
+        "after": "執事「お嬢様のことですが、あのままで宜しいのですか？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "執事「お嬢様のことですが、あのままで宜しいのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「お父様は本当に私のお父様なのですか？」",
+        "after": "父「あのままとは？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "父「あのままとは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "執事「お嬢様のことですが、あのままで宜しいのですか？」",
+        "after": "執事「記憶をなくしたままだなんて……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "執事「記憶をなくしたままだなんて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "父「あのままとは？」",
+        "after": "父「問題ない。今は混乱しているだけだ。直、思い出すだろう。……それに」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "父「問題ない。今は混乱しているだけだ。直、思い出すだろう。……それに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "執事「記憶をなくしたままだなんて……」",
+        "after": "執事「それに？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "執事「それに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "父「問題ない。今は混乱しているだけだ。直、思い出すだろう。……それに」",
+        "after": "父「戯言を繰り返すよりはマシだ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "父「戯言を繰り返すよりはマシだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "執事「それに？」",
+        "after": "執事「…………」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "執事「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "父「戯言を繰り返すよりはマシだ」",
+        "after": "父「それより、この先の予定だが……」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "父「それより、この先の予定だが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "執事「…………」",
+        "after": "少女は記憶を失っていた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "少女は記憶を失っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「それより、この先の予定だが……」",
+        "after": "自分の名前も今まで身に起きた一切のことを少女は忘れてしまったという。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "自分の名前も今まで身に起きた一切のことを少女は忘れてしまったという。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は記憶を失っていた。",
+        "after": "少女はしばらく何もない虚空を見つめていた。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "少女はしばらく何もない虚空を見つめていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分の名前も今まで身に起きた一切のことを少女は忘れてしまったという。",
+        "after": "しかし、その内に口の端をあげ、誰もが見惚れる様な笑みを浮かべて言った。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "しかし、その内に口の端をあげ、誰もが見惚れる様な笑みを浮かべて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女はしばらく何もない虚空を見つめていた。",
+        "after": "遠野　紗夜「……兄さん、出てきても大丈夫ですよ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「……兄さん、出てきても大丈夫ですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "しかし、その内に口の端をあげ、誰もが見惚れる様な笑みを浮かべて言った。",
+        "after": "遠野　十夜「……」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　十夜「……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……兄さん、出てきても大丈夫ですよ」",
+        "after": "少女の前に少女と同じ夜の眸を持った兄の姿が現れた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "少女の前に少女と同じ夜の眸を持った兄の姿が現れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……」",
+        "after": "遠野　紗夜「馬鹿な人達。あんな単純な演技に騙されるだなんて」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「馬鹿な人達。あんな単純な演技に騙されるだなんて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女の前に少女と同じ夜の眸を持った兄の姿が現れた。",
+        "after": "遠野　十夜「……そうだな」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　十夜「……そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「馬鹿な人達。あんな単純な演技に騙されるだなんて」",
+        "after": "少女はくすくすと笑う。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "少女はくすくすと笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……そうだな」",
+        "after": "そう。これは全て少女が仕組んだ嘘。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "そう。これは全て少女が仕組んだ嘘。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女はくすくすと笑う。",
+        "after": "遠野　紗夜「兄さん、ごめんなさい。こうでもしないと兄さんといられないから……」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「兄さん、ごめんなさい。こうでもしないと兄さんといられないから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう。これは全て少女が仕組んだ嘘。",
+        "after": "遠野　十夜「構わないよ。紗夜がそれで良いと言うのなら」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　十夜「構わないよ。紗夜がそれで良いと言うのなら」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、ごめんなさい。こうでもしないと兄さんといられないから……」",
+        "after": "少女が手を伸ばすと兄は細い身体を抱き寄せる。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "少女が手を伸ばすと兄は細い身体を抱き寄せる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「構わないよ。紗夜がそれで良いと言うのなら」",
+        "after": "遠野　紗夜「ああ……兄さん、これからも私は兄さんとずっと一緒です」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「ああ……兄さん、これからも私は兄さんとずっと一緒です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少女が手を伸ばすと兄は細い身体を抱き寄せる。",
+        "after": "遠野　十夜「ああ。ずっと一緒だ」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　十夜「ああ。ずっと一緒だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ……兄さん、これからも私は兄さんとずっと一緒です」",
+        "after": "二人は二人だけの約束を交わす。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "二人は二人だけの約束を交わす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ああ。ずっと一緒だ」",
+        "after": "そして、少女はそのままゆっくりと本を閉じたのだった。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "そして、少女はそのままゆっくりと本を閉じたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人は二人だけの約束を交わす。",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_5.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 21,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "大好きだった継母が死んだ後、私には兄の存在だけが全てだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「……それでね、十夜兄さんはとても優しいのよ」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「……それでね、十夜兄さんはとても優しいのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "大好きだった継母が死んだ後、私には兄の存在だけが全てだった。",
+        "after": "友人「へえ、それは良かったね」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "友人「へえ、それは良かったね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……それでね、十夜兄さんはとても優しいのよ」",
+        "after": "遠野　紗夜「それに、ご本を自分でいっぱい書いているの。とても綺麗で不思議なお話なのよ。凄いでしょう？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「それに、ご本を自分でいっぱい書いているの。とても綺麗で不思議なお話なのよ。凄いでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「へえ、それは良かったね」",
+        "after": "友人「確かにそれは凄いなぁ。……紗夜ちゃんは本当にお兄さんのことが大好きなんだね」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "友人「確かにそれは凄いなぁ。……紗夜ちゃんは本当にお兄さんのことが大好きなんだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「それに、ご本を自分でいっぱい書いているの。とても綺麗で不思議なお話なのよ。凄いでしょう？」",
+        "after": "遠野　紗夜「ええ、そうよ。私は十夜兄さんが大好き！」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「ええ、そうよ。私は十夜兄さんが大好き！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「確かにそれは凄いなぁ。……紗夜ちゃんは本当にお兄さんのことが大好きなんだね」",
+        "after": "そう、私は十夜兄さんが大好きだった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "そう、私は十夜兄さんが大好きだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうよ。私は十夜兄さんが大好き！」",
+        "after": "遠野　紗夜「十夜兄さん！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「十夜兄さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう、私は十夜兄さんが大好きだった。",
+        "after": "けれど、皆は兄のことを忌み嫌った。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "けれど、皆は兄のことを忌み嫌った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「十夜兄さん！」",
+        "after": "私が兄のことを口に出すと、皆、不快そうな顔をするか、曖昧に笑うかのどちらかだった。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私が兄のことを口に出すと、皆、不快そうな顔をするか、曖昧に笑うかのどちらかだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、皆は兄のことを忌み嫌った。",
+        "after": "特に父は兄のことが嫌いらしく、私が兄の名前を出すたびに激しく私を叱った。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "特に父は兄のことが嫌いらしく、私が兄の名前を出すたびに激しく私を叱った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が兄のことを口に出すと、皆、不快そうな顔をするか、曖昧に笑うかのどちらかだった。",
+        "after": "遠野　紗夜「どうして、皆、兄さんのことを嫌うのか分からない……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「どうして、皆、兄さんのことを嫌うのか分からない……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "特に父は兄のことが嫌いらしく、私が兄の名前を出すたびに激しく私を叱った。",
+        "after": "兄さんはこんなに素敵なのに。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "兄さんはこんなに素敵なのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「どうして、皆、兄さんのことを嫌うのか分からない……」",
+        "after": "遠野　紗夜「十夜兄さん」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「十夜兄さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "兄さんはこんなに素敵なのに。",
+        "after": "私が名前を呼ぶと、眼差しがこちらに向かう。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私が名前を呼ぶと、眼差しがこちらに向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「十夜兄さん」",
+        "after": "私と同じ黒い眸。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "私と同じ黒い眸。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が名前を呼ぶと、眼差しがこちらに向かう。",
+        "after": "兄は、あまり表情は変えないけれど、いつも私の傍にいてくれた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "兄は、あまり表情は変えないけれど、いつも私の傍にいてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と同じ黒い眸。",
+        "after": "遠野　紗夜「兄さん、新しい物語を聞かせて」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「兄さん、新しい物語を聞かせて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "兄は、あまり表情は変えないけれど、いつも私の傍にいてくれた。",
+        "after": "私がそう言うと、本を取り出し、一緒に読んでくれた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私がそう言うと、本を取り出し、一緒に読んでくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん、新しい物語を聞かせて」",
+        "after": "私はその時間がとても好きだった。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "私はその時間がとても好きだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私がそう言うと、本を取り出し、一緒に読んでくれた。",
+        "after": "誰にも邪魔されない私の部屋でずっとこのまま時が止まれば良いのに。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "誰にも邪魔されない私の部屋でずっとこのまま時が止まれば良いのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はその時間がとても好きだった。",
+        "after": null
+      }
+    }
+  ]
+}

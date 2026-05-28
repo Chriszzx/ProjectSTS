@@ -1,0 +1,1370 @@
+{
+  "meta": {
+    "file": "hinase/hinase_7.txt",
+    "chapter": "hinase",
+    "total_lines": 74,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "女子生徒Ａ「あ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "女子生徒Ａ「ねえ、遠野さん！」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "女子生徒Ａ「ねえ、遠野さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ａ「あ！」",
+        "after": "遠野　紗夜「はい？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ａ「ねえ、遠野さん！」",
+        "after": "私を呼び止めたのは、見知らぬ女生徒達だった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私を呼び止めたのは、見知らぬ女生徒達だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい？」",
+        "after": "声をかけた彼女はもう一方の友人らしき女子の肩を抱きながら、私に訊ねた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "声をかけた彼女はもう一方の友人らしき女子の肩を抱きながら、私に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を呼び止めたのは、見知らぬ女生徒達だった。",
+        "after": "女子生徒Ａ「あのさ、日生先輩と付き合ってるって噂本当？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "女子生徒Ａ「あのさ、日生先輩と付き合ってるって噂本当？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": "声をかけた彼女はもう一方の友人らしき女子の肩を抱きながら、私に訊ねた。",
+        "after": "女子生徒Ｂ「…………」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "女子生徒Ｂ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ｂ",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ａ「あのさ、日生先輩と付き合ってるって噂本当？」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ｂ「…………」",
+        "after": "噂というのは本当に早いもので、私と日生先輩が付き合っているという噂は瞬く間に広まっていった。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "噂というのは本当に早いもので、私と日生先輩が付き合っているという噂は瞬く間に広まっていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "クラスメイトからも顔も知らない子からも、もう何度も同じことを聞かれた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "クラスメイトからも顔も知らない子からも、もう何度も同じことを聞かれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "噂というのは本当に早いもので、私と日生先輩が付き合っているという噂は瞬く間に広まっていった。",
+        "after": "私はそのたびに、事実を事実として肯定する。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "私はそのたびに、事実を事実として肯定する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "クラスメイトからも顔も知らない子からも、もう何度も同じことを聞かれた。",
+        "after": "『はい』"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "『はい』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "choice_group": 89,
+      "route": "未标注",
+      "context": {
+        "before": "私はそのたびに、事実を事実として肯定する。",
+        "after": "ただ、それだけ。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ただ、それだけ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『はい』",
+        "after": "女子生徒Ａ「だってさ。……あー、ほら泣くなー」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "女子生徒Ａ「だってさ。……あー、ほら泣くなー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": "ただ、それだけ。",
+        "after": "肩を抱かれた女生徒は腫れ上がった目から大粒の涙を零しながら、必死に頷いている。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "肩を抱かれた女生徒は腫れ上がった目から大粒の涙を零しながら、必死に頷いている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒Ａ「だってさ。……あー、ほら泣くなー」",
+        "after": "女子生徒Ｂ「…………っ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "女子生徒Ｂ「…………っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ｂ",
+      "special_char": true,
+      "context": {
+        "before": "肩を抱かれた女生徒は腫れ上がった目から大粒の涙を零しながら、必死に頷いている。",
+        "after": "今にも崩れ落ちてしまいそうな儚さだった。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "今にも崩れ落ちてしまいそうな儚さだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒Ｂ「…………っ」",
+        "after": "遠野　紗夜「……どうしたのですか？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「……どうしたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今にも崩れ落ちてしまいそうな儚さだった。",
+        "after": "女子生徒Ａ「あ、気にしないで。ごめんね、変なこと聞いちゃって。ありがとう」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "女子生徒Ａ「あ、気にしないで。ごめんね、変なこと聞いちゃって。ありがとう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……どうしたのですか？」",
+        "after": "遠野　紗夜「……いえ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「……いえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ａ「あ、気にしないで。ごめんね、変なこと聞いちゃって。ありがとう」",
+        "after": "私は帰る道すがら、先程の彼女のことを思った。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "私は帰る道すがら、先程の彼女のことを思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……いえ」",
+        "after": "あの子はきっと日生先輩のことが好きだったのだろう。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "あの子はきっと日生先輩のことが好きだったのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は帰る道すがら、先程の彼女のことを思った。",
+        "after": "私が日生先輩の告白を受けていなかったら、あの子は喜んだだろうか。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私が日生先輩の告白を受けていなかったら、あの子は喜んだだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの子はきっと日生先輩のことが好きだったのだろう。",
+        "after": "自分と好きな人の気持ちが違うのは苦しい。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "自分と好きな人の気持ちが違うのは苦しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が日生先輩の告白を受けていなかったら、あの子は喜んだだろうか。",
+        "after": "私があの子から彼を奪った？"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私があの子から彼を奪った？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分と好きな人の気持ちが違うのは苦しい。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私があの子から彼を奪った？",
+        "after": "日生　光「紗夜」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "日生　光「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「……日生先輩」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "日生　光「……日生先輩」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「紗夜」",
+        "after": "日生　光「どうかした？　ぼうっとして」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "日生　光「どうかした？　ぼうっとして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……日生先輩」",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どうかした？　ぼうっとして」",
+        "after": "遠野　紗夜「何だか、付き合うということは色々大変なのですね」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「何だか、付き合うということは色々大変なのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": "遠野　紗夜「今日、色々な人に聞かれました。貴方と付き合っているのかどうか」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「今日、色々な人に聞かれました。貴方と付き合っているのかどうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何だか、付き合うということは色々大変なのですね」",
+        "after": "日生　光「へえ、そっちも聞かれたんだ」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "日生　光「へえ、そっちも聞かれたんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今日、色々な人に聞かれました。貴方と付き合っているのかどうか」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「へえ、そっちも聞かれたんだ」",
+        "after": "日生　光「皆、物珍しいんだよ。確か、一度も付き合ったことなかったんだっけ」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "日生　光「皆、物珍しいんだよ。確か、一度も付き合ったことなかったんだっけ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「皆、物珍しいんだよ。確か、一度も付き合ったことなかったんだっけ」",
+        "after": "日生　光「君の初めてを僕が奪えるのは光栄ですよ」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "日生　光「君の初めてを僕が奪えるのは光栄ですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「奪う？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「奪う？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君の初めてを僕が奪えるのは光栄ですよ」",
+        "after": "暗喩を含んだ言い方に私は体を固くした。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "暗喩を含んだ言い方に私は体を固くした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「奪う？」",
+        "after": "日生　光「そう」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "日生　光「そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "暗喩を含んだ言い方に私は体を固くした。",
+        "after": "遠野　紗夜「何だかあまり穏やかな言葉ではありませんね」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「何だかあまり穏やかな言葉ではありませんね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そう」",
+        "after": "日生　光「確かに。でも、僕は好きだよ」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "日生　光「確かに。でも、僕は好きだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何だかあまり穏やかな言葉ではありませんね」",
+        "after": "日生先輩は私の怒りに頓着なく、いやもしかして気付かない振りをしているのかもしれないが、そう言ってのけた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "日生先輩は私の怒りに頓着なく、いやもしかして気付かない振りをしているのかもしれないが、そう言ってのけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「確かに。でも、僕は好きだよ」",
+        "after": "私の怒りは即座に冷え込む。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "私の怒りは即座に冷え込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は私の怒りに頓着なく、いやもしかして気付かない振りをしているのかもしれないが、そう言ってのけた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の怒りは即座に冷え込む。",
+        "after": "日生　光「そういえば、夏帆ちゃんとはあれから仲直り出来た？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "日生　光「そういえば、夏帆ちゃんとはあれから仲直り出来た？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「ええ、勿論」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「ええ、勿論」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そういえば、夏帆ちゃんとはあれから仲直り出来た？」",
+        "after": "日生　光「じゃあ、無事にお弁当は作ってもらえそうだ」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "日生　光「じゃあ、無事にお弁当は作ってもらえそうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、勿論」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、無事にお弁当は作ってもらえそうだ」",
+        "after": "日生　光「そう。ますます楽しみだ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "日生　光「そう。ますます楽しみだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そう。ますます楽しみだ」",
+        "after": "私は先程とは別の理由で体を固くさせた。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "私は先程とは別の理由で体を固くさせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "今度は日生先輩も気付いたようで、私を不思議そうに見た。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "今度は日生先輩も気付いたようで、私を不思議そうに見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は先程とは別の理由で体を固くさせた。",
+        "after": "日生　光「？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "日生　光「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "今度は日生先輩も気付いたようで、私を不思議そうに見た。",
+        "after": "遠野　紗夜「あ……。いえ……」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「あ……。いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「？」",
+        "after": "遠野　紗夜「その……あまり、期待しないで下さいね……？　ご存じの通り、私はあまり料理が得意ではないので……」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「その……あまり、期待しないで下さいね……？　ご存じの通り、私はあまり料理が得意ではないので……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ……。いえ……」",
+        "after": "日生　光「どんな料理でも僕は大丈夫だよ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "日生　光「どんな料理でも僕は大丈夫だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「その……あまり、期待しないで下さいね……？　ご存じの通り、私はあまり料理が得意ではないので……」",
+        "after": "遠野　紗夜「……その言い方だと、失敗することが前提ですか？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「……その言い方だと、失敗することが前提ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どんな料理でも僕は大丈夫だよ」",
+        "after": "日生　光「じゃあ、君が作るものなら何でも美味しいです」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　光「じゃあ、君が作るものなら何でも美味しいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……その言い方だと、失敗することが前提ですか？」",
+        "after": "遠野　紗夜「ふふ。頑張ります」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「ふふ。頑張ります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、君が作るものなら何でも美味しいです」",
+        "after": "日生　光「ちなみに、今日はどうする？　また家にでも寄る？」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "日生　光「ちなみに、今日はどうする？　また家にでも寄る？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふふ。頑張ります」",
+        "after": "『家に』と聞いた瞬間、私は自分が彼に抱きしめられている姿を思い浮かべた。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "『家に』と聞いた瞬間、私は自分が彼に抱きしめられている姿を思い浮かべた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ちなみに、今日はどうする？　また家にでも寄る？」",
+        "after": "遠野　紗夜「……すみません。今日はこの後用事がありまして……」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「……すみません。今日はこの後用事がありまして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "『家に』と聞いた瞬間、私は自分が彼に抱きしめられている姿を思い浮かべた。",
+        "after": "日生　光「そっか」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "日生　光「そっか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……すみません。今日はこの後用事がありまして……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そっか」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "会話が止まる。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "会話が止まる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "こんな時、何を言ったら良いのだろう？"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "こんな時、何を言ったら良いのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "会話が止まる。",
+        "after": "そうこうしているうちに、家の前に辿り着いてしまった。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "そうこうしているうちに、家の前に辿り着いてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな時、何を言ったら良いのだろう？",
+        "after": "お別れの時間だ。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "お別れの時間だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうこうしているうちに、家の前に辿り着いてしまった。",
+        "after": "日生　光「じゃあ、また明日ね」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "日生　光「じゃあ、また明日ね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "お別れの時間だ。",
+        "after": "遠野　紗夜「あ、はい……」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「あ、はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、また明日ね」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、はい……」",
+        "after": "彼が去った後、急に何だか虚しい気持ちになった。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "彼が去った後、急に何だか虚しい気持ちになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": null
+      }
+    }
+  ]
+}

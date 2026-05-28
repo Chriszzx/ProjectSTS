@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_42.txt",
+    "chapter": "chapter3",
+    "total_lines": 23,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「ない……どうして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "家に戻った私は必死にぬいぐるみを探していた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "家に戻った私は必死にぬいぐるみを探していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ない……どうして……」",
+        "after": "けれど、ベッド脇に置いてあったはずのそれは消えてなくなり、家中のどこを探せど見つからなかった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "けれど、ベッド脇に置いてあったはずのそれは消えてなくなり、家中のどこを探せど見つからなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家に戻った私は必死にぬいぐるみを探していた。",
+        "after": "遠野　十夜「どうしたんだい？　帰ってくるなり、そんな血相を変えて」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　十夜「どうしたんだい？　帰ってくるなり、そんな血相を変えて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、ベッド脇に置いてあったはずのそれは消えてなくなり、家中のどこを探せど見つからなかった。",
+        "after": "兄が書斎から出てくるなり、私は叫んだ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "兄が書斎から出てくるなり、私は叫んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「どうしたんだい？　帰ってくるなり、そんな血相を変えて」",
+        "after": "遠野　紗夜「兄さん！」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「兄さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "兄が書斎から出てくるなり、私は叫んだ。",
+        "after": "遠野　紗夜「猫のぬいぐるみ知りませんか！？　ここに置いていたはずなのですが！！」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「猫のぬいぐるみ知りませんか！？　ここに置いていたはずなのですが！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん！」",
+        "after": "遠野　十夜「ああ……あのぬいぐるみか。あれなら、渡してしまったよ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　十夜「ああ……あのぬいぐるみか。あれなら、渡してしまったよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「猫のぬいぐるみ知りませんか！？　ここに置いていたはずなのですが！！」",
+        "after": "遠野　紗夜「えっ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「えっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ……あのぬいぐるみか。あれなら、渡してしまったよ」",
+        "after": "遠野　十夜「ついさっき、猫の着ぐるみに。どうやら、彼が本来の持ち主だったようだからね」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　十夜「ついさっき、猫の着ぐるみに。どうやら、彼が本来の持ち主だったようだからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「えっ」",
+        "after": "遠野　紗夜「そんな……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「そんな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ついさっき、猫の着ぐるみに。どうやら、彼が本来の持ち主だったようだからね」",
+        "after": "遠野　十夜「あれ、ごめん。いけなかったかい？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　十夜「あれ、ごめん。いけなかったかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そんな……」",
+        "after": "私はすぐさま皆が待つロビーへと走った。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私はすぐさま皆が待つロビーへと走った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「あれ、ごめん。いけなかったかい？」",
+        "after": "夏目　悠希「どうだった？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "夏目　悠希「どうだった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私はすぐさま皆が待つロビーへと走った。",
+        "after": "遠野　紗夜「ヴィルヘルムさん！！　彼を追って下さい！！」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「ヴィルヘルムさん！！　彼を追って下さい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「どうだった？」",
+        "after": "夏目　悠希「ヴィルヘルムを？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "夏目　悠希「ヴィルヘルムを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ヴィルヘルムさん！！　彼を追って下さい！！」",
+        "after": "遠野　紗夜「どうやら、兄が彼にぬいぐるみを渡してしまったようです！！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「どうやら、兄が彼にぬいぐるみを渡してしまったようです！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ヴィルヘルムを？」",
+        "after": "夏目　悠希「はぁ！？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "夏目　悠希「はぁ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうやら、兄が彼にぬいぐるみを渡してしまったようです！！」",
+        "after": "遠野　紗夜「すみません……！　まさか、このようなことになるとは……！」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「すみません……！　まさか、このようなことになるとは……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はぁ！？」",
+        "after": "宮沢　夏帆「何であいつが夏目のぬいぐるみを～？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「何であいつが夏目のぬいぐるみを～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません……！　まさか、このようなことになるとは……！」",
+        "after": "遠野　紗夜「分かりません……」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「分かりません……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何であいつが夏目のぬいぐるみを～？」",
+        "after": "桐島　七葵「ともかく、探すぞ。今から探せば追いつくだろう」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "桐島　七葵「ともかく、探すぞ。今から探せば追いつくだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「分かりません……」",
+        "after": "遠野　紗夜「はい！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「はい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ともかく、探すぞ。今から探せば追いつくだろう」",
+        "after": null
+      }
+    }
+  ]
+}

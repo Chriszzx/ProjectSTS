@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_8.txt",
+    "chapter": "chapter4",
+    "total_lines": 33,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "父が出て行った後、私は目の前に置き捨てられた封筒をぼんやりと眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "いや、実際には封筒を眺めているわけではない。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "いや、実際には封筒を眺めているわけではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父が出て行った後、私は目の前に置き捨てられた封筒をぼんやりと眺めていた。",
+        "after": "封筒に先程の父の言葉によって思い出された過去を重ね合わせて見ていたのだ。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "封筒に先程の父の言葉によって思い出された過去を重ね合わせて見ていたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いや、実際には封筒を眺めているわけではない。",
+        "after": "？？？「……っく」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "？？？「……っく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "封筒に先程の父の言葉によって思い出された過去を重ね合わせて見ていたのだ。",
+        "after": "突然、前の席から笑いを堪えるような声が聞こえた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "突然、前の席から笑いを堪えるような声が聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「……っく」",
+        "after": "虚ろな焦点は急に現実にピントが合わさり、反射的に顔を上げると、前の席に座った誰かが肩を震わせていた。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "虚ろな焦点は急に現実にピントが合わさり、反射的に顔を上げると、前の席に座った誰かが肩を震わせていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "突然、前の席から笑いを堪えるような声が聞こえた。",
+        "after": "？？？「……何だか大騒ぎだなぁ」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "？？？「……何だか大騒ぎだなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "虚ろな焦点は急に現実にピントが合わさり、反射的に顔を上げると、前の席に座った誰かが肩を震わせていた。",
+        "after": "そう言って、ゆっくりと振り返ったのは日生先輩だった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "そう言って、ゆっくりと振り返ったのは日生先輩だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「……何だか大騒ぎだなぁ」",
+        "after": "遠野　紗夜「日生先輩……？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「日生先輩……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、ゆっくりと振り返ったのは日生先輩だった。",
+        "after": "遠野　紗夜「何故、先輩がここに……」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「何故、先輩がここに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩……？」",
+        "after": "日生　光「ずっといたんだけどな。気付かなかった？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "日生　光「ずっといたんだけどな。気付かなかった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故、先輩がここに……」",
+        "after": "遠野　紗夜「…………はい」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「…………はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ずっといたんだけどな。気付かなかった？」",
+        "after": "気付かなかった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "気付かなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………はい」",
+        "after": "日生先輩は一番奥のボックス席の手前側に座っていた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生先輩は一番奥のボックス席の手前側に座っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "気付かなかった。",
+        "after": "つまりは、父の背に重なるようにして彼はずっと座っていたのだ。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "つまりは、父の背に重なるようにして彼はずっと座っていたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は一番奥のボックス席の手前側に座っていた。",
+        "after": "父と一緒にこの店に入った時も後ろ姿しか見えなかったから分からなかった。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "父と一緒にこの店に入った時も後ろ姿しか見えなかったから分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "つまりは、父の背に重なるようにして彼はずっと座っていたのだ。",
+        "after": "いや、そもそも目に入りもしなかったのだろう。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "いや、そもそも目に入りもしなかったのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父と一緒にこの店に入った時も後ろ姿しか見えなかったから分からなかった。",
+        "after": "しかし、それよりもあの会話を聞かれていたということの方が私には問題だった。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "しかし、それよりもあの会話を聞かれていたということの方が私には問題だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いや、そもそも目に入りもしなかったのだろう。",
+        "after": "日生　光「声をかけようか迷ったけど、何だか取り込み中みたいだったし」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "日生　光「声をかけようか迷ったけど、何だか取り込み中みたいだったし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "しかし、それよりもあの会話を聞かれていたということの方が私には問題だった。",
+        "after": "日生　光「ああ、ここのケーキ美味しいよね。僕、甘い物好きなんだ。君も食べてみる？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　光「ああ、ここのケーキ美味しいよね。僕、甘い物好きなんだ。君も食べてみる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「声をかけようか迷ったけど、何だか取り込み中みたいだったし」",
+        "after": "そう言って、日生先輩は目の前のケーキを一口サイズに切り取り、差し出した。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "そう言って、日生先輩は目の前のケーキを一口サイズに切り取り、差し出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ああ、ここのケーキ美味しいよね。僕、甘い物好きなんだ。君も食べてみる？」",
+        "after": "気まずくなった私は顔を再び俯かせた。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "気まずくなった私は顔を再び俯かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、日生先輩は目の前のケーキを一口サイズに切り取り、差し出した。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "気まずくなった私は顔を再び俯かせた。",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「それ、見ないの？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "日生　光「それ、見ないの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "遠野　紗夜「私には必要のないものですから」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「私には必要のないものですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それ、見ないの？」",
+        "after": "日生　光「へえ、そうなんだ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "日生　光「へえ、そうなんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私には必要のないものですから」",
+        "after": "日生　光「君は自分の家が嫌いなんだな」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "日生　光「君は自分の家が嫌いなんだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「へえ、そうなんだ」",
+        "after": "日生　光「気持ちは分かるよ。僕も自分の家は大嫌いだったからね」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "日生　光「気持ちは分かるよ。僕も自分の家は大嫌いだったからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君は自分の家が嫌いなんだな」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「気持ちは分かるよ。僕も自分の家は大嫌いだったからね」",
+        "after": "未だに顔を上げぬ私に日生先輩は顔を寄せ、耳元で囁いた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "未だに顔を上げぬ私に日生先輩は顔を寄せ、耳元で囁いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「連れ出してあげようか」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "日生　光「連れ出してあげようか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "未だに顔を上げぬ私に日生先輩は顔を寄せ、耳元で囁いた。",
+        "after": "日生　光「どこか遠くへ。誰も知らない誰もいない遠くに」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "日生　光「どこか遠くへ。誰も知らない誰もいない遠くに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「連れ出してあげようか」",
+        "after": null
+      }
+    }
+  ]
+}

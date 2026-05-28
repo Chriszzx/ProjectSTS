@@ -1,0 +1,675 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_31.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 36,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "小さな頃から私はとても本が好きな子供だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "友人「何をしているんだい？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "友人「何をしているんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "小さな頃から私はとても本が好きな子供だった。",
+        "after": "遠野　紗夜「本を読んでいるの」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「本を読んでいるの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「何をしているんだい？」",
+        "after": "友人「一人で？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "友人「一人で？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「本を読んでいるの」",
+        "after": "遠野　紗夜「ええ、そうよ。いつもお母様に読んでもらっているのだけど、お母様は今お忙しいみたいだから」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「ええ、そうよ。いつもお母様に読んでもらっているのだけど、お母様は今お忙しいみたいだから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「一人で？」",
+        "after": "友人「そうだね。でも、一人で淋しくないかい？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "友人「そうだね。でも、一人で淋しくないかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうよ。いつもお母様に読んでもらっているのだけど、お母様は今お忙しいみたいだから」",
+        "after": "遠野　紗夜「淋しい。けど、それを言ったらお母様が困ってしまうもの」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「淋しい。けど、それを言ったらお母様が困ってしまうもの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「そうだね。でも、一人で淋しくないかい？」",
+        "after": "友人「君は偉いね。……そうだ。君さえ良かったら、私が本を読んであげようか？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "友人「君は偉いね。……そうだ。君さえ良かったら、私が本を読んであげようか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「淋しい。けど、それを言ったらお母様が困ってしまうもの」",
+        "after": "遠野　紗夜「良いの！？　ありがとう！」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「良いの！？　ありがとう！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「君は偉いね。……そうだ。君さえ良かったら、私が本を読んであげようか？」",
+        "after": "おじ様はお母様の昔からのお友達だそうで、よく家に遊びに来ていた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "おじ様はお母様の昔からのお友達だそうで、よく家に遊びに来ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「良いの！？　ありがとう！」",
+        "after": "お話を作るのがとても上手くて、私はおじ様の物語が大好きだったの。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "お話を作るのがとても上手くて、私はおじ様の物語が大好きだったの。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "おじ様はお母様の昔からのお友達だそうで、よく家に遊びに来ていた。",
+        "after": "お母様とおじ様が話をしていた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "お母様とおじ様が話をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お話を作るのがとても上手くて、私はおじ様の物語が大好きだったの。",
+        "after": "何だか、お母様はとても辛そうなお顔をしている。どうしたのかしら？"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "何だか、お母様はとても辛そうなお顔をしている。どうしたのかしら？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お母様とおじ様が話をしていた。",
+        "after": "遠野　紗夜「ねえ、何をお話しているの？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「ねえ、何をお話しているの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何だか、お母様はとても辛そうなお顔をしている。どうしたのかしら？",
+        "after": "友人「君のお話だよ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "友人「君のお話だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ねえ、何をお話しているの？」",
+        "after": "遠野　紗夜「私のお話？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「私のお話？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「君のお話だよ」",
+        "after": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「私のお話？」",
+        "after": "遠野　紗夜「病院きらい……」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「病院きらい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」",
+        "after": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「病院きらい……」",
+        "after": "白雪「そうですよ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "白雪「そうですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "白雪",
+      "special_char": false,
+      "context": {
+        "before": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」",
+        "after": "遠野　紗夜「うう……」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「うう……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "白雪「そうですよ」",
+        "after": "いくら、お母様の言いつけだとしても嫌いなものは嫌い。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "いくら、お母様の言いつけだとしても嫌いなものは嫌い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「うう……」",
+        "after": "それよりも新しい物語を聞く方がずっと良い。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "それよりも新しい物語を聞く方がずっと良い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いくら、お母様の言いつけだとしても嫌いなものは嫌い。",
+        "after": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それよりも新しい物語を聞く方がずっと良い。",
+        "after": "友人「ああ、いいよ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "友人「ああ、いいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」",
+        "after": "遠野　紗夜「わぁい！　次は何のお話？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「わぁい！　次は何のお話？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「ああ、いいよ」",
+        "after": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「わぁい！　次は何のお話？」",
+        "after": "遠野　紗夜「本当！？　嬉しい！！」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「本当！？　嬉しい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」",
+        "after": "おじ様は鞄から一冊の本を取り出した。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "おじ様は鞄から一冊の本を取り出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「本当！？　嬉しい！！」",
+        "after": "遠野　紗夜「それはなぁに？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「それはなぁに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "おじ様は鞄から一冊の本を取り出した。",
+        "after": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「それはなぁに？」",
+        "after": "白雪「あら、とても素敵ですね」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "白雪「あら、とても素敵ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "白雪",
+      "special_char": false,
+      "context": {
+        "before": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」",
+        "after": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "白雪「あら、とても素敵ですね」",
+        "after": "友人「ああ、分かったよ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "友人「ああ、分かったよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」",
+        "after": "私はお母様とおじ様の間に座り、おじ様は本を開く。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "私はお母様とおじ様の間に座り、おじ様は本を開く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "友人「ああ、分かったよ」",
+        "after": "そして、私の世界で一番大好きな物語を語り出した。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "そして、私の世界で一番大好きな物語を語り出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はお母様とおじ様の間に座り、おじ様は本を開く。",
+        "after": null
+      }
+    }
+  ]
+}

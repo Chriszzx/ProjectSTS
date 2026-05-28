@@ -1,0 +1,971 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_13.txt",
+    "chapter": "chapter5",
+    "total_lines": 52,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "蒼「理解出来ない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "蒼「何故、わざわざベルトコンベアに寿司を流す必要がある？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "蒼「何故、わざわざベルトコンベアに寿司を流す必要がある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「理解出来ない」",
+        "after": "お寿司を食べ終わった後、彼はずっとこの様な調子で私に訊ねた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "お寿司を食べ終わった後、彼はずっとこの様な調子で私に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「何故、わざわざベルトコンベアに寿司を流す必要がある？」",
+        "after": "店にいる間は勿論、お店の人に。それはもう随分と困っていた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "店にいる間は勿論、お店の人に。それはもう随分と困っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お寿司を食べ終わった後、彼はずっとこの様な調子で私に訊ねた。",
+        "after": "遠野　紗夜「面白いではありませんか。それに、わざわざ言葉にしなくとも自分の食べたいものを取って食べれば良いわけですし、気が楽ですよね」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「面白いではありませんか。それに、わざわざ言葉にしなくとも自分の食べたいものを取って食べれば良いわけですし、気が楽ですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "店にいる間は勿論、お店の人に。それはもう随分と困っていた。",
+        "after": "蒼「人と話すことは億劫だとでも言うのか？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "蒼「人と話すことは億劫だとでも言うのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「面白いではありませんか。それに、わざわざ言葉にしなくとも自分の食べたいものを取って食べれば良いわけですし、気が楽ですよね」",
+        "after": "遠野　紗夜「どうなのでしょう？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「どうなのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「人と話すことは億劫だとでも言うのか？」",
+        "after": "蒼「今は私が質問しているはずだが」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "蒼「今は私が質問しているはずだが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうなのでしょう？」",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「今は私が質問しているはずだが」",
+        "after": "遠野　紗夜「……確かに、少し億劫に思う方もいらっしゃるでしょう」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「……確かに、少し億劫に思う方もいらっしゃるでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "遠野　紗夜「現代社会には物が溢れているので、その分人との関係性が希薄になってしまいがちです」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「現代社会には物が溢れているので、その分人との関係性が希薄になってしまいがちです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……確かに、少し億劫に思う方もいらっしゃるでしょう」",
+        "after": "遠野　紗夜「人と話すことによって生じる様々な損失を考えた時、その衝撃を受けることを人は恐れて、敢えて何も考えられずにいられる方法を取ってしまいたがるものなのかもしれません」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「人と話すことによって生じる様々な損失を考えた時、その衝撃を受けることを人は恐れて、敢えて何も考えられずにいられる方法を取ってしまいたがるものなのかもしれません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「現代社会には物が溢れているので、その分人との関係性が希薄になってしまいがちです」",
+        "after": "蒼「損失とは何だ？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "蒼「損失とは何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「人と話すことによって生じる様々な損失を考えた時、その衝撃を受けることを人は恐れて、敢えて何も考えられずにいられる方法を取ってしまいたがるものなのかもしれません」",
+        "after": "遠野　紗夜「主に精神的なものですよね。人と接するのは気を遣いますし。あとは思い通りにいかなかった時にかかる心の負荷……」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「主に精神的なものですよね。人と接するのは気を遣いますし。あとは思い通りにいかなかった時にかかる心の負荷……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「損失とは何だ？」",
+        "after": "裏切り"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "裏切り",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「主に精神的なものですよね。人と接するのは気を遣いますし。あとは思い通りにいかなかった時にかかる心の負荷……」",
+        "after": "別れ"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "別れ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "裏切り",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "別れ",
+        "after": "遠野　紗夜「あとは、色々とです」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「あとは、色々とです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "蒼「では、今、私と話していることはお前にとって億劫なものなのか？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "蒼「では、今、私と話していることはお前にとって億劫なものなのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あとは、色々とです」",
+        "after": "遠野　紗夜「いいえ。何故？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「いいえ。何故？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「では、今、私と話していることはお前にとって億劫なものなのか？」",
+        "after": "蒼「人と会話をすることが億劫に思う人間がいるというのならば、お前もそうなのかと思ったまでだ」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「人と会話をすることが億劫に思う人間がいるというのならば、お前もそうなのかと思ったまでだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いいえ。何故？」",
+        "after": "遠野　紗夜「そうですか」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「そうですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「人と会話をすることが億劫に思う人間がいるというのならば、お前もそうなのかと思ったまでだ」",
+        "after": "遠野　紗夜「貴方と話しているのは楽しいですよ、蒼。でなければ、今日貴方をここへ誘ったりはしなかったでしょう」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「貴方と話しているのは楽しいですよ、蒼。でなければ、今日貴方をここへ誘ったりはしなかったでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか」",
+        "after": "後ろで手を組み、彼の顔を見上げながら言う。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "後ろで手を組み、彼の顔を見上げながら言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方と話しているのは楽しいですよ、蒼。でなければ、今日貴方をここへ誘ったりはしなかったでしょう」",
+        "after": "遠野　紗夜「ちなみに、その質問、私も貴方にそのまま返しても宜しいですか？　貴方にとって私との話は億劫なものなのでしょうか？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「ちなみに、その質問、私も貴方にそのまま返しても宜しいですか？　貴方にとって私との話は億劫なものなのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "後ろで手を組み、彼の顔を見上げながら言う。",
+        "after": "少し間を置いて彼が言った。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "少し間を置いて彼が言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ちなみに、その質問、私も貴方にそのまま返しても宜しいですか？　貴方にとって私との話は億劫なものなのでしょうか？」",
+        "after": "蒼「会話は損失ばかり生み出すものではない」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "蒼「会話は損失ばかり生み出すものではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "少し間を置いて彼が言った。",
+        "after": "蒼「会話をすれば新たな言葉を覚えていく。それは増えはするが、減ることはない」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「会話をすれば新たな言葉を覚えていく。それは増えはするが、減ることはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「会話は損失ばかり生み出すものではない」",
+        "after": "遠野　紗夜「忘れることはあっても？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「忘れることはあっても？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「会話をすれば新たな言葉を覚えていく。それは増えはするが、減ることはない」",
+        "after": "蒼「忘れることは損失にはならない。何故なら、忘れることは消えたわけではないのだからな」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "蒼「忘れることは損失にはならない。何故なら、忘れることは消えたわけではないのだからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「忘れることはあっても？」",
+        "after": "蒼「そう、お前も言っていただろう」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "蒼「そう、お前も言っていただろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「忘れることは損失にはならない。何故なら、忘れることは消えたわけではないのだからな」",
+        "after": "遠野　紗夜「……確かに」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「……確かに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そう、お前も言っていただろう」",
+        "after": "蒼はそれ以上何も言わない。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼はそれ以上何も言わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……確かに」",
+        "after": "遠野　紗夜「蒼」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「蒼」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼はそれ以上何も言わない。",
+        "after": "遠野　紗夜「今の答えは、貴方にとって私との会話は損失にはならない、ということで納得して宜しいですか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「今の答えは、貴方にとって私との会話は損失にはならない、ということで納得して宜しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼」",
+        "after": "蒼「構わない」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "蒼「構わない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今の答えは、貴方にとって私との会話は損失にはならない、ということで納得して宜しいですか？」",
+        "after": "遠野　紗夜「ふふ。ありがとうございます」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「ふふ。ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「構わない」",
+        "after": "遠野　紗夜「会話は損失ばかりではない」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「会話は損失ばかりではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふふ。ありがとうございます」",
+        "after": "蒼の言葉を反芻し、笑みを浮かべる。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "蒼の言葉を反芻し、笑みを浮かべる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「会話は損失ばかりではない」",
+        "after": "遠野　紗夜「ええ……私もそう思います」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「ええ……私もそう思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼の言葉を反芻し、笑みを浮かべる。",
+        "after": "そして、視線を前の方に戻すと、暫く互いに無言になる。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "そして、視線を前の方に戻すと、暫く互いに無言になる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ……私もそう思います」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、視線を前の方に戻すと、暫く互いに無言になる。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……そういえば」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「……そういえば」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "ふと、大事なことを思い出す。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "ふと、大事なことを思い出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……そういえば」",
+        "after": "遠野　紗夜「これから、どうしましょうか？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「これから、どうしましょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ふと、大事なことを思い出す。",
+        "after": "と、これからの予定を切り出した時だった。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "と、これからの予定を切り出した時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「これから、どうしましょうか？」",
+        "after": "鼻の頭に雫が当たった。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "鼻の頭に雫が当たった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、これからの予定を切り出した時だった。",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "鼻の頭に雫が当たった。",
+        "after": "空を見上げた。いつの間にか、空は黒い雲に覆われていた。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "空を見上げた。いつの間にか、空は黒い雲に覆われていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": "蒼「時雨か」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "蒼「時雨か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "空を見上げた。いつの間にか、空は黒い雲に覆われていた。",
+        "after": "彼は目を細めて呟いた。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "彼は目を細めて呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「時雨か」",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,2048 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_2.txt",
+    "chapter": "chapter2",
+    "total_lines": 111,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "宮沢　夏帆「ねえねえ、見て！　これ、可愛くない？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "夏帆が立ち止まり、ショーウィンドウに並べられたぬいぐるみの一つを指差す。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "夏帆が立ち止まり、ショーウィンドウに並べられたぬいぐるみの一つを指差す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ねえねえ、見て！　これ、可愛くない？」",
+        "after": "遠野　紗夜「本当ですね、とても可愛らしいです。ですが、こちらも見て下さい。黒猫がいますよ」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「本当ですね、とても可愛らしいです。ですが、こちらも見て下さい。黒猫がいますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏帆が立ち止まり、ショーウィンドウに並べられたぬいぐるみの一つを指差す。",
+        "after": "私も負けじと指差す。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私も負けじと指差す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「本当ですね、とても可愛らしいです。ですが、こちらも見て下さい。黒猫がいますよ」",
+        "after": "宮沢　夏帆「あははっ。ひなたぼっこしてる～」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "宮沢　夏帆「あははっ。ひなたぼっこしてる～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私も負けじと指差す。",
+        "after": "無邪気に笑う夏帆に、つられるように微笑んだ。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "無邪気に笑う夏帆に、つられるように微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あははっ。ひなたぼっこしてる～」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "無邪気に笑う夏帆に、つられるように微笑んだ。",
+        "after": "蒼「……先程から、お前達は何をしている？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "蒼「……先程から、お前達は何をしている？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "今まで黙っていた蒼が私達の背中に声をかけた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "今まで黙っていた蒼が私達の背中に声をかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「……先程から、お前達は何をしている？」",
+        "after": "遠野　紗夜「何を、ですか？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「何を、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今まで黙っていた蒼が私達の背中に声をかけた。",
+        "after": "私は切れ切れに言葉を繰り返した。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "私は切れ切れに言葉を繰り返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「何を、ですか？」",
+        "after": "蒼「何をするわけでもなく、ただ街を歩き廻り、衝動的に立ち止まり談笑する……それに何の意味があるというのだ？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "蒼「何をするわけでもなく、ただ街を歩き廻り、衝動的に立ち止まり談笑する……それに何の意味があるというのだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は切れ切れに言葉を繰り返した。",
+        "after": "宮沢　夏帆「ぶー。別についてこなくても良かったんだよ～。どーせ、紗夜ちゃんのおまけみたいなもんだしー」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "宮沢　夏帆「ぶー。別についてこなくても良かったんだよ～。どーせ、紗夜ちゃんのおまけみたいなもんだしー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何をするわけでもなく、ただ街を歩き廻り、衝動的に立ち止まり談笑する……それに何の意味があるというのだ？」",
+        "after": "遠野　紗夜「夏帆」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「夏帆」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ぶー。別についてこなくても良かったんだよ～。どーせ、紗夜ちゃんのおまけみたいなもんだしー」",
+        "after": "夏帆は不機嫌そうに頬を膨らます。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "夏帆は不機嫌そうに頬を膨らます。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆」",
+        "after": "私達は図書館でしばらく本を読んだ後、遅い昼食を摂ることにした。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "私達は図書館でしばらく本を読んだ後、遅い昼食を摂ることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆は不機嫌そうに頬を膨らます。",
+        "after": "そして今は食後の腹ごなしの散歩……とでもいうのだろうか。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "そして今は食後の腹ごなしの散歩……とでもいうのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は図書館でしばらく本を読んだ後、遅い昼食を摂ることにした。",
+        "after": "私と夏帆は腕を組み、そのすぐ後ろを蒼が歩きながら、商店街を見て回っていた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私と夏帆は腕を組み、そのすぐ後ろを蒼が歩きながら、商店街を見て回っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして今は食後の腹ごなしの散歩……とでもいうのだろうか。",
+        "after": "宮沢　夏帆「……可愛いものや綺麗なもの探しの旅」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「……可愛いものや綺麗なもの探しの旅」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私と夏帆は腕を組み、そのすぐ後ろを蒼が歩きながら、商店街を見て回っていた。",
+        "after": "夏帆がぼそりと呟いた。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "夏帆がぼそりと呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……可愛いものや綺麗なもの探しの旅」",
+        "after": "蒼「旅？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「旅？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "夏帆がぼそりと呟いた。",
+        "after": "宮沢　夏帆「ここ田舎だしさ、ショップとかそういうの少ないじゃん？　大した遊び場もないし」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "宮沢　夏帆「ここ田舎だしさ、ショップとかそういうの少ないじゃん？　大した遊び場もないし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「旅？」",
+        "after": "宮沢　夏帆「でも町自体は綺麗だし、だから探すんだ～。花とかさ、落ちてる石でも何でもいい。かわいーって思えるものを探して遊んでるの！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「でも町自体は綺麗だし、だから探すんだ～。花とかさ、落ちてる石でも何でもいい。かわいーって思えるものを探して遊んでるの！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ここ田舎だしさ、ショップとかそういうの少ないじゃん？　大した遊び場もないし」",
+        "after": "宮沢　夏帆「ね？紗夜ちゃん」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "宮沢　夏帆「ね？紗夜ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でも町自体は綺麗だし、だから探すんだ～。花とかさ、落ちてる石でも何でもいい。かわいーって思えるものを探して遊んでるの！」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ね？紗夜ちゃん」",
+        "after": "蒼「お前は紗夜の言うことには素直に答えるのだな」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "蒼「お前は紗夜の言うことには素直に答えるのだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "宮沢　夏帆「紗夜ちゃんは特別だもん。当たり前だよ～」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "宮沢　夏帆「紗夜ちゃんは特別だもん。当たり前だよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前は紗夜の言うことには素直に答えるのだな」",
+        "after": "ふふんと鼻を鳴らす夏帆の代わりに本音を伝える。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "ふふんと鼻を鳴らす夏帆の代わりに本音を伝える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんは特別だもん。当たり前だよ～」",
+        "after": "遠野　紗夜「夏帆は人見知りなのですよ」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「夏帆は人見知りなのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ふふんと鼻を鳴らす夏帆の代わりに本音を伝える。",
+        "after": "遠野　紗夜「あまり接したことのない人物だと、時に辛辣な物言いをすることもありますが、でも本来はとてもいい子なのですよ」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「あまり接したことのない人物だと、時に辛辣な物言いをすることもありますが、でも本来はとてもいい子なのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏帆は人見知りなのですよ」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あまり接したことのない人物だと、時に辛辣な物言いをすることもありますが、でも本来はとてもいい子なのですよ」",
+        "after": "蒼は私の言葉には何も応えず、夏帆をじっと見下ろした。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "蒼は私の言葉には何も応えず、夏帆をじっと見下ろした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "宮沢　夏帆「……何よ～。何か言いたいことがあるならはっきり言えばいいじゃん！」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "宮沢　夏帆「……何よ～。何か言いたいことがあるならはっきり言えばいいじゃん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼は私の言葉には何も応えず、夏帆をじっと見下ろした。",
+        "after": "蒼「別に何も言いたいことはない」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「別に何も言いたいことはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……何よ～。何か言いたいことがあるならはっきり言えばいいじゃん！」",
+        "after": "それに対し、むっとしたのか"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "それに対し、むっとしたのか",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「別に何も言いたいことはない」",
+        "after": "宮沢　夏帆「ちゃん紗夜、行こう！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "宮沢　夏帆「ちゃん紗夜、行こう！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "それに対し、むっとしたのか",
+        "after": "遠野　紗夜「あっ」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「あっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちゃん紗夜、行こう！」",
+        "after": "夏帆は私の腕を取り、蒼との距離を取って歩き出した。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "夏帆は私の腕を取り、蒼との距離を取って歩き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あっ」",
+        "after": "後ろを向くと、彼はこちらの後をついてきているようで少しほっとした。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "後ろを向くと、彼はこちらの後をついてきているようで少しほっとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆は私の腕を取り、蒼との距離を取って歩き出した。",
+        "after": "遠野　紗夜「……夏帆は蒼のことが好きではありませんか？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「……夏帆は蒼のことが好きではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "後ろを向くと、彼はこちらの後をついてきているようで少しほっとした。",
+        "after": "兄のことを思い出し、私は夏帆に訊ねた。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "兄のことを思い出し、私は夏帆に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……夏帆は蒼のことが好きではありませんか？」",
+        "after": "私の兄は蒼のことがどうも好きになれないらしく、彼に近づく私のことをあまり快く思っていないようだった。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "私の兄は蒼のことがどうも好きになれないらしく、彼に近づく私のことをあまり快く思っていないようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄のことを思い出し、私は夏帆に訊ねた。",
+        "after": "夏帆の反応を見て、もしや夏帆も彼のことを嫌っているのではないかと不安になったのだ。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "夏帆の反応を見て、もしや夏帆も彼のことを嫌っているのではないかと不安になったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の兄は蒼のことがどうも好きになれないらしく、彼に近づく私のことをあまり快く思っていないようだった。",
+        "after": "けれど、どうやらそれは見当違いだったらしい。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "けれど、どうやらそれは見当違いだったらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆の反応を見て、もしや夏帆も彼のことを嫌っているのではないかと不安になったのだ。",
+        "after": "宮沢　夏帆「別に、私は蒼のことを嫌いなわけじゃないよ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "宮沢　夏帆「別に、私は蒼のことを嫌いなわけじゃないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "けれど、どうやらそれは見当違いだったらしい。",
+        "after": "宮沢　夏帆「蒼は～……むかつくけど、顔は好きだし」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "宮沢　夏帆「蒼は～……むかつくけど、顔は好きだし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「別に、私は蒼のことを嫌いなわけじゃないよ」",
+        "after": "遠野　紗夜「顔ですか？」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「顔ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「蒼は～……むかつくけど、顔は好きだし」",
+        "after": "宮沢　夏帆「だってだって、顔はすごく綺麗なんだもん！！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "宮沢　夏帆「だってだって、顔はすごく綺麗なんだもん！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「顔ですか？」",
+        "after": "遠野　紗夜「ええ、そうですね。確かに彼は綺麗です」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「ええ、そうですね。確かに彼は綺麗です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「だってだって、顔はすごく綺麗なんだもん！！」",
+        "after": "私はくすくすと口元を抑え笑った。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "私はくすくすと口元を抑え笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですね。確かに彼は綺麗です」",
+        "after": "夏帆は少しだけ照れくさそうに顔を赤くさせ、視線の置き場を探していた。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "夏帆は少しだけ照れくさそうに顔を赤くさせ、視線の置き場を探していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はくすくすと口元を抑え笑った。",
+        "after": "宮沢　夏帆「あれ？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "宮沢　夏帆「あれ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は少しだけ照れくさそうに顔を赤くさせ、視線の置き場を探していた。",
+        "after": "夏帆が声をあげ、立ち止まった。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "夏帆が声をあげ、立ち止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あれ？」",
+        "after": "遠野　紗夜「どうかしたのですか？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「どうかしたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏帆が声をあげ、立ち止まった。",
+        "after": "宮沢　夏帆「あれって、日生先輩じゃん？」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "宮沢　夏帆「あれって、日生先輩じゃん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうかしたのですか？」",
+        "after": "遠野　紗夜「え？　どこにですか？」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「え？　どこにですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あれって、日生先輩じゃん？」",
+        "after": "宮沢　夏帆「ほら、花屋の前～」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "宮沢　夏帆「ほら、花屋の前～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　どこにですか？」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ほら、花屋の前～」",
+        "after": "鮮やかな色合いに囲まれた店の軒先。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "鮮やかな色合いに囲まれた店の軒先。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "その中でも一際艶やかな赤い薔薇の花束を抱えた店員が、一人の青年に話しかけている。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "その中でも一際艶やかな赤い薔薇の花束を抱えた店員が、一人の青年に話しかけている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鮮やかな色合いに囲まれた店の軒先。",
+        "after": "制服こそ着てはいないが、その青年は確かに夏帆が言うように日生先輩本人だった。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "制服こそ着てはいないが、その青年は確かに夏帆が言うように日生先輩本人だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その中でも一際艶やかな赤い薔薇の花束を抱えた店員が、一人の青年に話しかけている。",
+        "after": "声をかける"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "声をかける",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "制服こそ着てはいないが、その青年は確かに夏帆が言うように日生先輩本人だった。",
+        "after": "声をかけない"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "声をかけない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声をかける",
+        "after": "遠野　紗夜「日生先輩！！」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「日生先輩！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "声をかけない",
+        "after": "宮沢　夏帆「おーい、日生せんぱーい！！」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "宮沢　夏帆「おーい、日生せんぱーい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩！！」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「おーい、日生せんぱーい！！」",
+        "after": "遠くから声をかけるけれど、日生先輩には届かなかった様で、薔薇の花束を受け取るとさっと歩き出してしまった。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠くから声をかけるけれど、日生先輩には届かなかった様で、薔薇の花束を受け取るとさっと歩き出してしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "宮沢　夏帆「行っちゃったね」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "宮沢　夏帆「行っちゃったね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠くから声をかけるけれど、日生先輩には届かなかった様で、薔薇の花束を受け取るとさっと歩き出してしまった。",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「行っちゃったね」",
+        "after": "私達は敢えて追いかけることもせず、その背中が雑踏の中に埋もれていくのを見ていた。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "私達は敢えて追いかけることもせず、その背中が雑踏の中に埋もれていくのを見ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "宮沢　夏帆「薔薇の花なんか買ってたみたいだけど、誰かにプレゼントするのかな～？」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "宮沢　夏帆「薔薇の花なんか買ってたみたいだけど、誰かにプレゼントするのかな～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私達は敢えて追いかけることもせず、その背中が雑踏の中に埋もれていくのを見ていた。",
+        "after": "遠野　紗夜「さあ、どうでしょうか？」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「さあ、どうでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「薔薇の花なんか買ってたみたいだけど、誰かにプレゼントするのかな～？」",
+        "after": "宮沢　夏帆「ふっふっふ。今度、からかってやろーっと"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "宮沢　夏帆「ふっふっふ。今度、からかってやろーっと",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「さあ、どうでしょうか？」",
+        "after": "遠野　紗夜「こらこら、夏帆……」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「こらこら、夏帆……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふっふっふ。今度、からかってやろーっと",
+        "after": "蒼「花か」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "蒼「花か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こらこら、夏帆……」",
+        "after": "いつの間にか、すぐ傍まで蒼が来ていた。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "いつの間にか、すぐ傍まで蒼が来ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「花か」",
+        "after": "宮沢　夏帆「なぁに？　蒼も誰かに花をあげたいの～？」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "宮沢　夏帆「なぁに？　蒼も誰かに花をあげたいの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "いつの間にか、すぐ傍まで蒼が来ていた。",
+        "after": "蒼「そうではない」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "蒼「そうではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「なぁに？　蒼も誰かに花をあげたいの～？」",
+        "after": "宮沢　夏帆「じゃあ、何で意味深に言ったのよ～」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "宮沢　夏帆「じゃあ、何で意味深に言ったのよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうではない」",
+        "after": "蒼「以前、読んだ本に書いてあったことを思い出した」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "蒼「以前、読んだ本に書いてあったことを思い出した」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「じゃあ、何で意味深に言ったのよ～」",
+        "after": "蒼「遠い昔から人は花を愛で、育て、新たな品種を開発し、それを楽しんでいた」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "蒼「遠い昔から人は花を愛で、育て、新たな品種を開発し、それを楽しんでいた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「以前、読んだ本に書いてあったことを思い出した」",
+        "after": "蒼「そして、ある時、人は花に言葉を込めたと」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "蒼「そして、ある時、人は花に言葉を込めたと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「遠い昔から人は花を愛で、育て、新たな品種を開発し、それを楽しんでいた」",
+        "after": "宮沢　夏帆「あー、花言葉ってやつ？」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "宮沢　夏帆「あー、花言葉ってやつ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そして、ある時、人は花に言葉を込めたと」",
+        "after": "蒼「そうだ」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "蒼「そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あー、花言葉ってやつ？」",
+        "after": "宮沢　夏帆「……ふーん。ねえ、じゃあ薔薇の花言葉って何だか知ってる？」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "宮沢　夏帆「……ふーん。ねえ、じゃあ薔薇の花言葉って何だか知ってる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうだ」",
+        "after": "蒼「薔薇の花言葉は愛。もっとも、色や状態に寄って意味は変わってくるがな」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "蒼「薔薇の花言葉は愛。もっとも、色や状態に寄って意味は変わってくるがな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……ふーん。ねえ、じゃあ薔薇の花言葉って何だか知ってる？」",
+        "after": "宮沢　夏帆「そうなんだぁ」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "宮沢　夏帆「そうなんだぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「薔薇の花言葉は愛。もっとも、色や状態に寄って意味は変わってくるがな」",
+        "after": "宮沢　夏帆「ま、イメージ通りかもねぇ。薔薇の花って誰かに告白したりする時にプレゼントするとかイメージあるし～」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "宮沢　夏帆「ま、イメージ通りかもねぇ。薔薇の花って誰かに告白したりする時にプレゼントするとかイメージあるし～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そうなんだぁ」",
+        "after": "蒼「そうでもない」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "蒼「そうでもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ま、イメージ通りかもねぇ。薔薇の花って誰かに告白したりする時にプレゼントするとかイメージあるし～」",
+        "after": "宮沢　夏帆「そーお？」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "宮沢　夏帆「そーお？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうでもない」",
+        "after": "蒼「例えば、薔薇の意味にはこんな意味もある」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "蒼「例えば、薔薇の意味にはこんな意味もある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そーお？」",
+        "after": "蒼「『ｕｎｄｅｒ　ｔｈｅ　ｒｏｓｅ』」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "蒼「『ｕｎｄｅｒ　ｔｈｅ　ｒｏｓｅ』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「例えば、薔薇の意味にはこんな意味もある」",
+        "after": "宮沢　夏帆「何それ、薔薇の……下？」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "宮沢　夏帆「何それ、薔薇の……下？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「『ｕｎｄｅｒ　ｔｈｅ　ｒｏｓｅ』」",
+        "after": "蒼「秘密という意味だ」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "蒼「秘密という意味だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何それ、薔薇の……下？」",
+        "after": "秘密、という言葉の響きに何故か心惹かれた。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "秘密、という言葉の響きに何故か心惹かれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「秘密という意味だ」",
+        "after": "宮沢　夏帆「？　薔薇の下で秘密？　それで何で秘密？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "宮沢　夏帆「？　薔薇の下で秘密？　それで何で秘密？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "秘密、という言葉の響きに何故か心惹かれた。",
+        "after": "蒼「元は、薔薇の下で作戦を練り、勝利したことにより、ラテン語の『ｓｕｂ　ｒｏｓｅ』という言葉が『秘密』という意味で使われるようになったそうだ」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "蒼「元は、薔薇の下で作戦を練り、勝利したことにより、ラテン語の『ｓｕｂ　ｒｏｓｅ』という言葉が『秘密』という意味で使われるようになったそうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「？　薔薇の下で秘密？　それで何で秘密？」",
+        "after": "宮沢　夏帆「ふ～ん。花の言葉って色んなものがあるんだねぇ～」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "宮沢　夏帆「ふ～ん。花の言葉って色んなものがあるんだねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「元は、薔薇の下で作戦を練り、勝利したことにより、ラテン語の『ｓｕｂ　ｒｏｓｅ』という言葉が『秘密』という意味で使われるようになったそうだ」",
+        "after": "宮沢　夏帆「ちなみに、それも本の受け売り？」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "宮沢　夏帆「ちなみに、それも本の受け売り？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふ～ん。花の言葉って色んなものがあるんだねぇ～」",
+        "after": "蒼「ああ、そうだ」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "蒼「ああ、そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちなみに、それも本の受け売り？」",
+        "after": "宮沢　夏帆「あはっ！　やっぱ、予想通り！」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "宮沢　夏帆「あはっ！　やっぱ、予想通り！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ、そうだ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あはっ！　やっぱ、予想通り！」",
+        "after": "宮沢　夏帆「……って紗夜、ちゃーん？」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "宮沢　夏帆「……って紗夜、ちゃーん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「はい？」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……って紗夜、ちゃーん？」",
+        "after": "急に呼びかけられ、はっとする。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "急に呼びかけられ、はっとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい？」",
+        "after": "宮沢　夏帆「どうしたの～？　置いてっちゃうよー？」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "宮沢　夏帆「どうしたの～？　置いてっちゃうよー？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "急に呼びかけられ、はっとする。",
+        "after": "宮沢　夏帆「置いてっちゃうよー？」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "宮沢　夏帆「置いてっちゃうよー？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「どうしたの～？　置いてっちゃうよー？」",
+        "after": "言われて気が付いた。"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "言われて気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「置いてっちゃうよー？」",
+        "after": "いつの間にか、二人は歩き出していたようだった。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "いつの間にか、二人は歩き出していたようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言われて気が付いた。",
+        "after": "遠野　紗夜「あ、はい！」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　紗夜「あ、はい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いつの間にか、二人は歩き出していたようだった。",
+        "after": "私は小走りで二人の間に割って入った。"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "私は小走りで二人の間に割って入った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、はい！」",
+        "after": null
+      }
+    }
+  ]
+}

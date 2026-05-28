@@ -1,0 +1,1940 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_20.txt",
+    "chapter": "chapter3",
+    "total_lines": 107,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "その日は朝から憂鬱だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "女子生徒Ａ「おはよー」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "女子生徒Ａ「おはよー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ａ",
+      "special_char": true,
+      "context": {
+        "before": "その日は朝から憂鬱だった。",
+        "after": "女子生徒Ｂ「ねー、誰か英語のノート見せてくれない？　昨日、課題やるの忘れちゃった」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "女子生徒Ｂ「ねー、誰か英語のノート見せてくれない？　昨日、課題やるの忘れちゃった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ｂ",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒Ａ「おはよー」",
+        "after": "ＨＲが始まる前の賑やかな教室。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ＨＲが始まる前の賑やかな教室。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒Ｂ「ねー、誰か英語のノート見せてくれない？　昨日、課題やるの忘れちゃった」",
+        "after": "私は頬杖をついて隣の席を見た。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私は頬杖をついて隣の席を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ＨＲが始まる前の賑やかな教室。",
+        "after": "問題の彼はまだ来ていない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "問題の彼はまだ来ていない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は頬杖をついて隣の席を見た。",
+        "after": "私はほっとすると同時にどうあっても逃げられない現状と、これから起こるだろうやり取りを必死に想定してはため息をついた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "私はほっとすると同時にどうあっても逃げられない現状と、これから起こるだろうやり取りを必死に想定してはため息をついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "問題の彼はまだ来ていない。",
+        "after": "宮沢　夏帆「さーよちゃーん」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "宮沢　夏帆「さーよちゃーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私はほっとすると同時にどうあっても逃げられない現状と、これから起こるだろうやり取りを必死に想定してはため息をついた。",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「さーよちゃーん」",
+        "after": "宮沢　夏帆「ねえ、どうしたの～？　ため息なんてついちゃってさ～」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "宮沢　夏帆「ねえ、どうしたの～？　ため息なんてついちゃってさ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "遠野　紗夜「何でもないですよ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「何でもないですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ねえ、どうしたの～？　ため息なんてついちゃってさ～」",
+        "after": "私は即座に答えた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "私は即座に答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「何でもないですよ」",
+        "after": "夏帆は一瞬眉を顰めたが、可愛らしく首を傾げた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "夏帆は一瞬眉を顰めたが、可愛らしく首を傾げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は即座に答えた。",
+        "after": "宮沢　夏帆「……そお～？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "宮沢　夏帆「……そお～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は一瞬眉を顰めたが、可愛らしく首を傾げた。",
+        "after": "夏帆はいつものように机の上に両手を乗せて、にこにこと私の顔を眺めていた。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "夏帆はいつものように机の上に両手を乗せて、にこにこと私の顔を眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……そお～？」",
+        "after": "その夏帆の隙間から、扉を開けてこちらにやって来る人の姿が覗いた。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "その夏帆の隙間から、扉を開けてこちらにやって来る人の姿が覗いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆はいつものように机の上に両手を乗せて、にこにこと私の顔を眺めていた。",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その夏帆の隙間から、扉を開けてこちらにやって来る人の姿が覗いた。",
+        "after": "宮沢　夏帆「どーしたの～？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "宮沢　夏帆「どーしたの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "来た。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「どーしたの～？」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "来た。",
+        "after": "ざわりと心が揺れた。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "ざわりと心が揺れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "不安がまるで石を投げられた水のように段々と広がっていく。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "不安がまるで石を投げられた水のように段々と広がっていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ざわりと心が揺れた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "不安がまるで石を投げられた水のように段々と広がっていく。",
+        "after": "彼は私と目を一切合わせないまま自分の席へと着く。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "彼は私と目を一切合わせないまま自分の席へと着く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……夏目君」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「……夏目君」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は私と目を一切合わせないまま自分の席へと着く。",
+        "after": "私はいつもの調子で話しかけられた自分自身に対し、内心ほっとした。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "私はいつもの調子で話しかけられた自分自身に対し、内心ほっとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……夏目君」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私はいつもの調子で話しかけられた自分自身に対し、内心ほっとした。",
+        "after": "遠野　紗夜「昨日は、お騒がせしてしまい申し訳ありませんでした」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「昨日は、お騒がせしてしまい申し訳ありませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "遠野　紗夜「すみません。ただ、これだけは言おうと思いまして……」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「すみません。ただ、これだけは言おうと思いまして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「昨日は、お騒がせしてしまい申し訳ありませんでした」",
+        "after": "今、思えばこれが間違いだったのだ。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "今、思えばこれが間違いだったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「すみません。ただ、これだけは言おうと思いまして……」",
+        "after": "私は争い事は好きではない。巻き込むのも巻き込まれることも嫌いだ。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "私は争い事は好きではない。巻き込むのも巻き込まれることも嫌いだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今、思えばこれが間違いだったのだ。",
+        "after": "けれど、時としてどうあっても争いに身を投じなければならないこともある。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "けれど、時としてどうあっても争いに身を投じなければならないこともある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は争い事は好きではない。巻き込むのも巻き込まれることも嫌いだ。",
+        "after": "その処世術の一つとして覚えたのは、自ら『謝罪』することによって、事態の収拾を図ることだった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "その処世術の一つとして覚えたのは、自ら『謝罪』することによって、事態の収拾を図ることだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、時としてどうあっても争いに身を投じなければならないこともある。",
+        "after": "ただ問題なのは、彼のような人間にはその薄ら寒い私の考えなど見透かされているということだ。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "ただ問題なのは、彼のような人間にはその薄ら寒い私の考えなど見透かされているということだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その処世術の一つとして覚えたのは、自ら『謝罪』することによって、事態の収拾を図ることだった。",
+        "after": "夏目　悠希「……お前さぁ」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "夏目　悠希「……お前さぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ただ問題なのは、彼のような人間にはその薄ら寒い私の考えなど見透かされているということだ。",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……お前さぁ」",
+        "after": "夏目　悠希「そうやって自分から謝ってるけど、本当は自分は悪くないって思ってるだろ？」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "夏目　悠希「そうやって自分から謝ってるけど、本当は自分は悪くないって思ってるだろ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": "遠野　紗夜「……それは何故？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「……それは何故？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「そうやって自分から謝ってるけど、本当は自分は悪くないって思ってるだろ？」",
+        "after": "私は瞬時に体を固くした。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "私は瞬時に体を固くした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……それは何故？」",
+        "after": "夏目　悠希「そんなの見てれば分かるよ」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "夏目　悠希「そんなの見てれば分かるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私は瞬時に体を固くした。",
+        "after": "夏目　悠希「あの親から生まれてきたのは、自分のせいじゃない」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "夏目　悠希「あの親から生まれてきたのは、自分のせいじゃない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「そんなの見てれば分かるよ」",
+        "after": "夏目　悠希「あの親がしたことは、自分のしたことじゃない」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "夏目　悠希「あの親がしたことは、自分のしたことじゃない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「あの親から生まれてきたのは、自分のせいじゃない」",
+        "after": "夏目　悠希「あんな親を持った自分は可哀想」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "夏目　悠希「あんな親を持った自分は可哀想」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「あの親がしたことは、自分のしたことじゃない」",
+        "after": "夏目　悠希「俺はてめえみたいに被害者ぶってる奴が一番むかつくんだ！」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "夏目　悠希「俺はてめえみたいに被害者ぶってる奴が一番むかつくんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「あんな親を持った自分は可哀想」",
+        "after": "ああ、どうしてだろう？"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "ああ、どうしてだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「俺はてめえみたいに被害者ぶってる奴が一番むかつくんだ！」",
+        "after": "苛々する。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "苛々する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、どうしてだろう？",
+        "after": "私はほぼ無意識のうちに片手をあげていた。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "私はほぼ無意識のうちに片手をあげていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "苛々する。",
+        "after": "遠野　紗夜「……っ」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はほぼ無意識のうちに片手をあげていた。",
+        "after": "教室に突如響いた、誰かの頬を叩く音。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "教室に突如響いた、誰かの頬を叩く音。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ」",
+        "after": "しかし、私の手に衝撃はない。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "しかし、私の手に衝撃はない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "教室に突如響いた、誰かの頬を叩く音。",
+        "after": "それは当然だ。私はまだ彼を殴ってはいない。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "それは当然だ。私はまだ彼を殴ってはいない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しかし、私の手に衝撃はない。",
+        "after": "では、誰が彼を殴ったか？"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "では、誰が彼を殴ったか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは当然だ。私はまだ彼を殴ってはいない。",
+        "after": "夏帆だ。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "夏帆だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "では、誰が彼を殴ったか？",
+        "after": "女子生徒Ｂ「え……」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "女子生徒Ｂ「え……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒Ｂ",
+      "special_char": true,
+      "context": {
+        "before": "夏帆だ。",
+        "after": "誰かが声をあげた。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "誰かが声をあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒Ｂ「え……」",
+        "after": "徐々に静まりかえる教室内。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "徐々に静まりかえる教室内。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰かが声をあげた。",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "徐々に静まりかえる教室内。",
+        "after": "夏目君は自分が叩かれたことをすぐに理解出来なかったのか、目を見開き、ゆっくりと赤く腫れた頬に触れた。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "夏目君は自分が叩かれたことをすぐに理解出来なかったのか、目を見開き、ゆっくりと赤く腫れた頬に触れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "そして、状況を把握すると見る見るうちに彼の眸に怒りの色が浮かんだ。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "そして、状況を把握すると見る見るうちに彼の眸に怒りの色が浮かんだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君は自分が叩かれたことをすぐに理解出来なかったのか、目を見開き、ゆっくりと赤く腫れた頬に触れた。",
+        "after": "夏目　悠希「……ってぇな！　何すんだ！！」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "夏目　悠希「……ってぇな！　何すんだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "そして、状況を把握すると見る見るうちに彼の眸に怒りの色が浮かんだ。",
+        "after": "思わず素が出てしまった彼は夏帆に喰ってかかる。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "思わず素が出てしまった彼は夏帆に喰ってかかる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「……ってぇな！　何すんだ！！」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "思わず素が出てしまった彼は夏帆に喰ってかかる。",
+        "after": "遠野　紗夜「夏帆……？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「夏帆……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "夏帆の顔は赤く、こみ上げてくる怒りをじっと抑えているのか、小刻みに震えていた。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "夏帆の顔は赤く、こみ上げてくる怒りをじっと抑えているのか、小刻みに震えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆……？」",
+        "after": "夏帆は大声で叫んだ。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "夏帆は大声で叫んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆の顔は赤く、こみ上げてくる怒りをじっと抑えているのか、小刻みに震えていた。",
+        "after": "宮沢　夏帆「紗夜ちゃんを馬鹿にしないで！！」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "宮沢　夏帆「紗夜ちゃんを馬鹿にしないで！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は大声で叫んだ。",
+        "after": "遠野　紗夜「！」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんを馬鹿にしないで！！」",
+        "after": "宮沢　夏帆「さっきから、何の話かは分からないけど……これ以上、紗夜ちゃんについて馬鹿にしたら私が許さないから！！」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "宮沢　夏帆「さっきから、何の話かは分からないけど……これ以上、紗夜ちゃんについて馬鹿にしたら私が許さないから！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「さっきから、何の話かは分からないけど……これ以上、紗夜ちゃんについて馬鹿にしたら私が許さないから！！」",
+        "after": "私は夏帆に声をかけるのを止めていた。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "私は夏帆に声をかけるのを止めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "対して、夏目君は睨みをきかせながらも憎々しい笑いを口元に浮かべた。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "対して、夏目君は睨みをきかせながらも憎々しい笑いを口元に浮かべた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は夏帆に声をかけるのを止めていた。",
+        "after": "夏目　悠希「……はっ。『紗夜ちゃん、ちゃん』って馬鹿みたいだな」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "夏目　悠希「……はっ。『紗夜ちゃん、ちゃん』って馬鹿みたいだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "対して、夏目君は睨みをきかせながらも憎々しい笑いを口元に浮かべた。",
+        "after": "夏目　悠希「こいつのこと何も知らないで、よくそんなに信奉出来るよ！」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "夏目　悠希「こいつのこと何も知らないで、よくそんなに信奉出来るよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……はっ。『紗夜ちゃん、ちゃん』って馬鹿みたいだな」",
+        "after": "宮沢　夏帆「そっちこそ、紗夜ちゃんのこと何も知らないくせに！！」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "宮沢　夏帆「そっちこそ、紗夜ちゃんのこと何も知らないくせに！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「こいつのこと何も知らないで、よくそんなに信奉出来るよ！」",
+        "after": "夏目　悠希「少なくともお前よりは知ってるよ！　第一、お前はこいつに騙されてるんだ！　こいつは……！！」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "夏目　悠希「少なくともお前よりは知ってるよ！　第一、お前はこいつに騙されてるんだ！　こいつは……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そっちこそ、紗夜ちゃんのこと何も知らないくせに！！」",
+        "after": "遠野　紗夜「二人とも止めて下さいっ！！」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「二人とも止めて下さいっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「少なくともお前よりは知ってるよ！　第一、お前はこいつに騙されてるんだ！　こいつは……！！」",
+        "after": "遠野　紗夜「夏目君、私のことを何と言おうが構いませんが、夏帆は関係ないはずです！」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「夏目君、私のことを何と言おうが構いませんが、夏帆は関係ないはずです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「二人とも止めて下さいっ！！」",
+        "after": "遠野　紗夜「私のことに対して何かあるのなら、後でいくらでも受け付けます！」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「私のことに対して何かあるのなら、後でいくらでも受け付けます！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏目君、私のことを何と言おうが構いませんが、夏帆は関係ないはずです！」",
+        "after": "遠野　紗夜「ですから、今は少々黙って頂けませんか！？」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠野　紗夜「ですから、今は少々黙って頂けませんか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私のことに対して何かあるのなら、後でいくらでも受け付けます！」",
+        "after": "私は夏目君を鋭く睨んだ。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "私は夏目君を鋭く睨んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ですから、今は少々黙って頂けませんか！？」",
+        "after": "しばらく睨み合っていた私達はやがて少し冷静さを取り戻した。"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "しばらく睨み合っていた私達はやがて少し冷静さを取り戻した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は夏目君を鋭く睨んだ。",
+        "after": "互いに目を逸らし、押し黙る。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "互いに目を逸らし、押し黙る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しばらく睨み合っていた私達はやがて少し冷静さを取り戻した。",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "互いに目を逸らし、押し黙る。",
+        "after": "遠野　紗夜「……夏帆も、いきなり人を殴るのは良くありません。夏目君に謝って……」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　紗夜「……夏帆も、いきなり人を殴るのは良くありません。夏目君に謝って……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "宮沢　夏帆「嫌だよ。だって、謝る必要なんてどこにもないもん！」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "宮沢　夏帆「嫌だよ。だって、謝る必要なんてどこにもないもん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……夏帆も、いきなり人を殴るのは良くありません。夏目君に謝って……」",
+        "after": "遠野　紗夜「夏帆」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「夏帆」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「嫌だよ。だって、謝る必要なんてどこにもないもん！」",
+        "after": "私が窘めるような態度を取ると、夏帆は悔しそうに唇を噛んだ。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "私が窘めるような態度を取ると、夏帆は悔しそうに唇を噛んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆」",
+        "after": "宮沢　夏帆「……っ」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "宮沢　夏帆「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私が窘めるような態度を取ると、夏帆は悔しそうに唇を噛んだ。",
+        "after": "私は彼女に触れることは諦め、代わりに夏目君に向かって手を伸ばした。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "私は彼女に触れることは諦め、代わりに夏目君に向かって手を伸ばした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……っ」",
+        "after": "遠野　紗夜「……夏目君、とりあえず保健室に」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "遠野　紗夜「……夏目君、とりあえず保健室に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼女に触れることは諦め、代わりに夏目君に向かって手を伸ばした。",
+        "after": "夏目　悠希「言われなくても分かってるよ！」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "夏目　悠希「言われなくても分かってるよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……夏目君、とりあえず保健室に」",
+        "after": "彼は心底嫌そうに振り払う。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "彼は心底嫌そうに振り払う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「言われなくても分かってるよ！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は心底嫌そうに振り払う。",
+        "after": "賑やかだった教室はしんとして、物音一つ響かない。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "賑やかだった教室はしんとして、物音一つ響かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "教室中の視線を集め、私達は色々な気まずさにそれぞれ顔を背けた。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "教室中の視線を集め、私達は色々な気まずさにそれぞれ顔を背けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "賑やかだった教室はしんとして、物音一つ響かない。",
+        "after": "まるで時が止まったようだと思った。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "まるで時が止まったようだと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "教室中の視線を集め、私達は色々な気まずさにそれぞれ顔を背けた。",
+        "after": "担任教師「何をしているんですか！　早く席に着きなさい！」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "担任教師「何をしているんですか！　早く席に着きなさい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "担任教師",
+      "special_char": true,
+      "context": {
+        "before": "まるで時が止まったようだと思った。",
+        "after": "いつの間にか教師がやって来ていた。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "いつの間にか教師がやって来ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "担任教師「何をしているんですか！　早く席に着きなさい！」",
+        "after": "興奮していたせいか、いつ、チャイムが鳴ったのか気付かなかった。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "興奮していたせいか、いつ、チャイムが鳴ったのか気付かなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつの間にか教師がやって来ていた。",
+        "after": "教室内の異様な空気を察した教師は怪訝な顔をして、誰に言うでもなく言った。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "教室内の異様な空気を察した教師は怪訝な顔をして、誰に言うでもなく言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "興奮していたせいか、いつ、チャイムが鳴ったのか気付かなかった。",
+        "after": "担任教師「……どうしたんですか？　何か問題でもあったんですか？」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "担任教師「……どうしたんですか？　何か問題でもあったんですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "担任教師",
+      "special_char": true,
+      "context": {
+        "before": "教室内の異様な空気を察した教師は怪訝な顔をして、誰に言うでもなく言った。",
+        "after": "ある者は顔を背け、ある者は顔を見合わせ、ある者は席に座りと、止まっていた時間は再び流れ始める。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "ある者は顔を背け、ある者は顔を見合わせ、ある者は席に座りと、止まっていた時間は再び流れ始める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "担任教師「……どうしたんですか？　何か問題でもあったんですか？」",
+        "after": "やがて、教師は当事者である私達に視線を向けた。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "やがて、教師は当事者である私達に視線を向けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ある者は顔を背け、ある者は顔を見合わせ、ある者は席に座りと、止まっていた時間は再び流れ始める。",
+        "after": "夏目　悠希「何でもないです」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "夏目　悠希「何でもないです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "やがて、教師は当事者である私達に視線を向けた。",
+        "after": "宮沢　夏帆「ふん」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "宮沢　夏帆「ふん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「何でもないです」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふん」",
+        "after": "私達はそれぞれに席に着いた。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "私達はそれぞれに席に着いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": null
+      }
+    }
+  ]
+}

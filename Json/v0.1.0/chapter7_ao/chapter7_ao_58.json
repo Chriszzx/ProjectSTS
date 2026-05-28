@@ -1,0 +1,2905 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_58.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 160,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "小さな頃の私。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "まだ何も知らないままだった私。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "まだ何も知らないままだった私。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "小さな頃の私。",
+        "after": "幸せだった頃のお話。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "幸せだった頃のお話。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まだ何も知らないままだった私。",
+        "after": "遠野　紗夜「ねえ、何をお話しているの？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「ねえ、何をお話しているの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "幸せだった頃のお話。",
+        "after": "友人「君のお話だよ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "友人「君のお話だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ねえ、何をお話しているの？」",
+        "after": "遠野　紗夜「私のお話？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「私のお話？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「君のお話だよ」",
+        "after": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「私のお話？」",
+        "after": "遠野　紗夜「病院きらい……」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「病院きらい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「そう。そろそろ次の検診に来てもらう様、院長自ら言付けを頼まれていてね」",
+        "after": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「病院きらい……」",
+        "after": "白雪「そうですよ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "白雪「そうですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "白雪",
+      "special_char": false,
+      "context": {
+        "before": "友人「はは。まあ、あまり好きな子はいないなぁ。でも、行かなきゃ苦しいのは治らないよ？」",
+        "after": "遠野　紗夜「うう……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「うう……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "白雪「そうですよ」",
+        "after": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「うう……」",
+        "after": "友人「ああ、いいよ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "友人「ああ、いいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……ねえ！　それよりも新しいお話を聞かせて？　そうしたら、私頑張るわ」",
+        "after": "遠野　紗夜「わぁい！　次は何のお話？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「わぁい！　次は何のお話？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「ああ、いいよ」",
+        "after": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「わぁい！　次は何のお話？」",
+        "after": "遠野　紗夜「本当！？　嬉しい！！」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「本当！？　嬉しい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "友人「今日はとっておきの話を考えてきたんだ。主人公は君だよ」",
+        "after": "遠野　紗夜「……それはなぁに？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「……それはなぁに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当！？　嬉しい！！」",
+        "after": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……それはなぁに？」",
+        "after": "白雪「あら、とても素敵ですね」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "白雪「あら、とても素敵ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "白雪",
+      "special_char": false,
+      "context": {
+        "before": "友人「どうせだからと本にしてみたんだ。世界でこれだけしかない、一冊だけの本だよ」",
+        "after": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "白雪「あら、とても素敵ですね」",
+        "after": "友人「ああ、分かったよ」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "友人「ああ、分かったよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "友人",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「凄いわ！　早く読んで聞かせて！」",
+        "after": "私はお母様とおじ様の間に座り、おじ様は本を開く。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "私はお母様とおじ様の間に座り、おじ様は本を開く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "友人「ああ、分かったよ」",
+        "after": "そして、私の世界で一番大好きな物語を語ってくれた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "そして、私の世界で一番大好きな物語を語ってくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はお母様とおじ様の間に座り、おじ様は本を開く。",
+        "after": "それが、死神と少女だった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "それが、死神と少女だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、私の世界で一番大好きな物語を語ってくれた。",
+        "after": "とても気に入って、もらってから何度も何度も読み返した。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "とても気に入って、もらってから何度も何度も読み返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それが、死神と少女だった。",
+        "after": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "とても気に入って、もらってから何度も何度も読み返した。",
+        "after": "まるで呪文の様に口ずさむ。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "まるで呪文の様に口ずさむ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「陽が沈み、夜が来るまでの一瞬の空の色。それは深く、深く。蒼色の空。その下で佇む死神の姿があった」",
+        "after": "やがて、私は本などなくても空で言えるくらいに覚えてしまった。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "やがて、私は本などなくても空で言えるくらいに覚えてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで呪文の様に口ずさむ。",
+        "after": "死神と少女の物語。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "死神と少女の物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて、私は本などなくても空で言えるくらいに覚えてしまった。",
+        "after": "ずっと完成するのを楽しみにしていた。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "ずっと完成するのを楽しみにしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神と少女の物語。",
+        "after": "けれど、完成するも何も、もうずっと以前からあの本は存在していたのだ。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "けれど、完成するも何も、もうずっと以前からあの本は存在していたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ずっと完成するのを楽しみにしていた。",
+        "after": "急速に意識を取り戻す。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "急速に意識を取り戻す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、完成するも何も、もうずっと以前からあの本は存在していたのだ。",
+        "after": "気を張り、落ち着いた声で返した。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "気を張り、落ち着いた声で返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "急速に意識を取り戻す。",
+        "after": "遠野　紗夜「はい。どうぞ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「はい。どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "気を張り、落ち着いた声で返した。",
+        "after": "桐島　七葵「邪魔するぞ」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "桐島　七葵「邪魔するぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。どうぞ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「邪魔するぞ」",
+        "after": "私は部屋に入ってきたその人の顔には目もくれず窓の向こうを見た。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "私は部屋に入ってきたその人の顔には目もくれず窓の向こうを見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "窓越しに映った彼の姿が段々と大きくなっていく。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "窓越しに映った彼の姿が段々と大きくなっていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は部屋に入ってきたその人の顔には目もくれず窓の向こうを見た。",
+        "after": "向かい側の椅子に座るのを確認すると、ようやく私は視線を彼に移した。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "向かい側の椅子に座るのを確認すると、ようやく私は視線を彼に移した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "窓越しに映った彼の姿が段々と大きくなっていく。",
+        "after": "彼はいかにも真面目そうに顔を真っ直ぐ向け、背筋をぴんと伸ばし、腕を組んでいる。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "彼はいかにも真面目そうに顔を真っ直ぐ向け、背筋をぴんと伸ばし、腕を組んでいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "向かい側の椅子に座るのを確認すると、ようやく私は視線を彼に移した。",
+        "after": "そして、至極落ち着き払った声で言った。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "そして、至極落ち着き払った声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はいかにも真面目そうに顔を真っ直ぐ向け、背筋をぴんと伸ばし、腕を組んでいる。",
+        "after": "桐島　七葵「……話なら聞くぞ」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "桐島　七葵「……話なら聞くぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "そして、至極落ち着き払った声で言った。",
+        "after": "遠野　紗夜「桐島先輩…………」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「桐島先輩…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……話なら聞くぞ」",
+        "after": "あれから、一日が過ぎた。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "あれから、一日が過ぎた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「桐島先輩…………」",
+        "after": "私は兄に全てを聞いてから、ずっと夜も眠らずに考えていた。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "私は兄に全てを聞いてから、ずっと夜も眠らずに考えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あれから、一日が過ぎた。",
+        "after": "兄のこと、蒼のこと、自分自身のこと。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "兄のこと、蒼のこと、自分自身のこと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は兄に全てを聞いてから、ずっと夜も眠らずに考えていた。",
+        "after": "幾度も昔の記憶を思い出しては苦しい思いに耐えた。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "幾度も昔の記憶を思い出しては苦しい思いに耐えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄のこと、蒼のこと、自分自身のこと。",
+        "after": "結局、一人で考え込んでいても結論づけずに、こうして桐島先輩が来るのを待っていた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "結局、一人で考え込んでいても結論づけずに、こうして桐島先輩が来るのを待っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "幾度も昔の記憶を思い出しては苦しい思いに耐えた。",
+        "after": "彼は聡い人であるし、私が発する気配に気が付いたのか、それとも既に織り込み済みのことだったのかはよく分からないけれど、私の望む言葉をかけてくれた。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "彼は聡い人であるし、私が発する気配に気が付いたのか、それとも既に織り込み済みのことだったのかはよく分からないけれど、私の望む言葉をかけてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、一人で考え込んでいても結論づけずに、こうして桐島先輩が来るのを待っていた。",
+        "after": "私は桐島先輩に全てを話した。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "私は桐島先輩に全てを話した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は聡い人であるし、私が発する気配に気が付いたのか、それとも既に織り込み済みのことだったのかはよく分からないけれど、私の望む言葉をかけてくれた。",
+        "after": "途中幾度も言葉に詰まった。随分と聞き苦しかっただろう。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "途中幾度も言葉に詰まった。随分と聞き苦しかっただろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は桐島先輩に全てを話した。",
+        "after": "それでも、桐島先輩は文句も言わず終始黙って私の話を聞き、"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "それでも、桐島先輩は文句も言わず終始黙って私の話を聞き、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "途中幾度も言葉に詰まった。随分と聞き苦しかっただろう。",
+        "after": "桐島　七葵「そうか」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "桐島　七葵「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "それでも、桐島先輩は文句も言わず終始黙って私の話を聞き、",
+        "after": "ただそう言ったきり、他に何も言わなかった。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "ただそう言ったきり、他に何も言わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「そうか」",
+        "after": "遠野　紗夜「驚かないのですか？」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「驚かないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ただそう言ったきり、他に何も言わなかった。",
+        "after": "桐島　七葵「『遠野十夜』が人間ではないことは既に分かっていたことだ。今更だな」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "桐島　七葵「『遠野十夜』が人間ではないことは既に分かっていたことだ。今更だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「驚かないのですか？」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「『遠野十夜』が人間ではないことは既に分かっていたことだ。今更だな」",
+        "after": "桐島　七葵「まあ、そうだな……強いて言うなら、お前がこのことを俺に話してくれたことが一番意外だった」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "桐島　七葵「まあ、そうだな……強いて言うなら、お前がこのことを俺に話してくれたことが一番意外だった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「まあ、そうだな……強いて言うなら、お前がこのことを俺に話してくれたことが一番意外だった」",
+        "after": "桐島先輩しか話せる人がいなかった。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "桐島先輩しか話せる人がいなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "同じ感覚を共有するのは、桐島先輩と『彼』くらいなものだったのだから。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "同じ感覚を共有するのは、桐島先輩と『彼』くらいなものだったのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩しか話せる人がいなかった。",
+        "after": "他に、誰に何も言わずにいることも選択肢の一つにあったけれど、一人で抱え込んで解決出来るほど、私は強い人間ではない。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "他に、誰に何も言わずにいることも選択肢の一つにあったけれど、一人で抱え込んで解決出来るほど、私は強い人間ではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "同じ感覚を共有するのは、桐島先輩と『彼』くらいなものだったのだから。",
+        "after": "桐島　七葵「それで、お前はどうするつもりなんだ？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "桐島　七葵「それで、お前はどうするつもりなんだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "他に、誰に何も言わずにいることも選択肢の一つにあったけれど、一人で抱え込んで解決出来るほど、私は強い人間ではない。",
+        "after": "遠野　紗夜「……どうするつもりとは？」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「……どうするつもりとは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それで、お前はどうするつもりなんだ？」",
+        "after": "口を開こうとした先輩を制する。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "口を開こうとした先輩を制する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……どうするつもりとは？」",
+        "after": "遠野　紗夜「すみません」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「すみません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "口を開こうとした先輩を制する。",
+        "after": "遠野　紗夜「分かっています。本当は分かっているのです……」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「分かっています。本当は分かっているのです……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません」",
+        "after": "最後の方は喉が痛いのを我慢したせいか、上擦り上手く言えなかった。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "最後の方は喉が痛いのを我慢したせいか、上擦り上手く言えなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「分かっています。本当は分かっているのです……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "最後の方は喉が痛いのを我慢したせいか、上擦り上手く言えなかった。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "桐島先輩は天に向かって大きくため息を吐き出した。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "桐島先輩は天に向かって大きくため息を吐き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "そして、窓の向こう側を眺めるとふっと目を細めた。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "そして、窓の向こう側を眺めるとふっと目を細めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は天に向かって大きくため息を吐き出した。",
+        "after": "私も同じ様に窓の向こう側を見た。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "私も同じ様に窓の向こう側を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、窓の向こう側を眺めるとふっと目を細めた。",
+        "after": "空はすっかり沈み込んでいる。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "空はすっかり沈み込んでいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私も同じ様に窓の向こう側を見た。",
+        "after": "桐島　七葵「何なんだろうな。この目の前の幻想は」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "桐島　七葵「何なんだろうな。この目の前の幻想は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "空はすっかり沈み込んでいる。",
+        "after": "桐島先輩が呟いた。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "桐島先輩が呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「何なんだろうな。この目の前の幻想は」",
+        "after": "桐島　七葵「俺達からすれば、見ることも出来るし、触れることも出来る。現実と変わらない」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "桐島　七葵「俺達からすれば、見ることも出来るし、触れることも出来る。現実と変わらない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩が呟いた。",
+        "after": "桐島　七葵「けど、他人はそうじゃない」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "桐島　七葵「けど、他人はそうじゃない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「俺達からすれば、見ることも出来るし、触れることも出来る。現実と変わらない」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「けど、他人はそうじゃない」",
+        "after": "膝の上に置いた手をぎゅっと握った。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "膝の上に置いた手をぎゅっと握った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "桐島　七葵「一つ思ったことは……」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "桐島　七葵「一つ思ったことは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "膝の上に置いた手をぎゅっと握った。",
+        "after": "そう言った桐島先輩の視線が窓を通し私に向けられた。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "そう言った桐島先輩の視線が窓を通し私に向けられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「一つ思ったことは……」",
+        "after": "窓越しに映った桐島先輩の姿は薄く、すぐにでも消えてしまいそうな儚さを併せ持っている。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "窓越しに映った桐島先輩の姿は薄く、すぐにでも消えてしまいそうな儚さを併せ持っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言った桐島先輩の視線が窓を通し私に向けられた。",
+        "after": "それは勿論、私にも言えることだった。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "それは勿論、私にも言えることだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "窓越しに映った桐島先輩の姿は薄く、すぐにでも消えてしまいそうな儚さを併せ持っている。",
+        "after": "桐島　七葵「幻想というのは、例えば鏡に映った世界に似ている」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "桐島　七葵「幻想というのは、例えば鏡に映った世界に似ている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "それは勿論、私にも言えることだった。",
+        "after": "桐島　七葵「確かにそこに存在しているように見える。けれど、それは触れることは出来ないし、音を発することもしない」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "桐島　七葵「確かにそこに存在しているように見える。けれど、それは触れることは出来ないし、音を発することもしない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「幻想というのは、例えば鏡に映った世界に似ている」",
+        "after": "桐島　七葵「鏡に映った世界は全て虚像だ」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "桐島　七葵「鏡に映った世界は全て虚像だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「確かにそこに存在しているように見える。けれど、それは触れることは出来ないし、音を発することもしない」",
+        "after": "遠野　紗夜「けれど、鏡は他人の目に映ります」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「けれど、鏡は他人の目に映ります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「鏡に映った世界は全て虚像だ」",
+        "after": "桐島　七葵「ああ、そうだな。この幻想は他人の目には映らない」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "桐島　七葵「ああ、そうだな。この幻想は他人の目には映らない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、鏡は他人の目に映ります」",
+        "after": "桐島　七葵「だが、鏡をよく見てみろ」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "桐島　七葵「だが、鏡をよく見てみろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ、そうだな。この幻想は他人の目には映らない」",
+        "after": "言われて、じっと目を凝らす。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "言われて、じっと目を凝らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「だが、鏡をよく見てみろ」",
+        "after": "桐島　七葵「鏡は左右が逆転して見えているだろ？」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "桐島　七葵「鏡は左右が逆転して見えているだろ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "言われて、じっと目を凝らす。",
+        "after": "私は即座に答えた。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "私は即座に答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「鏡は左右が逆転して見えているだろ？」",
+        "after": "遠野　紗夜「鏡像ですか？」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　紗夜「鏡像ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は即座に答えた。",
+        "after": "桐島　七葵「そうだ。鏡に映った世界は反対だ。だが、普通の人間の目にはそれが自分であると認識出来るだろう？」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "桐島　七葵「そうだ。鏡に映った世界は反対だ。だが、普通の人間の目にはそれが自分であると認識出来るだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「鏡像ですか？」",
+        "after": "桐島　七葵「俺達にはそれが別物のように見えてるんだと思う。鏡の向こうにもう一つの世界があるように見えるんじゃないか」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "桐島　七葵「俺達にはそれが別物のように見えてるんだと思う。鏡の向こうにもう一つの世界があるように見えるんじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうだ。鏡に映った世界は反対だ。だが、普通の人間の目にはそれが自分であると認識出来るだろう？」",
+        "after": "桐島先輩は拳をあげ、窓を軽く小突いた。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "桐島先輩は拳をあげ、窓を軽く小突いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「俺達にはそれが別物のように見えてるんだと思う。鏡の向こうにもう一つの世界があるように見えるんじゃないか」",
+        "after": "それに合わせ窓硝子が軽く振動する。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "それに合わせ窓硝子が軽く振動する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は拳をあげ、窓を軽く小突いた。",
+        "after": "桐島　七葵「この一枚の壁を破ったとしても、向こう側にいけるわけじゃない。いけるのはその奥に実在する世界だ」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "桐島　七葵「この一枚の壁を破ったとしても、向こう側にいけるわけじゃない。いけるのはその奥に実在する世界だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "それに合わせ窓硝子が軽く振動する。",
+        "after": "鏡の向こう側。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "鏡の向こう側。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「この一枚の壁を破ったとしても、向こう側にいけるわけじゃない。いけるのはその奥に実在する世界だ」",
+        "after": "物語でもよくもう一つの世界と繋がっているなどと使われている。"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "物語でもよくもう一つの世界と繋がっているなどと使われている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鏡の向こう側。",
+        "after": "私は窓に手を置いた。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "私は窓に手を置いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "物語でもよくもう一つの世界と繋がっているなどと使われている。",
+        "after": "窓に映るのは、鏡と違い、輪郭もぼやけており、全ての色が水で薄めたように薄く、また仄暗かった。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "窓に映るのは、鏡と違い、輪郭もぼやけており、全ての色が水で薄めたように薄く、また仄暗かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は窓に手を置いた。",
+        "after": "それでも自分の姿を確認するくらいには問題なく、映し出したそれをまじまじと見つめた。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "それでも自分の姿を確認するくらいには問題なく、映し出したそれをまじまじと見つめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "窓に映るのは、鏡と違い、輪郭もぼやけており、全ての色が水で薄めたように薄く、また仄暗かった。",
+        "after": "黒い髪、黒い眸。その姿は私そのものだった。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "黒い髪、黒い眸。その姿は私そのものだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それでも自分の姿を確認するくらいには問題なく、映し出したそれをまじまじと見つめた。",
+        "after": "けれど、桐島先輩が言った通り、幻想が鏡に映った世界に似ているというのなら、私はいつから鏡に映った世界を現実のものだと思えなくなってしまったのだろう。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "けれど、桐島先輩が言った通り、幻想が鏡に映った世界に似ているというのなら、私はいつから鏡に映った世界を現実のものだと思えなくなってしまったのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "黒い髪、黒い眸。その姿は私そのものだった。",
+        "after": "遠野　紗夜「……何故、桐島先輩は最初から見えて、私は後から見えるようになったのでしょう」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "遠野　紗夜「……何故、桐島先輩は最初から見えて、私は後から見えるようになったのでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、桐島先輩が言った通り、幻想が鏡に映った世界に似ているというのなら、私はいつから鏡に映った世界を現実のものだと思えなくなってしまったのだろう。",
+        "after": "桐島　七葵「俺は外れ者だからな」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "桐島　七葵「俺は外れ者だからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何故、桐島先輩は最初から見えて、私は後から見えるようになったのでしょう」",
+        "after": "口を曲げ、苦々しく笑った。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "口を曲げ、苦々しく笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「俺は外れ者だからな」",
+        "after": "私にはその言葉の、仕草の意味が分からなかった。"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "私にはその言葉の、仕草の意味が分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口を曲げ、苦々しく笑った。",
+        "after": "桐島　七葵「まあ、さっきまでの発言は俺の戯言だと思って、無視してくれ。すまんな」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "桐島　七葵「まあ、さっきまでの発言は俺の戯言だと思って、無視してくれ。すまんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私にはその言葉の、仕草の意味が分からなかった。",
+        "after": "私は言いかけた言葉を呑んだ。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "私は言いかけた言葉を呑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「まあ、さっきまでの発言は俺の戯言だと思って、無視してくれ。すまんな」",
+        "after": "先輩から発せられる空気が、深く訊ねてはならないと言っているように思えたからだ。"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "先輩から発せられる空気が、深く訊ねてはならないと言っているように思えたからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は言いかけた言葉を呑んだ。",
+        "after": "桐島先輩は先程より一段と声を落とし、私に訊ねた。"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "桐島先輩は先程より一段と声を落とし、私に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "先輩から発せられる空気が、深く訊ねてはならないと言っているように思えたからだ。",
+        "after": "桐島　七葵「それで、さっきの話に戻るが、お前は結局どうするつもりなんだ？」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "桐島　七葵「それで、さっきの話に戻るが、お前は結局どうするつもりなんだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は先程より一段と声を落とし、私に訊ねた。",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それで、さっきの話に戻るが、お前は結局どうするつもりなんだ？」",
+        "after": "私は一度座り直し、少し間をあけた。"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "私は一度座り直し、少し間をあけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は一度座り直し、少し間をあけた。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "俯けた顔をあげ、ゆっくりと語る。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "俯けた顔をあげ、ゆっくりと語る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「……私が兄さんから話を聞いた時」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "遠野　紗夜「……私が兄さんから話を聞いた時」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "俯けた顔をあげ、ゆっくりと語る。",
+        "after": "遠野　紗夜「勿論、驚きや悲しみが私にいっぺんに襲いかかりました」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "遠野　紗夜「勿論、驚きや悲しみが私にいっぺんに襲いかかりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私が兄さんから話を聞いた時」",
+        "after": "遠野　紗夜「けれど、それは兄が人間ではないことにではなく、そのことを自分自身が認めてしまったことにショックを受けたのです」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「けれど、それは兄が人間ではないことにではなく、そのことを自分自身が認めてしまったことにショックを受けたのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「勿論、驚きや悲しみが私にいっぺんに襲いかかりました」",
+        "after": "遠野　紗夜「兄が語った話は、まるで物語のように不思議で、他人からすればきっと作り話だと笑うのでしょう」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "遠野　紗夜「兄が語った話は、まるで物語のように不思議で、他人からすればきっと作り話だと笑うのでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、それは兄が人間ではないことにではなく、そのことを自分自身が認めてしまったことにショックを受けたのです」",
+        "after": "遠野　紗夜「私も以前まではきっと信じなかった」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「私も以前まではきっと信じなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄が語った話は、まるで物語のように不思議で、他人からすればきっと作り話だと笑うのでしょう」",
+        "after": "遠野　紗夜「けれど、私は兄の言葉を信じた。信じることが出来たのです」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「けれど、私は兄の言葉を信じた。信じることが出来たのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も以前まではきっと信じなかった」",
+        "after": "遠野　紗夜「兄が死神で蒼が兄を殺そうとしたこと、その兄が蒼の記憶を奪ったこと……」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「兄が死神で蒼が兄を殺そうとしたこと、その兄が蒼の記憶を奪ったこと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、私は兄の言葉を信じた。信じることが出来たのです」",
+        "after": "遠野　紗夜「私は結局、あの『死神と少女』を目にした時から、兄が人間ではないと認めていたのです……」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "遠野　紗夜「私は結局、あの『死神と少女』を目にした時から、兄が人間ではないと認めていたのです……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄が死神で蒼が兄を殺そうとしたこと、その兄が蒼の記憶を奪ったこと……」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は結局、あの『死神と少女』を目にした時から、兄が人間ではないと認めていたのです……」",
+        "after": "遠野　紗夜「今なら分かります。桐島先輩の気持ちが」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "遠野　紗夜「今なら分かります。桐島先輩の気持ちが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「本当は、貴方は今も辛いのですね」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "遠野　紗夜「本当は、貴方は今も辛いのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今なら分かります。桐島先輩の気持ちが」",
+        "after": "遠野　紗夜「今もずっとあの人のことを忘れられずにいるのですね」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "遠野　紗夜「今もずっとあの人のことを忘れられずにいるのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当は、貴方は今も辛いのですね」",
+        "after": "遠野　紗夜「けれど、どうしても別れなければならなかった」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「けれど、どうしても別れなければならなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今もずっとあの人のことを忘れられずにいるのですね」",
+        "after": "そこまで言うと、桐島先輩は長い瞬きをした。"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "そこまで言うと、桐島先輩は長い瞬きをした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「けれど、どうしても別れなければならなかった」",
+        "after": "そして、"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "そして、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこまで言うと、桐島先輩は長い瞬きをした。",
+        "after": "桐島　七葵「ああ、そうだ。俺はそれが最善だと思っていたからな」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "桐島　七葵「ああ、そうだ。俺はそれが最善だと思っていたからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "そして、",
+        "after": "相変わらずの強い口調、強い視線だった。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "相変わらずの強い口調、強い視線だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「ああ、そうだ。俺はそれが最善だと思っていたからな」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "相変わらずの強い口調、強い視線だった。",
+        "after": "遠野　紗夜「何故……」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "遠野　紗夜「何故……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「何故、私を責めなかったのですか……？」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「何故、私を責めなかったのですか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故……」",
+        "after": "遠野　紗夜「千代さんが消えてしまったのは、私が彼の存在を否定してしまったからなのでしょう？」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "遠野　紗夜「千代さんが消えてしまったのは、私が彼の存在を否定してしまったからなのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故、私を責めなかったのですか……？」",
+        "after": "桐島　七葵「違う。俺が否定したからだ」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "桐島　七葵「違う。俺が否定したからだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さんが消えてしまったのは、私が彼の存在を否定してしまったからなのでしょう？」",
+        "after": "遠野　紗夜「…………っ」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "遠野　紗夜「…………っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「違う。俺が否定したからだ」",
+        "after": "私はがたんと音を立て、席を立った。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "私はがたんと音を立て、席を立った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………っ」",
+        "after": "唇を噛み、震え、上気した私を、桐島先輩は先程から変わらぬままの表情で見返した。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "唇を噛み、震え、上気した私を、桐島先輩は先程から変わらぬままの表情で見返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はがたんと音を立て、席を立った。",
+        "after": "桐島　七葵「……確かに、千代が最初に消え始めたのはお前が切っ掛けだったのかもしれん」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "桐島　七葵「……確かに、千代が最初に消え始めたのはお前が切っ掛けだったのかもしれん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "唇を噛み、震え、上気した私を、桐島先輩は先程から変わらぬままの表情で見返した。",
+        "after": "桐島　七葵「だが、俺はそのずっと前から考えていたんだ。いつかは別れなければいけないということを」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "桐島　七葵「だが、俺はそのずっと前から考えていたんだ。いつかは別れなければいけないということを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……確かに、千代が最初に消え始めたのはお前が切っ掛けだったのかもしれん」",
+        "after": "桐島　七葵「お前はただ悩む俺に一押ししたに過ぎん」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "桐島　七葵「お前はただ悩む俺に一押ししたに過ぎん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「だが、俺はそのずっと前から考えていたんだ。いつかは別れなければいけないということを」",
+        "after": "桐島　七葵「遠野。お前、本当はもう決めているんだろう？」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "桐島　七葵「遠野。お前、本当はもう決めているんだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お前はただ悩む俺に一押ししたに過ぎん」",
+        "after": "桐島　七葵「お前は、ただ聞いて欲しかったんだな」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "桐島　七葵「お前は、ただ聞いて欲しかったんだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「遠野。お前、本当はもう決めているんだろう？」",
+        "after": "私はその言葉に両手で顔を覆った。"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "私はその言葉に両手で顔を覆った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「お前は、ただ聞いて欲しかったんだな」",
+        "after": "桐島先輩の言う通りだ。"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "桐島先輩の言う通りだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はその言葉に両手で顔を覆った。",
+        "after": "私はもうとっくに答えを出していた。"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "私はもうとっくに答えを出していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩の言う通りだ。",
+        "after": "私は誰かの一押しが欲しかった。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "私は誰かの一押しが欲しかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はもうとっくに答えを出していた。",
+        "after": "桐島　七葵「俺はお前の答えには「はい」「いいえ」も言わん。何が正しいのか正しくないのかも」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "桐島　七葵「俺はお前の答えには「はい」「いいえ」も言わん。何が正しいのか正しくないのかも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私は誰かの一押しが欲しかった。",
+        "after": "桐島　七葵「聞いてやる。お前がそう望むならな」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "桐島　七葵「聞いてやる。お前がそう望むならな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「俺はお前の答えには「はい」「いいえ」も言わん。何が正しいのか正しくないのかも」",
+        "after": "遠野　紗夜「桐島先輩。私は…………」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "遠野　紗夜「桐島先輩。私は…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「聞いてやる。お前がそう望むならな」",
+        "after": "私は桐島先輩に全てを打ち明けた。"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "私は桐島先輩に全てを打ち明けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「桐島先輩。私は…………」",
+        "after": "私の今の気持ちを、これからどうするつもりなのかを。"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "私の今の気持ちを、これからどうするつもりなのかを。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は桐島先輩に全てを打ち明けた。",
+        "after": "桐島先輩は言葉通り、肯定も否定もしなかった。"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "桐島先輩は言葉通り、肯定も否定もしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の今の気持ちを、これからどうするつもりなのかを。",
+        "after": null
+      }
+    }
+  ]
+}

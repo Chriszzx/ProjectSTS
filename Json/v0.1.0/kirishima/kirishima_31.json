@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_31.txt",
+    "chapter": "kirishima",
+    "total_lines": 33,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「……すみません。送って頂いてしまって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "おまけに鞄まで持たせてしまった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "おまけに鞄まで持たせてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……すみません。送って頂いてしまって」",
+        "after": "桐島　七葵「別に気にするな。お前を送り届けなきゃ宮沢も煩いしな」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "桐島　七葵「別に気にするな。お前を送り届けなきゃ宮沢も煩いしな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "おまけに鞄まで持たせてしまった。",
+        "after": "遠野　紗夜「ですが、先輩は私の家とは反対方向にあるのでしょう？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「ですが、先輩は私の家とは反対方向にあるのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「別に気にするな。お前を送り届けなきゃ宮沢も煩いしな」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、先輩は私の家とは反対方向にあるのでしょう？」",
+        "after": "桐島先輩は押し黙る。やはり、図星だったようだ。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島先輩は押し黙る。やはり、図星だったようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「今日初めて知りました。毎回そのことに気付かずに送って頂いてしまっていただなんて……」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「今日初めて知りました。毎回そのことに気付かずに送って頂いてしまっていただなんて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は押し黙る。やはり、図星だったようだ。",
+        "after": "桐島　七葵「気にするな。いい運動だ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "桐島　七葵「気にするな。いい運動だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今日初めて知りました。毎回そのことに気付かずに送って頂いてしまっていただなんて……」",
+        "after": "遠野　紗夜「千代さんのことも私が言い出したことなのに、このようなことになってしまいました」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「千代さんのことも私が言い出したことなのに、このようなことになってしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「気にするな。いい運動だ」",
+        "after": "桐島　七葵「それも気にするな。第一、お前がいる必要もないだろ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "桐島　七葵「それも気にするな。第一、お前がいる必要もないだろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さんのことも私が言い出したことなのに、このようなことになってしまいました」",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それも気にするな。第一、お前がいる必要もないだろ」",
+        "after": "桐島　七葵「そんな顔するな。別にお前が邪魔だって言ってるわけじゃないぞ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "桐島　七葵「そんな顔するな。別にお前が邪魔だって言ってるわけじゃないぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そんな顔するな。別にお前が邪魔だって言ってるわけじゃないぞ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "何だか、それ以上語ることもなく、お互いに黙ってしまった。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "何だか、それ以上語ることもなく、お互いに黙ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "しばらくして、桐島先輩は私の前髪をくしゅっと一撫する。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "しばらくして、桐島先輩は私の前髪をくしゅっと一撫する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか、それ以上語ることもなく、お互いに黙ってしまった。",
+        "after": "桐島　七葵「……ぐしゃぐしゃだな」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "桐島　七葵「……ぐしゃぐしゃだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "しばらくして、桐島先輩は私の前髪をくしゅっと一撫する。",
+        "after": "私を見て笑う。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私を見て笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……ぐしゃぐしゃだな」",
+        "after": "遠野　紗夜「あの……？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「あの……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私を見て笑う。",
+        "after": "桐島　七葵「……あー……いや、まあ、何でもない……。気にするな」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "桐島　七葵「……あー……いや、まあ、何でもない……。気にするな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの……？」",
+        "after": "遠野　紗夜「はあ……」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「はあ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……あー……いや、まあ、何でもない……。気にするな」",
+        "after": "桐島　七葵「返事は……」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「返事は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はあ……」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「返事は……」",
+        "after": "桐島　七葵「それでいい。まあ、今日はゆっくりと休め。千代のことは大丈夫だ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "桐島　七葵「それでいい。まあ、今日はゆっくりと休め。千代のことは大丈夫だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「はい。ありがとうございます」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「はい。ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それでいい。まあ、今日はゆっくりと休め。千代のことは大丈夫だ」",
+        "after": "頷くと、先輩は来た道を戻っていく。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "頷くと、先輩は来た道を戻っていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。ありがとうございます」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "頷くと、先輩は来た道を戻っていく。",
+        "after": "今日は何度も頭を撫でられた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "今日は何度も頭を撫でられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "自分でも撫でてみる。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "自分でも撫でてみる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今日は何度も頭を撫でられた。",
+        "after": "違う。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも撫でてみる。",
+        "after": "全然違う。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "全然違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違う。",
+        "after": "一人では温かくない。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "一人では温かくない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全然違う。",
+        "after": null
+      }
+    }
+  ]
+}

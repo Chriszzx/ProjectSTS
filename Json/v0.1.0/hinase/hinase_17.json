@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "file": "hinase/hinase_17.txt",
+    "chapter": "hinase",
+    "total_lines": 27,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "あの日からというもの、私は常に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "光さんの傍にいるようになった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "光さんの傍にいるようになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの日からというもの、私は常に",
+        "after": "光さんは毎朝私を迎えに来てくれて、"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "光さんは毎朝私を迎えに来てくれて、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "光さんの傍にいるようになった。",
+        "after": "夜は時間が許す限り二人一緒に過ごした。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "夜は時間が許す限り二人一緒に過ごした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "光さんは毎朝私を迎えに来てくれて、",
+        "after": "一人でいると不安で、"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "一人でいると不安で、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夜は時間が許す限り二人一緒に過ごした。",
+        "after": "片時だって離れたくなかった。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "片時だって離れたくなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一人でいると不安で、",
+        "after": "最初、光さんに好きだと告白された"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "最初、光さんに好きだと告白された",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "片時だって離れたくなかった。",
+        "after": "時には感じなかった思いだった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "時には感じなかった思いだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初、光さんに好きだと告白された",
+        "after": "自分でも現金だと思うけれど、"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "自分でも現金だと思うけれど、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時には感じなかった思いだった。",
+        "after": "あの日、光さんに自分の存在を認めてもらった瞬間から、"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "あの日、光さんに自分の存在を認めてもらった瞬間から、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも現金だと思うけれど、",
+        "after": "私は彼に夢中になった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "私は彼に夢中になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの日、光さんに自分の存在を認めてもらった瞬間から、",
+        "after": "遠野　紗夜「はい、どうぞ。光さん」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「はい、どうぞ。光さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼に夢中になった。",
+        "after": "私は食後にと、水筒に淹れた紅茶をカップに入れ手渡した。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私は食後にと、水筒に淹れた紅茶をカップに入れ手渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい、どうぞ。光さん」",
+        "after": "日生　光「ありがとう」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「ありがとう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は食後にと、水筒に淹れた紅茶をカップに入れ手渡した。",
+        "after": "光さんはにこりと笑ってそれを受け取る。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "光さんはにこりと笑ってそれを受け取る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ありがとう」",
+        "after": "手が触れあい、照れながら笑う。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "手が触れあい、照れながら笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "光さんはにこりと笑ってそれを受け取る。",
+        "after": "桐島　七葵「何だか……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "桐島　七葵「何だか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "手が触れあい、照れながら笑う。",
+        "after": "夏目　悠希「うぜー」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "夏目　悠希「うぜー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「何だか……」",
+        "after": "宮沢　夏帆「うう～……」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「うう～……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「うぜー」",
+        "after": "桐島　七葵「一人、撃沈してるぞ。いいのか、あれは……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "桐島　七葵「一人、撃沈してるぞ。いいのか、あれは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「うう～……」",
+        "after": "夏目　悠希「放っておきゃいいんですよ。見たくなけりゃ、一緒にいなけりゃいいんですから」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "夏目　悠希「放っておきゃいいんですよ。見たくなけりゃ、一緒にいなけりゃいいんですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「一人、撃沈してるぞ。いいのか、あれは……」",
+        "after": "桐島　七葵「それはそうだが……まあ少し可哀想な気もするけどな。何せ、あんなに仲が良かった友達が取られたんだから」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "桐島　七葵「それはそうだが……まあ少し可哀想な気もするけどな。何せ、あんなに仲が良かった友達が取られたんだから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「放っておきゃいいんですよ。見たくなけりゃ、一緒にいなけりゃいいんですから」",
+        "after": "桐島　七葵「まあ、諦めて素直に祝福したら良いんじゃないか？　親友だろう」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「まあ、諦めて素直に祝福したら良いんじゃないか？　親友だろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それはそうだが……まあ少し可哀想な気もするけどな。何せ、あんなに仲が良かった友達が取られたんだから」",
+        "after": "宮沢　夏帆「ぶー……。そりゃあさ、紗夜ちゃんの幸せは何よりだと思うけどぉ～」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "宮沢　夏帆「ぶー……。そりゃあさ、紗夜ちゃんの幸せは何よりだと思うけどぉ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「まあ、諦めて素直に祝福したら良いんじゃないか？　親友だろう」",
+        "after": "宮沢　夏帆「気に入らないもんはやっぱ気に入らないよね！」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "宮沢　夏帆「気に入らないもんはやっぱ気に入らないよね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ぶー……。そりゃあさ、紗夜ちゃんの幸せは何よりだと思うけどぉ～」",
+        "after": "夏目　悠希「ハッキリ言うな」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "夏目　悠希「ハッキリ言うな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「気に入らないもんはやっぱ気に入らないよね！」",
+        "after": "宮沢　夏帆「…………ふーんだ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "宮沢　夏帆「…………ふーんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ハッキリ言うな」",
+        "after": null
+      }
+    }
+  ]
+}

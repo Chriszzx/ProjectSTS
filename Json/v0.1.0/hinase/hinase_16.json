@@ -1,0 +1,752 @@
+{
+  "meta": {
+    "file": "hinase/hinase_16.txt",
+    "chapter": "hinase",
+    "total_lines": 41,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………ん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "目が覚めると、そこは私の部屋だった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "目が覚めると、そこは私の部屋だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………ん」",
+        "after": "……頭が重い。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "……頭が重い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目が覚めると、そこは私の部屋だった。",
+        "after": "ああ、そうか。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ああ、そうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "……頭が重い。",
+        "after": "昨日、私は日生先輩に家まで送ってもらったのだった。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "昨日、私は日生先輩に家まで送ってもらったのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、そうか。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "昨日、私は日生先輩に家まで送ってもらったのだった。",
+        "after": "子供のように泣きじゃくる私を連れて。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "子供のように泣きじゃくる私を連れて。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "恥ずかしい。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "恥ずかしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "子供のように泣きじゃくる私を連れて。",
+        "after": "思わず、顔を手で覆う。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "思わず、顔を手で覆う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "恥ずかしい。",
+        "after": "けれど…………。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "けれど…………。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思わず、顔を手で覆う。",
+        "after": "日生　光「だ。他の誰でもない遠野だ』日生　光だ。他の誰でもない遠野だ』"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "日生　光「だ。他の誰でもない遠野だ』日生　光だ。他の誰でもない遠野だ』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど…………。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だ。他の誰でもない遠野だ』日生　光だ。他の誰でもない遠野だ』",
+        "after": "外に出ると、日生先輩が玄関で待ちかまえていた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "外に出ると、日生先輩が玄関で待ちかまえていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「おはよう」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「おはよう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "外に出ると、日生先輩が玄関で待ちかまえていた。",
+        "after": "遠野　紗夜「おはようございます」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「おはようございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「おはよう」",
+        "after": "日生　光「昨日はよく寝れた？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "日生　光「昨日はよく寝れた？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「おはようございます」",
+        "after": "遠野　紗夜「はい……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「昨日はよく寝れた？」",
+        "after": "私は気まずさと気恥ずかしさで目を合わせられなくて、俯いた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私は気まずさと気恥ずかしさで目を合わせられなくて、俯いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい……」",
+        "after": "けれど、それでは駄目だと頭を振り、勢いよく声を出す。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "けれど、それでは駄目だと頭を振り、勢いよく声を出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は気まずさと気恥ずかしさで目を合わせられなくて、俯いた。",
+        "after": "遠野　紗夜「あの……！　昨日は……すみませんでした。色々と」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「あの……！　昨日は……すみませんでした。色々と」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、それでは駄目だと頭を振り、勢いよく声を出す。",
+        "after": "遠野　紗夜「お恥ずかしいところもお見せしてしまったし……」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「お恥ずかしいところもお見せしてしまったし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの……！　昨日は……すみませんでした。色々と」",
+        "after": "次第に小さくなる声。彼はそんな私に対し、くすりと笑う。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "次第に小さくなる声。彼はそんな私に対し、くすりと笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お恥ずかしいところもお見せしてしまったし……」",
+        "after": "日生　光「目、赤くなってないね」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "日生　光「目、赤くなってないね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "次第に小さくなる声。彼はそんな私に対し、くすりと笑う。",
+        "after": "私の瞼に触れる。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "私の瞼に触れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「目、赤くなってないね」",
+        "after": "遠野　紗夜「ええ……。……日生先輩のおかげです」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「ええ……。……日生先輩のおかげです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の瞼に触れる。",
+        "after": "日生　光「あれ、戻っちゃった。折角、名前で呼んでもらったと思ったのに」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "日生　光「あれ、戻っちゃった。折角、名前で呼んでもらったと思ったのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ……。……日生先輩のおかげです」",
+        "after": "遠野　紗夜「……嫌ではありませんか？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「……嫌ではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あれ、戻っちゃった。折角、名前で呼んでもらったと思ったのに」",
+        "after": "日生　光「何で？　むしろ大歓迎」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "日生　光「何で？　むしろ大歓迎」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……嫌ではありませんか？」",
+        "after": "遠野　紗夜「…………光さん」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「…………光さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「何で？　むしろ大歓迎」",
+        "after": "日生　光「はい」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "日生　光「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………光さん」",
+        "after": "自分でも赤くなっているのが分かる。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "自分でも赤くなっているのが分かる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はい」",
+        "after": "私は頬を両手で包み隠した。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "私は頬を両手で包み隠した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも赤くなっているのが分かる。",
+        "after": "遠野　紗夜「…………何だか、名前を呼ぶというのは照れますね」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「…………何だか、名前を呼ぶというのは照れますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は頬を両手で包み隠した。",
+        "after": "日生　光「可愛いなぁ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「可愛いなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………何だか、名前を呼ぶというのは照れますね」",
+        "after": "遠野　紗夜「……わざとですか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「……わざとですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「可愛いなぁ」",
+        "after": "日生　光「まさか。心よりの本音を言ったまでですよ」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生　光「まさか。心よりの本音を言ったまでですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……わざとですか？」",
+        "after": "そう言って、彼はウィンクする。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "そう言って、彼はウィンクする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「まさか。心よりの本音を言ったまでですよ」",
+        "after": "この人には敵わない。本気でそう思った。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "この人には敵わない。本気でそう思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、彼はウィンクする。",
+        "after": "遠野　紗夜「……光さん。昨日はありがとうございました」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「……光さん。昨日はありがとうございました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "この人には敵わない。本気でそう思った。",
+        "after": "日生　光「どういたしまして」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "日生　光「どういたしまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……光さん。昨日はありがとうございました」",
+        "after": "光さんは私を抱き寄せると額に口づけた。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "光さんは私を抱き寄せると額に口づけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「どういたしまして」",
+        "after": null
+      }
+    }
+  ]
+}

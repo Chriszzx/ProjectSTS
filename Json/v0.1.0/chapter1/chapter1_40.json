@@ -1,0 +1,2729 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_40.txt",
+    "chapter": "chapter1",
+    "total_lines": 151,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "蒼「お前はともゑに何も言わないのだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "彼女が完全にいなくなった後、蒼が私に言った。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "彼女が完全にいなくなった後、蒼が私に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「お前はともゑに何も言わないのだな」",
+        "after": "彼が私のことをどう思っているのかは分からない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "彼が私のことをどう思っているのかは分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女が完全にいなくなった後、蒼が私に言った。",
+        "after": "けれど、少なくとも彼は私が彼女の話を聞いて、何らかの反応をするとは思っていたようだ。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "けれど、少なくとも彼は私が彼女の話を聞いて、何らかの反応をするとは思っていたようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が私のことをどう思っているのかは分からない。",
+        "after": "私は蒼の顔を見ることなく、言葉を返した。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私は蒼の顔を見ることなく、言葉を返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、少なくとも彼は私が彼女の話を聞いて、何らかの反応をするとは思っていたようだ。",
+        "after": "遠野　紗夜「私が彼女に同情をするとでも思いましたか？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「私が彼女に同情をするとでも思いましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は蒼の顔を見ることなく、言葉を返した。",
+        "after": "蒼は何も答えなかった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼は何も答えなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私が彼女に同情をするとでも思いましたか？」",
+        "after": "私は構わず、私が聞いた話を蒼にもかいつまんで話すことにした。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "私は構わず、私が聞いた話を蒼にもかいつまんで話すことにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼は何も答えなかった。",
+        "after": "遠野　紗夜「聞いてしまったのです。私の学校の司書官がともゑさんと同級生だったということは貴方もご存じの通りでしょう？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「聞いてしまったのです。私の学校の司書官がともゑさんと同級生だったということは貴方もご存じの通りでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は構わず、私が聞いた話を蒼にもかいつまんで話すことにした。",
+        "after": "遠野　紗夜「どうやら、ともゑさんはご自分の担任教師と駆け落ちをしようとして、裏切られたようです」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「どうやら、ともゑさんはご自分の担任教師と駆け落ちをしようとして、裏切られたようです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「聞いてしまったのです。私の学校の司書官がともゑさんと同級生だったということは貴方もご存じの通りでしょう？」",
+        "after": "遠野　紗夜「そこまで聞けば、単純に可哀想な彼女の物語ですが、その担任教師には婚約者がいたそうです」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「そこまで聞けば、単純に可哀想な彼女の物語ですが、その担任教師には婚約者がいたそうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうやら、ともゑさんはご自分の担任教師と駆け落ちをしようとして、裏切られたようです」",
+        "after": "遠野　紗夜「つまり、浮気をしていたということです」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「つまり、浮気をしていたということです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そこまで聞けば、単純に可哀想な彼女の物語ですが、その担任教師には婚約者がいたそうです」",
+        "after": "遠野　紗夜「ともゑさんは、先生に婚約者がいたことは知らなかったかもしれない」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「ともゑさんは、先生に婚約者がいたことは知らなかったかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「つまり、浮気をしていたということです」",
+        "after": "遠野　紗夜「知らなかったのなら、ともゑさんは騙され、浮気という汚らわしい行為をされた挙げ句に捨てられた可能性もあるのでしょう」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「知らなかったのなら、ともゑさんは騙され、浮気という汚らわしい行為をされた挙げ句に捨てられた可能性もあるのでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんは、先生に婚約者がいたことは知らなかったかもしれない」",
+        "after": "遠野　紗夜「ですが、私はやはり彼女に同情出来ません。結果としてともゑさんは一人の女性から担任教師を奪ったのですから」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「ですが、私はやはり彼女に同情出来ません。結果としてともゑさんは一人の女性から担任教師を奪ったのですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「知らなかったのなら、ともゑさんは騙され、浮気という汚らわしい行為をされた挙げ句に捨てられた可能性もあるのでしょう」",
+        "after": "遠野　紗夜「誰かのものを奪うだなんて、汚らわしい」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「誰かのものを奪うだなんて、汚らわしい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、私はやはり彼女に同情出来ません。結果としてともゑさんは一人の女性から担任教師を奪ったのですから」",
+        "after": "私は吐き捨てるように言った。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私は吐き捨てるように言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「誰かのものを奪うだなんて、汚らわしい」",
+        "after": "司書官の話を聞いていて、途中芽生えた黒い感情とは、つまり嫌悪感のことだった。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "司書官の話を聞いていて、途中芽生えた黒い感情とは、つまり嫌悪感のことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は吐き捨てるように言った。",
+        "after": "私はずっとともゑさんは被害者だと思い込んでいた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私はずっとともゑさんは被害者だと思い込んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書官の話を聞いていて、途中芽生えた黒い感情とは、つまり嫌悪感のことだった。",
+        "after": "記憶を失った可哀想な人だと。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "記憶を失った可哀想な人だと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はずっとともゑさんは被害者だと思い込んでいた。",
+        "after": "けれど、それは違った。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "けれど、それは違った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "記憶を失った可哀想な人だと。",
+        "after": "彼女は故意にしろ、そうではないにしろ、婚約者という既に決まった立場がいる人を愛して、そして奪ったのだ。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "彼女は故意にしろ、そうではないにしろ、婚約者という既に決まった立場がいる人を愛して、そして奪ったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、それは違った。",
+        "after": "遠野　紗夜「同情をするのなら、ともゑさんより、その先生の婚約者という方です」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「同情をするのなら、ともゑさんより、その先生の婚約者という方です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女は故意にしろ、そうではないにしろ、婚約者という既に決まった立場がいる人を愛して、そして奪ったのだ。",
+        "after": "幾つか話を聞いているうちに出てきた婚約者。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "幾つか話を聞いているうちに出てきた婚約者。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「同情をするのなら、ともゑさんより、その先生の婚約者という方です」",
+        "after": "彼女の方こそ、本当の被害者だと思う。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "彼女の方こそ、本当の被害者だと思う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "幾つか話を聞いているうちに出てきた婚約者。",
+        "after": "婚約者は何も悪くはない。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "婚約者は何も悪くはない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の方こそ、本当の被害者だと思う。",
+        "after": "ただ、愛してもらえなかっただけだというのに。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "ただ、愛してもらえなかっただけだというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "婚約者は何も悪くはない。",
+        "after": "蒼「だからといって、何故お前がそこまで怒りを感じる必要がある？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「だからといって、何故お前がそこまで怒りを感じる必要がある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ただ、愛してもらえなかっただけだというのに。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だからといって、何故お前がそこまで怒りを感じる必要がある？」",
+        "after": "私は彼の言葉に答えることを拒否した。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "私は彼の言葉に答えることを拒否した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「私はそれより、彼女が突然自らの身の上を話し出したことが気になりました」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「私はそれより、彼女が突然自らの身の上を話し出したことが気になりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼の言葉に答えることを拒否した。",
+        "after": "遠野　紗夜「記憶を思い出したと言っていましたが、貴方は彼女と何を話していたのですか？」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「記憶を思い出したと言っていましたが、貴方は彼女と何を話していたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私はそれより、彼女が突然自らの身の上を話し出したことが気になりました」",
+        "after": "蒼は何か言いたげに私を見つめたけれど、一度目を閉じ、改めて口を開いた。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼は何か言いたげに私を見つめたけれど、一度目を閉じ、改めて口を開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「記憶を思い出したと言っていましたが、貴方は彼女と何を話していたのですか？」",
+        "after": "蒼「大したことはない。私がここで呆然としているともゑを見つけ、声をかけたのだ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「大したことはない。私がここで呆然としているともゑを見つけ、声をかけたのだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼は何か言いたげに私を見つめたけれど、一度目を閉じ、改めて口を開いた。",
+        "after": "蒼「その時には既に彼女は記憶を思い出していたようだ。私に気付くまで、何やらぶつぶつと呟いていた」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「その時には既に彼女は記憶を思い出していたようだ。私に気付くまで、何やらぶつぶつと呟いていた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「大したことはない。私がここで呆然としているともゑを見つけ、声をかけたのだ」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「その時には既に彼女は記憶を思い出していたようだ。私に気付くまで、何やらぶつぶつと呟いていた」",
+        "after": "ともゑさんはどうやってここに来たのだろう？　そんな考えが頭を過ぎった。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "ともゑさんはどうやってここに来たのだろう？　そんな考えが頭を過ぎった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "ともゑさん以外に関係者、彼女の姉の姿もなかった。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "ともゑさん以外に関係者、彼女の姉の姿もなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんはどうやってここに来たのだろう？　そんな考えが頭を過ぎった。",
+        "after": "彼女は見るからに不安定だった。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "彼女は見るからに不安定だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさん以外に関係者、彼女の姉の姿もなかった。",
+        "after": "そんな人を放っておくことがあるだろうか？"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "そんな人を放っておくことがあるだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は見るからに不安定だった。",
+        "after": "以前話したともゑさんの姉の反応を見る限り、それはあまり考えられない。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "以前話したともゑさんの姉の反応を見る限り、それはあまり考えられない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんな人を放っておくことがあるだろうか？",
+        "after": "一番近い可能性としては、抜け出してきた、ということなのだろう。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "一番近い可能性としては、抜け出してきた、ということなのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "以前話したともゑさんの姉の反応を見る限り、それはあまり考えられない。",
+        "after": "初めて出会った時も彼女は病院を抜け出していた。もしかしたら、今までの全てがそうだったかもしれない。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "初めて出会った時も彼女は病院を抜け出していた。もしかしたら、今までの全てがそうだったかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一番近い可能性としては、抜け出してきた、ということなのだろう。",
+        "after": "蒼「お前のことを聞かれた。お前はどこにいるのか、私はここでお前を待っているのかと」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "蒼「お前のことを聞かれた。お前はどこにいるのか、私はここでお前を待っているのかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "初めて出会った時も彼女は病院を抜け出していた。もしかしたら、今までの全てがそうだったかもしれない。",
+        "after": "遠野　紗夜「……どうして、私のことを？」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「……どうして、私のことを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前のことを聞かれた。お前はどこにいるのか、私はここでお前を待っているのかと」",
+        "after": "先程のことにしてもそうだった。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "先程のことにしてもそうだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……どうして、私のことを？」",
+        "after": "彼女は話している間、私だけを見ていた。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "彼女は話している間、私だけを見ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "先程のことにしてもそうだった。",
+        "after": "すぐ隣にいるはずの蒼には視線さえ送らなかった。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "すぐ隣にいるはずの蒼には視線さえ送らなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は話している間、私だけを見ていた。",
+        "after": "蒼「私に分かるはずがないだろう」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "蒼「私に分かるはずがないだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "すぐ隣にいるはずの蒼には視線さえ送らなかった。",
+        "after": "遠野　紗夜「そうですよね」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　紗夜「そうですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私に分かるはずがないだろう」",
+        "after": "苦笑して見せるけれど、蒼は全く表情を変えない。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "苦笑して見せるけれど、蒼は全く表情を変えない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですよね」",
+        "after": "私は笑うのを止めると、今度は彼の右手に注目した。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "私は笑うのを止めると、今度は彼の右手に注目した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "苦笑して見せるけれど、蒼は全く表情を変えない。",
+        "after": "彼は私の視線に気付いたようで、本を持ち上げて、私が表紙を見やすいようにしてくれた。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "彼は私の視線に気付いたようで、本を持ち上げて、私が表紙を見やすいようにしてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は笑うのを止めると、今度は彼の右手に注目した。",
+        "after": "蒼色の表紙の本。遠野十夜の本。『籠の鳥』。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "蒼色の表紙の本。遠野十夜の本。『籠の鳥』。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は私の視線に気付いたようで、本を持ち上げて、私が表紙を見やすいようにしてくれた。",
+        "after": "遠野　紗夜「……お好きですね？」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「……お好きですね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼色の表紙の本。遠野十夜の本。『籠の鳥』。",
+        "after": "そう言うと、彼はそれを微妙に否定した。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "そう言うと、彼はそれを微妙に否定した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……お好きですね？」",
+        "after": "蒼「ただ、気になるだけだ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "蒼「ただ、気になるだけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、彼はそれを微妙に否定した。",
+        "after": "遠野　紗夜「気になる？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「気になる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ただ、気になるだけだ」",
+        "after": "蒼「この物語に本当に続きがないのかどうかだ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "蒼「この物語に本当に続きがないのかどうかだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「気になる？」",
+        "after": "この物語の続き。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "この物語の続き。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「この物語に本当に続きがないのかどうかだ」",
+        "after": "籠の中に囚われた鳥のお話。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "籠の中に囚われた鳥のお話。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この物語の続き。",
+        "after": "鳥は結局、最後まで囚われたままだったのか、それとも鳥は約束を果たしたのか。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "鳥は結局、最後まで囚われたままだったのか、それとも鳥は約束を果たしたのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "籠の中に囚われた鳥のお話。",
+        "after": "この本だけでは、答えを求めることは出来ない。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "この本だけでは、答えを求めることは出来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鳥は結局、最後まで囚われたままだったのか、それとも鳥は約束を果たしたのか。",
+        "after": "その時、この物語の内容を思い出すと同時に、今まで抱いていた疑問が泡のように弾け飛んだ。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "その時、この物語の内容を思い出すと同時に、今まで抱いていた疑問が泡のように弾け飛んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この本だけでは、答えを求めることは出来ない。",
+        "after": "遠野　紗夜「……ここで話すのもなんですし、移動しません？」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「……ここで話すのもなんですし、移動しません？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その時、この物語の内容を思い出すと同時に、今まで抱いていた疑問が泡のように弾け飛んだ。",
+        "after": "私が誘うと、彼は頷いた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "私が誘うと、彼は頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ここで話すのもなんですし、移動しません？」",
+        "after": "遠野　紗夜「……ふふっ」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「……ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私が誘うと、彼は頷いた。",
+        "after": "私は歩きすがら思わず声に出して笑ってしまった。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "私は歩きすがら思わず声に出して笑ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ふふっ」",
+        "after": "蒼「何故、笑う？」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "蒼「何故、笑う？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は歩きすがら思わず声に出して笑ってしまった。",
+        "after": "遠野　紗夜「貴方のおかげで、私が何故、こんなにも彼女のことが気になるのか一つ分かったような気がします」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「貴方のおかげで、私が何故、こんなにも彼女のことが気になるのか一つ分かったような気がします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、笑う？」",
+        "after": "遠野　紗夜「籠に囚われた鳥のお話。『籠の鳥』」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "遠野　紗夜「籠に囚われた鳥のお話。『籠の鳥』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方のおかげで、私が何故、こんなにも彼女のことが気になるのか一つ分かったような気がします」",
+        "after": "遠野　紗夜「彼女は籠の鳥に似ていると思ったのです」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「彼女は籠の鳥に似ていると思ったのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「籠に囚われた鳥のお話。『籠の鳥』」",
+        "after": "ここに、一羽の籠の鳥がおりました。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "ここに、一羽の籠の鳥がおりました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「彼女は籠の鳥に似ていると思ったのです」",
+        "after": "何の変哲もない鳥でした。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "何の変哲もない鳥でした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ここに、一羽の籠の鳥がおりました。",
+        "after": "他と比べて特別美しいわけでも、"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "他と比べて特別美しいわけでも、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何の変哲もない鳥でした。",
+        "after": "鳴き声が甲高いわけでもないただの鳥でした。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "鳴き声が甲高いわけでもないただの鳥でした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "他と比べて特別美しいわけでも、",
+        "after": "籠の鳥はよくおなきになります。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "籠の鳥はよくおなきになります。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "鳴き声が甲高いわけでもないただの鳥でした。",
+        "after": "遠野　紗夜「籠の外に出たい」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「籠の外に出たい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "籠の鳥はよくおなきになります。",
+        "after": "籠の鳥の口癖でした。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "籠の鳥の口癖でした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「籠の外に出たい」",
+        "after": "すぐ目の前には広い青空が広がっているのに、"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "すぐ目の前には広い青空が広がっているのに、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "籠の鳥の口癖でした。",
+        "after": "格子が邪魔をして、そこに行けないどころか、"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "格子が邪魔をして、そこに行けないどころか、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すぐ目の前には広い青空が広がっているのに、",
+        "after": "籠の鳥にとっては、自分が見える世界の全てに"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "籠の鳥にとっては、自分が見える世界の全てに",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "格子が邪魔をして、そこに行けないどころか、",
+        "after": "みにくい縦の線が引かれていたのです。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "みにくい縦の線が引かれていたのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "籠の鳥にとっては、自分が見える世界の全てに",
+        "after": "ですから、鳥は籠の格子のない世界、"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "ですから、鳥は籠の格子のない世界、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "みにくい縦の線が引かれていたのです。",
+        "after": "つまりは外の世界に憧れていたのでした。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "つまりは外の世界に憧れていたのでした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ですから、鳥は籠の格子のない世界、",
+        "after": "ある日、いつものように籠の鳥がないていると、"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "ある日、いつものように籠の鳥がないていると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "つまりは外の世界に憧れていたのでした。",
+        "after": "近くに一羽の鳥がやって参りました。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "近くに一羽の鳥がやって参りました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ある日、いつものように籠の鳥がないていると、",
+        "after": "籠の鳥は自分と同じ鳥にこう言いました。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "籠の鳥は自分と同じ鳥にこう言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "近くに一羽の鳥がやって参りました。",
+        "after": "遠野　紗夜「私は生まれてすぐに籠の中に囲われて育ち、"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "遠野　紗夜「私は生まれてすぐに籠の中に囲われて育ち、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "籠の鳥は自分と同じ鳥にこう言いました。",
+        "after": "今の主人の下に買われていきました。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "今の主人の下に買われていきました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私は生まれてすぐに籠の中に囲われて育ち、",
+        "after": "ですから、私は籠の外がどんなところか知りません。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "ですから、私は籠の外がどんなところか知りません。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今の主人の下に買われていきました。",
+        "after": "良ければ貴方、教えて頂けませんか？」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "良ければ貴方、教えて頂けませんか？」",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ですから、私は籠の外がどんなところか知りません。",
+        "after": "遠野　紗夜「籠の鳥……『私は外に出たい』とないていた」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「籠の鳥……『私は外に出たい』とないていた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "良ければ貴方、教えて頂けませんか？」",
+        "after": "遠野　紗夜「そこに現れた籠の外の鳥。鳥は籠の鳥に『貴方を助ける』といった」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　紗夜「そこに現れた籠の外の鳥。鳥は籠の鳥に『貴方を助ける』といった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「籠の鳥……『私は外に出たい』とないていた」",
+        "after": "遠野　紗夜「けれど、結局鳥は来なかった。きっと、籠の鳥は裏切られたのです」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「けれど、結局鳥は来なかった。きっと、籠の鳥は裏切られたのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そこに現れた籠の外の鳥。鳥は籠の鳥に『貴方を助ける』といった」",
+        "after": "遠野　紗夜「それは、教師と駆け落ちの約束をして裏切られた、ともゑさんの話に似ていませんか？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "遠野　紗夜「それは、教師と駆け落ちの約束をして裏切られた、ともゑさんの話に似ていませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、結局鳥は来なかった。きっと、籠の鳥は裏切られたのです」",
+        "after": "蒼「確かに、先程お前が話したともゑの境遇と籠の鳥の話は似ているな」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "蒼「確かに、先程お前が話したともゑの境遇と籠の鳥の話は似ているな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは、教師と駆け落ちの約束をして裏切られた、ともゑさんの話に似ていませんか？」",
+        "after": "遠野　紗夜「でしょう？」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "遠野　紗夜「でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「確かに、先程お前が話したともゑの境遇と籠の鳥の話は似ているな」",
+        "after": "私は得意げになって言った。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "私は得意げになって言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「でしょう？」",
+        "after": "蒼「だが、お前の意見には概ね賛同するが、異論もある」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "蒼「だが、お前の意見には概ね賛同するが、異論もある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は得意げになって言った。",
+        "after": "遠野　紗夜「それは？」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "遠野　紗夜「それは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だが、お前の意見には概ね賛同するが、異論もある」",
+        "after": "蒼「お前は籠の鳥は裏切られたといったが、私はそうは思わない」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "蒼「お前は籠の鳥は裏切られたといったが、私はそうは思わない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは？」",
+        "after": "蒼「籠の鳥は裏切られたわけではない」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "蒼「籠の鳥は裏切られたわけではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前は籠の鳥は裏切られたといったが、私はそうは思わない」",
+        "after": "ふむ、と私は手を顎に添えて考える。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "ふむ、と私は手を顎に添えて考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「籠の鳥は裏切られたわけではない」",
+        "after": "遠野　紗夜「……ちなみに、それはどういった解釈でそう思ったのでしょう？」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　紗夜「……ちなみに、それはどういった解釈でそう思ったのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ふむ、と私は手を顎に添えて考える。",
+        "after": "蒼「籠の鳥の態度だ」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "蒼「籠の鳥の態度だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ちなみに、それはどういった解釈でそう思ったのでしょう？」",
+        "after": "蒼「籠の鳥は口では『籠の外に出たい』と言ってはいるが、いざ助けようと鳥が言った時、それを躊躇するような発言をしている」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "蒼「籠の鳥は口では『籠の外に出たい』と言ってはいるが、いざ助けようと鳥が言った時、それを躊躇するような発言をしている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「籠の鳥の態度だ」",
+        "after": "遠野　紗夜「それは、単純に恐怖からくる言葉なのではありませんか？」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「それは、単純に恐怖からくる言葉なのではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「籠の鳥は口では『籠の外に出たい』と言ってはいるが、いざ助けようと鳥が言った時、それを躊躇するような発言をしている」",
+        "after": "蒼「傍目から見ればそう思えるが、空に憧れているのならば、もっと嬉しそうな態度をするのではないか？」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "蒼「傍目から見ればそう思えるが、空に憧れているのならば、もっと嬉しそうな態度をするのではないか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは、単純に恐怖からくる言葉なのではありませんか？」",
+        "after": "蒼「それに、この話の最後も不可解だ」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "蒼「それに、この話の最後も不可解だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「傍目から見ればそう思えるが、空に憧れているのならば、もっと嬉しそうな態度をするのではないか？」",
+        "after": "蒼「結局、鳥は約束を守ることはなかったが、籠の鳥はそれを気にした風もなく、いつもと変わらずに自分の口癖を言って終わる」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "蒼「結局、鳥は約束を守ることはなかったが、籠の鳥はそれを気にした風もなく、いつもと変わらずに自分の口癖を言って終わる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それに、この話の最後も不可解だ」",
+        "after": "『籠の外に出たい』"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "『籠の外に出たい』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "蒼「結局、鳥は約束を守ることはなかったが、籠の鳥はそれを気にした風もなく、いつもと変わらずに自分の口癖を言って終わる」",
+        "after": "蒼「籠の鳥は本当に籠の外に出たかったのか？　鳥は何故約束を破ったのか？」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "蒼「籠の鳥は本当に籠の外に出たかったのか？　鳥は何故約束を破ったのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "『籠の外に出たい』",
+        "after": "蒼「結局、この物語は終わりらしい終わりをなくし、いくつも解釈が生まれるように作られているのだろう」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "蒼「結局、この物語は終わりらしい終わりをなくし、いくつも解釈が生まれるように作られているのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「籠の鳥は本当に籠の外に出たかったのか？　鳥は何故約束を破ったのか？」",
+        "after": "遠野　紗夜「……それは、果たして『終わり』と呼べるのでしょうか？」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "遠野　紗夜「……それは、果たして『終わり』と呼べるのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「結局、この物語は終わりらしい終わりをなくし、いくつも解釈が生まれるように作られているのだろう」",
+        "after": "蒼「だから、私は考えている。この物語の本当の終わりがあるのかどうか」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "蒼「だから、私は考えている。この物語の本当の終わりがあるのかどうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それは、果たして『終わり』と呼べるのでしょうか？」",
+        "after": "蒼「解釈の違いはあれど、お前もそうであろう？」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "蒼「解釈の違いはあれど、お前もそうであろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だから、私は考えている。この物語の本当の終わりがあるのかどうか」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「解釈の違いはあれど、お前もそうであろう？」",
+        "after": "確かに、と私は蒼の言葉に納得した。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "確かに、と私は蒼の言葉に納得した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私は物語の表面だけを見て語っていたけれど、どうやら彼はもっとその奥を見ていたらしい。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "私は物語の表面だけを見て語っていたけれど、どうやら彼はもっとその奥を見ていたらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに、と私は蒼の言葉に納得した。",
+        "after": "勿論、自分の解釈が完全に間違っているわけではなく、蒼が言ったように様々な解釈の内の一つだとは思っているけれど、蒼の言葉は妙に核心を突いているような気がした。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "勿論、自分の解釈が完全に間違っているわけではなく、蒼が言ったように様々な解釈の内の一つだとは思っているけれど、蒼の言葉は妙に核心を突いているような気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は物語の表面だけを見て語っていたけれど、どうやら彼はもっとその奥を見ていたらしい。",
+        "after": "ここで私はあることに気が付く。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "ここで私はあることに気が付く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "勿論、自分の解釈が完全に間違っているわけではなく、蒼が言ったように様々な解釈の内の一つだとは思っているけれど、蒼の言葉は妙に核心を突いているような気がした。",
+        "after": "遠野　紗夜「……それは、ともゑさんのことについてもいえますか？」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「……それは、ともゑさんのことについてもいえますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ここで私はあることに気が付く。",
+        "after": "遠野　紗夜「ともゑさんは、裏切られたと仰っていますが、もしかして裏切られていなかったということも考えられるのでしょうか？」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "遠野　紗夜「ともゑさんは、裏切られたと仰っていますが、もしかして裏切られていなかったということも考えられるのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それは、ともゑさんのことについてもいえますか？」",
+        "after": "蒼「だが、その『先生』とやらは約束を果たさなかったのだろう？」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "蒼「だが、その『先生』とやらは約束を果たさなかったのだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんは、裏切られたと仰っていますが、もしかして裏切られていなかったということも考えられるのでしょうか？」",
+        "after": "遠野　紗夜「そうですよね……」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「そうですよね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だが、その『先生』とやらは約束を果たさなかったのだろう？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですよね……」",
+        "after": "私達はその後互いに黙って歩き続けた。"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "私達はその後互いに黙って歩き続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「結局、貴方に送ってもらってしまいましたね」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "遠野　紗夜「結局、貴方に送ってもらってしまいましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私達はその後互いに黙って歩き続けた。",
+        "after": "家の近くまで来ると、私は彼を追い越し後ろを向いた。"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "家の近くまで来ると、私は彼を追い越し後ろを向いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「結局、貴方に送ってもらってしまいましたね」",
+        "after": "一緒に彼の足も止まる。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "一緒に彼の足も止まる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家の近くまで来ると、私は彼を追い越し後ろを向いた。",
+        "after": "遠野　紗夜「お店の方は大丈夫でしたか？」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "遠野　紗夜「お店の方は大丈夫でしたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "一緒に彼の足も止まる。",
+        "after": "蒼「問題ない」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "蒼「問題ない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お店の方は大丈夫でしたか？」",
+        "after": "遠野　紗夜「宜しければ、このまま家にあがりますか？」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「宜しければ、このまま家にあがりますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「問題ない」",
+        "after": "蒼「十夜がいるのだろう」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "蒼「十夜がいるのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「宜しければ、このまま家にあがりますか？」",
+        "after": "遠野　紗夜「ええ、そうですね」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "遠野　紗夜「ええ、そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「十夜がいるのだろう」",
+        "after": "蒼「ならばいい。まだ、十夜に借りた本も全て読み切っていない」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "蒼「ならばいい。まだ、十夜に借りた本も全て読み切っていない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですね」",
+        "after": "遠野　紗夜「それは、また本を読み切ったらこちらに訪ねに来るということでしょうか？」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「それは、また本を読み切ったらこちらに訪ねに来るということでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ならばいい。まだ、十夜に借りた本も全て読み切っていない」",
+        "after": "蒼「ああ、そうだが。何か問題あるのか？」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "蒼「ああ、そうだが。何か問題あるのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは、また本を読み切ったらこちらに訪ねに来るということでしょうか？」",
+        "after": "遠野　紗夜「いいえ、ありません」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「いいえ、ありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ、そうだが。何か問題あるのか？」",
+        "after": "私はくすりと笑った。"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "私はくすりと笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ、ありません」",
+        "after": "遠野　紗夜「そういえば、明日ですよね？　図書館に行くという約束。……ちゃんと、覚えています？」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "遠野　紗夜「そういえば、明日ですよね？　図書館に行くという約束。……ちゃんと、覚えています？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はくすりと笑った。",
+        "after": "蒼「時計塔の前に十二時だろう。覚えている」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "蒼「時計塔の前に十二時だろう。覚えている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そういえば、明日ですよね？　図書館に行くという約束。……ちゃんと、覚えています？」",
+        "after": "遠野　紗夜「ええ、そうです」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "遠野　紗夜「ええ、そうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「時計塔の前に十二時だろう。覚えている」",
+        "after": "私は頷き、彼はそれを何でもないような顔で見ている。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "私は頷き、彼はそれを何でもないような顔で見ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうです」",
+        "after": "しばらく沈黙が流れた。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "しばらく沈黙が流れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は頷き、彼はそれを何でもないような顔で見ている。",
+        "after": "先に動いたのは、彼の方だった。"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "先に動いたのは、彼の方だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しばらく沈黙が流れた。",
+        "after": "蒼は別れの挨拶も言わず、背を向け、元来た道を戻っていった。"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "蒼は別れの挨拶も言わず、背を向け、元来た道を戻っていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "先に動いたのは、彼の方だった。",
+        "after": "私は彼の背中に声をかけた。"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "私は彼の背中に声をかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼は別れの挨拶も言わず、背を向け、元来た道を戻っていった。",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼の背中に声をかけた。",
+        "after": "彼は振り向くことも、足を止めることもしなかった。"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "彼は振り向くことも、足を止めることもしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": null
+      }
+    }
+  ]
+}

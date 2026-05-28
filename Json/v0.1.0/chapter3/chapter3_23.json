@@ -1,0 +1,1968 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_23.txt",
+    "chapter": "chapter3",
+    "total_lines": 107,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "ヴィルヘルム「サンドイッチ、千二百円……って、うわっ、何だこの高さ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "それは不思議な光景だった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "それは不思議な光景だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「サンドイッチ、千二百円……って、うわっ、何だこの高さ」",
+        "after": "ヴィルヘルム「普通、こんなの五百円でもたけーよ」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "ヴィルヘルム「普通、こんなの五百円でもたけーよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "それは不思議な光景だった。",
+        "after": "ヴィルヘルム「何でこの土地だけインフレしてんだよ。物価高すぎ」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ヴィルヘルム「何でこの土地だけインフレしてんだよ。物価高すぎ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「普通、こんなの五百円でもたけーよ」",
+        "after": "ヴィルヘルム「ま、いいや。俺の金じゃねーし。すみませーん、サンドイッチセットと珈琲テイクアウトで」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "ヴィルヘルム「ま、いいや。俺の金じゃねーし。すみませーん、サンドイッチセットと珈琲テイクアウトで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何でこの土地だけインフレしてんだよ。物価高すぎ」",
+        "after": "ヴィルヘルム「お前は？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ヴィルヘルム「お前は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ま、いいや。俺の金じゃねーし。すみませーん、サンドイッチセットと珈琲テイクアウトで」",
+        "after": "遠野　紗夜「あ、では、私は紅茶を……」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「あ、では、私は紅茶を……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前は？」",
+        "after": "ヴィルヘルム「あと、紅茶！　こっちは店内で頼む！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ヴィルヘルム「あと、紅茶！　こっちは店内で頼む！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、では、私は紅茶を……」",
+        "after": "店員はちらちらと着ぐるみの方を気にしながら、注文を取ると、店の奥に消えていく。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "店員はちらちらと着ぐるみの方を気にしながら、注文を取ると、店の奥に消えていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「あと、紅茶！　こっちは店内で頼む！」",
+        "after": "その最中にも何度かこちらの方に振り返り、口にうっすらと笑みを浮かべていた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "その最中にも何度かこちらの方に振り返り、口にうっすらと笑みを浮かべていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "店員はちらちらと着ぐるみの方を気にしながら、注文を取ると、店の奥に消えていく。",
+        "after": "勿論、店内にいる全ての客からも好奇の目を向けられている。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "勿論、店内にいる全ての客からも好奇の目を向けられている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その最中にも何度かこちらの方に振り返り、口にうっすらと笑みを浮かべていた。",
+        "after": "遠野　紗夜「あの……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「あの……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "勿論、店内にいる全ての客からも好奇の目を向けられている。",
+        "after": "ヴィルヘルム「何だよ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ヴィルヘルム「何だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの……」",
+        "after": "それはそうだ。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "それはそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「何だよ」",
+        "after": "私でさえ、この光景をシュールに感じているのだから。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私でさえ、この光景をシュールに感じているのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それはそうだ。",
+        "after": "モダンな喫茶店にそぐわぬ着ぐるみ姿、その向かいには制服を着た少女。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "モダンな喫茶店にそぐわぬ着ぐるみ姿、その向かいには制服を着た少女。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私でさえ、この光景をシュールに感じているのだから。",
+        "after": "これを不思議に思わない人がいるのならば、逆に会ってみたいものだ。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "これを不思議に思わない人がいるのならば、逆に会ってみたいものだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "モダンな喫茶店にそぐわぬ着ぐるみ姿、その向かいには制服を着た少女。",
+        "after": "遠野　紗夜「脱がないのですか？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「脱がないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "これを不思議に思わない人がいるのならば、逆に会ってみたいものだ。",
+        "after": "ヴィルヘルム「何でだよ？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "ヴィルヘルム「何でだよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「脱がないのですか？」",
+        "after": "遠野　紗夜「いえ、その、とても目立っていますし……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「いえ、その、とても目立っていますし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何でだよ？」",
+        "after": "ヴィルヘルム「ふうん。そうか？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "ヴィルヘルム「ふうん。そうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ、その、とても目立っていますし……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ふうん。そうか？」",
+        "after": "どうやら、彼は周りの視線は気にならないようだ。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "どうやら、彼は周りの視線は気にならないようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "彼は机の上に前のめりになる。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "彼は机の上に前のめりになる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうやら、彼は周りの視線は気にならないようだ。",
+        "after": "ヴィルヘルム「お前さ、楓葉の生徒だろ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ヴィルヘルム「お前さ、楓葉の生徒だろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "彼は机の上に前のめりになる。",
+        "after": "遠野　紗夜「ええ、そうですけれど」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「ええ、そうですけれど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前さ、楓葉の生徒だろ」",
+        "after": "ヴィルヘルム「夏目悠希って知ってるか？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "ヴィルヘルム「夏目悠希って知ってるか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですけれど」",
+        "after": "思わず目を見張った。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "思わず目を見張った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「夏目悠希って知ってるか？」",
+        "after": "今、一番耳にしたくない名前だったからだ。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "今、一番耳にしたくない名前だったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思わず目を見張った。",
+        "after": "動揺を勘付かれないように落ち着き払った声で答えた。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "動揺を勘付かれないように落ち着き払った声で答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今、一番耳にしたくない名前だったからだ。",
+        "after": "遠野　紗夜「……知っていますが、何故貴方が彼のことを？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「……知っていますが、何故貴方が彼のことを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "動揺を勘付かれないように落ち着き払った声で答えた。",
+        "after": "ヴィルヘルム「知り合いなのか！？」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "ヴィルヘルム「知り合いなのか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……知っていますが、何故貴方が彼のことを？」",
+        "after": "遠野　紗夜「え、ええ。同じクラスなので……」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「え、ええ。同じクラスなので……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「知り合いなのか！？」",
+        "after": "ヴィルヘルム「俺、あいつの達なんだよ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "ヴィルヘルム「俺、あいつの達なんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え、ええ。同じクラスなので……」",
+        "after": "遠野　紗夜「ああ、そうでしたか」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「ああ、そうでしたか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「俺、あいつの達なんだよ」",
+        "after": "ヴィルヘルム「あのさ……その、あいつ学校ではどうだ？　ちゃんと、元気にやってるか！？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "ヴィルヘルム「あのさ……その、あいつ学校ではどうだ？　ちゃんと、元気にやってるか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ、そうでしたか」",
+        "after": "遠野　紗夜「ええ。元気にやっていると思いますが」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「ええ。元気にやっていると思いますが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「あのさ……その、あいつ学校ではどうだ？　ちゃんと、元気にやってるか！？」",
+        "after": "目の端の方で店員が紅茶を持ってくるのが見えた。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "目の端の方で店員が紅茶を持ってくるのが見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ。元気にやっていると思いますが」",
+        "after": "ヴィルヘルム「そっか。ちゃんと、飯とか食ってるよな！？　無理とかしてないよな！？」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "ヴィルヘルム「そっか。ちゃんと、飯とか食ってるよな！？　無理とかしてないよな！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "目の端の方で店員が紅茶を持ってくるのが見えた。",
+        "after": "興奮している彼をよそに、店員は紅茶を机の上に置いた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "興奮している彼をよそに、店員は紅茶を机の上に置いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「そっか。ちゃんと、飯とか食ってるよな！？　無理とかしてないよな！？」",
+        "after": "私は上目にそれを見ながら、頭を下げた。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "私は上目にそれを見ながら、頭を下げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "興奮している彼をよそに、店員は紅茶を机の上に置いた。",
+        "after": "そして、再び視線を戻す。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "そして、再び視線を戻す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は上目にそれを見ながら、頭を下げた。",
+        "after": "遠野　紗夜「……それは分かりかねます」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「……それは分かりかねます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、再び視線を戻す。",
+        "after": "ヴィルヘルム「何でだよ！　同じクラスなんだろ？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "ヴィルヘルム「何でだよ！　同じクラスなんだろ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それは分かりかねます」",
+        "after": "遠野　紗夜「私と彼はそれほどまでに仲が良いというわけではないので……」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「私と彼はそれほどまでに仲が良いというわけではないので……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何でだよ！　同じクラスなんだろ？」",
+        "after": "私が苦々しく答えると、"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "私が苦々しく答えると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私と彼はそれほどまでに仲が良いというわけではないので……」",
+        "after": "ヴィルヘルム「えー？　ああ……まあ分かるような気もするけどな」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "ヴィルヘルム「えー？　ああ……まあ分かるような気もするけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "私が苦々しく答えると、",
+        "after": "彼はどかりと椅子にもたれ、何故か納得していた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "彼はどかりと椅子にもたれ、何故か納得していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「えー？　ああ……まあ分かるような気もするけどな」",
+        "after": "遠野　紗夜「何をですか？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「何をですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼はどかりと椅子にもたれ、何故か納得していた。",
+        "after": "ヴィルヘルム「お前、金持ちだよな」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ヴィルヘルム「お前、金持ちだよな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何をですか？」",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前、金持ちだよな」",
+        "after": "ヴィルヘルム「うんうん。そうじゃなきゃおかしいよな」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "ヴィルヘルム「うんうん。そうじゃなきゃおかしいよな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "ヴィルヘルム「お前は見たところ、容姿も優れているし、頭も少なくとも馬鹿じゃなさそうだ」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "ヴィルヘルム「お前は見たところ、容姿も優れているし、頭も少なくとも馬鹿じゃなさそうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「うんうん。そうじゃなきゃおかしいよな」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前は見たところ、容姿も優れているし、頭も少なくとも馬鹿じゃなさそうだ」",
+        "after": "ヴィルヘルム「お前はあいつと違って恵まれすぎてんだ！」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "ヴィルヘルム「お前はあいつと違って恵まれすぎてんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "びしっと太い手を私に向ける。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "びしっと太い手を私に向ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「お前はあいつと違って恵まれすぎてんだ！」",
+        "after": "私は全く動じず、運ばれてきた紅茶に砂糖を入れながら、非常に淡々と言った。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "私は全く動じず、運ばれてきた紅茶に砂糖を入れながら、非常に淡々と言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "びしっと太い手を私に向ける。",
+        "after": "遠野　紗夜「……そうでしょうか？」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「……そうでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は全く動じず、運ばれてきた紅茶に砂糖を入れながら、非常に淡々と言った。",
+        "after": "遠野　紗夜「私は彼のことをよく知っているわけではありませんが、容姿や頭の良さであったのならば彼はとても優れていると思いますが？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「私は彼のことをよく知っているわけではありませんが、容姿や頭の良さであったのならば彼はとても優れていると思いますが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そうでしょうか？」",
+        "after": "ヴィルヘルム「そんなの、ただそう見えるだけだろ」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "ヴィルヘルム「そんなの、ただそう見えるだけだろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は彼のことをよく知っているわけではありませんが、容姿や頭の良さであったのならば彼はとても優れていると思いますが？」",
+        "after": "遠野　紗夜「なら、私も同じですよ。ただ、人から見ればそう見えるだけで……」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「なら、私も同じですよ。ただ、人から見ればそう見えるだけで……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そんなの、ただそう見えるだけだろ」",
+        "after": "ヴィルヘルム「じゃあ、自分は不幸だっていうのか？」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "ヴィルヘルム「じゃあ、自分は不幸だっていうのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「なら、私も同じですよ。ただ、人から見ればそう見えるだけで……」",
+        "after": "遠野　紗夜「いえ、不幸ではないと。むしろ、私は幸せなのでしょう」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「いえ、不幸ではないと。むしろ、私は幸せなのでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「じゃあ、自分は不幸だっていうのか？」",
+        "after": "そう、私は幸せだ。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "そう、私は幸せだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ、不幸ではないと。むしろ、私は幸せなのでしょう」",
+        "after": "ヴィルヘルム「だったら、やっぱり恵まれてんじゃねーか」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "ヴィルヘルム「だったら、やっぱり恵まれてんじゃねーか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "そう、私は幸せだ。",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「だったら、やっぱり恵まれてんじゃねーか」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "既に砂糖は入れきっていることに気が付き、紙スティックをカップの端に置いた。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "既に砂糖は入れきっていることに気が付き、紙スティックをカップの端に置いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "そして、そのまま紅茶を口にすることなく、手を膝の上に置いて、目を伏せた。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "そして、そのまま紅茶を口にすることなく、手を膝の上に置いて、目を伏せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "既に砂糖は入れきっていることに気が付き、紙スティックをカップの端に置いた。",
+        "after": "私の態度が分かりやすかったのだろう、彼は"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "私の態度が分かりやすかったのだろう、彼は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、そのまま紅茶を口にすることなく、手を膝の上に置いて、目を伏せた。",
+        "after": "ヴィルヘルム「あーもう、どうにも煮え切らねーな！」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "ヴィルヘルム「あーもう、どうにも煮え切らねーな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "私の態度が分かりやすかったのだろう、彼は",
+        "after": "と、頭をぐしゃぐしゃと掻き乱した。（と、いっても彼には髪の毛はないから、実際には頭をぶんぶんと振っていただけだが）"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "と、頭をぐしゃぐしゃと掻き乱した。（と、いっても彼には髪の毛はないから、実際には頭をぶんぶんと振っていただけだが）",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「あーもう、どうにも煮え切らねーな！」",
+        "after": "私はゆらりと頭を動かし、相手を試すような挑発的な目つきをした。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "私はゆらりと頭を動かし、相手を試すような挑発的な目つきをした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、頭をぐしゃぐしゃと掻き乱した。（と、いっても彼には髪の毛はないから、実際には頭をぶんぶんと振っていただけだが）",
+        "after": "遠野　紗夜「……貴方は夏目君のことを知っているのですよね？」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「……貴方は夏目君のことを知っているのですよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はゆらりと頭を動かし、相手を試すような挑発的な目つきをした。",
+        "after": "ヴィルヘルム「そーだよ！　俺達はいつも一緒にいたからな」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "ヴィルヘルム「そーだよ！　俺達はいつも一緒にいたからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……貴方は夏目君のことを知っているのですよね？」",
+        "after": "遠野　紗夜「そうですか。……では、夏目君は不幸だったのですか？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「そうですか。……では、夏目君は不幸だったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そーだよ！　俺達はいつも一緒にいたからな」",
+        "after": "ヴィルヘルム「人から見りゃあ、あいつは不幸だったと思う」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "ヴィルヘルム「人から見りゃあ、あいつは不幸だったと思う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか。……では、夏目君は不幸だったのですか？」",
+        "after": "遠野　紗夜「貴方がいたのに？」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「貴方がいたのに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「人から見りゃあ、あいつは不幸だったと思う」",
+        "after": "ヴィルヘルム「…………」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "ヴィルヘルム「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方がいたのに？」",
+        "after": "相手は着ぐるみで表情など全く分からないのに、その時彼のひくついた顔が見えた気がした。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "相手は着ぐるみで表情など全く分からないのに、その時彼のひくついた顔が見えた気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「…………」",
+        "after": "ヴィルヘルム「……お前、性格悪いだろ」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "ヴィルヘルム「……お前、性格悪いだろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "相手は着ぐるみで表情など全く分からないのに、その時彼のひくついた顔が見えた気がした。",
+        "after": "遠野　紗夜「ええ、そうですね」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "遠野　紗夜「ええ、そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……お前、性格悪いだろ」",
+        "after": "ヴィルヘルム「お前なぁ……！　……はあ」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "ヴィルヘルム「お前なぁ……！　……はあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですね」",
+        "after": "怒るのではなく、ため息をついた。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "怒るのではなく、ため息をついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「お前なぁ……！　……はあ」",
+        "after": "そして、頭を下げてぼそりと語り出した。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "そして、頭を下げてぼそりと語り出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "怒るのではなく、ため息をついた。",
+        "after": "ヴィルヘルム「……別に、俺だってさ、何とか出来ればしたかったよ。助けてやりたかった、役に立ちたかった」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "ヴィルヘルム「……別に、俺だってさ、何とか出来ればしたかったよ。助けてやりたかった、役に立ちたかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "そして、頭を下げてぼそりと語り出した。",
+        "after": "ヴィルヘルム「でも、俺はただいつも側にいるだけで何も出来やしねー……」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "ヴィルヘルム「でも、俺はただいつも側にいるだけで何も出来やしねー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……別に、俺だってさ、何とか出来ればしたかったよ。助けてやりたかった、役に立ちたかった」",
+        "after": "遠野　紗夜「何故ですか？　そんなに思っているのに……」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「何故ですか？　そんなに思っているのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「でも、俺はただいつも側にいるだけで何も出来やしねー……」",
+        "after": "ヴィルヘルム「色々事情があるんだよ！」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "ヴィルヘルム「色々事情があるんだよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故ですか？　そんなに思っているのに……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「色々事情があるんだよ！」",
+        "after": "事情と聞いて、あることが思い浮かび、一気に心が冷えた。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "事情と聞いて、あることが思い浮かび、一気に心が冷えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "ヴィルヘルム「だから、俺はそんな自分が嫌で嫌でしょうがなかったんだ」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "ヴィルヘルム「だから、俺はそんな自分が嫌で嫌でしょうがなかったんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "事情と聞いて、あることが思い浮かび、一気に心が冷えた。",
+        "after": "ヴィルヘルム「どうにかしたくて、どうにも出来なくて……」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "ヴィルヘルム「どうにかしたくて、どうにも出来なくて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「だから、俺はそんな自分が嫌で嫌でしょうがなかったんだ」",
+        "after": "ヴィルヘルム「でも、今は違う。ようやく、俺はあいつの役に立てる時が来たんだ！」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "ヴィルヘルム「でも、今は違う。ようやく、俺はあいつの役に立てる時が来たんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「どうにかしたくて、どうにも出来なくて……」",
+        "after": "強い口調だった。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "強い口調だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「でも、今は違う。ようやく、俺はあいつの役に立てる時が来たんだ！」",
+        "after": "遠野　紗夜「……？　それは、どういう意味ですか？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "遠野　紗夜「……？　それは、どういう意味ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "強い口調だった。",
+        "after": "ウエイトレス「お待たせ致しました。テイクアウトのお品です」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "ウエイトレス「お待たせ致しました。テイクアウトのお品です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ウエイトレス",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……？　それは、どういう意味ですか？」",
+        "after": "タイミング良く、店員が頼んだ品を袋に入れて持ってきた。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "タイミング良く、店員が頼んだ品を袋に入れて持ってきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ウエイトレス「お待たせ致しました。テイクアウトのお品です」",
+        "after": "ヴィルヘルム「お、きたきた。じゃーな！　ごちそーさん！」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "ヴィルヘルム「お、きたきた。じゃーな！　ごちそーさん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "タイミング良く、店員が頼んだ品を袋に入れて持ってきた。",
+        "after": "彼は店員からそれを引ったくると、片手を上げて去っていった。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "彼は店員からそれを引ったくると、片手を上げて去っていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「お、きたきた。じゃーな！　ごちそーさん！」",
+        "after": "遠野　紗夜「え、あ……」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "遠野　紗夜「え、あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は店員からそれを引ったくると、片手を上げて去っていった。",
+        "after": "私は立ち上がり、手を伸ばすが、勿論遠く離れた彼に届くはずはない。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "私は立ち上がり、手を伸ばすが、勿論遠く離れた彼に届くはずはない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え、あ……」",
+        "after": "遠野　紗夜「……待って下さい！　私の質問に答えていないですよ！！」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "遠野　紗夜「……待って下さい！　私の質問に答えていないですよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は立ち上がり、手を伸ばすが、勿論遠く離れた彼に届くはずはない。",
+        "after": "からん、とベルが鈍い音を立て鳴った。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "からん、とベルが鈍い音を立て鳴った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……待って下さい！　私の質問に答えていないですよ！！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "からん、とベルが鈍い音を立て鳴った。",
+        "after": "行ってしまった。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "行ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "後に残ったのは、空を掴んだ私の手と、好奇の眼差しと、まだ手をつけていない紅茶だった。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "後に残ったのは、空を掴んだ私の手と、好奇の眼差しと、まだ手をつけていない紅茶だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "行ってしまった。",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_34.txt",
+    "chapter": "chapter1",
+    "total_lines": 17,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "結局、私はあの後、本を借りるついでに、あのアルバムも一緒に借りてきてしまった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "結局、私はあの後、本を借りるついでに、あのアルバムも一緒に借りてきてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "千代さんの言葉の意味は全く分からなかった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "千代さんの言葉の意味は全く分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、私はあの後、本を借りるついでに、あのアルバムも一緒に借りてきてしまった。",
+        "after": "彼は私に何が言いたいのか、詳しくは言わなかった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "彼は私に何が言いたいのか、詳しくは言わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんの言葉の意味は全く分からなかった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は私に何が言いたいのか、詳しくは言わなかった。",
+        "after": "いつも通り、時計塔の前を通り過ぎる。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "いつも通り、時計塔の前を通り過ぎる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "今日も時計は変わらず、止まったままだった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "今日も時計は変わらず、止まったままだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつも通り、時計塔の前を通り過ぎる。",
+        "after": "彼女の姿も見えない。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "彼女の姿も見えない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今日も時計は変わらず、止まったままだった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女の姿も見えない。",
+        "after": "千代"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "千代",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "『ですが、お嬢さん。俺は貴方に知って欲しいんです』"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "『ですが、お嬢さん。俺は貴方に知って欲しいんです』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "千代",
+        "after": "千代"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "千代",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『ですが、お嬢さん。俺は貴方に知って欲しいんです』",
+        "after": "『そして、どうか言葉を伝えて彼女を救ってあげて下さい』"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "『そして、どうか言葉を伝えて彼女を救ってあげて下さい』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "千代",
+        "after": "千代さんの言葉、私に知って欲しいと言っていた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "千代さんの言葉、私に知って欲しいと言っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『そして、どうか言葉を伝えて彼女を救ってあげて下さい』",
+        "after": "彼女を救って欲しいと。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "彼女を救って欲しいと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんの言葉、私に知って欲しいと言っていた。",
+        "after": "その言葉にどんな意味があるのか私には分からない。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "その言葉にどんな意味があるのか私には分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女を救って欲しいと。",
+        "after": "私は本を腕に抱えて、ある場所へと足を運んだ。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私は本を腕に抱えて、ある場所へと足を運んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その言葉にどんな意味があるのか私には分からない。",
+        "after": null
+      }
+    }
+  ]
+}

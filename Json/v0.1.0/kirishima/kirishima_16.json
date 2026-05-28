@@ -1,0 +1,690 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_16.txt",
+    "chapter": "kirishima",
+    "total_lines": 37,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "桐島　七葵「遠野」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「桐島先輩？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「桐島先輩？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「遠野」",
+        "after": "声をかけられ、読んでいた本を閉じる。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "声をかけられ、読んでいた本を閉じる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「桐島先輩？」",
+        "after": "桐島　七葵「今、一人か？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "桐島　七葵「今、一人か？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "声をかけられ、読んでいた本を閉じる。",
+        "after": "遠野　紗夜「ええ、そうですが」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「ええ、そうですが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「今、一人か？」",
+        "after": "桐島　七葵「そんな気がしてな。ハンカチを返しに来た」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島　七葵「そんな気がしてな。ハンカチを返しに来た」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですが」",
+        "after": "遠野　紗夜「ああ」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そんな気がしてな。ハンカチを返しに来た」",
+        "after": "渡されたハンカチを受け取る。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "渡されたハンカチを受け取る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ああ」",
+        "after": "と、その上に小さな包み紙があり、私は桐島先輩を見上げる。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "と、その上に小さな包み紙があり、私は桐島先輩を見上げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "渡されたハンカチを受け取る。",
+        "after": "桐島　七葵「……これは、まあ、その礼というやつだ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "桐島　七葵「……これは、まあ、その礼というやつだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "と、その上に小さな包み紙があり、私は桐島先輩を見上げる。",
+        "after": "桐島先輩にしては歯切れ悪く、気まずそうに目を逸らす。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島先輩にしては歯切れ悪く、気まずそうに目を逸らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……これは、まあ、その礼というやつだ」",
+        "after": "遠野　紗夜「礼ですか？　そんな。私はハンカチを貸しただけですのに……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「礼ですか？　そんな。私はハンカチを貸しただけですのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩にしては歯切れ悪く、気まずそうに目を逸らす。",
+        "after": "桐島　七葵「借りは返さんとな」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "桐島　七葵「借りは返さんとな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「礼ですか？　そんな。私はハンカチを貸しただけですのに……」",
+        "after": "真面目な人。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "真面目な人。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「借りは返さんとな」",
+        "after": "くすりと笑ってしまう。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "くすりと笑ってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "真面目な人。",
+        "after": "遠野　紗夜「今、ここで開けても宜しいですか？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「今、ここで開けても宜しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "くすりと笑ってしまう。",
+        "after": "桐島　七葵「ああ。……くれぐれも誰かに見られるなよ」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "桐島　七葵「ああ。……くれぐれも誰かに見られるなよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今、ここで開けても宜しいですか？」",
+        "after": "遠野　紗夜「ふふ。分かりました」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「ふふ。分かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ。……くれぐれも誰かに見られるなよ」",
+        "after": "封を開けるとそれは手の平に落ちてきた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "封を開けるとそれは手の平に落ちてきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふふ。分かりました」",
+        "after": "遠野　紗夜「これは……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「これは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "封を開けるとそれは手の平に落ちてきた。",
+        "after": "きらりと光るブレスレット。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "きらりと光るブレスレット。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「これは……」",
+        "after": "私が今作っているものとは違うけれど、少し似ている。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "私が今作っているものとは違うけれど、少し似ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "きらりと光るブレスレット。",
+        "after": "白い花、これはコスモスだろうか。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "白い花、これはコスモスだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が今作っているものとは違うけれど、少し似ている。",
+        "after": "桐島　七葵「兄達に一応相談してみたんだが、女性が喜ぶのはアクセサリーだという結論に至ってな……」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "桐島　七葵「兄達に一応相談してみたんだが、女性が喜ぶのはアクセサリーだという結論に至ってな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "白い花、これはコスモスだろうか。",
+        "after": "遠野　紗夜「そうなのですか…………」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「そうなのですか…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「兄達に一応相談してみたんだが、女性が喜ぶのはアクセサリーだという結論に至ってな……」",
+        "after": "桐島　七葵「気に入らなかったら捨てろ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "桐島　七葵「気に入らなかったら捨てろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか…………」",
+        "after": "遠野　紗夜「そんな！」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「そんな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「気に入らなかったら捨てろ」",
+        "after": "つい、声が大きくなってしまう。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "つい、声が大きくなってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そんな！」",
+        "after": "遠野　紗夜「……そんなことしません。絶対に」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「……そんなことしません。絶対に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "つい、声が大きくなってしまう。",
+        "after": "遠野　紗夜「ありがとうございます。大事にしますね」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「ありがとうございます。大事にしますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そんなことしません。絶対に」",
+        "after": "桐島　七葵「そうか」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "桐島　七葵「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます。大事にしますね」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうか」",
+        "after": "優しい表情で微笑まれて、私は何故かそれ以上視線を合わすことが出来なかった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "優しい表情で微笑まれて、私は何故かそれ以上視線を合わすことが出来なかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "桐島　七葵「ちなみに、遠野はまだここに残るのか？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "桐島　七葵「ちなみに、遠野はまだここに残るのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "優しい表情で微笑まれて、私は何故かそれ以上視線を合わすことが出来なかった。",
+        "after": "遠野　紗夜「いえ。もう帰ろうかと思います」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「いえ。もう帰ろうかと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ちなみに、遠野はまだここに残るのか？」",
+        "after": "桐島　七葵「なら、一緒に帰るか？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "桐島　七葵「なら、一緒に帰るか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ。もう帰ろうかと思います」",
+        "after": "遠野　紗夜「はい！」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「はい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「なら、一緒に帰るか？」",
+        "after": null
+      }
+    }
+  ]
+}

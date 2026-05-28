@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "file": "prologue/name.txt",
+    "chapter": "prologue",
+    "total_lines": 41,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "貴方のお名前は？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "私の名前？　私の名前は…………"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私の名前？　私の名前は…………",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方のお名前は？",
+        "after": "遠野ＮＡＭＥです"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野ＮＡＭＥです",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前？　私の名前は…………",
+        "after": "私の名前は……"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私の名前は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野ＮＡＭＥです",
+        "after": "知っていらっしゃいますでしょう？"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "知っていらっしゃいますでしょう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前は……",
+        "after": "答えない"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "答えない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "知っていらっしゃいますでしょう？",
+        "after": "遠野"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "答えない",
+        "after": "……。とても素敵なお名前なのですね"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "……。とても素敵なお名前なのですね",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野",
+        "after": "ええ。私も気に入っています"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "ええ。私も気に入っています",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "……。とても素敵なお名前なのですね",
+        "after": "すいません。何かが違う気がします"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "すいません。何かが違う気がします",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ええ。私も気に入っています",
+        "after": "あら、そうなの？　では、貴方のお名前は本当はなんとおっしゃるのかしら？"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "あら、そうなの？　では、貴方のお名前は本当はなんとおっしゃるのかしら？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すいません。何かが違う気がします",
+        "after": "紗夜"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "紗夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あら、そうなの？　では、貴方のお名前は本当はなんとおっしゃるのかしら？",
+        "after": "ええ、そうでしたね。遠野"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ええ、そうでしたね。遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "紗夜",
+        "after": "。それが、貴方のお名前……"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "。それが、貴方のお名前……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ええ、そうでしたね。遠野",
+        "after": "はい。そうです"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "はい。そうです",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "。それが、貴方のお名前……",
+        "after": "いいえ。違います"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "いいえ。違います",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい。そうです",
+        "after": "では、貴方のお名前は本当はなんとおっしゃるのかしら？"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "では、貴方のお名前は本当はなんとおっしゃるのかしら？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いいえ。違います",
+        "after": "貴方のお名前、思い出せませんか？　それは、困りました"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "貴方のお名前、思い出せませんか？　それは、困りました",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "では、貴方のお名前は本当はなんとおっしゃるのかしら？",
+        "after": "仕方ありません。では、また後程お聞きいたしましょう。貴方の素敵なお名前を……"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "仕方ありません。では、また後程お聞きいたしましょう。貴方の素敵なお名前を……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方のお名前、思い出せませんか？　それは、困りました",
+        "after": "では、お行きなさい、遠野"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "では、お行きなさい、遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "仕方ありません。では、また後程お聞きいたしましょう。貴方の素敵なお名前を……",
+        "after": "。今から読むのは貴方の物語。美しい幻想物語"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "。今から読むのは貴方の物語。美しい幻想物語",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "では、お行きなさい、遠野",
+        "after": "お前の名前は何というんだ？"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "お前の名前は何というんだ？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "。今から読むのは貴方の物語。美しい幻想物語",
+        "after": "私の名前？　私の名前は…………"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私の名前？　私の名前は…………",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お前の名前は何というんだ？",
+        "after": "遠野ＮＡＭＥです"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野ＮＡＭＥです",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前？　私の名前は…………",
+        "after": "私の名前は……"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私の名前は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野ＮＡＭＥです",
+        "after": "知っていらっしゃいますでしょう？"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "知っていらっしゃいますでしょう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前は……",
+        "after": "答えない"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "答えない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "知っていらっしゃいますでしょう？",
+        "after": "遠野"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "答えない",
+        "after": "、それがお前の名前か？"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "、それがお前の名前か？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野",
+        "after": "ええ。私も気に入っています"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "ええ。私も気に入っています",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "、それがお前の名前か？",
+        "after": "違うような気がします"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "違うような気がします",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ええ。私も気に入っています",
+        "after": "紗夜"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "紗夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違うような気がします",
+        "after": "そうだったな。遠野"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "そうだったな。遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "紗夜",
+        "after": "。それがお前の名前だ。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "。それがお前の名前だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうだったな。遠野",
+        "after": "はい。そうです"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "はい。そうです",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "。それがお前の名前だ。",
+        "after": "いいえ。違います"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "いいえ。違います",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい。そうです",
+        "after": "思い出せないのか？"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "思い出せないのか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いいえ。違います",
+        "after": "ならば、仕方ない。また後で聞こう。お前の名前を。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "ならば、仕方ない。また後で聞こう。お前の名前を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思い出せないのか？",
+        "after": "なら、お前の本当の名前は何というんだ？"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "なら、お前の本当の名前は何というんだ？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ならば、仕方ない。また後で聞こう。お前の名前を。",
+        "after": "遠野"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "なら、お前の本当の名前は何というんだ？",
+        "after": "。今から読むのは美しい幻想物語。主人公はお前だ。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "。今から読むのは美しい幻想物語。主人公はお前だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野",
+        "after": null
+      }
+    }
+  ]
+}

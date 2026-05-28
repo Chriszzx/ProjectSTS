@@ -1,0 +1,1675 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_24.txt",
+    "chapter": "kirishima",
+    "total_lines": 92,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "辺りを見渡す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "静かな静かな森の中。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "静かな静かな森の中。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "辺りを見渡す。",
+        "after": "少し歩いた所に、人が隠れるくらいの大きな岩がある。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "少し歩いた所に、人が隠れるくらいの大きな岩がある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "静かな静かな森の中。",
+        "after": "その後ろを見ると、一人の男の子と目があった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "その後ろを見ると、一人の男の子と目があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少し歩いた所に、人が隠れるくらいの大きな岩がある。",
+        "after": "？？？「見ー付けた！」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "？？？「見ー付けた！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "その後ろを見ると、一人の男の子と目があった。",
+        "after": "？？？「またか……」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "？？？「またか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「見ー付けた！」",
+        "after": "？？？「うん！」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "？？？「うん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「またか……」",
+        "after": "？？？「くそっ！　今度こそは絶対に見つけられないと思ったのに！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "？？？「くそっ！　今度こそは絶対に見つけられないと思ったのに！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「うん！」",
+        "after": "？？？「あはは。どんな場所でも絶対に見付けられるよ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "？？？「あはは。どんな場所でも絶対に見付けられるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「くそっ！　今度こそは絶対に見つけられないと思ったのに！」",
+        "after": "？？？「何でだ！」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "？？？「何でだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「あはは。どんな場所でも絶対に見付けられるよ」",
+        "after": "？？？「だって、俺は君のいる場所が分かるみたいなんだ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "？？？「だって、俺は君のいる場所が分かるみたいなんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「何でだ！」",
+        "after": "？？？「はあ！？　それは狡いだろう！！」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "？？？「はあ！？　それは狡いだろう！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「だって、俺は君のいる場所が分かるみたいなんだ」",
+        "after": "？？？「しょうがないじゃないか。君の気配がするんだ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "？？？「しょうがないじゃないか。君の気配がするんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「はあ！？　それは狡いだろう！！」",
+        "after": "？？？「くそっ！　見てろ！！　今度は絶対にお前が見付けられない場所に隠れてやるからな！！」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "？？？「くそっ！　見てろ！！　今度は絶対にお前が見付けられない場所に隠れてやるからな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「しょうがないじゃないか。君の気配がするんだ」",
+        "after": "？？？「あ！」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "？？？「あ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「くそっ！　見てろ！！　今度は絶対にお前が見付けられない場所に隠れてやるからな！！」",
+        "after": "彼は走って森の奥深くへと消えていく。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "彼は走って森の奥深くへと消えていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「あ！」",
+        "after": "？？？「次は俺の番なのに。……まあ、いいや」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "？？？「次は俺の番なのに。……まあ、いいや」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "彼は走って森の奥深くへと消えていく。",
+        "after": "俺は数を数え始める。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "俺は数を数え始める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「次は俺の番なのに。……まあ、いいや」",
+        "after": "？？？「いーち、にー……」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "？？？「いーち、にー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "俺は数を数え始める。",
+        "after": "真っ黒な世界。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "真っ黒な世界。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「いーち、にー……」",
+        "after": "色のない世界は少し苦手だ。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "色のない世界は少し苦手だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "真っ黒な世界。",
+        "after": "世界に取り残された気がする。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "世界に取り残された気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "色のない世界は少し苦手だ。",
+        "after": "？？？「……十っ！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "？？？「……十っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "世界に取り残された気がする。",
+        "after": "数え終わり、いよいよ彼を見付ける番だ。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "数え終わり、いよいよ彼を見付ける番だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「……十っ！」",
+        "after": "俺は、彼の気配がする方へと向かう。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "俺は、彼の気配がする方へと向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "数え終わり、いよいよ彼を見付ける番だ。",
+        "after": "自分でも何故、彼の居場所が分かるのか分からない。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "自分でも何故、彼の居場所が分かるのか分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は、彼の気配がする方へと向かう。",
+        "after": "というより、俺は自分で分かることの方が少ない。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "というより、俺は自分で分かることの方が少ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも何故、彼の居場所が分かるのか分からない。",
+        "after": "自分が何者なのかも。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "自分が何者なのかも。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "というより、俺は自分で分かることの方が少ない。",
+        "after": "自分の名前すらも。ああ、でも名前は彼がつけてくれた名前がある。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "自分の名前すらも。ああ、でも名前は彼がつけてくれた名前がある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分が何者なのかも。",
+        "after": "ただ、俺の中であるのはたった一つ。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "ただ、俺の中であるのはたった一つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分の名前すらも。ああ、でも名前は彼がつけてくれた名前がある。",
+        "after": "たった一つの……"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "たった一つの……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ、俺の中であるのはたった一つ。",
+        "after": "？？？「…………ぃ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "？？？「…………ぃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "たった一つの……",
+        "after": "彼の声だ。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "彼の声だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「…………ぃ」",
+        "after": "どうしたんだろう。すごくか細い声で。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "どうしたんだろう。すごくか細い声で。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼の声だ。",
+        "after": "急いで彼の下へと向かう。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "急いで彼の下へと向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうしたんだろう。すごくか細い声で。",
+        "after": "？？？「誰か……っ！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "？？？「誰か……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "急いで彼の下へと向かう。",
+        "after": "？？？「ど、どうしたの！？」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "？？？「ど、どうしたの！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「誰か……っ！」",
+        "after": "駆けつけた時には、彼の体は切り立った崖の途中にあった。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "駆けつけた時には、彼の体は切り立った崖の途中にあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「ど、どうしたの！？」",
+        "after": "？？？「滑って落ちた……。な、何でも良いから早く助けてくれ……っ」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "？？？「滑って落ちた……。な、何でも良いから早く助けてくれ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "駆けつけた時には、彼の体は切り立った崖の途中にあった。",
+        "after": "？？？「う、うん！　……っ！」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "？？？「う、うん！　……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「滑って落ちた……。な、何でも良いから早く助けてくれ……っ」",
+        "after": "俺は彼を引っ張り上げる。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "俺は彼を引っ張り上げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「う、うん！　……っ！」",
+        "after": "小さい彼はとても軽くて、引っ張り上げた拍子に勢い余って俺まで転んでしまう。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "小さい彼はとても軽くて、引っ張り上げた拍子に勢い余って俺まで転んでしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は彼を引っ張り上げる。",
+        "after": "？？？「た、助かった……」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "？？？「た、助かった……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "小さい彼はとても軽くて、引っ張り上げた拍子に勢い余って俺まで転んでしまう。",
+        "after": "ぜいぜいと肩を揺らす。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "ぜいぜいと肩を揺らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「た、助かった……」",
+        "after": "？？？「ありがとう。お前がいなかったら今頃死んでたかもな……」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "？？？「ありがとう。お前がいなかったら今頃死んでたかもな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "ぜいぜいと肩を揺らす。",
+        "after": "死ぬ？"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "死ぬ？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「ありがとう。お前がいなかったら今頃死んでたかもな……」",
+        "after": "？？？「死ぬってどういうこと？」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "？？？「死ぬってどういうこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "死ぬ？",
+        "after": "一瞬目を大きく見開いて、その後言った。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "一瞬目を大きく見開いて、その後言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「死ぬってどういうこと？」",
+        "after": "？？？「お前、幽霊だろ。一度、死んでるんじゃないのか？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "？？？「お前、幽霊だろ。一度、死んでるんじゃないのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "一瞬目を大きく見開いて、その後言った。",
+        "after": "？？？「さあ、どうだろう……。俺には記憶がないからよく分からないや」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "？？？「さあ、どうだろう……。俺には記憶がないからよく分からないや」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「お前、幽霊だろ。一度、死んでるんじゃないのか？」",
+        "after": "？？？「生きてた時の記憶もないのか？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "？？？「生きてた時の記憶もないのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「さあ、どうだろう……。俺には記憶がないからよく分からないや」",
+        "after": "？？？「うん」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "？？？「うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「生きてた時の記憶もないのか？」",
+        "after": "？？？「ふうん」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "？？？「ふうん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「うん」",
+        "after": "？？？「それで、死ぬってどういうことなのかな？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "？？？「それで、死ぬってどういうことなのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「ふうん」",
+        "after": "？？？「俺も分からん。よく考えたら、幽霊がいるんだから、幽霊になることかもな」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "？？？「俺も分からん。よく考えたら、幽霊がいるんだから、幽霊になることかもな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「それで、死ぬってどういうことなのかな？」",
+        "after": "？？？「俺と同じように？」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "？？？「俺と同じように？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「俺も分からん。よく考えたら、幽霊がいるんだから、幽霊になることかもな」",
+        "after": "？？？「そうだ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "？？？「そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「俺と同じように？」",
+        "after": "？？？「俺と同じ……」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "？？？「俺と同じ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「そうだ」",
+        "after": "そう呟くと、彼はじと目で言う。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "そう呟くと、彼はじと目で言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「俺と同じ……」",
+        "after": "？？？「……俺は、まだお前と同じにはなりたくないぞ！」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "？？？「……俺は、まだお前と同じにはなりたくないぞ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "そう呟くと、彼はじと目で言う。",
+        "after": "？？？「ええー」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "？？？「ええー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「……俺は、まだお前と同じにはなりたくないぞ！」",
+        "after": "？？？「『ええー』じゃない！　当たり前だ！　馬鹿！！」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "？？？「『ええー』じゃない！　当たり前だ！　馬鹿！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「ええー」",
+        "after": "彼が俺と一緒だったら、ずっと遊んでいられるのかな？"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "彼が俺と一緒だったら、ずっと遊んでいられるのかな？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「『ええー』じゃない！　当たり前だ！　馬鹿！！」",
+        "after": "そんなことを思ったけれど、そうしたら彼も俺と同じ気持ちになるわけだ。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "そんなことを思ったけれど、そうしたら彼も俺と同じ気持ちになるわけだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が俺と一緒だったら、ずっと遊んでいられるのかな？",
+        "after": "それは、あまり良くないような気がする。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "それは、あまり良くないような気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんなことを思ったけれど、そうしたら彼も俺と同じ気持ちになるわけだ。",
+        "after": "だって、少なくとも俺はあの頃には戻りたくないと思うし。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "だって、少なくとも俺はあの頃には戻りたくないと思うし。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは、あまり良くないような気がする。",
+        "after": "それとも、二人ならばそんなことも思わないのかな？"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "それとも、二人ならばそんなことも思わないのかな？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だって、少なくとも俺はあの頃には戻りたくないと思うし。",
+        "after": "？？？「でも、あれだな……」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "？？？「でも、あれだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "それとも、二人ならばそんなことも思わないのかな？",
+        "after": "？？？「？」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "？？？「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「でも、あれだな……」",
+        "after": "？？？「お前がここに存在してるということは、もしかしたら死ぬっていうことは普通に死ぬことじゃないのかもしれんな」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "？？？「お前がここに存在してるということは、もしかしたら死ぬっていうことは普通に死ぬことじゃないのかもしれんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「？」",
+        "after": "？？？「どういうこと？」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "？？？「どういうこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「お前がここに存在してるということは、もしかしたら死ぬっていうことは普通に死ぬことじゃないのかもしれんな」",
+        "after": "？？？「死ぬことはいなくなることなのかもな」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "？？？「死ぬことはいなくなることなのかもな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「どういうこと？」",
+        "after": "？？？「いなくなるって……君が？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "？？？「いなくなるって……君が？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「死ぬことはいなくなることなのかもな」",
+        "after": "？？？「まあ、そうだな」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "？？？「まあ、そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「いなくなるって……君が？」",
+        "after": "？？？「駄目だよ！！」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "？？？「駄目だよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「まあ、そうだな」",
+        "after": "？？？「うわっ！？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "？？？「うわっ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "？？？「駄目だよ！！」",
+        "after": "俺は小さな彼の両肩を掴んで揺らす。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "俺は小さな彼の両肩を掴んで揺らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「うわっ！？」",
+        "after": "？？？「駄目だよ！！　そんなの！！　絶対駄目だ！！」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "？？？「駄目だよ！！　そんなの！！　絶対駄目だ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "俺は小さな彼の両肩を掴んで揺らす。",
+        "after": "彼がいなくなる？"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "彼がいなくなる？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「駄目だよ！！　そんなの！！　絶対駄目だ！！」",
+        "after": "そうしたら、俺はどうなる？"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "そうしたら、俺はどうなる？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼がいなくなる？",
+        "after": "彼とこうして話すことも出来ない。"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "彼とこうして話すことも出来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうしたら、俺はどうなる？",
+        "after": "また一人の時に逆戻りだ。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "また一人の時に逆戻りだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼とこうして話すことも出来ない。",
+        "after": "ああ、でもそんなことよりも……"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "ああ、でもそんなことよりも……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また一人の時に逆戻りだ。",
+        "after": "？？？「君がいなくなったら、淋しいよ……。七葵君」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "？？？「君がいなくなったら、淋しいよ……。七葵君」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "ああ、でもそんなことよりも……",
+        "after": "泣き出しそうな俺をまだ小さな七葵君が撫でてくれた。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "泣き出しそうな俺をまだ小さな七葵君が撫でてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「君がいなくなったら、淋しいよ……。七葵君」",
+        "after": "桐島　七葵「泣くな、千代！　お前は男だろう！　男は涙を流すもんじゃないぞ！」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "桐島　七葵「泣くな、千代！　お前は男だろう！　男は涙を流すもんじゃないぞ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "泣き出しそうな俺をまだ小さな七葵君が撫でてくれた。",
+        "after": "千代「……うん」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "千代「……うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「泣くな、千代！　お前は男だろう！　男は涙を流すもんじゃないぞ！」",
+        "after": "俺が返事をすると、七葵君は笑う。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "俺が返事をすると、七葵君は笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「……うん」",
+        "after": "桐島　七葵「千代、ありがとうな」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "桐島　七葵「千代、ありがとうな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "俺が返事をすると、七葵君は笑う。",
+        "after": "千代「うん」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "千代「うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「千代、ありがとうな」",
+        "after": "彼が笑えば俺も笑う。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "彼が笑えば俺も笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「うん」",
+        "after": "そう、俺達はいつも一緒だった。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "そう、俺達はいつも一緒だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が笑えば俺も笑う。",
+        "after": null
+      }
+    }
+  ]
+}

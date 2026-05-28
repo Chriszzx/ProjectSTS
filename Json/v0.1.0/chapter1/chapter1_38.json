@@ -1,0 +1,3028 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_38.txt",
+    "chapter": "chapter1",
+    "total_lines": 167,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "私はあの日以来、ずっと考えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "授業中も、食事中も、夜寝る前も。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "授業中も、食事中も、夜寝る前も。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はあの日以来、ずっと考えていた。",
+        "after": "迷っていた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "迷っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "授業中も、食事中も、夜寝る前も。",
+        "after": "考え事とはつまり、太宰ともゑさんのことに関してだった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "考え事とはつまり、太宰ともゑさんのことに関してだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "迷っていた。",
+        "after": "彼女のことは気にかかる。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "彼女のことは気にかかる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "考え事とはつまり、太宰ともゑさんのことに関してだった。",
+        "after": "けれど、これ以上私はどうしたらいいのだろう？"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "けれど、これ以上私はどうしたらいいのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女のことは気にかかる。",
+        "after": "千代さんに言われるがまま、アルバムを借りてはみたものの、何をどうしたらいいのかさっぱり分からない。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "千代さんに言われるがまま、アルバムを借りてはみたものの、何をどうしたらいいのかさっぱり分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、これ以上私はどうしたらいいのだろう？",
+        "after": "私はこのことに関して、本当にこれ以上足を踏み入れても良いのだろうか。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "私はこのことに関して、本当にこれ以上足を踏み入れても良いのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんに言われるがまま、アルバムを借りてはみたものの、何をどうしたらいいのかさっぱり分からない。",
+        "after": "第一、ともゑさんに関して知ったとして私に何が出来るというわけではない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "第一、ともゑさんに関して知ったとして私に何が出来るというわけではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はこのことに関して、本当にこれ以上足を踏み入れても良いのだろうか。",
+        "after": "それなのに、ただ気になるからといって、他人の事情を詮索しても良いのだろうか。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "それなのに、ただ気になるからといって、他人の事情を詮索しても良いのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "第一、ともゑさんに関して知ったとして私に何が出来るというわけではない。",
+        "after": "千代さんはあれから私の前に姿を現さなかった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "千代さんはあれから私の前に姿を現さなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それなのに、ただ気になるからといって、他人の事情を詮索しても良いのだろうか。",
+        "after": "また、桐島先輩とも会うこともなく、千代さんやともゑさんのことに関して私から訊ねることもなかった。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "また、桐島先輩とも会うこともなく、千代さんやともゑさんのことに関して私から訊ねることもなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんはあれから私の前に姿を現さなかった。",
+        "after": "このように考えていることが、既に千代さんの思うつぼだったのかもしれない。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "このように考えていることが、既に千代さんの思うつぼだったのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また、桐島先輩とも会うこともなく、千代さんやともゑさんのことに関して私から訊ねることもなかった。",
+        "after": "私は……"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "このように考えていることが、既に千代さんの思うつぼだったのかもしれない。",
+        "after": "この件のことを忘れることにした"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "この件のことを忘れることにした",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は……",
+        "after": "この件について少し調べてみることにした"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "この件について少し調べてみることにした",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この件のことを忘れることにした",
+        "after": "この件のことを忘れることにした。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "この件のことを忘れることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この件について少し調べてみることにした",
+        "after": "やはり、あまり深く踏み入れてはいけないと思った。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "やはり、あまり深く踏み入れてはいけないと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この件のことを忘れることにした。",
+        "after": "兄もどちらかといえば、そちらの方を望んでいたし、忘れてしまえばこうして気に病む必要もない。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "兄もどちらかといえば、そちらの方を望んでいたし、忘れてしまえばこうして気に病む必要もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やはり、あまり深く踏み入れてはいけないと思った。",
+        "after": "私はアルバムを返した。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "私はアルバムを返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄もどちらかといえば、そちらの方を望んでいたし、忘れてしまえばこうして気に病む必要もない。",
+        "after": "千代さんはその後二度と私の前に現れなかった。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "千代さんはその後二度と私の前に現れなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はアルバムを返した。",
+        "after": "勿論、ともゑさんと顔を合わせることもなかった。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "勿論、ともゑさんと顔を合わせることもなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんはその後二度と私の前に現れなかった。",
+        "after": "桐島先輩とはあの日昼食を一緒に摂って以来、すれ違っても、軽く挨拶をするだけで話もしない。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島先輩とはあの日昼食を一緒に摂って以来、すれ違っても、軽く挨拶をするだけで話もしない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "勿論、ともゑさんと顔を合わせることもなかった。",
+        "after": "これで良かったのだ。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "これで良かったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩とはあの日昼食を一緒に摂って以来、すれ違っても、軽く挨拶をするだけで話もしない。",
+        "after": "これでいつもと何も変わらない日々が送れる。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "これでいつもと何も変わらない日々が送れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これで良かったのだ。",
+        "after": "いつもと変わらない。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "いつもと変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これでいつもと何も変わらない日々が送れる。",
+        "after": "ああ、時計の針が動かない。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "ああ、時計の針が動かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもと変わらない。",
+        "after": "この件について少し調べてみることにした。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "この件について少し調べてみることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、時計の針が動かない。",
+        "after": "それを決めさせたのは、蒼だった。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "それを決めさせたのは、蒼だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この件について少し調べてみることにした。",
+        "after": "私は帰り際、臥待堂に寄っては、蒼と話をした。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "私は帰り際、臥待堂に寄っては、蒼と話をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それを決めさせたのは、蒼だった。",
+        "after": "最初は他愛もない話をしていたのだけれど、次第に私は黙り込み、自分がどうしたらいいのか迷っていることを正直に話した。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "最初は他愛もない話をしていたのだけれど、次第に私は黙り込み、自分がどうしたらいいのか迷っていることを正直に話した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は帰り際、臥待堂に寄っては、蒼と話をした。",
+        "after": "彼は無口な人だったし、ともゑさんに関してもある程度把握しているので、とても話しやすかった。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "彼は無口な人だったし、ともゑさんに関してもある程度把握しているので、とても話しやすかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初は他愛もない話をしていたのだけれど、次第に私は黙り込み、自分がどうしたらいいのか迷っていることを正直に話した。",
+        "after": "私が話し終わった後、彼は言った。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "私が話し終わった後、彼は言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は無口な人だったし、ともゑさんに関してもある程度把握しているので、とても話しやすかった。",
+        "after": "蒼「お前が知りたいというのならば、私はお前についていこう」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「お前が知りたいというのならば、私はお前についていこう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私が話し終わった後、彼は言った。",
+        "after": "たった一言。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "たった一言。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「お前が知りたいというのならば、私はお前についていこう」",
+        "after": "彼はそう言うと、再び本を読み出したけれど、私はそんなことは気にならなかった。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "彼はそう言うと、再び本を読み出したけれど、私はそんなことは気にならなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "たった一言。",
+        "after": "約束、だった。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "約束、だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はそう言うと、再び本を読み出したけれど、私はそんなことは気にならなかった。",
+        "after": "一緒に言葉を探すという約束。彼は律儀にも守ろうとしていたのだ。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "一緒に言葉を探すという約束。彼は律儀にも守ろうとしていたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "約束、だった。",
+        "after": "私の中で幾つか引っかかっていた懸念は、たった一つの言葉で全て消え去ってしまった。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "私の中で幾つか引っかかっていた懸念は、たった一つの言葉で全て消え去ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一緒に言葉を探すという約束。彼は律儀にも守ろうとしていたのだ。",
+        "after": "そう。私はきっと知りたいのだろう。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "そう。私はきっと知りたいのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の中で幾つか引っかかっていた懸念は、たった一つの言葉で全て消え去ってしまった。",
+        "after": "彼女のことでもなく、千代さんのことでもなく、この物語に隠された言葉を。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "彼女のことでもなく、千代さんのことでもなく、この物語に隠された言葉を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう。私はきっと知りたいのだろう。",
+        "after": "そうと決まったら、あとの行動は早いもので、私はともゑさんの事情を知る人物をあたることにした。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "そうと決まったら、あとの行動は早いもので、私はともゑさんの事情を知る人物をあたることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女のことでもなく、千代さんのことでもなく、この物語に隠された言葉を。",
+        "after": "病院の関係者はこの間の反応からいって、期待は出来ない。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "病院の関係者はこの間の反応からいって、期待は出来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうと決まったら、あとの行動は早いもので、私はともゑさんの事情を知る人物をあたることにした。",
+        "after": "あとは、ともゑさん本人に聞くか、それともともゑさんの姉に聞くかという選択肢もあったけれど、まずはもう一度アルバムを見ることにした。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "あとは、ともゑさん本人に聞くか、それともともゑさんの姉に聞くかという選択肢もあったけれど、まずはもう一度アルバムを見ることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "病院の関係者はこの間の反応からいって、期待は出来ない。",
+        "after": "もしかしたら、何か見落としている事実があるかもしれない。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "もしかしたら、何か見落としている事実があるかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あとは、ともゑさん本人に聞くか、それともともゑさんの姉に聞くかという選択肢もあったけれど、まずはもう一度アルバムを見ることにした。",
+        "after": "私と蒼は二人一緒にアルバムに貼られてある写真の一枚一枚を確認した。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "私と蒼は二人一緒にアルバムに貼られてある写真の一枚一枚を確認した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もしかしたら、何か見落としている事実があるかもしれない。",
+        "after": "すると、笑顔の彼女が写っている中、その隣に自分のよく知る人物がいることに気が付いた。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "すると、笑顔の彼女が写っている中、その隣に自分のよく知る人物がいることに気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と蒼は二人一緒にアルバムに貼られてある写真の一枚一枚を確認した。",
+        "after": "女子生徒「先生、ごめんねありがとー！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "女子生徒「先生、ごめんねありがとー！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "すると、笑顔の彼女が写っている中、その隣に自分のよく知る人物がいることに気が付いた。",
+        "after": "司書「はいはい。今度は、ちゃんと締め切り前に返すのよー」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "司書「はいはい。今度は、ちゃんと締め切り前に返すのよー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒「先生、ごめんねありがとー！」",
+        "after": "司書「ふう……。今日は、あとはー……」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "司書「ふう……。今日は、あとはー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「はいはい。今度は、ちゃんと締め切り前に返すのよー」",
+        "after": "遠野　紗夜「先生」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「先生」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「ふう……。今日は、あとはー……」",
+        "after": "司書「あら、遠野さん。本を返しに来たの？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "司書「あら、遠野さん。本を返しに来たの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先生」",
+        "after": "遠野　紗夜「そうではなく、少しお聞きしたいことがありまして……」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「そうではなく、少しお聞きしたいことがありまして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「あら、遠野さん。本を返しに来たの？」",
+        "after": "司書「聞きたいこと？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "司書「聞きたいこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうではなく、少しお聞きしたいことがありまして……」",
+        "after": "遠野　紗夜「ええ。……先生は、確かここのＯＢでしたよね？」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「ええ。……先生は、確かここのＯＢでしたよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「聞きたいこと？」",
+        "after": "司書「ええ、そうよ。それがどうかした？」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "司書「ええ、そうよ。それがどうかした？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。……先生は、確かここのＯＢでしたよね？」",
+        "after": "私はそれを聞いて安心した。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "私はそれを聞いて安心した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「ええ、そうよ。それがどうかした？」",
+        "after": "そして、鞄の中から例の卒業アルバムを広げて見せた。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "そして、鞄の中から例の卒業アルバムを広げて見せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はそれを聞いて安心した。",
+        "after": "遠野　紗夜「これなのですが……この方について、何か知っていることはありますか？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「これなのですが……この方について、何か知っていることはありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、鞄の中から例の卒業アルバムを広げて見せた。",
+        "after": "司書「んー……卒業アルバム？　そういえば、この前借りてったわね。何だとは思ってたけど……」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "司書「んー……卒業アルバム？　そういえば、この前借りてったわね。何だとは思ってたけど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「これなのですが……この方について、何か知っていることはありますか？」",
+        "after": "司書「太宰ともゑ……」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "司書「太宰ともゑ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「んー……卒業アルバム？　そういえば、この前借りてったわね。何だとは思ってたけど……」",
+        "after": "明らかに彼女の顔つきが変わった。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "明らかに彼女の顔つきが変わった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「太宰ともゑ……」",
+        "after": "遠野　紗夜「彼女のことを知っていますか？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「彼女のことを知っていますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "明らかに彼女の顔つきが変わった。",
+        "after": "私が聞くと、明るい声で言った。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "私が聞くと、明るい声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「彼女のことを知っていますか？」",
+        "after": "司書「ええ。知っているわよ」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "司書「ええ。知っているわよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "私が聞くと、明るい声で言った。",
+        "after": "司書「有名な人だったもの。資産家のお嬢さんで、綺麗で快活で……」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "司書「有名な人だったもの。資産家のお嬢さんで、綺麗で快活で……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「ええ。知っているわよ」",
+        "after": "司書「でも、遠野さんが何故、彼女のことを？」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "司書「でも、遠野さんが何故、彼女のことを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「有名な人だったもの。資産家のお嬢さんで、綺麗で快活で……」",
+        "after": "遠野　紗夜「以前、時計塔の前で彼女と出会いまして」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「以前、時計塔の前で彼女と出会いまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「でも、遠野さんが何故、彼女のことを？」",
+        "after": "司書「へえ。知り合いなのね。今、太宰さんって何してるの？　元気？」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "司書「へえ。知り合いなのね。今、太宰さんって何してるの？　元気？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「以前、時計塔の前で彼女と出会いまして」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「へえ。知り合いなのね。今、太宰さんって何してるの？　元気？」",
+        "after": "私が黙り込むと、何となく察したようだった。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "私が黙り込むと、何となく察したようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "司書「あら……あまり、芳しくないと」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "司書「あら……あまり、芳しくないと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "私が黙り込むと、何となく察したようだった。",
+        "after": "私は周りを見渡した。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "私は周りを見渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「あら……あまり、芳しくないと」",
+        "after": "人はいない。皆、静かに席について本を読んでいるのだろう。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "人はいない。皆、静かに席について本を読んでいるのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は周りを見渡した。",
+        "after": "けれど、念の為、声を顰めて彼女に尋ねた。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "けれど、念の為、声を顰めて彼女に尋ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "人はいない。皆、静かに席について本を読んでいるのだろう。",
+        "after": "遠野　紗夜「……彼女と同級生だった先生なら、知っていますか？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「……彼女と同級生だった先生なら、知っていますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、念の為、声を顰めて彼女に尋ねた。",
+        "after": "遠野　紗夜「ともゑさんが過去一年間分の記憶を失っているということを」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「ともゑさんが過去一年間分の記憶を失っているということを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……彼女と同級生だった先生なら、知っていますか？」",
+        "after": "司書「…………」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "司書「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんが過去一年間分の記憶を失っているということを」",
+        "after": "私が言うと、明るい表情は一気に消え失せ、見たこともないような真剣な目で私を見た。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "私が言うと、明るい表情は一気に消え失せ、見たこともないような真剣な目で私を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「…………」",
+        "after": "アルバムを見返して気付いたのは、委員会の写真だった。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "アルバムを見返して気付いたのは、委員会の写真だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が言うと、明るい表情は一気に消え失せ、見たこともないような真剣な目で私を見た。",
+        "after": "場所は今ここにいる図書館。"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "場所は今ここにいる図書館。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "アルバムを見返して気付いたのは、委員会の写真だった。",
+        "after": "ともゑさんが明るく笑っている横で同じように明るく笑っている一人の少女。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "ともゑさんが明るく笑っている横で同じように明るく笑っている一人の少女。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "場所は今ここにいる図書館。",
+        "after": "今より若干幼いし、化粧もしていないけれど、見覚えのある姿だった。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "今より若干幼いし、化粧もしていないけれど、見覚えのある姿だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんが明るく笑っている横で同じように明るく笑っている一人の少女。",
+        "after": "それもそのはずだ。隣で笑っていたのは、司書の先生だったのだから。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "それもそのはずだ。隣で笑っていたのは、司書の先生だったのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今より若干幼いし、化粧もしていないけれど、見覚えのある姿だった。",
+        "after": "私は更に言葉を続けた。"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "私は更に言葉を続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それもそのはずだ。隣で笑っていたのは、司書の先生だったのだから。",
+        "after": "遠野　紗夜「彼女が自殺未遂をしたということも聞きました」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「彼女が自殺未遂をしたということも聞きました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は更に言葉を続けた。",
+        "after": "司書「誰から聞いたの？」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "司書「誰から聞いたの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼女が自殺未遂をしたということも聞きました」",
+        "after": "司書官は机の上に肘をのせ、浅くため息を吐いた。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "司書官は机の上に肘をのせ、浅くため息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「誰から聞いたの？」",
+        "after": "遠野　紗夜「ともゑさんの姉から聞きました」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "遠野　紗夜「ともゑさんの姉から聞きました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書官は机の上に肘をのせ、浅くため息を吐いた。",
+        "after": "司書「姉？」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "司書「姉？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんの姉から聞きました」",
+        "after": "遠野　紗夜「ええ。ともゑさんは男の方に騙されたと仰っていました」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "遠野　紗夜「ええ。ともゑさんは男の方に騙されたと仰っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「姉？」",
+        "after": "司書「…………」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "司書「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。ともゑさんは男の方に騙されたと仰っていました」",
+        "after": "遠野　紗夜「ともゑさんのこと、何か他に知っていることがあれば教えて頂けませんか？」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「ともゑさんのこと、何か他に知っていることがあれば教えて頂けませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「…………」",
+        "after": "遠野　紗夜「私は知りたいのです。何故、彼女がそこまで追いつめられなければならなかったのか、その理由を」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　紗夜「私は知りたいのです。何故、彼女がそこまで追いつめられなければならなかったのか、その理由を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんのこと、何か他に知っていることがあれば教えて頂けませんか？」",
+        "after": "司書「…………」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "司書「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は知りたいのです。何故、彼女がそこまで追いつめられなければならなかったのか、その理由を」",
+        "after": "司書官は私の言葉に目を伏せ、黙り込んでいた。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "司書官は私の言葉に目を伏せ、黙り込んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「…………」",
+        "after": "私はそれをじっと待つしかなかった。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "私はそれをじっと待つしかなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書官は私の言葉に目を伏せ、黙り込んでいた。",
+        "after": "正直、これを話した所で詳しい話を聞けるとは思ってはいなかった。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "正直、これを話した所で詳しい話を聞けるとは思ってはいなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はそれをじっと待つしかなかった。",
+        "after": "けれど、それはそれでいい。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "けれど、それはそれでいい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "正直、これを話した所で詳しい話を聞けるとは思ってはいなかった。",
+        "after": "駄目だったら、他を当たればいいのだ。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "駄目だったら、他を当たればいいのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、それはそれでいい。",
+        "after": "そんな覚悟でいると、それまで黙っていた司書官は顔を上げ、口を開いた。"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "そんな覚悟でいると、それまで黙っていた司書官は顔を上げ、口を開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "駄目だったら、他を当たればいいのだ。",
+        "after": "司書「私は、彼女と同じ委員会だっただけで、一度も同じクラスになったことはなかったんだけどね」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "司書「私は、彼女と同じ委員会だっただけで、一度も同じクラスになったことはなかったんだけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "そんな覚悟でいると、それまで黙っていた司書官は顔を上げ、口を開いた。",
+        "after": "遠野　紗夜「それでも構いません」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "遠野　紗夜「それでも構いません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「私は、彼女と同じ委員会だっただけで、一度も同じクラスになったことはなかったんだけどね」",
+        "after": "司書「そっかぁ……太宰さんか。なんか、懐かしいな」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "司書「そっかぁ……太宰さんか。なんか、懐かしいな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それでも構いません」",
+        "after": "司書「本当にね、私もよく知っているわけじゃないのよ」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "司書「本当にね、私もよく知っているわけじゃないのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「そっかぁ……太宰さんか。なんか、懐かしいな」",
+        "after": "司書「ただ、当時はすごく噂になってたから……」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "司書「ただ、当時はすごく噂になってたから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「本当にね、私もよく知っているわけじゃないのよ」",
+        "after": "遠野　紗夜「噂？」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "遠野　紗夜「噂？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「ただ、当時はすごく噂になってたから……」",
+        "after": "司書「彼女、担任の教師と隠れて付き合ってたのよ」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "司書「彼女、担任の教師と隠れて付き合ってたのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「噂？」",
+        "after": "司書「ある日それが遂にばれて、学校中もう大騒ぎ」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "司書「ある日それが遂にばれて、学校中もう大騒ぎ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「彼女、担任の教師と隠れて付き合ってたのよ」",
+        "after": "司書「すぐに二人は職員室に呼びだされて、彼女は一週間の自宅謹慎、教師の方は地方の学校に移動することで落ち着いたわ」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "司書「すぐに二人は職員室に呼びだされて、彼女は一週間の自宅謹慎、教師の方は地方の学校に移動することで落ち着いたわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「ある日それが遂にばれて、学校中もう大騒ぎ」",
+        "after": "司書「あまり大事にならなかったのは、資産家のお嬢さんということもあったし、世間体があったからね」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "司書「あまり大事にならなかったのは、資産家のお嬢さんということもあったし、世間体があったからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「すぐに二人は職員室に呼びだされて、彼女は一週間の自宅謹慎、教師の方は地方の学校に移動することで落ち着いたわ」",
+        "after": "司書「学校の方も外に噂が流れるのは避けたかったようだし……」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "司書「学校の方も外に噂が流れるのは避けたかったようだし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「あまり大事にならなかったのは、資産家のお嬢さんということもあったし、世間体があったからね」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「学校の方も外に噂が流れるのは避けたかったようだし……」",
+        "after": "司書「いい先生だったのよ」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "司書「いい先生だったのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "司書「ちょっと、ぼやっとしてて、朝なんか寝癖つけてきて、それを生徒にからかわれたりして」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "司書「ちょっと、ぼやっとしてて、朝なんか寝癖つけてきて、それを生徒にからかわれたりして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「いい先生だったのよ」",
+        "after": "司書「だから、あんなことになって、失望したわ」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "司書「だから、あんなことになって、失望したわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「ちょっと、ぼやっとしてて、朝なんか寝癖つけてきて、それを生徒にからかわれたりして」",
+        "after": "遠野　紗夜「あんなこと？」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　紗夜「あんなこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「だから、あんなことになって、失望したわ」",
+        "after": "司書「二人、どうやら駆け落ちする予定だったらしいのよ」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "司書「二人、どうやら駆け落ちする予定だったらしいのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あんなこと？」",
+        "after": "駆け落ち、と聞いて私は驚いた。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "駆け落ち、と聞いて私は驚いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「二人、どうやら駆け落ちする予定だったらしいのよ」",
+        "after": "騙されたと聞いていたから、てっきり相手の方に愛などなかったのだと思っていたけれど、それは違っていたのか、それともそれすらも男の嘘だったのか。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "騙されたと聞いていたから、てっきり相手の方に愛などなかったのだと思っていたけれど、それは違っていたのか、それともそれすらも男の嘘だったのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "駆け落ち、と聞いて私は驚いた。",
+        "after": "考える私を余所に話は続く。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "考える私を余所に話は続く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "騙されたと聞いていたから、てっきり相手の方に愛などなかったのだと思っていたけれど、それは違っていたのか、それともそれすらも男の嘘だったのか。",
+        "after": "司書「まあ、分からない話でもないわよね。教師と生徒、資産家の一人娘に、婚約者持ちの男……」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "司書「まあ、分からない話でもないわよね。教師と生徒、資産家の一人娘に、婚約者持ちの男……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "考える私を余所に話は続く。",
+        "after": "遠野　紗夜「先生には婚約者がいたのですか？」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「先生には婚約者がいたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「まあ、分からない話でもないわよね。教師と生徒、資産家の一人娘に、婚約者持ちの男……」",
+        "after": "司書「そうらしいわよ。ずっと前から約束していた人みたい」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "司書「そうらしいわよ。ずっと前から約束していた人みたい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先生には婚約者がいたのですか？」",
+        "after": "遠野　紗夜「……ともゑさんは、そのことを知っていて？」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「……ともゑさんは、そのことを知っていて？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「そうらしいわよ。ずっと前から約束していた人みたい」",
+        "after": "表面上では冷静を装っていたけれど、内心僅かに黒い感情が生まれたのに自分自身気が付いていた。"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "表面上では冷静を装っていたけれど、内心僅かに黒い感情が生まれたのに自分自身気が付いていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ともゑさんは、そのことを知っていて？」",
+        "after": "司書「どうなのかしら。そこまでは知らないけど」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "司書「どうなのかしら。そこまでは知らないけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "表面上では冷静を装っていたけれど、内心僅かに黒い感情が生まれたのに自分自身気が付いていた。",
+        "after": "司書「でも、どう考えても祝福はされない組み合わせでしょう」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "司書「でも、どう考えても祝福はされない組み合わせでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「どうなのかしら。そこまでは知らないけど」",
+        "after": "遠野　紗夜「ええ……そうですね……」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "遠野　紗夜「ええ……そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「でも、どう考えても祝福はされない組み合わせでしょう」",
+        "after": "司書「それに、遠い遠い処に移動させられたんじゃ、もう二度と会えないかもしれない」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "司書「それに、遠い遠い処に移動させられたんじゃ、もう二度と会えないかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ……そうですね……」",
+        "after": "司書「愛しているなら、全てを捨ててでも一緒にいたいと思ったんでしょうね」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "司書「愛しているなら、全てを捨ててでも一緒にいたいと思ったんでしょうね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「それに、遠い遠い処に移動させられたんじゃ、もう二度と会えないかもしれない」",
+        "after": "しみじみと懐かしい思い出でも振り返っているのか、目を細めて語る司書官の言葉に私は疑問を抱いた。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "しみじみと懐かしい思い出でも振り返っているのか、目を細めて語る司書官の言葉に私は疑問を抱いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「愛しているなら、全てを捨ててでも一緒にいたいと思ったんでしょうね」",
+        "after": "遠野　紗夜「……そういうものなのでしょうか？」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「……そういうものなのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "しみじみと懐かしい思い出でも振り返っているのか、目を細めて語る司書官の言葉に私は疑問を抱いた。",
+        "after": "遠野　紗夜「愛があれば、今まで築き上げてきたもの全てを捨てられると？」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「愛があれば、今まで築き上げてきたもの全てを捨てられると？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そういうものなのでしょうか？」",
+        "after": "遠野　紗夜「愛していれば、一緒にいたいと……」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "遠野　紗夜「愛していれば、一緒にいたいと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「愛があれば、今まで築き上げてきたもの全てを捨てられると？」",
+        "after": "司書「あら、意外に現実主義者なのね、遠野さんは」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "司書「あら、意外に現実主義者なのね、遠野さんは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「愛していれば、一緒にいたいと……」",
+        "after": "目が合い、微笑まれ、私は思わず視線を逸らしてしまった。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "目が合い、微笑まれ、私は思わず視線を逸らしてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「あら、意外に現実主義者なのね、遠野さんは」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "目が合い、微笑まれ、私は思わず視線を逸らしてしまった。",
+        "after": "遠野　紗夜「……ただ、単純に疑問に思ったのです」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "遠野　紗夜「……ただ、単純に疑問に思ったのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「全てを捨てるなんてこと、そんな簡単に決められるのかと」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「全てを捨てるなんてこと、そんな簡単に決められるのかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ただ、単純に疑問に思ったのです」",
+        "after": "司書「まあ、そうね。彼女が貴方みたいな考え方が出来る人だったら、きっとこんなことにはならなかったんだろうけど」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "司書「まあ、そうね。彼女が貴方みたいな考え方が出来る人だったら、きっとこんなことにはならなかったんだろうけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「全てを捨てるなんてこと、そんな簡単に決められるのかと」",
+        "after": "司書「だけど、彼女はそうじゃなかった」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "司書「だけど、彼女はそうじゃなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「まあ、そうね。彼女が貴方みたいな考え方が出来る人だったら、きっとこんなことにはならなかったんだろうけど」",
+        "after": "司書「彼女は、先生のことを信じていたのよ」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "司書「彼女は、先生のことを信じていたのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「だけど、彼女はそうじゃなかった」",
+        "after": "司書「先生が自分のことを愛し、最後には自分のことを選んでくれるはずと」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "司書「先生が自分のことを愛し、最後には自分のことを選んでくれるはずと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「彼女は、先生のことを信じていたのよ」",
+        "after": "来ない"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "来ない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「先生が自分のことを愛し、最後には自分のことを選んでくれるはずと」",
+        "after": "まだ来ない"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "まだ来ない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "来ない",
+        "after": "司書「そんな風に思っていたんじゃないかしら？」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "司書「そんな風に思っていたんじゃないかしら？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "まだ来ない",
+        "after": "ずっと、時計を見ながら待ちぼうけて"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "ずっと、時計を見ながら待ちぼうけて",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「そんな風に思っていたんじゃないかしら？」",
+        "after": "司書「けど、先生は待ち合わせの時間を過ぎても約束の場所には来なかった」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "司書「けど、先生は待ち合わせの時間を過ぎても約束の場所には来なかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "ずっと、時計を見ながら待ちぼうけて",
+        "after": "ああ、彼はもうすぐやってきてくれるはずなのに"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "ああ、彼はもうすぐやってきてくれるはずなのに",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「けど、先生は待ち合わせの時間を過ぎても約束の場所には来なかった」",
+        "after": "司書「耐えられなかったんでしょうね」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "司書「耐えられなかったんでしょうね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "ああ、彼はもうすぐやってきてくれるはずなのに",
+        "after": "司書「随分と、酷い言葉も投げかけられていたし」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "司書「随分と、酷い言葉も投げかけられていたし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「耐えられなかったんでしょうね」",
+        "after": "司書「信じられる存在は、先生ただ一人だったのかもしれない」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "司書「信じられる存在は、先生ただ一人だったのかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「随分と、酷い言葉も投げかけられていたし」",
+        "after": "司書「だから、恋人に裏切られた彼女は、そのまま……」"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "司書「だから、恋人に裏切られた彼女は、そのまま……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「信じられる存在は、先生ただ一人だったのかもしれない」",
+        "after": "遠野　紗夜「自ら命を絶とうとした」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "遠野　紗夜「自ら命を絶とうとした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「だから、恋人に裏切られた彼女は、そのまま……」",
+        "after": "司書「……そう。ちょうど、時計塔のあたりだったんじゃないかしら」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "司書「……そう。ちょうど、時計塔のあたりだったんじゃないかしら」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「自ら命を絶とうとした」",
+        "after": "司書「運良く助かって、数ヶ月後には学校に通い始めて、その後は、元の明るい彼女に戻っていった」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "司書「運良く助かって、数ヶ月後には学校に通い始めて、その後は、元の明るい彼女に戻っていった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「……そう。ちょうど、時計塔のあたりだったんじゃないかしら」",
+        "after": "遠野　紗夜「……ともゑさんは、忘れてしまったのですね」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "遠野　紗夜「……ともゑさんは、忘れてしまったのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「運良く助かって、数ヶ月後には学校に通い始めて、その後は、元の明るい彼女に戻っていった」",
+        "after": "司書「そう、彼女は事故と共に、先生の思い出を全て忘れてしまったの」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "司書「そう、彼女は事故と共に、先生の思い出を全て忘れてしまったの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ともゑさんは、忘れてしまったのですね」",
+        "after": "司書「周りの人間は誰もが彼女のことを思って口を閉ざしたから、知る機会もなかったし」"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "司書「周りの人間は誰もが彼女のことを思って口を閉ざしたから、知る機会もなかったし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「そう、彼女は事故と共に、先生の思い出を全て忘れてしまったの」",
+        "after": "司書「……それに、誰かが真実を言ったところで、彼女には見覚えもないし、聞き覚えもないんだから、意味ないわよね」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "司書「……それに、誰かが真実を言ったところで、彼女には見覚えもないし、聞き覚えもないんだから、意味ないわよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「周りの人間は誰もが彼女のことを思って口を閉ざしたから、知る機会もなかったし」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「……それに、誰かが真実を言ったところで、彼女には見覚えもないし、聞き覚えもないんだから、意味ないわよね」",
+        "after": "遠野　紗夜「それは、彼女にとって良かったことなのでしょうか？」"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "遠野　紗夜「それは、彼女にとって良かったことなのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「愛した人の記憶を全て忘れて生きる」"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "遠野　紗夜「愛した人の記憶を全て忘れて生きる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは、彼女にとって良かったことなのでしょうか？」",
+        "after": "遠野　紗夜「絶望した彼女にとっては、それが救いだったのでしょうか……？」"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "遠野　紗夜「絶望した彼女にとっては、それが救いだったのでしょうか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「愛した人の記憶を全て忘れて生きる」",
+        "after": "司書「さあ？　そればっかりは、私は彼女じゃないから分からないわ」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "司書「さあ？　そればっかりは、私は彼女じゃないから分からないわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「絶望した彼女にとっては、それが救いだったのでしょうか……？」",
+        "after": "司書「ただ、彼女は忘れてしまった。それだけが、真実なんでしょ」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "司書「ただ、彼女は忘れてしまった。それだけが、真実なんでしょ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "司書「さあ？　そればっかりは、私は彼女じゃないから分からないわ」",
+        "after": null
+      }
+    }
+  ]
+}

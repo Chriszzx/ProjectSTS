@@ -1,0 +1,643 @@
+{
+  "meta": {
+    "file": "chapter7_kuro/chapter7_kuro_10.txt",
+    "chapter": "chapter7_kuro",
+    "total_lines": 36,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "はっとして私は夢から覚めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "起き抜けのあのぼんやりとした感覚はなく、目はぱっちりとし、非常にはっきりとした意識でいる。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "起き抜けのあのぼんやりとした感覚はなく、目はぱっちりとし、非常にはっきりとした意識でいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はっとして私は夢から覚めた。",
+        "after": "夢を見ていた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "夢を見ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "起き抜けのあのぼんやりとした感覚はなく、目はぱっちりとし、非常にはっきりとした意識でいる。",
+        "after": "死神の夢。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "死神の夢。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夢を見ていた。",
+        "after": "あんな話をしていたからだろうか。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "あんな話をしていたからだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神の夢。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あんな話をしていたからだろうか。",
+        "after": "ふと、私は自分のいる場所が柔らかい布団の上だということに気が付いた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "ふと、私は自分のいる場所が柔らかい布団の上だということに気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "いつの間にか眠りについてしまった私を兄がここまで運んでくれたのだろう。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "いつの間にか眠りについてしまった私を兄がここまで運んでくれたのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふと、私は自分のいる場所が柔らかい布団の上だということに気が付いた。",
+        "after": "兄に感謝しながら、ベッドから足を降ろすと、私はようやく世界の異変に気が付いた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "兄に感謝しながら、ベッドから足を降ろすと、私はようやく世界の異変に気が付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつの間にか眠りについてしまった私を兄がここまで運んでくれたのだろう。",
+        "after": "目の前を金魚が泳いでいた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "目の前を金魚が泳いでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄に感謝しながら、ベッドから足を降ろすと、私はようやく世界の異変に気が付いた。",
+        "after": "いや、それを金魚と言っていいものなのだろうか。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "いや、それを金魚と言っていいものなのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目の前を金魚が泳いでいた。",
+        "after": "特徴的な羽衣の様な尾を靡かせた姿は金魚によく似ている。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "特徴的な羽衣の様な尾を靡かせた姿は金魚によく似ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いや、それを金魚と言っていいものなのだろうか。",
+        "after": "けれど、それは淡い光を放ちながらも透明で、後ろの景色が透けて見えた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "けれど、それは淡い光を放ちながらも透明で、後ろの景色が透けて見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "特徴的な羽衣の様な尾を靡かせた姿は金魚によく似ている。",
+        "after": "遠野　紗夜「これは一体……？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「これは一体……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、それは淡い光を放ちながらも透明で、後ろの景色が透けて見えた。",
+        "after": "不思議に思って手で触れてみる。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "不思議に思って手で触れてみる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「これは一体……？」",
+        "after": "何故か恐怖は感じなかった。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "何故か恐怖は感じなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "不思議に思って手で触れてみる。",
+        "after": "私の手は金魚を透り抜けた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私の手は金魚を透り抜けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故か恐怖は感じなかった。",
+        "after": "何かに触れたいう感触はない。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "何かに触れたいう感触はない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の手は金魚を透り抜けた。",
+        "after": "そこには何もない。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "そこには何もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何かに触れたいう感触はない。",
+        "after": "けれど、確かに金魚はそこにいるのだ。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "けれど、確かに金魚はそこにいるのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには何もない。",
+        "after": "遠野　紗夜「夢……？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「夢……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、確かに金魚はそこにいるのだ。",
+        "after": "まだ夢の中にいると思っていた。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "まだ夢の中にいると思っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夢……？」",
+        "after": "でなければ、目の前の光景に説明がつかない。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "でなければ、目の前の光景に説明がつかない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まだ夢の中にいると思っていた。",
+        "after": "これが夢なら夢から覚めるのはどうすればいいのだろう。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "これが夢なら夢から覚めるのはどうすればいいのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "でなければ、目の前の光景に説明がつかない。",
+        "after": "しばらく、ぼうっと金魚を見ていると、部屋の扉が開いた。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "しばらく、ぼうっと金魚を見ていると、部屋の扉が開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これが夢なら夢から覚めるのはどうすればいいのだろう。",
+        "after": "遠野　十夜「紗夜、起きていたのかい？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　十夜「紗夜、起きていたのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "しばらく、ぼうっと金魚を見ていると、部屋の扉が開いた。",
+        "after": "遠野　紗夜「兄さん……」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「紗夜、起きていたのかい？」",
+        "after": "兄は金魚を透り抜けて私の下にやって来た。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "兄は金魚を透り抜けて私の下にやって来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん……」",
+        "after": "遠野　十夜「そろそろ起きないと。学校に遅れてしまう」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　十夜「そろそろ起きないと。学校に遅れてしまう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄は金魚を透り抜けて私の下にやって来た。",
+        "after": "遠野　紗夜「学校……」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「学校……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そろそろ起きないと。学校に遅れてしまう」",
+        "after": "また、しばらく兄さんと離れ離れになってしまう。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "また、しばらく兄さんと離れ離れになってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「学校……」",
+        "after": "遠野　紗夜「兄さんと一緒にいたいです」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「兄さんと一緒にいたいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "また、しばらく兄さんと離れ離れになってしまう。",
+        "after": "遠野　十夜「可愛いことを言ってくれるね。でも、駄目だ」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　十夜「可愛いことを言ってくれるね。でも、駄目だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さんと一緒にいたいです」",
+        "after": "遠野　十夜「さあ、まずは顔を洗って」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　十夜「さあ、まずは顔を洗って」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「可愛いことを言ってくれるね。でも、駄目だ」",
+        "after": "兄は私を抱き上げると、無理矢理連れて行く。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "兄は私を抱き上げると、無理矢理連れて行く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「さあ、まずは顔を洗って」",
+        "after": "金魚は兄に触れるたびにぱちんと弾けて消えて、次の瞬間には復活した。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "金魚は兄に触れるたびにぱちんと弾けて消えて、次の瞬間には復活した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は私を抱き上げると、無理矢理連れて行く。",
+        "after": null
+      }
+    }
+  ]
+}

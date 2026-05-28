@@ -1,0 +1,1478 @@
+{
+  "meta": {
+    "file": "hinase/hinase_8.txt",
+    "chapter": "hinase",
+    "total_lines": 79,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "ベルが鳴り、私は躊躇なく玄関の扉を開ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "そこにいる人物は分かっていた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "そこにいる人物は分かっていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ベルが鳴り、私は躊躇なく玄関の扉を開ける。",
+        "after": "宮沢　夏帆「来たよ～！！」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "宮沢　夏帆「来たよ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そこにいる人物は分かっていた。",
+        "after": "夏帆はスーパーの袋を見せびらかすように持ち上げた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "夏帆はスーパーの袋を見せびらかすように持ち上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「来たよ～！！」",
+        "after": "私が彼女に頼んで買ってきてもらった物だ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私が彼女に頼んで買ってきてもらった物だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆はスーパーの袋を見せびらかすように持ち上げた。",
+        "after": "遠野　紗夜「お疲れ様です。どうぞ、上がって下さい」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「お疲れ様です。どうぞ、上がって下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私が彼女に頼んで買ってきてもらった物だ。",
+        "after": "宮沢　夏帆「お邪魔しまーす」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "宮沢　夏帆「お邪魔しまーす」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お疲れ様です。どうぞ、上がって下さい」",
+        "after": "宮沢　夏帆「じゃあ、早速キッチンに向かおうか～！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "宮沢　夏帆「じゃあ、早速キッチンに向かおうか～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「お邪魔しまーす」",
+        "after": "遠野　紗夜「はい。宜しくお願いします。先生」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「はい。宜しくお願いします。先生」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「じゃあ、早速キッチンに向かおうか～！」",
+        "after": "夏帆とのお弁当作りは私の家で行われた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "夏帆とのお弁当作りは私の家で行われた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。宜しくお願いします。先生」",
+        "after": "日生先輩には気付かれたくなかったので、夏帆には後で家で落ち合うよう約束していた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "日生先輩には気付かれたくなかったので、夏帆には後で家で落ち合うよう約束していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆とのお弁当作りは私の家で行われた。",
+        "after": "宮沢　夏帆「ふぅ～」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "宮沢　夏帆「ふぅ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩には気付かれたくなかったので、夏帆には後で家で落ち合うよう約束していた。",
+        "after": "夏帆は冷蔵庫に明日のおかずを入れる。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "夏帆は冷蔵庫に明日のおかずを入れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ふぅ～」",
+        "after": "宮沢　夏帆「とりあえず、下ごしらえはこんな感じかなぁ。明日の朝、これを焼いて、間にトマトとかパセリとか挟んで綺麗に盛りつければ良いと思う」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "宮沢　夏帆「とりあえず、下ごしらえはこんな感じかなぁ。明日の朝、これを焼いて、間にトマトとかパセリとか挟んで綺麗に盛りつければ良いと思う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は冷蔵庫に明日のおかずを入れる。",
+        "after": "宮沢　夏帆「あとは、何か作りたいものとかある？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "宮沢　夏帆「あとは、何か作りたいものとかある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「とりあえず、下ごしらえはこんな感じかなぁ。明日の朝、これを焼いて、間にトマトとかパセリとか挟んで綺麗に盛りつければ良いと思う」",
+        "after": "遠野　紗夜「特には。大丈夫です」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「特には。大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あとは、何か作りたいものとかある？」",
+        "after": "宮沢　夏帆「そっかぁ」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "宮沢　夏帆「そっかぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「特には。大丈夫です」",
+        "after": "彼女の料理の腕は正にプロ級といったところで、今の間まで手際よく調理が行われ、ほとんど私の出番はなかったが、ちゃんと最後の仕上げは任せてくれたりと気遣ってくれた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "彼女の料理の腕は正にプロ級といったところで、今の間まで手際よく調理が行われ、ほとんど私の出番はなかったが、ちゃんと最後の仕上げは任せてくれたりと気遣ってくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「そっかぁ」",
+        "after": "遠野　紗夜「ありがとうございます、夏帆。助かります」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「ありがとうございます、夏帆。助かります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女の料理の腕は正にプロ級といったところで、今の間まで手際よく調理が行われ、ほとんど私の出番はなかったが、ちゃんと最後の仕上げは任せてくれたりと気遣ってくれた。",
+        "after": "宮沢　夏帆「……ふ～ん。だって、紗夜ちゃんから頼まれたら断れないじゃん。いくら、日生先輩の為とはいえさぁ～」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「……ふ～ん。だって、紗夜ちゃんから頼まれたら断れないじゃん。いくら、日生先輩の為とはいえさぁ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます、夏帆。助かります」",
+        "after": "遠野　紗夜「まだ怒っています？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「まだ怒っています？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……ふ～ん。だって、紗夜ちゃんから頼まれたら断れないじゃん。いくら、日生先輩の為とはいえさぁ～」",
+        "after": "夏帆は頬を膨らます。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "夏帆は頬を膨らます。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「まだ怒っています？」",
+        "after": "宮沢　夏帆「……ぶ～。日生先輩のことなんか許すわけないじゃん。ずっとずっとずーっと恨んでやる～」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「……ぶ～。日生先輩のことなんか許すわけないじゃん。ずっとずっとずーっと恨んでやる～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は頬を膨らます。",
+        "after": "遠野　紗夜「ふふ。まあ、ほどほどにしておいてあげて下さいね？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「ふふ。まあ、ほどほどにしておいてあげて下さいね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……ぶ～。日生先輩のことなんか許すわけないじゃん。ずっとずっとずーっと恨んでやる～」",
+        "after": "宮沢　夏帆「考えとく」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "宮沢　夏帆「考えとく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふふ。まあ、ほどほどにしておいてあげて下さいね？」",
+        "after": "宮沢　夏帆「……それはそうと」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "宮沢　夏帆「……それはそうと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「考えとく」",
+        "after": "彼女の視線はリビングへと向けられる。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "彼女の視線はリビングへと向けられる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……それはそうと」",
+        "after": "遠野　紗夜「何でしょう？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女の視線はリビングへと向けられる。",
+        "after": "宮沢　夏帆「紗夜ちゃん家って、ほんっと本しかないんだねぇ～。どうやって生活してるのか分かんない」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "宮沢　夏帆「紗夜ちゃん家って、ほんっと本しかないんだねぇ～。どうやって生活してるのか分かんない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何でしょう？」",
+        "after": "遠野　紗夜「普通に生活していますが……」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「普通に生活していますが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃん家って、ほんっと本しかないんだねぇ～。どうやって生活してるのか分かんない」",
+        "after": "宮沢　夏帆「食事は？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "宮沢　夏帆「食事は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「普通に生活していますが……」",
+        "after": "遠野　紗夜「出来合いのお弁当かカップ麺などを」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「出来合いのお弁当かカップ麺などを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「食事は？」",
+        "after": "宮沢　夏帆「だよね～。……って、塩分の取りすぎで早死にしちゃうよ！」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "宮沢　夏帆「だよね～。……って、塩分の取りすぎで早死にしちゃうよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「出来合いのお弁当かカップ麺などを」",
+        "after": "遠野　紗夜「大丈夫ですよ。本に書いてありましたが、偉大な発明者は、毎食カップ麺を食べていたそうです。それでも、八十は生きていらっしゃったようですし」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「大丈夫ですよ。本に書いてありましたが、偉大な発明者は、毎食カップ麺を食べていたそうです。それでも、八十は生きていらっしゃったようですし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「だよね～。……って、塩分の取りすぎで早死にしちゃうよ！」",
+        "after": "宮沢　夏帆「……それ、何の本？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "宮沢　夏帆「……それ、何の本？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「大丈夫ですよ。本に書いてありましたが、偉大な発明者は、毎食カップ麺を食べていたそうです。それでも、八十は生きていらっしゃったようですし」",
+        "after": "遠野　紗夜「カップ麺を発明した人の本です」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「カップ麺を発明した人の本です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……それ、何の本？」",
+        "after": "宮沢　夏帆「何それ～……」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "宮沢　夏帆「何それ～……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「カップ麺を発明した人の本です」",
+        "after": "遠野　紗夜「面白かったですよ？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「面白かったですよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何それ～……」",
+        "after": "宮沢　夏帆「う～あ～もう～。そんなんじゃ、いつまで経っても料理上達しないよ～？」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "宮沢　夏帆「う～あ～もう～。そんなんじゃ、いつまで経っても料理上達しないよ～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「面白かったですよ？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「う～あ～もう～。そんなんじゃ、いつまで経っても料理上達しないよ～？」",
+        "after": "言われて、考える。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "言われて、考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「それは、確かにそうですね」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「それは、確かにそうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "言われて、考える。",
+        "after": "私の反応に彼女はため息を吐いた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "私の反応に彼女はため息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは、確かにそうですね」",
+        "after": "宮沢　夏帆「折角なら美味しいもの作りたいじゃん」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "宮沢　夏帆「折角なら美味しいもの作りたいじゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私の反応に彼女はため息を吐いた。",
+        "after": "宮沢　夏帆「私が紗夜ちゃんにお弁当を作ってる時は、こう考えてたよ。『喜んだ顔が見たい』って」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "宮沢　夏帆「私が紗夜ちゃんにお弁当を作ってる時は、こう考えてたよ。『喜んだ顔が見たい』って」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「折角なら美味しいもの作りたいじゃん」",
+        "after": "宮沢　夏帆「誰かの為に何かをしたいと思うなら、それなりの努力をしなきゃ」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "宮沢　夏帆「誰かの為に何かをしたいと思うなら、それなりの努力をしなきゃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「私が紗夜ちゃんにお弁当を作ってる時は、こう考えてたよ。『喜んだ顔が見たい』って」",
+        "after": "宮沢　夏帆「最近は自分でお弁当作ってるけど、どう？　美味しいって感じなかった？」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "宮沢　夏帆「最近は自分でお弁当作ってるけど、どう？　美味しいって感じなかった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「誰かの為に何かをしたいと思うなら、それなりの努力をしなきゃ」",
+        "after": "遠野　紗夜「自分で作ったものをそこまで『美味しい』と感じないですね」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「自分で作ったものをそこまで『美味しい』と感じないですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「最近は自分でお弁当作ってるけど、どう？　美味しいって感じなかった？」",
+        "after": "宮沢　夏帆「ええ～？　そお～？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "宮沢　夏帆「ええ～？　そお～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「自分で作ったものをそこまで『美味しい』と感じないですね」",
+        "after": "遠野　紗夜「はい。どちらかというと、誰かが作ってくれた物の方が美味しいと思います」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　紗夜「はい。どちらかというと、誰かが作ってくれた物の方が美味しいと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ええ～？　そお～？」",
+        "after": "遠野　紗夜「何故でしょうね……。同じ物を使って、同じ通りに作っているはずだというのに……」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「何故でしょうね……。同じ物を使って、同じ通りに作っているはずだというのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。どちらかというと、誰かが作ってくれた物の方が美味しいと思います」",
+        "after": "遠野　紗夜「これが、隣の芝は青いということなのでしょうか？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「これが、隣の芝は青いということなのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故でしょうね……。同じ物を使って、同じ通りに作っているはずだというのに……」",
+        "after": "宮沢　夏帆「せめて、誰かの為を思って作るからとか言いなよ～……」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "宮沢　夏帆「せめて、誰かの為を思って作るからとか言いなよ～……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「これが、隣の芝は青いということなのでしょうか？」",
+        "after": "宮沢　夏帆「ほら～。愛情がスパイスとかっていうし～？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "宮沢　夏帆「ほら～。愛情がスパイスとかっていうし～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「せめて、誰かの為を思って作るからとか言いなよ～……」",
+        "after": "遠野　紗夜「成る程。とても参考になります」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「成る程。とても参考になります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ほら～。愛情がスパイスとかっていうし～？」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「成る程。とても参考になります」",
+        "after": "遠野　紗夜「どうしました？」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「どうしました？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "宮沢　夏帆「あ～……今、なんか自分で自分の首を絞めた気がする～～」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "宮沢　夏帆「あ～……今、なんか自分で自分の首を絞めた気がする～～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうしました？」",
+        "after": "遠野　紗夜「ふふふ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「ふふふ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あ～……今、なんか自分で自分の首を絞めた気がする～～」",
+        "after": "宮沢　夏帆「あ。そういえば、日生先輩って好きなものとかないの～？」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "宮沢　夏帆「あ。そういえば、日生先輩って好きなものとかないの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふふふ」",
+        "after": "遠野　紗夜「好きなものですか？」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「好きなものですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あ。そういえば、日生先輩って好きなものとかないの～？」",
+        "after": "宮沢　夏帆「うん。ほら、やっぱり好きなものとか入ってる方が嬉しいじゃん！」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "宮沢　夏帆「うん。ほら、やっぱり好きなものとか入ってる方が嬉しいじゃん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「好きなものですか？」",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「うん。ほら、やっぱり好きなものとか入ってる方が嬉しいじゃん！」",
+        "after": "宮沢　夏帆「あの人、いつもゼリー飲料とかだから、何が好きなんだか知らないけどさぁ～」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "宮沢　夏帆「あの人、いつもゼリー飲料とかだから、何が好きなんだか知らないけどさぁ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "好きな物と聞いて、この間の喫茶店でのことを思い出す。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "好きな物と聞いて、この間の喫茶店でのことを思い出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あの人、いつもゼリー飲料とかだから、何が好きなんだか知らないけどさぁ～」",
+        "after": "遠野　紗夜「……そういえば、甘い物が好きだと仰っていましたね」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「……そういえば、甘い物が好きだと仰っていましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "好きな物と聞いて、この間の喫茶店でのことを思い出す。",
+        "after": "宮沢　夏帆「ふ～ん。なんか意外」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "宮沢　夏帆「ふ～ん。なんか意外」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そういえば、甘い物が好きだと仰っていましたね」",
+        "after": "宮沢　夏帆「んじゃ、簡単なのでクッキーでも作る？　それで、紅茶でも用意すればいいんじゃん？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "宮沢　夏帆「んじゃ、簡単なのでクッキーでも作る？　それで、紅茶でも用意すればいいんじゃん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふ～ん。なんか意外」",
+        "after": "遠野　紗夜「ええ、そうですね。良い案です。御指南宜しくお願い致します」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「ええ、そうですね。良い案です。御指南宜しくお願い致します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「んじゃ、簡単なのでクッキーでも作る？　それで、紅茶でも用意すればいいんじゃん？」",
+        "after": "宮沢　夏帆「じゃあ……」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "宮沢　夏帆「じゃあ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですね。良い案です。御指南宜しくお願い致します」",
+        "after": "夏帆は袖を捲りあげ気合いを入れる。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "夏帆は袖を捲りあげ気合いを入れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「じゃあ……」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は袖を捲りあげ気合いを入れる。",
+        "after": "と、突然、動きが止まる。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "と、突然、動きが止まる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、突然、動きが止まる。",
+        "after": "どうしたのだろうと様子を窺っていると、何か思いついたのか、急ににやにやとし出した。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "どうしたのだろうと様子を窺っていると、何か思いついたのか、急ににやにやとし出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": "宮沢　夏帆「……ねえ、紗夜ちゃん。私もクッキー、一緒に作ってもいい？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "宮沢　夏帆「……ねえ、紗夜ちゃん。私もクッキー、一緒に作ってもいい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "どうしたのだろうと様子を窺っていると、何か思いついたのか、急ににやにやとし出した。",
+        "after": "遠野　紗夜「はい。いいですが……」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「はい。いいですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……ねえ、紗夜ちゃん。私もクッキー、一緒に作ってもいい？」",
+        "after": "宮沢　夏帆「ありがと！　……ふふっ。いいこと思いついたぁ～"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "宮沢　夏帆「ありがと！　……ふふっ。いいこと思いついたぁ～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。いいですが……」",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ありがと！　……ふふっ。いいこと思いついたぁ～",
+        "after": null
+      }
+    }
+  ]
+}

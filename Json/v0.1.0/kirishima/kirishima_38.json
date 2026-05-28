@@ -1,0 +1,1144 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_38.txt",
+    "chapter": "kirishima",
+    "total_lines": 61,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「おかしいですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "何度かノックはしてみたものの反応がない。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "何度かノックはしてみたものの反応がない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「おかしいですね……」",
+        "after": "札はかけられてはいないが、戸は閉まっており、誰かいる気配がない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "札はかけられてはいないが、戸は閉まっており、誰かいる気配がない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何度かノックはしてみたものの反応がない。",
+        "after": "遠野　紗夜「出かけてしまっているのでしょうか……」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「出かけてしまっているのでしょうか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "札はかけられてはいないが、戸は閉まっており、誰かいる気配がない。",
+        "after": "桐島　七葵「そうみたいだな」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "桐島　七葵「そうみたいだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「出かけてしまっているのでしょうか……」",
+        "after": "遠野　紗夜「どうしましょう……。宛てが外れてしまいましたね」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「どうしましょう……。宛てが外れてしまいましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうみたいだな」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうしましょう……。宛てが外れてしまいましたね」",
+        "after": "桐島　七葵「遠野」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "桐島　七葵「遠野」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「はい？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「遠野」",
+        "after": "桐島　七葵「もう暗くなる頃だ。後は俺に任せて、今日の所はお前は帰れ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "桐島　七葵「もう暗くなる頃だ。後は俺に任せて、今日の所はお前は帰れ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい？」",
+        "after": "はい"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "はい",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「もう暗くなる頃だ。後は俺に任せて、今日の所はお前は帰れ」",
+        "after": "いいえ"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "いいえ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい",
+        "after": "遠野　紗夜「そうはいきません。桐島先輩が先程仰った通り、一人で何が出来るというのですか？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「そうはいきません。桐島先輩が先程仰った通り、一人で何が出来るというのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いいえ",
+        "after": "遠野　紗夜「今の貴方には見えないものが、私には見えます。どうか、私に役立たせて下さい」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「今の貴方には見えないものが、私には見えます。どうか、私に役立たせて下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうはいきません。桐島先輩が先程仰った通り、一人で何が出来るというのですか？」",
+        "after": "桐島　七葵「そうは言ってもな……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "桐島　七葵「そうは言ってもな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今の貴方には見えないものが、私には見えます。どうか、私に役立たせて下さい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうは言ってもな……」",
+        "after": "今は一人で色々と考えたいのだろうか？"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "今は一人で色々と考えたいのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "ならば、私は彼の邪魔をしないようにするのが賢明なのかもしれない。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "ならば、私は彼の邪魔をしないようにするのが賢明なのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今は一人で色々と考えたいのだろうか？",
+        "after": "臥待　春夫「君達、何をしているんだい？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "臥待　春夫「君達、何をしているんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "ならば、私は彼の邪魔をしないようにするのが賢明なのかもしれない。",
+        "after": "遠野　紗夜「臥待さん！　良かった！　聞きたいことがあるのです」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「臥待さん！　良かった！　聞きたいことがあるのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「君達、何をしているんだい？」",
+        "after": "遠野　紗夜「蒼は今どちらにいるか分かりますか？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「蒼は今どちらにいるか分かりますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「臥待さん！　良かった！　聞きたいことがあるのです」",
+        "after": "臥待　春夫「彼ならいないよ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "臥待　春夫「彼ならいないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼は今どちらにいるか分かりますか？」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「彼ならいないよ」",
+        "after": "臥待　春夫「むしろ、君達の方で彼を見かけなかったかい？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "臥待　春夫「むしろ、君達の方で彼を見かけなかったかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「どういうことですか？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「どういうことですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「むしろ、君達の方で彼を見かけなかったかい？」",
+        "after": "臥待　春夫「いやね、蒼君、ここ数日家に帰ってきていないんだよ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "臥待　春夫「いやね、蒼君、ここ数日家に帰ってきていないんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どういうことですか？」",
+        "after": "私と桐島先輩は顔を見合わせる。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "私と桐島先輩は顔を見合わせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「いやね、蒼君、ここ数日家に帰ってきていないんだよ」",
+        "after": "遠野　紗夜「それは大丈夫なのですか？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「それは大丈夫なのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私と桐島先輩は顔を見合わせる。",
+        "after": "臥待　春夫「一応、警察にも知らせてはいるんだけどね」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "臥待　春夫「一応、警察にも知らせてはいるんだけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは大丈夫なのですか？」",
+        "after": "遠野　紗夜「そう、だったんですか……」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「そう、だったんですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「一応、警察にも知らせてはいるんだけどね」",
+        "after": "予想外の事実に言葉を失う。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "予想外の事実に言葉を失う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そう、だったんですか……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "予想外の事実に言葉を失う。",
+        "after": "臥待　春夫「彼に何か用事でもあったのかい？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "臥待　春夫「彼に何か用事でもあったのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「え？　あ、はい……」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「え？　あ、はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「彼に何か用事でもあったのかい？」",
+        "after": "臥待　春夫「そうか。でも、今はこういう事情だから」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "臥待　春夫「そうか。でも、今はこういう事情だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　あ、はい……」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そうか。でも、今はこういう事情だから」",
+        "after": "遠野　紗夜「……こちらで蒼を見かけたらすぐにお知らせしますね」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「……こちらで蒼を見かけたらすぐにお知らせしますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "臥待　春夫「宜しく。私からも彼が見つかったら知らせるよ」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "臥待　春夫「宜しく。私からも彼が見つかったら知らせるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……こちらで蒼を見かけたらすぐにお知らせしますね」",
+        "after": "遠野　紗夜「まさか、彼がいなくなっているとは思いませんでした……」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「まさか、彼がいなくなっているとは思いませんでした……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「宜しく。私からも彼が見つかったら知らせるよ」",
+        "after": "そういえば、ここ最近彼と会っていなかった気がする。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "そういえば、ここ最近彼と会っていなかった気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「まさか、彼がいなくなっているとは思いませんでした……」",
+        "after": "あまり、意識してはいなかったけれど……。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "あまり、意識してはいなかったけれど……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そういえば、ここ最近彼と会っていなかった気がする。",
+        "after": "遠野　紗夜「蒼は不思議な方です。突然、私の目の前に現れたと思ったら、いつの間にかいなくなってしまうなんて……」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「蒼は不思議な方です。突然、私の目の前に現れたと思ったら、いつの間にかいなくなってしまうなんて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あまり、意識してはいなかったけれど……。",
+        "after": "桐島　七葵「死神はいるのかもしれんな」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "桐島　七葵「死神はいるのかもしれんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼は不思議な方です。突然、私の目の前に現れたと思ったら、いつの間にかいなくなってしまうなんて……」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「死神はいるのかもしれんな」",
+        "after": "桐島　七葵「あいつが言っていただろう。自分は死神だってな」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "桐島　七葵「あいつが言っていただろう。自分は死神だってな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "桐島　七葵「初めは何を馬鹿なことと思いもしたが、今になってみればそれは本当のことだったのかもしれん」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "桐島　七葵「初めは何を馬鹿なことと思いもしたが、今になってみればそれは本当のことだったのかもしれん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「あいつが言っていただろう。自分は死神だってな」",
+        "after": "桐島　七葵「千代という存在がいるのなら、死神もいたのかもな」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "桐島　七葵「千代という存在がいるのなら、死神もいたのかもな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「初めは何を馬鹿なことと思いもしたが、今になってみればそれは本当のことだったのかもしれん」",
+        "after": "遠野　紗夜「……そうですね」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「……そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「千代という存在がいるのなら、死神もいたのかもな」",
+        "after": "桐島　七葵「とりあえず、大分頭が冷えた」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "桐島　七葵「とりあえず、大分頭が冷えた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そうですね」",
+        "after": "桐島　七葵「千代のこと、もしかしたらお前の力を借りるかもしれん。……良いか？」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "桐島　七葵「千代のこと、もしかしたらお前の力を借りるかもしれん。……良いか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「とりあえず、大分頭が冷えた」",
+        "after": "遠野　紗夜「勿論です」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「勿論です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「千代のこと、もしかしたらお前の力を借りるかもしれん。……良いか？」",
+        "after": "桐島　七葵「ありがとう。だが、今は一人で考えさせてくれ」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "桐島　七葵「ありがとう。だが、今は一人で考えさせてくれ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「勿論です」",
+        "after": "桐島　七葵「……明日、そうだな、明日には色々と考えがまとまっていると思う」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "桐島　七葵「……明日、そうだな、明日には色々と考えがまとまっていると思う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ありがとう。だが、今は一人で考えさせてくれ」",
+        "after": "遠野　紗夜「……分かりました」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「……分かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……明日、そうだな、明日には色々と考えがまとまっていると思う」",
+        "after": "桐島　七葵「すまんな。家まで送る」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "桐島　七葵「すまんな。家まで送る」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……分かりました」",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「すまんな。家まで送る」",
+        "after": "私は首を振る。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "私は首を振る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "遠野　紗夜「一人で大丈夫です」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　紗夜「一人で大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は首を振る。",
+        "after": "桐島　七葵「……そうか。悪いな」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "桐島　七葵「……そうか。悪いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「一人で大丈夫です」",
+        "after": "そう言って、ふいと背を向け歩き出す。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "そう言って、ふいと背を向け歩き出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……そうか。悪いな」",
+        "after": "私は別れの言葉も言えずに、去りゆく背中を見つめていた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "私は別れの言葉も言えずに、去りゆく背中を見つめていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、ふいと背を向け歩き出す。",
+        "after": null
+      }
+    }
+  ]
+}

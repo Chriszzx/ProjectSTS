@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_15.txt",
+    "chapter": "chapter5",
+    "total_lines": 22,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「兄さん、ただいま帰りました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　十夜「お帰り。待っていたよ。……ああ、何だ君も一緒かい？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　十夜「お帰り。待っていたよ。……ああ、何だ君も一緒かい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、ただいま帰りました」",
+        "after": "蒼「そうだが、何か問題でもあるのか？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "蒼「そうだが、何か問題でもあるのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「お帰り。待っていたよ。……ああ、何だ君も一緒かい？」",
+        "after": "遠野　十夜「大いに」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　十夜「大いに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうだが、何か問題でもあるのか？」",
+        "after": "遠野　紗夜「兄さん、今日は臥待さんが色々とお忙しい様なので、ならばご一緒に夕食でもどうかと私が誘ったのです」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「兄さん、今日は臥待さんが色々とお忙しい様なので、ならばご一緒に夕食でもどうかと私が誘ったのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「大いに」",
+        "after": "遠野　十夜「へえ、そうなのか。相変わらず、紗夜は優しいな」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　十夜「へえ、そうなのか。相変わらず、紗夜は優しいな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、今日は臥待さんが色々とお忙しい様なので、ならばご一緒に夕食でもどうかと私が誘ったのです」",
+        "after": "そう言って、兄は私の頭を撫でる。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "そう言って、兄は私の頭を撫でる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「へえ、そうなのか。相変わらず、紗夜は優しいな」",
+        "after": "遠野　紗夜「いえ、決してそういうわけでは……」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「いえ、決してそういうわけでは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、兄は私の頭を撫でる。",
+        "after": "遠野　十夜「まあ、正直そんなことはどうでもいいんだけどね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　十夜「まあ、正直そんなことはどうでもいいんだけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ、決してそういうわけでは……」",
+        "after": "手を取ると、ダンスでもするが如く、くるりと私を回し、すっぽりとその胸の中に抱き入れる。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "手を取ると、ダンスでもするが如く、くるりと私を回し、すっぽりとその胸の中に抱き入れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「まあ、正直そんなことはどうでもいいんだけどね」",
+        "after": "遠野　紗夜「……兄さん？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「……兄さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "手を取ると、ダンスでもするが如く、くるりと私を回し、すっぽりとその胸の中に抱き入れる。",
+        "after": "遠野　十夜「何だい？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　十夜「何だい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……兄さん？」",
+        "after": "遠野　紗夜「いえ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「いえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「何だい？」",
+        "after": "何だろう、これは。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "何だろう、これは。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ」",
+        "after": "少し気恥ずかしくて、視線を泳がすと蒼い眸とぶつかった。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "少し気恥ずかしくて、視線を泳がすと蒼い眸とぶつかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だろう、これは。",
+        "after": "遠野　紗夜「兄さん」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「兄さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少し気恥ずかしくて、視線を泳がすと蒼い眸とぶつかった。",
+        "after": "私は自分を抱きしめる兄の腕に手をかけ、離してもらう。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私は自分を抱きしめる兄の腕に手をかけ、離してもらう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん」",
+        "after": "遠野　紗夜「夕食に関してなのですが」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「夕食に関してなのですが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は自分を抱きしめる兄の腕に手をかけ、離してもらう。",
+        "after": "遠野　紗夜「出前を取っても構わないのですが、いつもそれでは芸がないので、たまには違ったものを食べてはみませんか？　いかがでしょう？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「出前を取っても構わないのですが、いつもそれでは芸がないので、たまには違ったものを食べてはみませんか？　いかがでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夕食に関してなのですが」",
+        "after": "蒼「別に構わない」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "蒼「別に構わない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「出前を取っても構わないのですが、いつもそれでは芸がないので、たまには違ったものを食べてはみませんか？　いかがでしょう？」",
+        "after": "遠野　十夜「紗夜が望むなら。それで、一体何を食べるつもりなんだい？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　十夜「紗夜が望むなら。それで、一体何を食べるつもりなんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「別に構わない」",
+        "after": "遠野　紗夜「カップラーメンです！」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「カップラーメンです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「紗夜が望むなら。それで、一体何を食べるつもりなんだい？」",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1349 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_56.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 74,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "？？？「どこにいるかと思ったら、こんな所にいたのかい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "時計塔を眺めていると、横から声をかけられた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "時計塔を眺めていると、横から声をかけられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「どこにいるかと思ったら、こんな所にいたのかい」",
+        "after": "今はもう夜遅く、周囲には誰の姿もない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "今はもう夜遅く、周囲には誰の姿もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時計塔を眺めていると、横から声をかけられた。",
+        "after": "私はその見知った姿を確認してから名前を呼ぶ。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私はその見知った姿を確認してから名前を呼ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今はもう夜遅く、周囲には誰の姿もない。",
+        "after": "蒼「春夫か」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "蒼「春夫か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私はその見知った姿を確認してから名前を呼ぶ。",
+        "after": "私と目が合うと相変わらずどこか胡散臭い笑みを浮かべる。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "私と目が合うと相変わらずどこか胡散臭い笑みを浮かべる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「春夫か」",
+        "after": "臥待　春夫「君は遂に自分の記憶を取り戻したんだね」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "臥待　春夫「君は遂に自分の記憶を取り戻したんだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "私と目が合うと相変わらずどこか胡散臭い笑みを浮かべる。",
+        "after": "まるで、全てを知ってるかの様な物言いだった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "まるで、全てを知ってるかの様な物言いだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「君は遂に自分の記憶を取り戻したんだね」",
+        "after": "私は頷きもせずに言った。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は頷きもせずに言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで、全てを知ってるかの様な物言いだった。",
+        "after": "蒼「ああ、そうだ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "蒼「ああ、そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は頷きもせずに言った。",
+        "after": "臥待　春夫「気分は？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "臥待　春夫「気分は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ、そうだ」",
+        "after": "蒼「特にどうということはない」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "蒼「特にどうということはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「気分は？」",
+        "after": "臥待　春夫「そうかい。それは良かった。ずっと時計塔にいるから、てっきり暇を持て余しているんじゃないかと思っていたよ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "臥待　春夫「そうかい。それは良かった。ずっと時計塔にいるから、てっきり暇を持て余しているんじゃないかと思っていたよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「特にどうということはない」",
+        "after": "臥待　春夫「ああ、でも私の目を盗んで家に上がり込んでいたか」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "臥待　春夫「ああ、でも私の目を盗んで家に上がり込んでいたか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そうかい。それは良かった。ずっと時計塔にいるから、てっきり暇を持て余しているんじゃないかと思っていたよ」",
+        "after": "蒼「気付いていたのか」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "蒼「気付いていたのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「ああ、でも私の目を盗んで家に上がり込んでいたか」",
+        "after": "臥待　春夫「勿論」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "臥待　春夫「勿論」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「気付いていたのか」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「勿論」",
+        "after": "臥待　春夫「ちゃんとご飯は食べてるのかい？　時計塔は寒いだろうけども、暖は取れてる？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "臥待　春夫「ちゃんとご飯は食べてるのかい？　時計塔は寒いだろうけども、暖は取れてる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "蒼「問題ない。歯車の奥に隠す様に置いてあった鞄を見つけた。その中に数日間暮らせるだけの必要な物は全て入っていた」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "蒼「問題ない。歯車の奥に隠す様に置いてあった鞄を見つけた。その中に数日間暮らせるだけの必要な物は全て入っていた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「ちゃんとご飯は食べてるのかい？　時計塔は寒いだろうけども、暖は取れてる？」",
+        "after": "時計塔内に初めて潜入した際には気付かなかった。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "時計塔内に初めて潜入した際には気付かなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「問題ない。歯車の奥に隠す様に置いてあった鞄を見つけた。その中に数日間暮らせるだけの必要な物は全て入っていた」",
+        "after": "用意したのは間違いなく遠野紗夜に時計塔の鍵を渡した人物なのだろう。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "用意したのは間違いなく遠野紗夜に時計塔の鍵を渡した人物なのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時計塔内に初めて潜入した際には気付かなかった。",
+        "after": "臥待　春夫「ああ、日生君か。彼は用意が良いな」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "臥待　春夫「ああ、日生君か。彼は用意が良いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "用意したのは間違いなく遠野紗夜に時計塔の鍵を渡した人物なのだろう。",
+        "after": "蒼「お前は知っていたのか」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "蒼「お前は知っていたのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「ああ、日生君か。彼は用意が良いな」",
+        "after": "臥待　春夫「何のことだい？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "臥待　春夫「何のことだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前は知っていたのか」",
+        "after": "蒼「しらばっくれるな」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "蒼「しらばっくれるな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「何のことだい？」",
+        "after": "臥待　春夫「ははっ。そんな怖い顔をしないでおくれよ」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "臥待　春夫「ははっ。そんな怖い顔をしないでおくれよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「しらばっくれるな」",
+        "after": "肩を揺らす春夫を黙って見つめていると、やがて笑うのを止め、時計塔を仰ぎ見た。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "肩を揺らす春夫を黙って見つめていると、やがて笑うのを止め、時計塔を仰ぎ見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ははっ。そんな怖い顔をしないでおくれよ」",
+        "after": "外灯の光が反射し、眼鏡の奥底の眸が見えなくなる。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "外灯の光が反射し、眼鏡の奥底の眸が見えなくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "肩を揺らす春夫を黙って見つめていると、やがて笑うのを止め、時計塔を仰ぎ見た。",
+        "after": "こうしていると、何を考えているのか益々分からなくなる。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "こうしていると、何を考えているのか益々分からなくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "外灯の光が反射し、眼鏡の奥底の眸が見えなくなる。",
+        "after": "臥待　春夫「君はこの時計が何故この時間に止まっているのか分かるかい？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "臥待　春夫「君はこの時計が何故この時間に止まっているのか分かるかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "こうしていると、何を考えているのか益々分からなくなる。",
+        "after": "春夫は見上げていた顔を下ろすと、私に向かって意味ありげに微笑んだ。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "春夫は見上げていた顔を下ろすと、私に向かって意味ありげに微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「君はこの時計が何故この時間に止まっているのか分かるかい？」",
+        "after": "臥待　春夫「１１時４５分、死神の時間だからさ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "臥待　春夫「１１時４５分、死神の時間だからさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "春夫は見上げていた顔を下ろすと、私に向かって意味ありげに微笑んだ。",
+        "after": "蒼「死神？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼「死神？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「１１時４５分、死神の時間だからさ」",
+        "after": "臥待　春夫「そう。ああ、でも終わりの時間ともいうのかな」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "臥待　春夫「そう。ああ、でも終わりの時間ともいうのかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「死神？」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そう。ああ、でも終わりの時間ともいうのかな」",
+        "after": "臥待　春夫「１１時は１２時、明日が来るまでの最後の今日の時間。４５分は『しご』、漢字で書くと『死期』」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "臥待　春夫「１１時は１２時、明日が来るまでの最後の今日の時間。４５分は『しご』、漢字で書くと『死期』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "あまりにも下らなくて息を吐いた。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "あまりにも下らなくて息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「１１時は１２時、明日が来るまでの最後の今日の時間。４５分は『しご』、漢字で書くと『死期』」",
+        "after": "蒼「無理矢理だな」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "蒼「無理矢理だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "あまりにも下らなくて息を吐いた。",
+        "after": "臥待　春夫「ははっ。そうだね。確かに無理矢理だ。実際はそんなものに大した意味はない」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "臥待　春夫「ははっ。そうだね。確かに無理矢理だ。実際はそんなものに大した意味はない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「無理矢理だな」",
+        "after": "この男はいつもそうだ。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "この男はいつもそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「ははっ。そうだね。確かに無理矢理だ。実際はそんなものに大した意味はない」",
+        "after": "意味のないことも平然と意味がある風に装い人を惑わす。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "意味のないことも平然と意味がある風に装い人を惑わす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この男はいつもそうだ。",
+        "after": "本人には特に悪気はない所がまたやっかいな所だ。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "本人には特に悪気はない所がまたやっかいな所だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "意味のないことも平然と意味がある風に装い人を惑わす。",
+        "after": "蒼「では、どんな意味があるという？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「では、どんな意味があるという？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "本人には特に悪気はない所がまたやっかいな所だ。",
+        "after": "春夫は口元の笑みはそのままに、眼鏡を中指でくいと上げる。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "春夫は口元の笑みはそのままに、眼鏡を中指でくいと上げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「では、どんな意味があるという？」",
+        "after": "臥待　春夫「１２時前に時間が止まっているのは、１２時になったら魔法が解けてしまうからだ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "臥待　春夫「１２時前に時間が止まっているのは、１２時になったら魔法が解けてしまうからだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "春夫は口元の笑みはそのままに、眼鏡を中指でくいと上げる。",
+        "after": "蒼「お姫様にかけられた魔法か」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "蒼「お姫様にかけられた魔法か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「１２時前に時間が止まっているのは、１２時になったら魔法が解けてしまうからだ」",
+        "after": "言いながら、"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "言いながら、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「お姫様にかけられた魔法か」",
+        "after": "の顔を思い浮かべた。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "の顔を思い浮かべた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言いながら、",
+        "after": "臥待　春夫「そう。１２時になればお姫様にかけられた魔法は解けてしまう。だけど、本当にそれだけだったのかな？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "臥待　春夫「そう。１２時になればお姫様にかけられた魔法は解けてしまう。だけど、本当にそれだけだったのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "の顔を思い浮かべた。",
+        "after": "蒼「どういう意味だ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "蒼「どういう意味だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「そう。１２時になればお姫様にかけられた魔法は解けてしまう。だけど、本当にそれだけだったのかな？」",
+        "after": "臥待　春夫「君は覚えていないのかい？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "臥待　春夫「君は覚えていないのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「どういう意味だ」",
+        "after": "意外そうな顔を浮かべる春夫に対し、私は顔を顰めた。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "意外そうな顔を浮かべる春夫に対し、私は顔を顰めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「君は覚えていないのかい？」",
+        "after": "蒼「何のことだ」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "蒼「何のことだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "意外そうな顔を浮かべる春夫に対し、私は顔を顰めた。",
+        "after": "臥待　春夫「さあ、君が覚えていないというなら構わないけどね」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "臥待　春夫「さあ、君が覚えていないというなら構わないけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何のことだ」",
+        "after": "また意味深げな風を装っている、その時はそう思っていた。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "また意味深げな風を装っている、その時はそう思っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「さあ、君が覚えていないというなら構わないけどね」",
+        "after": "言い終わり、春夫は満足したのか"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "言い終わり、春夫は満足したのか",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また意味深げな風を装っている、その時はそう思っていた。",
+        "after": "臥待　春夫「じゃあ、そろそろ私は帰りますけども」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "臥待　春夫「じゃあ、そろそろ私は帰りますけども」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "言い終わり、春夫は満足したのか",
+        "after": "そう言って、踵を返した。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "そう言って、踵を返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「じゃあ、そろそろ私は帰りますけども」",
+        "after": "私はその後ろ姿に声をかける。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "私はその後ろ姿に声をかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、踵を返した。",
+        "after": "蒼「春夫」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "蒼「春夫」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私はその後ろ姿に声をかける。",
+        "after": "蒼「お前には世話になった。お前がいなければ、私は今頃ここにいることも叶わなかっただろう」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "蒼「お前には世話になった。お前がいなければ、私は今頃ここにいることも叶わなかっただろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「春夫」",
+        "after": "背を向けたまま、顔だけで振り返る。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "背を向けたまま、顔だけで振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「お前には世話になった。お前がいなければ、私は今頃ここにいることも叶わなかっただろう」",
+        "after": "臥待　春夫「珍しいな。君が礼を言うだなんて」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "臥待　春夫「珍しいな。君が礼を言うだなんて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "背を向けたまま、顔だけで振り返る。",
+        "after": "蒼「これでお前と会うのも最後だろう」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "蒼「これでお前と会うのも最後だろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「珍しいな。君が礼を言うだなんて」",
+        "after": "春夫は唖然とした様に目を丸くさせると、今度は眉根を寄せて口元だけで笑いながら"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "春夫は唖然とした様に目を丸くさせると、今度は眉根を寄せて口元だけで笑いながら",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「これでお前と会うのも最後だろう」",
+        "after": "臥待　春夫「帰ってこいとは強制しないけど、君の居場所くらいはいつでも提供してあげられるよ」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "臥待　春夫「帰ってこいとは強制しないけど、君の居場所くらいはいつでも提供してあげられるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "春夫は唖然とした様に目を丸くさせると、今度は眉根を寄せて口元だけで笑いながら",
+        "after": "と言った。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "と言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "臥待　春夫「帰ってこいとは強制しないけど、君の居場所くらいはいつでも提供してあげられるよ」",
+        "after": "居場所、と聞いて私はそんなものが本当にあるのだろうかと思った。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "居場所、と聞いて私はそんなものが本当にあるのだろうかと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と言った。",
+        "after": "過去にはなかった。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "過去にはなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "居場所、と聞いて私はそんなものが本当にあるのだろうかと思った。",
+        "after": "もっと、過去のことはよく覚えてはいない。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "もっと、過去のことはよく覚えてはいない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "過去にはなかった。",
+        "after": "覚えてはいないのだから、なかったことと変わらないだろう。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "覚えてはいないのだから、なかったことと変わらないだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もっと、過去のことはよく覚えてはいない。",
+        "after": "春夫がいなくなった後もしばらくは時計塔を眺めていた。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "春夫がいなくなった後もしばらくは時計塔を眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "覚えてはいないのだから、なかったことと変わらないだろう。",
+        "after": "もうすぐだった。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "もうすぐだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "春夫がいなくなった後もしばらくは時計塔を眺めていた。",
+        "after": "もうすぐこの物語は終わる。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "もうすぐこの物語は終わる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もうすぐだった。",
+        "after": null
+      }
+    }
+  ]
+}

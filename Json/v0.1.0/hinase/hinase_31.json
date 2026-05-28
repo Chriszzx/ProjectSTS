@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "file": "hinase/hinase_31.txt",
+    "chapter": "hinase",
+    "total_lines": 31,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "夜。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "私は一人考える。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私は一人考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夜。",
+        "after": "あの時、一人で帰ってきたのは間違いだっただろうか。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "あの時、一人で帰ってきたのは間違いだっただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は一人考える。",
+        "after": "あんな嫌味を言うように帰ってしまって、もしかして怒らせてしまった？"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "あんな嫌味を言うように帰ってしまって、もしかして怒らせてしまった？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの時、一人で帰ってきたのは間違いだっただろうか。",
+        "after": "嫌われたりしていないだろうか？"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "嫌われたりしていないだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あんな嫌味を言うように帰ってしまって、もしかして怒らせてしまった？",
+        "after": "連絡も来ない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "連絡も来ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嫌われたりしていないだろうか？",
+        "after": "もう来ないだろうか。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "もう来ないだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "連絡も来ない。",
+        "after": "今から電話をかけたら怒られる？"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "今から電話をかけたら怒られる？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もう来ないだろうか。",
+        "after": "きっと、迷惑だろう。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "きっと、迷惑だろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今から電話をかけたら怒られる？",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "きっと、迷惑だろう。",
+        "after": "様々な考えが頭の中を巡り、胸をかき乱す。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "様々な考えが頭の中を巡り、胸をかき乱す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "以前はこんなことなどなかったはずなのに、自分の心の変わり様に呆れる。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "以前はこんなことなどなかったはずなのに、自分の心の変わり様に呆れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "様々な考えが頭の中を巡り、胸をかき乱す。",
+        "after": "最初はただ嫌ではないという理由であの人の告白を受けた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "最初はただ嫌ではないという理由であの人の告白を受けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "以前はこんなことなどなかったはずなのに、自分の心の変わり様に呆れる。",
+        "after": "もしかして、『嫌ではない』といったその時には、既にあの人のことを知らぬ間に思っていたのかもしれない。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "もしかして、『嫌ではない』といったその時には、既にあの人のことを知らぬ間に思っていたのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初はただ嫌ではないという理由であの人の告白を受けた。",
+        "after": "けれど、あの時にはこんな風に、他に何も考えられなくなるということはなかった。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "けれど、あの時にはこんな風に、他に何も考えられなくなるということはなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もしかして、『嫌ではない』といったその時には、既にあの人のことを知らぬ間に思っていたのかもしれない。",
+        "after": "今はあまりにも恋い焦がれすぎて、もう何年もずっと叶わぬ恋をしているようだ。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "今はあまりにも恋い焦がれすぎて、もう何年もずっと叶わぬ恋をしているようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、あの時にはこんな風に、他に何も考えられなくなるということはなかった。",
+        "after": "あの人の顔が見たい。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "あの人の顔が見たい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今はあまりにも恋い焦がれすぎて、もう何年もずっと叶わぬ恋をしているようだ。",
+        "after": "あの人の声が聞きたい。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "あの人の声が聞きたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの人の顔が見たい。",
+        "after": "もっともっと優しい言葉を。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "もっともっと優しい言葉を。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの人の声が聞きたい。",
+        "after": "私を愛して、私を求めて下さい。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "私を愛して、私を求めて下さい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もっともっと優しい言葉を。",
+        "after": "塔の上に囚われたお姫様は、こんな気持ちで王子様がやって来るのを待っていたのだろうか。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "塔の上に囚われたお姫様は、こんな気持ちで王子様がやって来るのを待っていたのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を愛して、私を求めて下さい。",
+        "after": "ベッドから起きあがる。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "ベッドから起きあがる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "塔の上に囚われたお姫様は、こんな気持ちで王子様がやって来るのを待っていたのだろうか。",
+        "after": "今夜は眠れそうにない。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "今夜は眠れそうにない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ベッドから起きあがる。",
+        "after": "窓枠に手をかけ、もう一人の私を見つめた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "窓枠に手をかけ、もう一人の私を見つめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今夜は眠れそうにない。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "窓枠に手をかけ、もう一人の私を見つめた。",
+        "after": "こつん、と何かがぶつかる音がした。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "こつん、と何かがぶつかる音がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "こつん、と何かがぶつかる音がした。",
+        "after": "何だろう？"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "何だろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "そう思って、窓を開けた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "そう思って、窓を開けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だろう？",
+        "after": "身を乗り出して、下を見れば、そこには愛しい彼の姿。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "身を乗り出して、下を見れば、そこには愛しい彼の姿。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう思って、窓を開けた。",
+        "after": "遠野　紗夜「光さん！」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「光さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "身を乗り出して、下を見れば、そこには愛しい彼の姿。",
+        "after": null
+      }
+    }
+  ]
+}

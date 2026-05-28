@@ -1,0 +1,3150 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_36.txt",
+    "chapter": "chapter3",
+    "total_lines": 171,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「そういえば……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "商店街を過ぎ、しばらくした所ではたと気付いた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "商店街を過ぎ、しばらくした所ではたと気付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そういえば……」",
+        "after": "遠野　紗夜「……私、この先で少し用があるのを思い出してしまいました」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「……私、この先で少し用があるのを思い出してしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "商店街を過ぎ、しばらくした所ではたと気付いた。",
+        "after": "千代「え？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "千代「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私、この先で少し用があるのを思い出してしまいました」",
+        "after": "遠野　紗夜「申し訳ありませんが、お先に帰ってて下さい」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「申し訳ありませんが、お先に帰ってて下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「え？」",
+        "after": "桐島　七葵「別に待っててやるぞ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島　七葵「別に待っててやるぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「申し訳ありませんが、お先に帰ってて下さい」",
+        "after": "千代「そうですよー」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "千代「そうですよー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「別に待っててやるぞ」",
+        "after": "遠野　紗夜「いえ、大丈夫です。どうやら、蒼がついてきてくれるようなので」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「いえ、大丈夫です。どうやら、蒼がついてきてくれるようなので」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「そうですよー」",
+        "after": "私は蒼に向かって、微笑んだ。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は蒼に向かって、微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ、大丈夫です。どうやら、蒼がついてきてくれるようなので」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は蒼に向かって、微笑んだ。",
+        "after": "蒼は案の定、視線を向けるだけで、何も言わない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "蒼は案の定、視線を向けるだけで、何も言わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "桐島　七葵「そうか。ならいい。もう、遅いから時間には気を付けろ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "桐島　七葵「そうか。ならいい。もう、遅いから時間には気を付けろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼は案の定、視線を向けるだけで、何も言わない。",
+        "after": "遠野　紗夜「はい。分かりました」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「はい。分かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうか。ならいい。もう、遅いから時間には気を付けろ」",
+        "after": "桐島　七葵「遠野を任せたぞ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "桐島　七葵「遠野を任せたぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。分かりました」",
+        "after": "蒼「ああ。分かった」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "蒼「ああ。分かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「遠野を任せたぞ」",
+        "after": "彼の返事を確認すると、桐島先輩は踵を返した。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "彼の返事を確認すると、桐島先輩は踵を返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ。分かった」",
+        "after": "遠野　紗夜「お気を付けて。今日は本当にありがとうございました」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「お気を付けて。今日は本当にありがとうございました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼の返事を確認すると、桐島先輩は踵を返した。",
+        "after": "桐島　七葵「ああ。ではな」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "桐島　七葵「ああ。ではな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お気を付けて。今日は本当にありがとうございました」",
+        "after": "千代「お嬢さん！　また今度ゆっくりお話しましょう！！」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "千代「お嬢さん！　また今度ゆっくりお話しましょう！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ。ではな」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん！　また今度ゆっくりお話しましょう！！」",
+        "after": "片手を振り、彼らの後ろ姿を見送った。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "片手を振り、彼らの後ろ姿を見送った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "蒼「七葵に送ってもらわなくて良かったのか？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "蒼「七葵に送ってもらわなくて良かったのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "片手を振り、彼らの後ろ姿を見送った。",
+        "after": "遠野　紗夜「何故です？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「何故です？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「七葵に送ってもらわなくて良かったのか？」",
+        "after": "蒼「あの男は、あのままお前を家まで送り届けるつもりだっただろう」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼「あの男は、あのままお前を家まで送り届けるつもりだっただろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何故です？」",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「あの男は、あのままお前を家まで送り届けるつもりだっただろう」",
+        "after": "彼の家がどこかは知らないが、私があのまま黙っていれば、きっと彼はそうしただろう。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "彼の家がどこかは知らないが、私があのまま黙っていれば、きっと彼はそうしただろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "遠野　紗夜「……ですが、あんなに運動をして疲れているのに、わざわざこれ以上疲れさせるのは忍びありませんし」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「……ですが、あんなに運動をして疲れているのに、わざわざこれ以上疲れさせるのは忍びありませんし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼の家がどこかは知らないが、私があのまま黙っていれば、きっと彼はそうしただろう。",
+        "after": "蒼「気付いていたのか」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「気付いていたのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ですが、あんなに運動をして疲れているのに、わざわざこれ以上疲れさせるのは忍びありませんし」",
+        "after": "遠野　紗夜「ええ、まあ」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「ええ、まあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「気付いていたのか」",
+        "after": "と、私は歩き出した。勿論、行き先は自分の家であり、他に寄り道する気はない。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "と、私は歩き出した。勿論、行き先は自分の家であり、他に寄り道する気はない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、まあ」",
+        "after": "蒼が私の隣に並ぶ。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "蒼が私の隣に並ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、私は歩き出した。勿論、行き先は自分の家であり、他に寄り道する気はない。",
+        "after": "遠野　紗夜「それに貴方がいます」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「それに貴方がいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼が私の隣に並ぶ。",
+        "after": "蒼「そうか」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "蒼「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それに貴方がいます」",
+        "after": "遠野　紗夜「そうです」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「そうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうか」",
+        "after": "言い切ると、私達はそれぞれ前を向いた。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "言い切ると、私達はそれぞれ前を向いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうです」",
+        "after": "外はもうすっかりと日も落ちかけており、ちらほらと星も見えた。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "外はもうすっかりと日も落ちかけており、ちらほらと星も見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言い切ると、私達はそれぞれ前を向いた。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "外はもうすっかりと日も落ちかけており、ちらほらと星も見えた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "二人きりになり、無言の中、私は今の今まで伝えられなかった言葉をようやく告げる決心がついた。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "二人きりになり、無言の中、私は今の今まで伝えられなかった言葉をようやく告げる決心がついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……あの」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「……あの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "二人きりになり、無言の中、私は今の今まで伝えられなかった言葉をようやく告げる決心がついた。",
+        "after": "蒼「何だ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "蒼「何だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……あの」",
+        "after": "遠野　紗夜「この間のこと……すみませんでした。あんな風に取り乱したりなどして……貴方に醜い姿を見せてしまいました」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「この間のこと……すみませんでした。あんな風に取り乱したりなどして……貴方に醜い姿を見せてしまいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何だ」",
+        "after": "遠野　紗夜「本当は、もっと早く言えば良かったのですが、中々言い出す機会もなくて……」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「本当は、もっと早く言えば良かったのですが、中々言い出す機会もなくて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この間のこと……すみませんでした。あんな風に取り乱したりなどして……貴方に醜い姿を見せてしまいました」",
+        "after": "ずっと、気になっていた。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "ずっと、気になっていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「本当は、もっと早く言えば良かったのですが、中々言い出す機会もなくて……」",
+        "after": "病院でのこと、家に送り届けてもらったこと、思い出すだけで首筋が赤くなっていく。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "病院でのこと、家に送り届けてもらったこと、思い出すだけで首筋が赤くなっていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ずっと、気になっていた。",
+        "after": "過ぎたことをいつまで気にしているのだと、人には笑われるかもしれないけれど、私にとってこれは精算すべき過去の一つだった。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "過ぎたことをいつまで気にしているのだと、人には笑われるかもしれないけれど、私にとってこれは精算すべき過去の一つだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "病院でのこと、家に送り届けてもらったこと、思い出すだけで首筋が赤くなっていく。",
+        "after": "彼はいつもの口癖を言わなかった。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "彼はいつもの口癖を言わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "過ぎたことをいつまで気にしているのだと、人には笑われるかもしれないけれど、私にとってこれは精算すべき過去の一つだった。",
+        "after": "蒼「何のことだ？」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "蒼「何のことだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼はいつもの口癖を言わなかった。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何のことだ？」",
+        "after": "蒼「私はお前に謝られることも、お前の醜い姿というのも記憶にはない」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "蒼「私はお前に謝られることも、お前の醜い姿というのも記憶にはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私はお前に謝られることも、お前の醜い姿というのも記憶にはない」",
+        "after": "これはどういうことなのだろう？"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "これはどういうことなのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "彼は本当のことを言っているのか、それとも嘘を吐いているのか。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "彼は本当のことを言っているのか、それとも嘘を吐いているのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これはどういうことなのだろう？",
+        "after": "けれど、そのどちらにしても私は……"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "けれど、そのどちらにしても私は……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は本当のことを言っているのか、それとも嘘を吐いているのか。",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、そのどちらにしても私は……",
+        "after": "彼の名前を呼ぼうとした、その時だった。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "彼の名前を呼ぼうとした、その時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "？？？「よい……しょっとぉ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "？？？「よい……しょっとぉ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "彼の名前を呼ぼうとした、その時だった。",
+        "after": "それは突然、器用にもその巨体で塀を乗り越え着地したのだった。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "それは突然、器用にもその巨体で塀を乗り越え着地したのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「よい……しょっとぉ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それは突然、器用にもその巨体で塀を乗り越え着地したのだった。",
+        "after": "ヴィルヘルム「ふう、任務完了……っと……」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "ヴィルヘルム「ふう、任務完了……っと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……ヴィルヘルムさん？」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「……ヴィルヘルムさん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ふう、任務完了……っと……」",
+        "after": "ヴィルヘルム「ぎゃあああああ！　何でお前らこんな所にいんだよ！？」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "ヴィルヘルム「ぎゃあああああ！　何でお前らこんな所にいんだよ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ヴィルヘルムさん？」",
+        "after": "遠野　紗夜「私達は学校からの帰りで、彼には家まで送ってもらっている途中なのですが……」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「私達は学校からの帰りで、彼には家まで送ってもらっている途中なのですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ぎゃあああああ！　何でお前らこんな所にいんだよ！？」",
+        "after": "ヴィルヘルム「はあ、学校？　今日は確か休みだろ？」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "ヴィルヘルム「はあ、学校？　今日は確か休みだろ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私達は学校からの帰りで、彼には家まで送ってもらっている途中なのですが……」",
+        "after": "蒼「この間、話をしていただろう。剣道部の見学だ」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "蒼「この間、話をしていただろう。剣道部の見学だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「はあ、学校？　今日は確か休みだろ？」",
+        "after": "ヴィルヘルム「世間は休みを満喫してるってのに物好きだな……」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "ヴィルヘルム「世間は休みを満喫してるってのに物好きだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「この間、話をしていただろう。剣道部の見学だ」",
+        "after": "ヴィルヘルムさんは呆れたといった風に肩を竦めた。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "ヴィルヘルムさんは呆れたといった風に肩を竦めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「世間は休みを満喫してるってのに物好きだな……」",
+        "after": "蒼「お前の方こそ何をしている？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "蒼「お前の方こそ何をしている？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんは呆れたといった風に肩を竦めた。",
+        "after": "遠野　紗夜「そうですよ。ついさっき、商店街で貴方を見かけたばかりだというのに……」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "遠野　紗夜「そうですよ。ついさっき、商店街で貴方を見かけたばかりだというのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前の方こそ何をしている？」",
+        "after": "すると、ヴィルヘルムさんは急に慌て始めた。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "すると、ヴィルヘルムさんは急に慌て始めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですよ。ついさっき、商店街で貴方を見かけたばかりだというのに……」",
+        "after": "ヴィルヘルム「あ！？　え、ええっとだな……」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "ヴィルヘルム「あ！？　え、ええっとだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "すると、ヴィルヘルムさんは急に慌て始めた。",
+        "after": "蒼「そこの民家から出てきた様に思われるが」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "蒼「そこの民家から出てきた様に思われるが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「あ！？　え、ええっとだな……」",
+        "after": "蒼が更にヴィルヘルムさんを追求すると、益々彼は焦り始める。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "蒼が更にヴィルヘルムさんを追求すると、益々彼は焦り始める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そこの民家から出てきた様に思われるが」",
+        "after": "ヴィルヘルム「ええと……その……なんだ……」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "ヴィルヘルム「ええと……その……なんだ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼が更にヴィルヘルムさんを追求すると、益々彼は焦り始める。",
+        "after": "遠野　紗夜「ああ、もしかしてヴィルヘルムさんのお宅なのでは？」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　紗夜「ああ、もしかしてヴィルヘルムさんのお宅なのでは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ええと……その……なんだ……」",
+        "after": "蒼「それならば、わざわざ塀を乗り越える必要もこそこそ隠れる必要もないだろう」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "蒼「それならば、わざわざ塀を乗り越える必要もこそこそ隠れる必要もないだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ、もしかしてヴィルヘルムさんのお宅なのでは？」",
+        "after": "遠野　紗夜「確かに」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「確かに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それならば、わざわざ塀を乗り越える必要もこそこそ隠れる必要もないだろう」",
+        "after": "蒼「不法侵入か」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "蒼「不法侵入か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「確かに」",
+        "after": "ヴィルヘルム「うるせーな！　そうだよ！　悪いかよ！！」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "ヴィルヘルム「うるせーな！　そうだよ！　悪いかよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「不法侵入か」",
+        "after": "と、逆にこちらを責め立てるようにして自分の非を認めた。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "と、逆にこちらを責め立てるようにして自分の非を認めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「うるせーな！　そうだよ！　悪いかよ！！」",
+        "after": "蒼「家主の許可なしに侵入している、この国に法律がある以上、それはお前が悪いのだろう」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "蒼「家主の許可なしに侵入している、この国に法律がある以上、それはお前が悪いのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "と、逆にこちらを責め立てるようにして自分の非を認めた。",
+        "after": "ヴィルヘルム「うっ……」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "ヴィルヘルム「うっ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「家主の許可なしに侵入している、この国に法律がある以上、それはお前が悪いのだろう」",
+        "after": "遠野　紗夜「ですが、どうしてそのようなことを？」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "遠野　紗夜「ですが、どうしてそのようなことを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「うっ……」",
+        "after": "ヴィルヘルム「…………」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "ヴィルヘルム「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、どうしてそのようなことを？」",
+        "after": "ヴィルヘルム「……飯を作ってたんだよ」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "ヴィルヘルム「……飯を作ってたんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「…………」",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……飯を作ってたんだよ」",
+        "after": "ヴィルヘルム「悠希の為に晩飯の準備してたんだよ！　あと、掃除とか色々！！」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "ヴィルヘルム「悠希の為に晩飯の準備してたんだよ！　あと、掃除とか色々！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": "遠野　紗夜「ああ、ここは夏目君のお家だったのですね」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「ああ、ここは夏目君のお家だったのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「悠希の為に晩飯の準備してたんだよ！　あと、掃除とか色々！！」",
+        "after": "ヴィルヘルム「正式に言うとアパートだけどな」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "ヴィルヘルム「正式に言うとアパートだけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ああ、ここは夏目君のお家だったのですね」",
+        "after": "遠野　紗夜「随分と手早いのですね。私達と出会ってから、そう時間も経っていないはずなのに」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "遠野　紗夜「随分と手早いのですね。私達と出会ってから、そう時間も経っていないはずなのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「正式に言うとアパートだけどな」",
+        "after": "ヴィルヘルム「そ、そんなの、ぱぱぱーっと終わらせたに決まってるだろ！」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "ヴィルヘルム「そ、そんなの、ぱぱぱーっと終わらせたに決まってるだろ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「随分と手早いのですね。私達と出会ってから、そう時間も経っていないはずなのに」",
+        "after": "遠野　紗夜「そうなのですか」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "遠野　紗夜「そうなのですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そ、そんなの、ぱぱぱーっと終わらせたに決まってるだろ！」",
+        "after": "ヴィルヘルム「そうだぜ！　ははははははは！！」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "ヴィルヘルム「そうだぜ！　ははははははは！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか」",
+        "after": "ヴィルヘルム「紗夜はは……」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "ヴィルヘルム「紗夜はは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そうだぜ！　ははははははは！！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「紗夜はは……」",
+        "after": "ヴィルヘルム「じゃ、じゃーそういうことだから！　じゃあな！！」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "ヴィルヘルム「じゃ、じゃーそういうことだから！　じゃあな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "蒼「待て」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "蒼「待て」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「じゃ、じゃーそういうことだから！　じゃあな！！」",
+        "after": "どこぞかへ消えようとしたヴィルヘルムさんだが、蒼に声をかけられ、ぎくりとした様子で振り返る。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "どこぞかへ消えようとしたヴィルヘルムさんだが、蒼に声をかけられ、ぎくりとした様子で振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「待て」",
+        "after": "ヴィルヘルム「何だよ」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "ヴィルヘルム「何だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "どこぞかへ消えようとしたヴィルヘルムさんだが、蒼に声をかけられ、ぎくりとした様子で振り返る。",
+        "after": "蒼「何故、お前が夏目の為にそこまでする必要がある？」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "蒼「何故、お前が夏目の為にそこまでする必要がある？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何だよ」",
+        "after": "ヴィルヘルム「何が」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "ヴィルヘルム「何が」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、お前が夏目の為にそこまでする必要がある？」",
+        "after": "蒼「しばらくお前を見てきたが、私には何故お前がそんなにも夏目を気にするのか、理由が分からない」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "蒼「しばらくお前を見てきたが、私には何故お前がそんなにも夏目を気にするのか、理由が分からない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何が」",
+        "after": "ヴィルヘルム「……そんなの友達だからに決まってんだろ！　何度言わせりゃ気が済むんだ！！」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "ヴィルヘルム「……そんなの友達だからに決まってんだろ！　何度言わせりゃ気が済むんだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「しばらくお前を見てきたが、私には何故お前がそんなにも夏目を気にするのか、理由が分からない」",
+        "after": "蒼「私は一度しか尋ねた覚えがないが？」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "蒼「私は一度しか尋ねた覚えがないが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……そんなの友達だからに決まってんだろ！　何度言わせりゃ気が済むんだ！！」",
+        "after": "ヴィルヘルム「んなのはどーでもいーんだよ！！」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "ヴィルヘルム「んなのはどーでもいーんだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私は一度しか尋ねた覚えがないが？」",
+        "after": "蒼「友達」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "蒼「友達」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「んなのはどーでもいーんだよ！！」",
+        "after": "蒼「常に親しく交わるなかま。また、志を同じくする人。友人。ともだち。朋友」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "蒼「常に親しく交わるなかま。また、志を同じくする人。友人。ともだち。朋友」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「友達」",
+        "after": "蒼「私は様々な言葉を覚えてきたつもりだが、言葉をそのままに理解することは難しい」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "蒼「私は様々な言葉を覚えてきたつもりだが、言葉をそのままに理解することは難しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「常に親しく交わるなかま。また、志を同じくする人。友人。ともだち。朋友」",
+        "after": "蒼「果たして、友とはお前が言うように本人の気付かぬうちに色々と行動を取るものなのだろうか？」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "蒼「果たして、友とはお前が言うように本人の気付かぬうちに色々と行動を取るものなのだろうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私は様々な言葉を覚えてきたつもりだが、言葉をそのままに理解することは難しい」",
+        "after": "ヴィルヘルム「……そーいう友もあるだろ！」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "ヴィルヘルム「……そーいう友もあるだろ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「果たして、友とはお前が言うように本人の気付かぬうちに色々と行動を取るものなのだろうか？」",
+        "after": "ヴィルヘルム「いつも一緒にいるだけが友達じゃない。離れてても友達でいられる」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "ヴィルヘルム「いつも一緒にいるだけが友達じゃない。離れてても友達でいられる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……そーいう友もあるだろ！」",
+        "after": "ヴィルヘルム「一緒になって笑い合う友達もいれば、影で支え合う友達もいる」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "ヴィルヘルム「一緒になって笑い合う友達もいれば、影で支え合う友達もいる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「いつも一緒にいるだけが友達じゃない。離れてても友達でいられる」",
+        "after": "蒼「そうなのか」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "蒼「そうなのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「一緒になって笑い合う友達もいれば、影で支え合う友達もいる」",
+        "after": "ヴィルヘルム「そうなのか……って。大体、隣にいるそいつだって、お前の友達じゃねぇのか！？」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "ヴィルヘルム「そうなのか……って。大体、隣にいるそいつだって、お前の友達じゃねぇのか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうなのか」",
+        "after": "突然、話を振られ私は思わずきょとんとした。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "突然、話を振られ私は思わずきょとんとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「そうなのか……って。大体、隣にいるそいつだって、お前の友達じゃねぇのか！？」",
+        "after": "蒼「紗夜が？」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "蒼「紗夜が？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "突然、話を振られ私は思わずきょとんとした。",
+        "after": "彼と目が合う。"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "彼と目が合う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「紗夜が？」",
+        "after": "ヴィルヘルム「そーだよ。じゃあ、今度こそ行くからな！　じゃあな！」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "ヴィルヘルム「そーだよ。じゃあ、今度こそ行くからな！　じゃあな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "彼と目が合う。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そーだよ。じゃあ、今度こそ行くからな！　じゃあな！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "ヴィルヘルムさんが駆け去った後もしばらく私達は見つめ合っていた。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "ヴィルヘルムさんが駆け去った後もしばらく私達は見つめ合っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "そよそよと今までは特に気にしてもいなかった風が二人の間を通り抜けた。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "そよそよと今までは特に気にしてもいなかった風が二人の間を通り抜けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルムさんが駆け去った後もしばらく私達は見つめ合っていた。",
+        "after": "蒼「私とお前は友なのか？」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "蒼「私とお前は友なのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "そよそよと今までは特に気にしてもいなかった風が二人の間を通り抜けた。",
+        "after": "と、彼が私に訊ねた。"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "と、彼が私に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私とお前は友なのか？」",
+        "after": "はい"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "はい",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、彼が私に訊ねた。",
+        "after": "いいえ"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "いいえ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい",
+        "after": "遠野　紗夜「そうですね。私と貴方は友人だと思います」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「そうですね。私と貴方は友人だと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いいえ",
+        "after": "蒼「その理由は何だ？」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "蒼「その理由は何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね。私と貴方は友人だと思います」",
+        "after": "遠野　紗夜「理由ですか……」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "遠野　紗夜「理由ですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「その理由は何だ？」",
+        "after": "友ではない？"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "友ではない？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「理由ですか……」",
+        "after": "考え込む"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "考え込む",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "友ではない？",
+        "after": "私は考え込んだ後、自分が思ったままの言葉を言った。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "私は考え込んだ後、自分が思ったままの言葉を言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "考え込む",
+        "after": "遠野　紗夜「理由はない、ですね」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「理由はない、ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は考え込んだ後、自分が思ったままの言葉を言った。",
+        "after": "遠野　紗夜「ですが、強いて言うならば私がそう思っているからなのかもしれません」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「ですが、強いて言うならば私がそう思っているからなのかもしれません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「理由はない、ですね」",
+        "after": "蒼「ならば、私がお前を友と認めていなかった場合には？」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "蒼「ならば、私がお前を友と認めていなかった場合には？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、強いて言うならば私がそう思っているからなのかもしれません」",
+        "after": "遠野　紗夜「それは……」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "遠野　紗夜「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ならば、私がお前を友と認めていなかった場合には？」",
+        "after": "私は少し考え込んだ後、"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "私は少し考え込んだ後、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは……」",
+        "after": "遠野　紗夜「……貴方は、私を友だとは思ってはないのですか？」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「……貴方は、私を友だとは思ってはないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は少し考え込んだ後、",
+        "after": "と逆に問い返してみた。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "と逆に問い返してみた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……貴方は、私を友だとは思ってはないのですか？」",
+        "after": "蒼「友という以前にそういった感情をお前に抱いたことがない」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "蒼「友という以前にそういった感情をお前に抱いたことがない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "と逆に問い返してみた。",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「友という以前にそういった感情をお前に抱いたことがない」",
+        "after": "遠野　紗夜「ならば、私と貴方は友ではないのかもしれません」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "遠野　紗夜「ならば、私と貴方は友ではないのかもしれません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "遠野　紗夜「友人関係は、一方的に思っていても成立はしませんし……」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "遠野　紗夜「友人関係は、一方的に思っていても成立はしませんし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ならば、私と貴方は友ではないのかもしれません」",
+        "after": "言いながら考えていた。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "言いながら考えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「友人関係は、一方的に思っていても成立はしませんし……」",
+        "after": "友人でないのならば、私と蒼は一体何なのだろう？"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "友人でないのならば、私と蒼は一体何なのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言いながら考えていた。",
+        "after": "家族でもなく、恋人でもなく、友人でもなく。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "家族でもなく、恋人でもなく、友人でもなく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "友人でないのならば、私と蒼は一体何なのだろう？",
+        "after": "ましてや、師弟関係でもない。"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "ましてや、師弟関係でもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家族でもなく、恋人でもなく、友人でもなく。",
+        "after": "遠野　紗夜「それは……」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "遠野　紗夜「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ましてや、師弟関係でもない。",
+        "after": "思わず口をつぐんでしまう。"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "思わず口をつぐんでしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは……」",
+        "after": "私と蒼は、果たして友達というのだろうか？"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "私と蒼は、果たして友達というのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思わず口をつぐんでしまう。",
+        "after": "遠野　紗夜「どうなのでしょうか？　改めてそう言われて考えてみると、何だか少し違うような気がしますが」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "遠野　紗夜「どうなのでしょうか？　改めてそう言われて考えてみると、何だか少し違うような気がしますが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私と蒼は、果たして友達というのだろうか？",
+        "after": "蒼「では、私とお前は一体どの関係にあたるとお前は思うのだ？」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "蒼「では、私とお前は一体どの関係にあたるとお前は思うのだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうなのでしょうか？　改めてそう言われて考えてみると、何だか少し違うような気がしますが」",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「では、私とお前は一体どの関係にあたるとお前は思うのだ？」",
+        "after": "言葉が消えていく。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "言葉が消えていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "家族でもなく、恋人でもなく、友人でもなく。"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "家族でもなく、恋人でもなく、友人でもなく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言葉が消えていく。",
+        "after": "ましてや、師弟関係でもない。"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "ましてや、師弟関係でもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家族でもなく、恋人でもなく、友人でもなく。",
+        "after": "なら、私達は何だというのだろう？"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "なら、私達は何だというのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ましてや、師弟関係でもない。",
+        "after": "遠野　紗夜「難しいですね」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "遠野　紗夜「難しいですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "なら、私達は何だというのだろう？",
+        "after": "私は苦笑して言った。"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "私は苦笑して言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「難しいですね」",
+        "after": "彼の目がふっと細められた。"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "彼の目がふっと細められた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は苦笑して言った。",
+        "after": "蒼「ああ。私にも分からない」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "蒼「ああ。私にも分からない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼の目がふっと細められた。",
+        "after": "蒼「だが、私は今、お前とここにいる」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "蒼「だが、私は今、お前とここにいる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ。私にも分からない」",
+        "after": "蒼の手が私の頬に触れ、髪に触れた。"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "蒼の手が私の頬に触れ、髪に触れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「だが、私は今、お前とここにいる」",
+        "after": "蒼「それは、分かる」"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "蒼「それは、分かる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼の手が私の頬に触れ、髪に触れた。",
+        "after": "交わす視線。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "交わす視線。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「それは、分かる」",
+        "after": "どちらとも逸らすことなく見つめる。"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "どちらとも逸らすことなく見つめる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "交わす視線。",
+        "after": "蒼「私とお前は、言葉を探すのだ」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "蒼「私とお前は、言葉を探すのだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "どちらとも逸らすことなく見つめる。",
+        "after": "彼は私の何？"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "彼は私の何？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私とお前は、言葉を探すのだ」",
+        "after": "私は彼の何？"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "私は彼の何？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は私の何？",
+        "after": "遠野　紗夜「ええ、そうですね」"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "遠野　紗夜「ええ、そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼の何？",
+        "after": "不思議な不思議な私達の関係。"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "不思議な不思議な私達の関係。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうですね」",
+        "after": null
+      }
+    }
+  ]
+}

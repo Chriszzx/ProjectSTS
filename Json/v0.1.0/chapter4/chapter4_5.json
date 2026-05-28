@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_5.txt",
+    "chapter": "chapter4",
+    "total_lines": 32,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "家に帰ると、見知った姿が私を出迎えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "お父様の使いの者だ。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "お父様の使いの者だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家に帰ると、見知った姿が私を出迎えた。",
+        "after": "執事「紗夜様」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "執事「紗夜様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "お父様の使いの者だ。",
+        "after": "遠野　紗夜「貴方は……」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「貴方は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "執事「紗夜様」",
+        "after": "執事「随分とお帰りが遅いのですね」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "執事「随分とお帰りが遅いのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「貴方は……」",
+        "after": "遠野　紗夜「……何の用ですか？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「……何の用ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "執事「随分とお帰りが遅いのですね」",
+        "after": "声が低くなる。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "声が低くなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……何の用ですか？」",
+        "after": "彼がここにいるということは、あの人が私に何か用件があるということだ。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "彼がここにいるということは、あの人が私に何か用件があるということだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声が低くなる。",
+        "after": "そして、それが良いことだった試しがない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "そして、それが良いことだった試しがない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼がここにいるということは、あの人が私に何か用件があるということだ。",
+        "after": "執事「貴方のお父様より、伝言を預かっております」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "執事「貴方のお父様より、伝言を預かっております」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "そして、それが良いことだった試しがない。",
+        "after": "執事「明日の日曜、家に戻るようにと」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "執事「明日の日曜、家に戻るようにと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "執事「貴方のお父様より、伝言を預かっております」",
+        "after": "遠野　紗夜「嫌です」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「嫌です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "執事「明日の日曜、家に戻るようにと」",
+        "after": "遠野　紗夜「『用がお有りでしたら、そちらが直接出向いてはいかがです？』とお伝え下さい」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「『用がお有りでしたら、そちらが直接出向いてはいかがです？』とお伝え下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「嫌です」",
+        "after": "執事「ですが、お嬢様」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "執事「ですが、お嬢様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「『用がお有りでしたら、そちらが直接出向いてはいかがです？』とお伝え下さい」",
+        "after": "遠野　紗夜「貴方には何も非はないというのにご迷惑をおかけするのは申し訳ないと思います」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「貴方には何も非はないというのにご迷惑をおかけするのは申し訳ないと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "執事「ですが、お嬢様」",
+        "after": "遠野　紗夜「ですが」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「ですが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方には何も非はないというのにご迷惑をおかけするのは申し訳ないと思います」",
+        "after": "私は目を伏せ、唇を噛みしめ、自分の腕を握りしめた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私は目を伏せ、唇を噛みしめ、自分の腕を握りしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ですが」",
+        "after": "遠野　紗夜「ですが……それでも、私はもうあの家には戻りたくないです」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「ですが……それでも、私はもうあの家には戻りたくないです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は目を伏せ、唇を噛みしめ、自分の腕を握りしめた。",
+        "after": "執事「紗夜様……」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "執事「紗夜様……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ですが……それでも、私はもうあの家には戻りたくないです」",
+        "after": "しばらく無言が続いた。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "しばらく無言が続いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "執事「紗夜様……」",
+        "after": "彼は何も悪いことをしていないというのに、私が困らせている。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "彼は何も悪いことをしていないというのに、私が困らせている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しばらく無言が続いた。",
+        "after": "彼はただ、お仕事で、命令で、私にこんなことを言っているのだというのに。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "彼はただ、お仕事で、命令で、私にこんなことを言っているのだというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は何も悪いことをしていないというのに、私が困らせている。",
+        "after": "私は一つの提案をした。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私は一つの提案をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はただ、お仕事で、命令で、私にこんなことを言っているのだというのに。",
+        "after": "遠野　紗夜「……分かりました。せめて、商店街にある喫茶店……あの場所で落ち合いませんか？　時間は何時でも構いません。そう、お伝えお願い出来ますか？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「……分かりました。せめて、商店街にある喫茶店……あの場所で落ち合いませんか？　時間は何時でも構いません。そう、お伝えお願い出来ますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は一つの提案をした。",
+        "after": "執事「ありがとうございます。旦那様にはそう伝えておきます」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "執事「ありがとうございます。旦那様にはそう伝えておきます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……分かりました。せめて、商店街にある喫茶店……あの場所で落ち合いませんか？　時間は何時でも構いません。そう、お伝えお願い出来ますか？」",
+        "after": "ほっとしたような声とは対照的に、私の心は沈んでいた。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "ほっとしたような声とは対照的に、私の心は沈んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "執事「ありがとうございます。旦那様にはそう伝えておきます」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ほっとしたような声とは対照的に、私の心は沈んでいた。",
+        "after": "執事「お嬢様」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "執事「お嬢様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "執事「また一つ、美しくなりましたね」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "執事「また一つ、美しくなりましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "執事",
+      "special_char": false,
+      "context": {
+        "before": "執事「お嬢様」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "執事「また一つ、美しくなりましたね」",
+        "after": "私は能面のように顔を強張らせ、吐き捨てるように呟いた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "私は能面のように顔を強張らせ、吐き捨てるように呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……私にはこの顔は醜く歪んだように見えますよ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「……私にはこの顔は醜く歪んだように見えますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は能面のように顔を強張らせ、吐き捨てるように呟いた。",
+        "after": null
+      }
+    }
+  ]
+}

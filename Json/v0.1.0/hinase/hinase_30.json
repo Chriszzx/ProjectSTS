@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "file": "hinase/hinase_30.txt",
+    "chapter": "hinase",
+    "total_lines": 28,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "私はお祖母様の後は追わず、とある場所へと寄った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「こんにちは」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「こんにちは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はお祖母様の後は追わず、とある場所へと寄った。",
+        "after": "臥待　春夫「あー、紗夜ちゃん。久しぶりだねぇ」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "臥待　春夫「あー、紗夜ちゃん。久しぶりだねぇ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こんにちは」",
+        "after": "遠野　紗夜「はい。お久しぶりです」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「はい。お久しぶりです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「あー、紗夜ちゃん。久しぶりだねぇ」",
+        "after": "辺りを見渡す。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "辺りを見渡す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。お久しぶりです」",
+        "after": "いつもいた人がいない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "いつもいた人がいない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "辺りを見渡す。",
+        "after": "遠野　紗夜「……あの、蒼はどうしましたか？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「……あの、蒼はどうしましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いつもいた人がいない。",
+        "after": "臥待さんは急に顔を曇らす。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "臥待さんは急に顔を曇らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……あの、蒼はどうしましたか？」",
+        "after": "臥待　春夫「紗夜ちゃんもやっぱり知らないよね？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "臥待　春夫「紗夜ちゃんもやっぱり知らないよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待さんは急に顔を曇らす。",
+        "after": "遠野　紗夜「はい？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「紗夜ちゃんもやっぱり知らないよね？」",
+        "after": "臥待　春夫「蒼君なんだけど、困ったことに、ここ数日帰ってきてないんだよ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "臥待　春夫「蒼君なんだけど、困ったことに、ここ数日帰ってきてないんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい？」",
+        "after": "遠野　紗夜「えっ！？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「えっ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「蒼君なんだけど、困ったことに、ここ数日帰ってきてないんだよ」",
+        "after": "臥待　春夫「いつも通りに留守番を任せて、出かけてたんだけど、戻ってきたらいなくなっていてね」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "臥待　春夫「いつも通りに留守番を任せて、出かけてたんだけど、戻ってきたらいなくなっていてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「えっ！？」",
+        "after": "臥待　春夫「最初はすぐ帰ってくるだろうと思ってたんだけど、今の今まで帰ってこないし、勿論連絡なんてあるはずもない」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "臥待　春夫「最初はすぐ帰ってくるだろうと思ってたんだけど、今の今まで帰ってこないし、勿論連絡なんてあるはずもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「いつも通りに留守番を任せて、出かけてたんだけど、戻ってきたらいなくなっていてね」",
+        "after": "臥待　春夫「周りの人たちに聞いても誰も彼を見かけていないそうだし。一応、警察の方にも知らせてはいるんだけどね……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "臥待　春夫「周りの人たちに聞いても誰も彼を見かけていないそうだし。一応、警察の方にも知らせてはいるんだけどね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「最初はすぐ帰ってくるだろうと思ってたんだけど、今の今まで帰ってこないし、勿論連絡なんてあるはずもない」",
+        "after": "遠野　紗夜「そうだったのですか……」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「そうだったのですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「周りの人たちに聞いても誰も彼を見かけていないそうだし。一応、警察の方にも知らせてはいるんだけどね……」",
+        "after": "私は気の利いた言葉もなく呟いただけだった。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "私は気の利いた言葉もなく呟いただけだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうだったのですか……」",
+        "after": "蒼が居ない。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "蒼が居ない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は気の利いた言葉もなく呟いただけだった。",
+        "after": "不思議と心配する気持ちにはなれなかった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "不思議と心配する気持ちにはなれなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼が居ない。",
+        "after": "臥待　春夫「でも、何だか不思議だよね」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "臥待　春夫「でも、何だか不思議だよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "不思議と心配する気持ちにはなれなかった。",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「でも、何だか不思議だよね」",
+        "after": "臥待　春夫「突然現れて、突然に消えて、まるで最初からそこに存在してなかったみたいに感じるよ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "臥待　春夫「突然現れて、突然に消えて、まるで最初からそこに存在してなかったみたいに感じるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": "臥待　春夫「彼は自分のことを『死神』だって言っていたけれど、もしかしたら本当に『死神』だったのかもしれないね」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "臥待　春夫「彼は自分のことを『死神』だって言っていたけれど、もしかしたら本当に『死神』だったのかもしれないね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「突然現れて、突然に消えて、まるで最初からそこに存在してなかったみたいに感じるよ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待　春夫「彼は自分のことを『死神』だって言っていたけれど、もしかしたら本当に『死神』だったのかもしれないね」",
+        "after": "死神。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "死神。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私はその言葉に懐かしさを感じた。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "私はその言葉に懐かしさを感じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神。",
+        "after": "遠野　紗夜「彼が死神ならば、死神は何を奪っていったのでしょう？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「彼が死神ならば、死神は何を奪っていったのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその言葉に懐かしさを感じた。",
+        "after": "臥待　春夫「さあ？　私達、人間には分からないものかもしれないね」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "臥待　春夫「さあ？　私達、人間には分からないものかもしれないね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "臥待　春夫",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼が死神ならば、死神は何を奪っていったのでしょう？」",
+        "after": null
+      }
+    }
+  ]
+}

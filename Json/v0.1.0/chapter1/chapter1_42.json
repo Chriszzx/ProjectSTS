@@ -1,0 +1,5305 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_42.txt",
+    "chapter": "chapter1",
+    "total_lines": 292,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「少し、早く来すぎてしまいましたね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "今日は蒼との約束の日。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "今日は蒼との約束の日。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「少し、早く来すぎてしまいましたね……」",
+        "after": "時刻は１１時４５分。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "時刻は１１時４５分。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今日は蒼との約束の日。",
+        "after": "彼はまだこの場には来ていない。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "彼はまだこの場には来ていない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時刻は１１時４５分。",
+        "after": "昼時だからか、それともたまたまなのか、人の姿はなかった。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "昼時だからか、それともたまたまなのか、人の姿はなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はまだこの場には来ていない。",
+        "after": "丁度良い、と思った。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "丁度良い、と思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "昼時だからか、それともたまたまなのか、人の姿はなかった。",
+        "after": "今から始まるだろう物語はあまり人に聞かせるものでもない。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "今から始まるだろう物語はあまり人に聞かせるものでもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "丁度良い、と思った。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今から始まるだろう物語はあまり人に聞かせるものでもない。",
+        "after": "時計塔を見上げる。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "時計塔を見上げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "折しも、針は同じ時刻を指していた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "折しも、針は同じ時刻を指していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時計塔を見上げる。",
+        "after": "まるで、今まで正確に時を刻んでいたかのように。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "まるで、今まで正確に時を刻んでいたかのように。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "折しも、針は同じ時刻を指していた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "まるで、今まで正確に時を刻んでいたかのように。",
+        "after": "ああ、そうか。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ああ、そうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "彼女が不安げに時計塔を見つめていた理由が分かった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "彼女が不安げに時計塔を見つめていた理由が分かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、そうか。",
+        "after": "待っていたのだ。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "待っていたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女が不安げに時計塔を見つめていた理由が分かった。",
+        "after": "ずっと、この時計塔を見上げながら、愛してる人がここにやってくることを。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "ずっと、この時計塔を見上げながら、愛してる人がここにやってくることを。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "待っていたのだ。",
+        "after": "千代「……答えは、見つかりましたか？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "千代「……答えは、見つかりましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "ずっと、この時計塔を見上げながら、愛してる人がここにやってくることを。",
+        "after": "遠野　紗夜「千代さん」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「千代さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「……答えは、見つかりましたか？」",
+        "after": "私に声をかけてきたのは、待ち人ではなかった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私に声をかけてきたのは、待ち人ではなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「千代さん」",
+        "after": "けれど、彼もこの物語の中の登場人物に違いない。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "けれど、彼もこの物語の中の登場人物に違いない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私に声をかけてきたのは、待ち人ではなかった。",
+        "after": "遠野　紗夜「貴方が渡してくれたアルバムを見ました。アルバムの写真にはともゑさんの他に、司書官の姿も一緒に写っていました」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「貴方が渡してくれたアルバムを見ました。アルバムの写真にはともゑさんの他に、司書官の姿も一緒に写っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、彼もこの物語の中の登場人物に違いない。",
+        "after": "千代「はい。どうやら、あの二人はお知り合いのようですね」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "千代「はい。どうやら、あの二人はお知り合いのようですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方が渡してくれたアルバムを見ました。アルバムの写真にはともゑさんの他に、司書官の姿も一緒に写っていました」",
+        "after": "遠野　紗夜「千代さんはどうやってそのことを知ったのですか？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「千代さんはどうやってそのことを知ったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「はい。どうやら、あの二人はお知り合いのようですね」",
+        "after": "千代「たまたまです。彼女が以前、学校の前で佇んでいるのを見かけたんです。最初は何をしているのかなぁって思っていましたけど、その様子がどこか懐かしむような感じだったので、もしかしてと思って調べてみたんです」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "千代「たまたまです。彼女が以前、学校の前で佇んでいるのを見かけたんです。最初は何をしているのかなぁって思っていましたけど、その様子がどこか懐かしむような感じだったので、もしかしてと思って調べてみたんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さんはどうやってそのことを知ったのですか？」",
+        "after": "千代「そしたら、あの写真を見つけて。すぐにあの司書さんだってことは分かりました」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "千代「そしたら、あの写真を見つけて。すぐにあの司書さんだってことは分かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「たまたまです。彼女が以前、学校の前で佇んでいるのを見かけたんです。最初は何をしているのかなぁって思っていましたけど、その様子がどこか懐かしむような感じだったので、もしかしてと思って調べてみたんです」",
+        "after": "遠野　紗夜「それで、何故私にそのアルバムを？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「それで、何故私にそのアルバムを？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「そしたら、あの写真を見つけて。すぐにあの司書さんだってことは分かりました」",
+        "after": "少し冷たく聞こえてしまったのだろうか、千代さんは目に見えてしゅんとした。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "少し冷たく聞こえてしまったのだろうか、千代さんは目に見えてしゅんとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それで、何故私にそのアルバムを？」",
+        "after": "千代「回りくどいことをしてごめんなさい……」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "千代「回りくどいことをしてごめんなさい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "少し冷たく聞こえてしまったのだろうか、千代さんは目に見えてしゅんとした。",
+        "after": "千代「お嬢さん、俺はただ気付いて欲しかったんです」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "千代「お嬢さん、俺はただ気付いて欲しかったんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「回りくどいことをしてごめんなさい……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん、俺はただ気付いて欲しかったんです」",
+        "after": "私には千代さんに対して幾つか疑問がある。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "私には千代さんに対して幾つか疑問がある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "一つは、何故私に知って欲しいというのか。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "一つは、何故私に知って欲しいというのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私には千代さんに対して幾つか疑問がある。",
+        "after": "最初はともゑさんのことかと思ったけれど、それにしては千代さんがともゑさんに関して知らなさすぎる。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "最初はともゑさんのことかと思ったけれど、それにしては千代さんがともゑさんに関して知らなさすぎる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一つは、何故私に知って欲しいというのか。",
+        "after": "彼の『知って欲しい』という本心はともゑさんのこととは別にあるのではないかと思うけれど、それが何か分からない。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "彼の『知って欲しい』という本心はともゑさんのこととは別にあるのではないかと思うけれど、それが何か分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初はともゑさんのことかと思ったけれど、それにしては千代さんがともゑさんに関して知らなさすぎる。",
+        "after": "また、その何かを詳しく言わないのも腑に落ちない。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "また、その何かを詳しく言わないのも腑に落ちない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼の『知って欲しい』という本心はともゑさんのこととは別にあるのではないかと思うけれど、それが何か分からない。",
+        "after": "もう一つは私の前に姿を現す千代さんがいつも突然だということ。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "もう一つは私の前に姿を現す千代さんがいつも突然だということ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "また、その何かを詳しく言わないのも腑に落ちない。",
+        "after": "音も気配もなく、消える時すら静かだ。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "音も気配もなく、消える時すら静かだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もう一つは私の前に姿を現す千代さんがいつも突然だということ。",
+        "after": "それなのに、千代さん自身はとても目立つ容姿をしている。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "それなのに、千代さん自身はとても目立つ容姿をしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "音も気配もなく、消える時すら静かだ。",
+        "after": "あれだけ人の多い所に現れて、誰にも見られていないだなんてあり得るのだろうか？"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "あれだけ人の多い所に現れて、誰にも見られていないだなんてあり得るのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それなのに、千代さん自身はとても目立つ容姿をしている。",
+        "after": "千代「ねえ、お嬢さん。貴方はこの声が聞こえますか？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "千代「ねえ、お嬢さん。貴方はこの声が聞こえますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "あれだけ人の多い所に現れて、誰にも見られていないだなんてあり得るのだろうか？",
+        "after": "遠野　紗夜「声？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「声？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「ねえ、お嬢さん。貴方はこの声が聞こえますか？」",
+        "after": "私は千代さんが何を言っているのか分からず、顔を顰めた。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "私は千代さんが何を言っているのか分からず、顔を顰めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「声？」",
+        "after": "千代さんは口を噤み、私を真っ直ぐに見つめている。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "千代さんは口を噤み、私を真っ直ぐに見つめている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は千代さんが何を言っているのか分からず、顔を顰めた。",
+        "after": "太宰　ともゑ「ねえ、何を一人で喋っているの？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "太宰　ともゑ「ねえ、何を一人で喋っているの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "千代さんは口を噤み、私を真っ直ぐに見つめている。",
+        "after": "はっとして振り返る。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "はっとして振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「ねえ、何を一人で喋っているの？」",
+        "after": "遠野　紗夜「ともゑさん……」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「ともゑさん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "はっとして振り返る。",
+        "after": "私が彼女の名前を呼ぶと、ともゑさんは斜めに傾けた顔をゆらりと動かした。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "私が彼女の名前を呼ぶと、ともゑさんは斜めに傾けた顔をゆらりと動かした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさん……」",
+        "after": "太宰　ともゑ「貴方もここに？」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "太宰　ともゑ「貴方もここに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私が彼女の名前を呼ぶと、ともゑさんは斜めに傾けた顔をゆらりと動かした。",
+        "after": "後ろに手を組みながら、彼女は時計塔を見上げた。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "後ろに手を組みながら、彼女は時計塔を見上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「貴方もここに？」",
+        "after": "遠野　紗夜「……ええ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　紗夜「……ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "後ろに手を組みながら、彼女は時計塔を見上げた。",
+        "after": "太宰　ともゑ「そう」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "太宰　ともゑ「そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ええ」",
+        "after": "遠野　紗夜「ともゑさんは何故ここに？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「ともゑさんは何故ここに？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「そう」",
+        "after": "私はわざとそう訊ねた。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "私はわざとそう訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさんは何故ここに？」",
+        "after": "太宰　ともゑ「何しにここに来たの？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "太宰　ともゑ「何しにここに来たの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私はわざとそう訊ねた。",
+        "after": "彼女は私の言葉など聞いてもいないかのように振る舞った。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "彼女は私の言葉など聞いてもいないかのように振る舞った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「何しにここに来たの？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女は私の言葉など聞いてもいないかのように振る舞った。",
+        "after": "遠野　紗夜「私は約束しているのです。ここで、十二時に彼と待ち合わせを」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「私は約束しているのです。ここで、十二時に彼と待ち合わせを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "太宰　ともゑ「…………」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "太宰　ともゑ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は約束しているのです。ここで、十二時に彼と待ち合わせを」",
+        "after": "千代「彼？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "千代「彼？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「…………」",
+        "after": "遠野　紗夜「え、ああ……それはですね……」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　紗夜「え、ああ……それはですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「彼？」",
+        "after": "私が千代さんに説明しようとすると、ともゑさんは私を憎々しげに睨んだ。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "私が千代さんに説明しようとすると、ともゑさんは私を憎々しげに睨んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え、ああ……それはですね……」",
+        "after": "太宰　ともゑ「貴方……さっきから誰と喋っているの？」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "太宰　ともゑ「貴方……さっきから誰と喋っているの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "私が千代さんに説明しようとすると、ともゑさんは私を憎々しげに睨んだ。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「貴方……さっきから誰と喋っているの？」",
+        "after": "遠野　紗夜「誰とって……ここにいる千代さんと……」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「誰とって……ここにいる千代さんと……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "そう言って、千代さんの方を向く。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "そう言って、千代さんの方を向く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「誰とって……ここにいる千代さんと……」",
+        "after": "太宰　ともゑ「誰もいないじゃない」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "太宰　ともゑ「誰もいないじゃない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、千代さんの方を向く。",
+        "after": "千代「…………」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "千代「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「誰もいないじゃない」",
+        "after": "遠野　紗夜「それは……」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「…………」",
+        "after": "私は言葉を飲んだ。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "私は言葉を飲んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは……」",
+        "after": "彼は何とも淋しげな顔をしていた。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "彼は何とも淋しげな顔をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は言葉を飲んだ。",
+        "after": "もしかして、という気もしないでいた。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "もしかして、という気もしないでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は何とも淋しげな顔をしていた。",
+        "after": "けれど、実際に言われるとどうしてもそれが真実とは俄には信じがたい。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "けれど、実際に言われるとどうしてもそれが真実とは俄には信じがたい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もしかして、という気もしないでいた。",
+        "after": "やや呆然としていると、何も知らない彼女は私に向かって吐き捨てた。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "やや呆然としていると、何も知らない彼女は私に向かって吐き捨てた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、実際に言われるとどうしてもそれが真実とは俄には信じがたい。",
+        "after": "太宰　ともゑ「本当に嫌な奴」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "太宰　ともゑ「本当に嫌な奴」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "やや呆然としていると、何も知らない彼女は私に向かって吐き捨てた。",
+        "after": "太宰　ともゑ「私、本当は貴方が羨ましかった」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "太宰　ともゑ「私、本当は貴方が羨ましかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「本当に嫌な奴」",
+        "after": "太宰　ともゑ「初めて、先生と出会って、恋に落ちて、幸せだった」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "太宰　ともゑ「初めて、先生と出会って、恋に落ちて、幸せだった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「私、本当は貴方が羨ましかった」",
+        "after": "太宰　ともゑ「先生と生徒だったけど、そんなの時が解決してくれる。薔薇色の未来とはきっとこのことを言うんだわ、そう思ってた」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "太宰　ともゑ「先生と生徒だったけど、そんなの時が解決してくれる。薔薇色の未来とはきっとこのことを言うんだわ、そう思ってた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「初めて、先生と出会って、恋に落ちて、幸せだった」",
+        "after": "太宰　ともゑ「だけど、先生には貴方がいた」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "太宰　ともゑ「だけど、先生には貴方がいた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「先生と生徒だったけど、そんなの時が解決してくれる。薔薇色の未来とはきっとこのことを言うんだわ、そう思ってた」",
+        "after": "太宰　ともゑ「美しい黒髪の女の人だと思った」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "太宰　ともゑ「美しい黒髪の女の人だと思った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「だけど、先生には貴方がいた」",
+        "after": "太宰　ともゑ「大人で、皆から祝福されて……私とは全然違う」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "太宰　ともゑ「大人で、皆から祝福されて……私とは全然違う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「美しい黒髪の女の人だと思った」",
+        "after": "太宰　ともゑ「ねえ、どうして？　私は貴方のような美しい黒い髪じゃなかったから？」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "太宰　ともゑ「ねえ、どうして？　私は貴方のような美しい黒い髪じゃなかったから？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「大人で、皆から祝福されて……私とは全然違う」",
+        "after": "太宰　ともゑ「だから、私を選んではくれなかったんだわ」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "太宰　ともゑ「だから、私を選んではくれなかったんだわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ねえ、どうして？　私は貴方のような美しい黒い髪じゃなかったから？」",
+        "after": "彼女の言葉は支離滅裂でとても正気ではないと思った。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "彼女の言葉は支離滅裂でとても正気ではないと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「だから、私を選んではくれなかったんだわ」",
+        "after": "遠野　紗夜「……何を仰っているのか分かりません」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　紗夜「……何を仰っているのか分かりません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女の言葉は支離滅裂でとても正気ではないと思った。",
+        "after": "太宰　ともゑ「私と先生は祝福されてはいけなかった」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "太宰　ともゑ「私と先生は祝福されてはいけなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何を仰っているのか分かりません」",
+        "after": "太宰　ともゑ「ずっと、貴方の存在だけが邪魔だった」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "太宰　ともゑ「ずっと、貴方の存在だけが邪魔だった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「私と先生は祝福されてはいけなかった」",
+        "after": "彼女は完璧に狂っていた。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "彼女は完璧に狂っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「ずっと、貴方の存在だけが邪魔だった」",
+        "after": "何故なら、彼女はずっと私のことを『貴方』と言っている。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "何故なら、彼女はずっと私のことを『貴方』と言っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は完璧に狂っていた。",
+        "after": "それは『遠野紗夜』に対してではない。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "それは『遠野紗夜』に対してではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故なら、彼女はずっと私のことを『貴方』と言っている。",
+        "after": "深く考えるまでもない。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "深く考えるまでもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは『遠野紗夜』に対してではない。",
+        "after": "ともゑさんは、どうやら私に『婚約者』の姿を重ねているらしかった。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "ともゑさんは、どうやら私に『婚約者』の姿を重ねているらしかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "深く考えるまでもない。",
+        "after": "太宰　ともゑ「私の物語」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "太宰　ともゑ「私の物語」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんは、どうやら私に『婚約者』の姿を重ねているらしかった。",
+        "after": "太宰　ともゑ「ずっと、ずっと終わらないのなら、終わらせようと思ったの」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "太宰　ともゑ「ずっと、ずっと終わらないのなら、終わらせようと思ったの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「私の物語」",
+        "after": "太宰　ともゑ「来ない人を待ち続けるのはもう辛い。だから、せめて私の手で終わらせようって」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "太宰　ともゑ「来ない人を待ち続けるのはもう辛い。だから、せめて私の手で終わらせようって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ずっと、ずっと終わらないのなら、終わらせようと思ったの」",
+        "after": "そう言って笑う彼女の手に、きらりと光る何かが見えた。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "そう言って笑う彼女の手に、きらりと光る何かが見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「来ない人を待ち続けるのはもう辛い。だから、せめて私の手で終わらせようって」",
+        "after": "息を飲むより早く、咄嗟に身構えようとするよりも早く、その切っ先は、彼女の笑みを共にして、私へと向かう。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "息を飲むより早く、咄嗟に身構えようとするよりも早く、その切っ先は、彼女の笑みを共にして、私へと向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って笑う彼女の手に、きらりと光る何かが見えた。",
+        "after": "千代「お嬢さん！」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "千代「お嬢さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "息を飲むより早く、咄嗟に身構えようとするよりも早く、その切っ先は、彼女の笑みを共にして、私へと向かう。",
+        "after": "私は思わず目を瞑った。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "私は思わず目を瞑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「お嬢さん！」",
+        "after": "次に来るのは、衝撃か、それとも鋭い痛みなのか。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "次に来るのは、衝撃か、それとも鋭い痛みなのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は思わず目を瞑った。",
+        "after": "結局、そのどちらとも外れることとなった。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "結局、そのどちらとも外れることとなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "次に来るのは、衝撃か、それとも鋭い痛みなのか。",
+        "after": "太宰　ともゑ「きゃっ！」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "太宰　ともゑ「きゃっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "結局、そのどちらとも外れることとなった。",
+        "after": "短い悲鳴と共に、何かが落ちる音が聞こえた。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "短い悲鳴と共に、何かが落ちる音が聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「きゃっ！」",
+        "after": "私は目を開ける。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "私は目を開ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "短い悲鳴と共に、何かが落ちる音が聞こえた。",
+        "after": "少しぼやけた視界は段々と澄み切っていく。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "少しぼやけた視界は段々と澄み切っていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は目を開ける。",
+        "after": "そこには、ともゑさんの手首を片手で軽く持ち上げた蒼の姿があった。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "そこには、ともゑさんの手首を片手で軽く持ち上げた蒼の姿があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少しぼやけた視界は段々と澄み切っていく。",
+        "after": "遠野　紗夜「蒼……！！」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「蒼……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そこには、ともゑさんの手首を片手で軽く持ち上げた蒼の姿があった。",
+        "after": "私が呼ぶと、ぱっと手を離す。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "私が呼ぶと、ぱっと手を離す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼……！！」",
+        "after": "ともゑさんはその隙に彼から抜けだし、私達から距離を取った。"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "ともゑさんはその隙に彼から抜けだし、私達から距離を取った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が呼ぶと、ぱっと手を離す。",
+        "after": "太宰　ともゑ「……っ」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "太宰　ともゑ「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんはその隙に彼から抜けだし、私達から距離を取った。",
+        "after": "太宰　ともゑ「何で……っ」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "太宰　ともゑ「何で……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……っ」",
+        "after": "太宰　ともゑ「何で貴方ばっかり！！　どうして、約束が果たされるの！？」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "太宰　ともゑ「何で貴方ばっかり！！　どうして、約束が果たされるの！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何で……っ」",
+        "after": "彼女が叫ぶ。その顔は悲痛そのものだった。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "彼女が叫ぶ。その顔は悲痛そのものだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「何で貴方ばっかり！！　どうして、約束が果たされるの！？」",
+        "after": "私は自分が襲われたにも関わらず、冷静だった。"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "私は自分が襲われたにも関わらず、冷静だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女が叫ぶ。その顔は悲痛そのものだった。",
+        "after": "遠野　紗夜「果たして、そうだったのでしょうか？」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "遠野　紗夜「果たして、そうだったのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は自分が襲われたにも関わらず、冷静だった。",
+        "after": "落ち着いた声で言った。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "落ち着いた声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「果たして、そうだったのでしょうか？」",
+        "after": "彼女の目が大きく見開かれる。"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "彼女の目が大きく見開かれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "落ち着いた声で言った。",
+        "after": "遠野　紗夜「本当に、貴方の先生は貴方を裏切ったのでしょうか？」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　紗夜「本当に、貴方の先生は貴方を裏切ったのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女の目が大きく見開かれる。",
+        "after": "遠野　紗夜「先生は本当はここに来たかったけれど、来られなかったのではありませんか？」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「先生は本当はここに来たかったけれど、来られなかったのではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当に、貴方の先生は貴方を裏切ったのでしょうか？」",
+        "after": "太宰　ともゑ「何よそれ……」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "太宰　ともゑ「何よそれ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先生は本当はここに来たかったけれど、来られなかったのではありませんか？」",
+        "after": "遠野　紗夜「貴方は言いました。愛した人に裏切られた。あの人は来なかったと」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "遠野　紗夜「貴方は言いました。愛した人に裏切られた。あの人は来なかったと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何よそれ……」",
+        "after": "遠野　紗夜「最初は私も貴方や貴方のお姉さんが言っている通り、貴方は裏切られたのだと思いました」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "遠野　紗夜「最初は私も貴方や貴方のお姉さんが言っている通り、貴方は裏切られたのだと思いました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は言いました。愛した人に裏切られた。あの人は来なかったと」",
+        "after": "遠野　紗夜「けれど、それは本当だったのでしょうか？」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "遠野　紗夜「けれど、それは本当だったのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「最初は私も貴方や貴方のお姉さんが言っている通り、貴方は裏切られたのだと思いました」",
+        "after": "遠野　紗夜「貴方達の話を聞く限りでは、貴方の"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「貴方達の話を聞く限りでは、貴方の",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「けれど、それは本当だったのでしょうか？」",
+        "after": "主観"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "主観",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方達の話を聞く限りでは、貴方の",
+        "after": "ばかりが語られていて、肝心の『先生』についてが詳しく語られていません」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "ばかりが語られていて、肝心の『先生』についてが詳しく語られていません」",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "主観",
+        "after": "遠野　紗夜「先生は確かに待ち合わせに来なかった。では、その後、先生はどうなったのでしょうか？」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「先生は確かに待ち合わせに来なかった。では、その後、先生はどうなったのでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ばかりが語られていて、肝心の『先生』についてが詳しく語られていません」",
+        "after": "遠野　紗夜「もし、貴方が真実を知りたいと思うのなら、もう一度ご自分であの日のことを調べてはいかがでしょう？」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「もし、貴方が真実を知りたいと思うのなら、もう一度ご自分であの日のことを調べてはいかがでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先生は確かに待ち合わせに来なかった。では、その後、先生はどうなったのでしょうか？」",
+        "after": "遠野　紗夜「そして、出来るのなら直接『先生』に理由を問えば宜しいのではないでしょうか？」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "遠野　紗夜「そして、出来るのなら直接『先生』に理由を問えば宜しいのではないでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「もし、貴方が真実を知りたいと思うのなら、もう一度ご自分であの日のことを調べてはいかがでしょう？」",
+        "after": "蒼が言わなければ、気付かなかったことだった。"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "蒼が言わなければ、気付かなかったことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そして、出来るのなら直接『先生』に理由を問えば宜しいのではないでしょうか？」",
+        "after": "ともゑさんの話は籠の鳥の話と同じ。"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "ともゑさんの話は籠の鳥の話と同じ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼が言わなければ、気付かなかったことだった。",
+        "after": "表面で語られていることだけでは、真実は分からない。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "表面で語られていることだけでは、真実は分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんの話は籠の鳥の話と同じ。",
+        "after": "もしかしたら、本当は『先生』はともゑさんの下に来たかったのかもしれない。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "もしかしたら、本当は『先生』はともゑさんの下に来たかったのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "表面で語られていることだけでは、真実は分からない。",
+        "after": "けれど、何らかの事情で来られなかったのかもしれない。"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "けれど、何らかの事情で来られなかったのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もしかしたら、本当は『先生』はともゑさんの下に来たかったのかもしれない。",
+        "after": "ともゑさんは『先生』を愛していた。"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "ともゑさんは『先生』を愛していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、何らかの事情で来られなかったのかもしれない。",
+        "after": "愛しているのならば、もう一度信じてあげればいいのではないかと思い、私は彼女にこの言葉をかけたのだ。"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "愛しているのならば、もう一度信じてあげればいいのではないかと思い、私は彼女にこの言葉をかけたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんは『先生』を愛していた。",
+        "after": "しかし、ともゑさんは『先生』を信じようとはしなかった。"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "しかし、ともゑさんは『先生』を信じようとはしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "愛しているのならば、もう一度信じてあげればいいのではないかと思い、私は彼女にこの言葉をかけたのだ。",
+        "after": "太宰　ともゑ「そんなことしなくても分かるわ！　先生は貴方を選んだ！　だから、ここに来なかった！」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "太宰　ともゑ「そんなことしなくても分かるわ！　先生は貴方を選んだ！　だから、ここに来なかった！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "しかし、ともゑさんは『先生』を信じようとはしなかった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「そんなことしなくても分かるわ！　先生は貴方を選んだ！　だから、ここに来なかった！」",
+        "after": "私は彼女のことを憐れに思った。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "私は彼女のことを憐れに思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "彼女は全てを捨ててまで一緒にいたいと望んだ相手の一度の裏切りによって愛を失ってしまったのだ。"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "彼女は全てを捨ててまで一緒にいたいと望んだ相手の一度の裏切りによって愛を失ってしまったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼女のことを憐れに思った。",
+        "after": "愛しているのなら、信じれば良かったのだ。"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "愛しているのなら、信じれば良かったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は全てを捨ててまで一緒にいたいと望んだ相手の一度の裏切りによって愛を失ってしまったのだ。",
+        "after": "それか、忘れたままであれば良かった。"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "それか、忘れたままであれば良かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "愛しているのなら、信じれば良かったのだ。",
+        "after": "そうすれば、こんなにも惨めなことにもならず、彼女は今頃笑っていたかもしれないというのに。"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "そうすれば、こんなにも惨めなことにもならず、彼女は今頃笑っていたかもしれないというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それか、忘れたままであれば良かった。",
+        "after": "彼女の言葉に、今まで興味なさげに黙っていた蒼が口を開いた。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "彼女の言葉に、今まで興味なさげに黙っていた蒼が口を開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうすれば、こんなにも惨めなことにもならず、彼女は今頃笑っていたかもしれないというのに。",
+        "after": "蒼「おかしなことを言う女だ」"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "蒼「おかしなことを言う女だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼女の言葉に、今まで興味なさげに黙っていた蒼が口を開いた。",
+        "after": "蒼「お前は約束は守られていないと言っているが、男は最初からここにいるではないか」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "蒼「お前は約束は守られていないと言っているが、男は最初からここにいるではないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「おかしなことを言う女だ」",
+        "after": "遠野　紗夜「蒼？」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "遠野　紗夜「蒼？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前は約束は守られていないと言っているが、男は最初からここにいるではないか」",
+        "after": "太宰　ともゑ「はあぁ！？　嘘言わないでよ！！」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "太宰　ともゑ「はあぁ！？　嘘言わないでよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼？」",
+        "after": "蒼「嘘ではない」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "蒼「嘘ではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「はあぁ！？　嘘言わないでよ！！」",
+        "after": "蒼「ここに、この場所に、男はいる」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "蒼「ここに、この場所に、男はいる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「嘘ではない」",
+        "after": "太宰　ともゑ「どこにもいないじゃない！！　あの人がここにいるはずがないわ！！」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "太宰　ともゑ「どこにもいないじゃない！！　あの人がここにいるはずがないわ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ここに、この場所に、男はいる」",
+        "after": "太宰　ともゑ「あの人は……先生は、私を裏切ったんだから！！」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "太宰　ともゑ「あの人は……先生は、私を裏切ったんだから！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「どこにもいないじゃない！！　あの人がここにいるはずがないわ！！」",
+        "after": "？？？「残念だろうが、そいつが言ってることは本当だ」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "？？？「残念だろうが、そいつが言ってることは本当だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「あの人は……先生は、私を裏切ったんだから！！」",
+        "after": "突然、第三者の声が私達の間に割って入った。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "突然、第三者の声が私達の間に割って入った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「残念だろうが、そいつが言ってることは本当だ」",
+        "after": "千代「七葵君！」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "千代「七葵君！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "突然、第三者の声が私達の間に割って入った。",
+        "after": "千代さんが嬉しそうに彼の下に駆け寄る。"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "千代さんが嬉しそうに彼の下に駆け寄る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「七葵君！」",
+        "after": "桐島先輩は私と目が合うと、眉間に皺を寄せた。"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "桐島先輩は私と目が合うと、眉間に皺を寄せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんが嬉しそうに彼の下に駆け寄る。",
+        "after": "桐島　七葵「全く……。だから、関わるなと言っただろうが」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "桐島　七葵「全く……。だから、関わるなと言っただろうが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は私と目が合うと、眉間に皺を寄せた。",
+        "after": "桐島　七葵「まあ、今回のことは千代がお前にちょっかいをかけたことが原因とも言えるのか」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "桐島　七葵「まあ、今回のことは千代がお前にちょっかいをかけたことが原因とも言えるのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「全く……。だから、関わるなと言っただろうが」",
+        "after": "千代「……すみません、お嬢さん」"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "千代「……すみません、お嬢さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「まあ、今回のことは千代がお前にちょっかいをかけたことが原因とも言えるのか」",
+        "after": "何故ここに桐島先輩がいるのだろう？"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "何故ここに桐島先輩がいるのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「……すみません、お嬢さん」",
+        "after": "私が瞬きもせずに見つめていると、彼はふいと目を逸らし、ともゑさんに面と向かって言った。"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "私が瞬きもせずに見つめていると、彼はふいと目を逸らし、ともゑさんに面と向かって言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故ここに桐島先輩がいるのだろう？",
+        "after": "桐島　七葵「色々調べているうちに遅くなった。結構、大変だったぞ」"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "桐島　七葵「色々調べているうちに遅くなった。結構、大変だったぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私が瞬きもせずに見つめていると、彼はふいと目を逸らし、ともゑさんに面と向かって言った。",
+        "after": "桐島　七葵「本当は、こんなことするつもりはなかったんだがな」"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "桐島　七葵「本当は、こんなことするつもりはなかったんだがな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「色々調べているうちに遅くなった。結構、大変だったぞ」",
+        "after": "そう言って、一度息を吸った。彼の目がすうと細められた。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "そう言って、一度息を吸った。彼の目がすうと細められた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「本当は、こんなことするつもりはなかったんだがな」",
+        "after": "桐島　七葵「紗夜」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "桐島　七葵「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、一度息を吸った。彼の目がすうと細められた。",
+        "after": "津島修治「紗夜」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "津島修治「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "津島修治",
+      "special_char": false,
+      "context": {
+        "before": "桐島　七葵「紗夜」",
+        "after": "太宰　ともゑ「！！」"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "太宰　ともゑ「！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "津島修治「紗夜」",
+        "after": "桐島　七葵「それが、お前の男の名前だろう？」"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "桐島　七葵「それが、お前の男の名前だろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「！！」",
+        "after": "太宰　ともゑ「何故……」"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "太宰　ともゑ「何故……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それが、お前の男の名前だろう？」",
+        "after": "桐島　七葵「六年前の新聞記事を調べた」"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "桐島　七葵「六年前の新聞記事を調べた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何故……」",
+        "after": "太宰　ともゑ「それが、どうしたのよ……」"
+      }
+    },
+    {
+      "line": 172,
+      "jp": "太宰　ともゑ「それが、どうしたのよ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「六年前の新聞記事を調べた」",
+        "after": "桐島　七葵「お前が愛した男は既に死んでいる」"
+      }
+    },
+    {
+      "line": 173,
+      "jp": "桐島　七葵「お前が愛した男は既に死んでいる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「それが、どうしたのよ……」",
+        "after": "太宰　ともゑ「な……っ！？」"
+      }
+    },
+    {
+      "line": 174,
+      "jp": "太宰　ともゑ「な……っ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お前が愛した男は既に死んでいる」",
+        "after": "桐島　七葵「自動車事故だったそうだ」"
+      }
+    },
+    {
+      "line": 175,
+      "jp": "桐島　七葵「自動車事故だったそうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「な……っ！？」",
+        "after": "桐島　七葵「これが証拠だ」"
+      }
+    },
+    {
+      "line": 176,
+      "jp": "桐島　七葵「これが証拠だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「自動車事故だったそうだ」",
+        "after": "そう言って、先輩はコピーした新聞記事を突き出した。"
+      }
+    },
+    {
+      "line": 177,
+      "jp": "そう言って、先輩はコピーした新聞記事を突き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「これが証拠だ」",
+        "after": "そこには、小さいながらもしっかりとした見出しで当時の事故の様子が書かれていた。"
+      }
+    },
+    {
+      "line": 178,
+      "jp": "そこには、小さいながらもしっかりとした見出しで当時の事故の様子が書かれていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、先輩はコピーした新聞記事を突き出した。",
+        "after": "ぐしゃぐしゃに潰れた車の写真が悲惨さを現している。"
+      }
+    },
+    {
+      "line": 179,
+      "jp": "ぐしゃぐしゃに潰れた車の写真が悲惨さを現している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには、小さいながらもしっかりとした見出しで当時の事故の様子が書かれていた。",
+        "after": "太宰　ともゑ「…………」"
+      }
+    },
+    {
+      "line": 180,
+      "jp": "太宰　ともゑ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "ぐしゃぐしゃに潰れた車の写真が悲惨さを現している。",
+        "after": "桐島　七葵「……記事によると、男は九月二十日深夜に、車で鳴鐘町に向かう途中にハンドル操作を誤って、ガードレールに激突したと書いてある」"
+      }
+    },
+    {
+      "line": 181,
+      "jp": "桐島　七葵「……記事によると、男は九月二十日深夜に、車で鳴鐘町に向かう途中にハンドル操作を誤って、ガードレールに激突したと書いてある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「…………」",
+        "after": "太宰　ともゑ「鳴鐘町に……？　それじゃあ、もしかして……」"
+      }
+    },
+    {
+      "line": 182,
+      "jp": "太宰　ともゑ「鳴鐘町に……？　それじゃあ、もしかして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……記事によると、男は九月二十日深夜に、車で鳴鐘町に向かう途中にハンドル操作を誤って、ガードレールに激突したと書いてある」",
+        "after": "桐島　七葵「そうだ。ここへ向かっていたんだ」"
+      }
+    },
+    {
+      "line": 183,
+      "jp": "桐島　七葵「そうだ。ここへ向かっていたんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「鳴鐘町に……？　それじゃあ、もしかして……」",
+        "after": "太宰　ともゑ「あ……」"
+      }
+    },
+    {
+      "line": 184,
+      "jp": "太宰　ともゑ「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうだ。ここへ向かっていたんだ」",
+        "after": "彼女は短く声をあげた。"
+      }
+    },
+    {
+      "line": 185,
+      "jp": "彼女は短く声をあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「あ……」",
+        "after": "太宰　ともゑ「あははは、ははははは…………」"
+      }
+    },
+    {
+      "line": 186,
+      "jp": "太宰　ともゑ「あははは、ははははは…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "彼女は短く声をあげた。",
+        "after": "全身の力が抜けたように、ぺたりと地面に座り込んだ。"
+      }
+    },
+    {
+      "line": 187,
+      "jp": "全身の力が抜けたように、ぺたりと地面に座り込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「あははは、ははははは…………」",
+        "after": "太宰　ともゑ「自動車事故……？　あの人はここに向かっていた？」"
+      }
+    },
+    {
+      "line": 188,
+      "jp": "太宰　ともゑ「自動車事故……？　あの人はここに向かっていた？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "全身の力が抜けたように、ぺたりと地面に座り込んだ。",
+        "after": "太宰　ともゑ「そんなの嘘よ……。だって、私はずっとここで待って、私の物語は続いて……」"
+      }
+    },
+    {
+      "line": 189,
+      "jp": "太宰　ともゑ「そんなの嘘よ……。だって、私はずっとここで待って、私の物語は続いて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「自動車事故……？　あの人はここに向かっていた？」",
+        "after": "力無く呟く彼女に蒼が追い打ちをかける。"
+      }
+    },
+    {
+      "line": 190,
+      "jp": "力無く呟く彼女に蒼が追い打ちをかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「そんなの嘘よ……。だって、私はずっとここで待って、私の物語は続いて……」",
+        "after": "蒼「お前の物語は続いていたのではない、物語は既に終わっていたのだ」"
+      }
+    },
+    {
+      "line": 191,
+      "jp": "蒼「お前の物語は続いていたのではない、物語は既に終わっていたのだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "力無く呟く彼女に蒼が追い打ちをかける。",
+        "after": "蒼「男が死んだからではない」"
+      }
+    },
+    {
+      "line": 192,
+      "jp": "蒼「男が死んだからではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前の物語は続いていたのではない、物語は既に終わっていたのだ」",
+        "after": "蒼「ともゑ、お前があの男の愛を信じられなくなったその時に」"
+      }
+    },
+    {
+      "line": 193,
+      "jp": "蒼「ともゑ、お前があの男の愛を信じられなくなったその時に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「男が死んだからではない」",
+        "after": "太宰　ともゑ「嘘よっ！！」"
+      }
+    },
+    {
+      "line": 194,
+      "jp": "太宰　ともゑ「嘘よっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ともゑ、お前があの男の愛を信じられなくなったその時に」",
+        "after": "太宰　ともゑ「嘘よ！！　嘘！！　そう、嘘に決まってるわっ！！」"
+      }
+    },
+    {
+      "line": 195,
+      "jp": "太宰　ともゑ「嘘よ！！　嘘！！　そう、嘘に決まってるわっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「嘘よっ！！」",
+        "after": "桐島　七葵「嘘じゃない。男はお前をずっと愛していた」"
+      }
+    },
+    {
+      "line": 196,
+      "jp": "桐島　七葵「嘘じゃない。男はお前をずっと愛していた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「嘘よ！！　嘘！！　そう、嘘に決まってるわっ！！」",
+        "after": "太宰　ともゑ「何故、貴方にそんなことが分かるのよ！」"
+      }
+    },
+    {
+      "line": 197,
+      "jp": "太宰　ともゑ「何故、貴方にそんなことが分かるのよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「嘘じゃない。男はお前をずっと愛していた」",
+        "after": "桐島　七葵「……ああ、そうだな。だから、今から俺が言う言葉を信じるか信じないかは自由だ」"
+      }
+    },
+    {
+      "line": 198,
+      "jp": "桐島　七葵「……ああ、そうだな。だから、今から俺が言う言葉を信じるか信じないかは自由だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何故、貴方にそんなことが分かるのよ！」",
+        "after": "太宰　ともゑ「言葉……？」"
+      }
+    },
+    {
+      "line": 199,
+      "jp": "太宰　ともゑ「言葉……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……ああ、そうだな。だから、今から俺が言う言葉を信じるか信じないかは自由だ」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 200,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「言葉……？」",
+        "after": "桐島先輩は目を瞑り、すうと息を吸った。"
+      }
+    },
+    {
+      "line": 201,
+      "jp": "桐島先輩は目を瞑り、すうと息を吸った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "桐島　七葵「ともゑ」"
+      }
+    },
+    {
+      "line": 202,
+      "jp": "桐島　七葵「ともゑ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は目を瞑り、すうと息を吸った。",
+        "after": "桐島　七葵「君と出会い、四季は移ろい、その歳月はかくも早いものだろう」"
+      }
+    },
+    {
+      "line": 203,
+      "jp": "桐島　七葵「君と出会い、四季は移ろい、その歳月はかくも早いものだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ともゑ」",
+        "after": "桐島　七葵「僕はとても臆病で、あまり心の内を語り尽くすことはなかったけれど」"
+      }
+    },
+    {
+      "line": 204,
+      "jp": "桐島　七葵「僕はとても臆病で、あまり心の内を語り尽くすことはなかったけれど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「君と出会い、四季は移ろい、その歳月はかくも早いものだろう」",
+        "after": "桐島　七葵「それでも、君と過ごした僅か数度の季節は、今まで感じてきた何よりも代え難く美しいものだと思っている」"
+      }
+    },
+    {
+      "line": 205,
+      "jp": "桐島　七葵「それでも、君と過ごした僅か数度の季節は、今まで感じてきた何よりも代え難く美しいものだと思っている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕はとても臆病で、あまり心の内を語り尽くすことはなかったけれど」",
+        "after": "遠野　紗夜「桐島先輩……？」"
+      }
+    },
+    {
+      "line": 206,
+      "jp": "遠野　紗夜「桐島先輩……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それでも、君と過ごした僅か数度の季節は、今まで感じてきた何よりも代え難く美しいものだと思っている」",
+        "after": "口調も、声のトーンさえも違う彼に戸惑う。"
+      }
+    },
+    {
+      "line": 207,
+      "jp": "口調も、声のトーンさえも違う彼に戸惑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「桐島先輩……？」",
+        "after": "わけが分からず、手を伸ばして触れようとすると、千代さんによって止められた。"
+      }
+    },
+    {
+      "line": 208,
+      "jp": "わけが分からず、手を伸ばして触れようとすると、千代さんによって止められた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口調も、声のトーンさえも違う彼に戸惑う。",
+        "after": "千代「お嬢さん」"
+      }
+    },
+    {
+      "line": 209,
+      "jp": "千代「お嬢さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "わけが分からず、手を伸ばして触れようとすると、千代さんによって止められた。",
+        "after": "首を横に振る。"
+      }
+    },
+    {
+      "line": 210,
+      "jp": "首を横に振る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「お嬢さん」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 211,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "首を横に振る。",
+        "after": "私は手を下ろした。"
+      }
+    },
+    {
+      "line": 212,
+      "jp": "私は手を下ろした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "桐島　七葵「結局、僕は君のことを幸せに出来たのだろうか？」"
+      }
+    },
+    {
+      "line": 213,
+      "jp": "桐島　七葵「結局、僕は君のことを幸せに出来たのだろうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私は手を下ろした。",
+        "after": "桐島　七葵「君は、いつも何言わぬ僕の手を取り、言葉少ない僕の代わりに言葉を紡いでくれてはいたけれど、僕にはそれが愛しいと思うと同時に不安でもあった」"
+      }
+    },
+    {
+      "line": 214,
+      "jp": "桐島　七葵「君は、いつも何言わぬ僕の手を取り、言葉少ない僕の代わりに言葉を紡いでくれてはいたけれど、僕にはそれが愛しいと思うと同時に不安でもあった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「結局、僕は君のことを幸せに出来たのだろうか？」",
+        "after": "太宰　ともゑ「……先生？」"
+      }
+    },
+    {
+      "line": 215,
+      "jp": "太宰　ともゑ「……先生？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「君は、いつも何言わぬ僕の手を取り、言葉少ない僕の代わりに言葉を紡いでくれてはいたけれど、僕にはそれが愛しいと思うと同時に不安でもあった」",
+        "after": "ともゑさんの呟いた言葉に驚く。"
+      }
+    },
+    {
+      "line": 216,
+      "jp": "ともゑさんの呟いた言葉に驚く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「……先生？」",
+        "after": "桐島　七葵「それは、愛をくれし君の幸せだったのだろうかと」"
+      }
+    },
+    {
+      "line": 217,
+      "jp": "桐島　七葵「それは、愛をくれし君の幸せだったのだろうかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんの呟いた言葉に驚く。",
+        "after": "桐島　七葵「僕の想いは、君へと伝わっていただろうかと」"
+      }
+    },
+    {
+      "line": 218,
+      "jp": "桐島　七葵「僕の想いは、君へと伝わっていただろうかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「それは、愛をくれし君の幸せだったのだろうかと」",
+        "after": "桐島　七葵「だからこそ、僕は今、ここに言葉を贈ろう」"
+      }
+    },
+    {
+      "line": 219,
+      "jp": "桐島　七葵「だからこそ、僕は今、ここに言葉を贈ろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕の想いは、君へと伝わっていただろうかと」",
+        "after": "桐島　七葵「僕がやがていなくなって、この世界から消え去ろうとした時、僕は君の記憶に生きようとは思わない」"
+      }
+    },
+    {
+      "line": 220,
+      "jp": "桐島　七葵「僕がやがていなくなって、この世界から消え去ろうとした時、僕は君の記憶に生きようとは思わない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「だからこそ、僕は今、ここに言葉を贈ろう」",
+        "after": "桐島　七葵「けれど、その最期の一瞬にでも、君にこの言葉が届けばいいと願う」"
+      }
+    },
+    {
+      "line": 221,
+      "jp": "桐島　七葵「けれど、その最期の一瞬にでも、君にこの言葉が届けばいいと願う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕がやがていなくなって、この世界から消え去ろうとした時、僕は君の記憶に生きようとは思わない」",
+        "after": "桐島　七葵「僕は、夏の日差しのように眩しい君の笑顔が好きでした」"
+      }
+    },
+    {
+      "line": 222,
+      "jp": "桐島　七葵「僕は、夏の日差しのように眩しい君の笑顔が好きでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「けれど、その最期の一瞬にでも、君にこの言葉が届けばいいと願う」",
+        "after": "桐島　七葵「僕は、強い意志を放つ君の眼差しが好きでした」"
+      }
+    },
+    {
+      "line": 223,
+      "jp": "桐島　七葵「僕は、強い意志を放つ君の眼差しが好きでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕は、夏の日差しのように眩しい君の笑顔が好きでした」",
+        "after": "桐島　七葵「僕は、僕にはない素直な君の心が好きでした」"
+      }
+    },
+    {
+      "line": 224,
+      "jp": "桐島　七葵「僕は、僕にはない素直な君の心が好きでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕は、強い意志を放つ君の眼差しが好きでした」",
+        "after": "桐島　七葵「僕は、君を誰よりも愛していました」"
+      }
+    },
+    {
+      "line": 225,
+      "jp": "桐島　七葵「僕は、君を誰よりも愛していました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「僕は、僕にはない素直な君の心が好きでした」",
+        "after": "閉じた目を開ける。"
+      }
+    },
+    {
+      "line": 226,
+      "jp": "閉じた目を開ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「僕は、君を誰よりも愛していました」",
+        "after": "桐島　七葵「……これが、男がお前に残した言葉だ」"
+      }
+    },
+    {
+      "line": 227,
+      "jp": "桐島　七葵「……これが、男がお前に残した言葉だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "閉じた目を開ける。",
+        "after": "いつもと何も変わらない桐島先輩だった。"
+      }
+    },
+    {
+      "line": 228,
+      "jp": "いつもと何も変わらない桐島先輩だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……これが、男がお前に残した言葉だ」",
+        "after": "一体、何だというのだろうか。"
+      }
+    },
+    {
+      "line": 229,
+      "jp": "一体、何だというのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもと何も変わらない桐島先輩だった。",
+        "after": "突然の桐島先輩の行動にわけが分からず、顔を顰めていた。"
+      }
+    },
+    {
+      "line": 230,
+      "jp": "突然の桐島先輩の行動にわけが分からず、顔を顰めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一体、何だというのだろうか。",
+        "after": "けれど、ともゑさんには何か伝わったのだろうか、"
+      }
+    },
+    {
+      "line": 231,
+      "jp": "けれど、ともゑさんには何か伝わったのだろうか、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "突然の桐島先輩の行動にわけが分からず、顔を顰めていた。",
+        "after": "太宰　ともゑ「……っ」"
+      }
+    },
+    {
+      "line": 232,
+      "jp": "太宰　ともゑ「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "けれど、ともゑさんには何か伝わったのだろうか、",
+        "after": "太宰　ともゑ「そんなこと……っ、今更言われてもっ！」"
+      }
+    },
+    {
+      "line": 233,
+      "jp": "太宰　ともゑ「そんなこと……っ、今更言われてもっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「……っ」",
+        "after": "彼女の目には涙が浮かんでいた。"
+      }
+    },
+    {
+      "line": 234,
+      "jp": "彼女の目には涙が浮かんでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「そんなこと……っ、今更言われてもっ！」",
+        "after": "太宰　ともゑ「私は……」"
+      }
+    },
+    {
+      "line": 235,
+      "jp": "太宰　ともゑ「私は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "彼女の目には涙が浮かんでいた。",
+        "after": "太宰　ともゑ「誰に何を言われようと、先生さえいれば……愛さえあれば生きていけるって思ってたっ！」"
+      }
+    },
+    {
+      "line": 236,
+      "jp": "太宰　ともゑ「誰に何を言われようと、先生さえいれば……愛さえあれば生きていけるって思ってたっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「私は……」",
+        "after": "太宰　ともゑ「先生は来なかった……」"
+      }
+    },
+    {
+      "line": 237,
+      "jp": "太宰　ともゑ「先生は来なかった……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「誰に何を言われようと、先生さえいれば……愛さえあれば生きていけるって思ってたっ！」",
+        "after": "太宰　ともゑ「私は貴方を信じることが出来なかった……」"
+      }
+    },
+    {
+      "line": 238,
+      "jp": "太宰　ともゑ「私は貴方を信じることが出来なかった……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「先生は来なかった……」",
+        "after": "太宰　ともゑ「出来なかった……っ」"
+      }
+    },
+    {
+      "line": 239,
+      "jp": "太宰　ともゑ「出来なかった……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「私は貴方を信じることが出来なかった……」",
+        "after": "太宰　ともゑ「裏切ったのは……本当は貴方じゃなくて、私……？」"
+      }
+    },
+    {
+      "line": 240,
+      "jp": "太宰　ともゑ「裏切ったのは……本当は貴方じゃなくて、私……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「出来なかった……っ」",
+        "after": "彼女は涙を垂れ流しながら、頭を抱えた。"
+      }
+    },
+    {
+      "line": 241,
+      "jp": "彼女は涙を垂れ流しながら、頭を抱えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「裏切ったのは……本当は貴方じゃなくて、私……？」",
+        "after": "太宰　ともゑ「何で……思い出しちゃったんだろ……」"
+      }
+    },
+    {
+      "line": 242,
+      "jp": "太宰　ともゑ「何で……思い出しちゃったんだろ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "彼女は涙を垂れ流しながら、頭を抱えた。",
+        "after": "太宰　ともゑ「こんなことになるなら、ずっと忘れていた方が幸せだった……」"
+      }
+    },
+    {
+      "line": 243,
+      "jp": "太宰　ともゑ「こんなことになるなら、ずっと忘れていた方が幸せだった……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何で……思い出しちゃったんだろ……」",
+        "after": "太宰　ともゑ「あんな風に笑顔になれるのなら、忘れる方が幸せなのかもしれない」"
+      }
+    },
+    {
+      "line": 244,
+      "jp": "太宰　ともゑ「あんな風に笑顔になれるのなら、忘れる方が幸せなのかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「こんなことになるなら、ずっと忘れていた方が幸せだった……」",
+        "after": "太宰　ともゑ「忘れて何も知らぬままで生きられるのなら、その方が幸せだったっ」"
+      }
+    },
+    {
+      "line": 245,
+      "jp": "太宰　ともゑ「忘れて何も知らぬままで生きられるのなら、その方が幸せだったっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「あんな風に笑顔になれるのなら、忘れる方が幸せなのかもしれない」",
+        "after": "太宰　ともゑ「だって、私と先生の物語はとっくに終わってしまっていたんだから……」"
+      }
+    },
+    {
+      "line": 246,
+      "jp": "太宰　ともゑ「だって、私と先生の物語はとっくに終わってしまっていたんだから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「忘れて何も知らぬままで生きられるのなら、その方が幸せだったっ」",
+        "after": "太宰　ともゑ「何で……思い出してしまったんだろう……っ」"
+      }
+    },
+    {
+      "line": 247,
+      "jp": "太宰　ともゑ「何で……思い出してしまったんだろう……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「だって、私と先生の物語はとっくに終わってしまっていたんだから……」",
+        "after": "太宰　ともゑ「ねえ、先生……」"
+      }
+    },
+    {
+      "line": 248,
+      "jp": "太宰　ともゑ「ねえ、先生……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「何で……思い出してしまったんだろう……っ」",
+        "after": "太宰　ともゑ「貴方を愛していた記憶が辛い……」"
+      }
+    },
+    {
+      "line": 249,
+      "jp": "太宰　ともゑ「貴方を愛していた記憶が辛い……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「ねえ、先生……」",
+        "after": "振り絞るようにともゑさんは声を出した。"
+      }
+    },
+    {
+      "line": 250,
+      "jp": "振り絞るようにともゑさんは声を出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰　ともゑ「貴方を愛していた記憶が辛い……」",
+        "after": "その声はただただ切なく、私の心をも震わせた。"
+      }
+    },
+    {
+      "line": 251,
+      "jp": "その声はただただ切なく、私の心をも震わせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "振り絞るようにともゑさんは声を出した。",
+        "after": "何が起きたのか分からない。"
+      }
+    },
+    {
+      "line": 252,
+      "jp": "何が起きたのか分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その声はただただ切なく、私の心をも震わせた。",
+        "after": "けれど、桐島先輩の言葉が真実ならば、彼女の愛する人はもうこの世にはいないのだ。"
+      }
+    },
+    {
+      "line": 253,
+      "jp": "けれど、桐島先輩の言葉が真実ならば、彼女の愛する人はもうこの世にはいないのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何が起きたのか分からない。",
+        "after": "遠野　紗夜「ともゑさん……」"
+      }
+    },
+    {
+      "line": 254,
+      "jp": "遠野　紗夜「ともゑさん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、桐島先輩の言葉が真実ならば、彼女の愛する人はもうこの世にはいないのだ。",
+        "after": "私は大粒の涙を流す彼女の背中に手を置く。"
+      }
+    },
+    {
+      "line": 255,
+      "jp": "私は大粒の涙を流す彼女の背中に手を置く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ともゑさん……」",
+        "after": "私より年上のはずなのに、その背中はずっと頼りなく思えた。"
+      }
+    },
+    {
+      "line": 256,
+      "jp": "私より年上のはずなのに、その背中はずっと頼りなく思えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は大粒の涙を流す彼女の背中に手を置く。",
+        "after": "？？？「ともゑっ！！」"
+      }
+    },
+    {
+      "line": 257,
+      "jp": "？？？「ともゑっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "私より年上のはずなのに、その背中はずっと頼りなく思えた。",
+        "after": "遠くの方から、こちらへ向かってくる人影が一つ。"
+      }
+    },
+    {
+      "line": 258,
+      "jp": "遠くの方から、こちらへ向かってくる人影が一つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「ともゑっ！！」",
+        "after": "太宰　ともゑ「…………」"
+      }
+    },
+    {
+      "line": 259,
+      "jp": "太宰　ともゑ「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰　ともゑ",
+      "special_char": true,
+      "context": {
+        "before": "遠くの方から、こちらへ向かってくる人影が一つ。",
+        "after": "太宰姉「ああ……良かった！！　ずっと、探していたのよ！！」"
+      }
+    },
+    {
+      "line": 260,
+      "jp": "太宰姉「ああ……良かった！！　ずっと、探していたのよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰　ともゑ「…………」",
+        "after": "遠野　紗夜「太宰さん……」"
+      }
+    },
+    {
+      "line": 261,
+      "jp": "遠野　紗夜「太宰さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ああ……良かった！！　ずっと、探していたのよ！！」",
+        "after": "ともゑさんの姉だった。"
+      }
+    },
+    {
+      "line": 262,
+      "jp": "ともゑさんの姉だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「太宰さん……」",
+        "after": "彼女はともゑさんの元に駆け寄ると、私の代わりにその肩を抱いた。"
+      }
+    },
+    {
+      "line": 263,
+      "jp": "彼女はともゑさんの元に駆け寄ると、私の代わりにその肩を抱いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんの姉だった。",
+        "after": "瞬間、ともゑさんの眸がばっと大きく開かれた。"
+      }
+    },
+    {
+      "line": 264,
+      "jp": "瞬間、ともゑさんの眸がばっと大きく開かれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はともゑさんの元に駆け寄ると、私の代わりにその肩を抱いた。",
+        "after": "全身の力が一気に抜けたようで、がくんとその身を崩れさせた。"
+      }
+    },
+    {
+      "line": 265,
+      "jp": "全身の力が一気に抜けたようで、がくんとその身を崩れさせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "瞬間、ともゑさんの眸がばっと大きく開かれた。",
+        "after": "ともゑさんの姉は、そんな彼女の体をしっかりと抱き留める。"
+      }
+    },
+    {
+      "line": 266,
+      "jp": "ともゑさんの姉は、そんな彼女の体をしっかりと抱き留める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全身の力が一気に抜けたようで、がくんとその身を崩れさせた。",
+        "after": "太宰姉「もう大丈夫よ、ともゑ。私がいるからね」"
+      }
+    },
+    {
+      "line": 267,
+      "jp": "太宰姉「もう大丈夫よ、ともゑ。私がいるからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんの姉は、そんな彼女の体をしっかりと抱き留める。",
+        "after": "太宰姉「だから、お願い。また元の貴方に戻って……」"
+      }
+    },
+    {
+      "line": 268,
+      "jp": "太宰姉「だから、お願い。また元の貴方に戻って……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「もう大丈夫よ、ともゑ。私がいるからね」",
+        "after": "太宰姉「貴方の笑顔を見せて。私は貴方の笑顔が大好きなのよ」"
+      }
+    },
+    {
+      "line": 269,
+      "jp": "太宰姉「貴方の笑顔を見せて。私は貴方の笑顔が大好きなのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「だから、お願い。また元の貴方に戻って……」",
+        "after": "彼女はともゑさんの頭を撫でながら優しい声で語りかけた。"
+      }
+    },
+    {
+      "line": 270,
+      "jp": "彼女はともゑさんの頭を撫でながら優しい声で語りかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「貴方の笑顔を見せて。私は貴方の笑顔が大好きなのよ」",
+        "after": "その目は涙に濡れていた。美しき姉妹愛の場面だった。"
+      }
+    },
+    {
+      "line": 271,
+      "jp": "その目は涙に濡れていた。美しき姉妹愛の場面だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はともゑさんの頭を撫でながら優しい声で語りかけた。",
+        "after": "けれど、そればかりか、彼女はともゑさんの頬を両手で包み、その唇に自らの唇を押し当てたのだった。"
+      }
+    },
+    {
+      "line": 272,
+      "jp": "けれど、そればかりか、彼女はともゑさんの頬を両手で包み、その唇に自らの唇を押し当てたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その目は涙に濡れていた。美しき姉妹愛の場面だった。",
+        "after": "まさか、いくら姉妹とはいえど、同性同士でそんなことをするとは思わなかったので、私を含めた人々はぎょっとしたものだったけれど、彼女は何等頓着する様子もなく。"
+      }
+    },
+    {
+      "line": 273,
+      "jp": "まさか、いくら姉妹とはいえど、同性同士でそんなことをするとは思わなかったので、私を含めた人々はぎょっとしたものだったけれど、彼女は何等頓着する様子もなく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、そればかりか、彼女はともゑさんの頬を両手で包み、その唇に自らの唇を押し当てたのだった。",
+        "after": "ともゑさんは放心状態らしく、されるがままにされていた。"
+      }
+    },
+    {
+      "line": 274,
+      "jp": "ともゑさんは放心状態らしく、されるがままにされていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まさか、いくら姉妹とはいえど、同性同士でそんなことをするとは思わなかったので、私を含めた人々はぎょっとしたものだったけれど、彼女は何等頓着する様子もなく。",
+        "after": "唇が離れ、もう一度、強くともゑさんを抱きしめると、太宰さんは私達に語りかけた。"
+      }
+    },
+    {
+      "line": 275,
+      "jp": "唇が離れ、もう一度、強くともゑさんを抱きしめると、太宰さんは私達に語りかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ともゑさんは放心状態らしく、されるがままにされていた。",
+        "after": "太宰姉「……ごめんなさいね。ともゑが貴方達に迷惑をかけたみたいで」"
+      }
+    },
+    {
+      "line": 276,
+      "jp": "太宰姉「……ごめんなさいね。ともゑが貴方達に迷惑をかけたみたいで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "唇が離れ、もう一度、強くともゑさんを抱きしめると、太宰さんは私達に語りかけた。",
+        "after": "太宰さんの目線は、ともゑさんでもなく、私達でもない方に向けられていた。"
+      }
+    },
+    {
+      "line": 277,
+      "jp": "太宰さんの目線は、ともゑさんでもなく、私達でもない方に向けられていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「……ごめんなさいね。ともゑが貴方達に迷惑をかけたみたいで」",
+        "after": "それを追っていくと、地面にはさみが落ちているのが見えた。"
+      }
+    },
+    {
+      "line": 278,
+      "jp": "それを追っていくと、地面にはさみが落ちているのが見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰さんの目線は、ともゑさんでもなく、私達でもない方に向けられていた。",
+        "after": "ともゑさんの手に光って見えたのは、これだったのかと今更身震いした。"
+      }
+    },
+    {
+      "line": 279,
+      "jp": "ともゑさんの手に光って見えたのは、これだったのかと今更身震いした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それを追っていくと、地面にはさみが落ちているのが見えた。",
+        "after": "太宰姉「ともゑは私がいくらここに来るのは止めて欲しいと言っても聞かなかった」"
+      }
+    },
+    {
+      "line": 280,
+      "jp": "太宰姉「ともゑは私がいくらここに来るのは止めて欲しいと言っても聞かなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "ともゑさんの手に光って見えたのは、これだったのかと今更身震いした。",
+        "after": "太宰姉「あんな男のこと、思い出さなくても、私が傍にいたのに……」"
+      }
+    },
+    {
+      "line": 281,
+      "jp": "太宰姉「あんな男のこと、思い出さなくても、私が傍にいたのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ともゑは私がいくらここに来るのは止めて欲しいと言っても聞かなかった」",
+        "after": "遠野　紗夜「……貴方は先生が事故に遭われたことは知らなかったのですか？」"
+      }
+    },
+    {
+      "line": 282,
+      "jp": "遠野　紗夜「……貴方は先生が事故に遭われたことは知らなかったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「あんな男のこと、思い出さなくても、私が傍にいたのに……」",
+        "after": "彼女の目がキッときつく細められた。"
+      }
+    },
+    {
+      "line": 283,
+      "jp": "彼女の目がキッときつく細められた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……貴方は先生が事故に遭われたことは知らなかったのですか？」",
+        "after": "太宰姉「……知っていたわ。けど、それをともゑに教えて何になるというの？」"
+      }
+    },
+    {
+      "line": 284,
+      "jp": "太宰姉「……知っていたわ。けど、それをともゑに教えて何になるというの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "彼女の目がキッときつく細められた。",
+        "after": "太宰姉「あの人はいなくなった。そして、ともゑはあの人の記憶を失って、なかったことにした」"
+      }
+    },
+    {
+      "line": 285,
+      "jp": "太宰姉「あの人はいなくなった。そして、ともゑはあの人の記憶を失って、なかったことにした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「……知っていたわ。けど、それをともゑに教えて何になるというの？」",
+        "after": "太宰姉「それでいいじゃない。それの何が悪いの？　ともゑの物語は終わってしまったのよ」"
+      }
+    },
+    {
+      "line": 286,
+      "jp": "太宰姉「それでいいじゃない。それの何が悪いの？　ともゑの物語は終わってしまったのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「あの人はいなくなった。そして、ともゑはあの人の記憶を失って、なかったことにした」",
+        "after": "太宰姉「そして、彼女もそれをようやく認めることが出来た」"
+      }
+    },
+    {
+      "line": 287,
+      "jp": "太宰姉「そして、彼女もそれをようやく認めることが出来た」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「それでいいじゃない。それの何が悪いの？　ともゑの物語は終わってしまったのよ」",
+        "after": "冷たい声で言い放つと、彼女は目を閉じ、今度はうって変わって元の優しい目と口調になった。"
+      }
+    },
+    {
+      "line": 288,
+      "jp": "冷たい声で言い放つと、彼女は目を閉じ、今度はうって変わって元の優しい目と口調になった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「そして、彼女もそれをようやく認めることが出来た」",
+        "after": "太宰姉「これで大丈夫よね。また、彼女は元通りの明るさを取り戻すはずだわ」"
+      }
+    },
+    {
+      "line": 289,
+      "jp": "太宰姉「これで大丈夫よね。また、彼女は元通りの明るさを取り戻すはずだわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "冷たい声で言い放つと、彼女は目を閉じ、今度はうって変わって元の優しい目と口調になった。",
+        "after": "太宰姉「そうすれば、私にきっとあの笑顔を向けてくれるはず……！」"
+      }
+    },
+    {
+      "line": 290,
+      "jp": "太宰姉「そうすれば、私にきっとあの笑顔を向けてくれるはず……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「これで大丈夫よね。また、彼女は元通りの明るさを取り戻すはずだわ」",
+        "after": "太宰さんは、本当に嬉しそうにともゑさんの頭を自分の胸に押しつけた。"
+      }
+    },
+    {
+      "line": 291,
+      "jp": "太宰さんは、本当に嬉しそうにともゑさんの頭を自分の胸に押しつけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「そうすれば、私にきっとあの笑顔を向けてくれるはず……！」",
+        "after": "まるで、大事なものを他に奪われまいとするように、強く強く抱きしめた。"
+      }
+    },
+    {
+      "line": 292,
+      "jp": "まるで、大事なものを他に奪われまいとするように、強く強く抱きしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰さんは、本当に嬉しそうにともゑさんの頭を自分の胸に押しつけた。",
+        "after": null
+      }
+    }
+  ]
+}

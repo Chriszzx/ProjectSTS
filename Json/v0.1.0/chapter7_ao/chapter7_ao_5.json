@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_5.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 49,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "二度目に目覚めると、兄はどこにもいなかった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "二度目に目覚めると、兄はどこにもいなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……兄さん？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「……兄さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "二度目に目覚めると、兄はどこにもいなかった。",
+        "after": "どこかに出かけでもしたのだろうか。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "どこかに出かけでもしたのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……兄さん？」",
+        "after": "軽い頭痛に頭を押さえ、それでもベッドの上から起きあがる。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "軽い頭痛に頭を押さえ、それでもベッドの上から起きあがる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どこかに出かけでもしたのだろうか。",
+        "after": "部屋のどこにも兄がいない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "部屋のどこにも兄がいない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "軽い頭痛に頭を押さえ、それでもベッドの上から起きあがる。",
+        "after": "何だかそのことがとても不安になり、私は居間へと急ぐ。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "何だかそのことがとても不安になり、私は居間へと急ぐ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "部屋のどこにも兄がいない。",
+        "after": "遠野　紗夜「兄さん！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「兄さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "何だかそのことがとても不安になり、私は居間へと急ぐ。",
+        "after": "そう叫ぶ様にして扉を開けると、ソファに座っている兄と目があった。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "そう叫ぶ様にして扉を開けると、ソファに座っている兄と目があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん！」",
+        "after": "遠野　十夜「どうしたんだい？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　十夜「どうしたんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そう叫ぶ様にして扉を開けると、ソファに座っている兄と目があった。",
+        "after": "不思議そうな顔を浮かべる兄の姿に私はほっとする。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "不思議そうな顔を浮かべる兄の姿に私はほっとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「どうしたんだい？」",
+        "after": "遠野　紗夜「いえ……目が覚めるといなくなっていたので、つい……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「いえ……目が覚めるといなくなっていたので、つい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "不思議そうな顔を浮かべる兄の姿に私はほっとする。",
+        "after": "遠野　十夜「ああ、そうか。ごめんよ。完全に眠ってしまった様だから」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　十夜「ああ、そうか。ごめんよ。完全に眠ってしまった様だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ……目が覚めるといなくなっていたので、つい……」",
+        "after": "遠野　紗夜「いいえ、良いのです。ただ、少しばかり不安になってしまっただけですから……」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「いいえ、良いのです。ただ、少しばかり不安になってしまっただけですから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ、そうか。ごめんよ。完全に眠ってしまった様だから」",
+        "after": "私の言葉に何とも蠱惑的な眼差しで笑う。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私の言葉に何とも蠱惑的な眼差しで笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ、良いのです。ただ、少しばかり不安になってしまっただけですから……」",
+        "after": "遠野　十夜「俺がいなくて不安だった？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　十夜「俺がいなくて不安だった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "私の言葉に何とも蠱惑的な眼差しで笑う。",
+        "after": "はい"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "はい",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「俺がいなくて不安だった？」",
+        "after": "いいえ"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "いいえ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いいえ",
+        "after": "そう答えると、私を抱き寄せ、私だけに聞こえる様な声で言った。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "そう答えると、私を抱き寄せ、私だけに聞こえる様な声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　十夜「そんなこと言わないでくれ。このまま離したくなくなるじゃないか……」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　十夜「そんなこと言わないでくれ。このまま離したくなくなるじゃないか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そう答えると、私を抱き寄せ、私だけに聞こえる様な声で言った。",
+        "after": "遠野　紗夜「兄さん？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「兄さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そんなこと言わないでくれ。このまま離したくなくなるじゃないか……」",
+        "after": "身体が離れ、見上げた兄の眸は切なげに揺れていた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "身体が離れ、見上げた兄の眸は切なげに揺れていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん？」",
+        "after": "どうして、兄がそんな顔をするのか分からなかった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "どうして、兄がそんな顔をするのか分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "身体が離れ、見上げた兄の眸は切なげに揺れていた。",
+        "after": "遠野　紗夜「いいえ？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「いいえ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "どうして、兄がそんな顔をするのか分からなかった。",
+        "after": "そう答えると、私を抱き寄せてしばらく何も言わなかった。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "そう答えると、私を抱き寄せてしばらく何も言わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ？」",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そう答えると、私を抱き寄せてしばらく何も言わなかった。",
+        "after": "遠野　紗夜「……兄さん？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「……兄さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "胸の中で呟くと、身体が離れる。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "胸の中で呟くと、身体が離れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……兄さん？」",
+        "after": "兄がいなくても不安じゃないだなんて嘘なのに、何だか胸が切なくなった。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "兄がいなくても不安じゃないだなんて嘘なのに、何だか胸が切なくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "胸の中で呟くと、身体が離れる。",
+        "after": "遠野　十夜「……そういえば、、お腹は空いてるかい？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　十夜「……そういえば、、お腹は空いてるかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄がいなくても不安じゃないだなんて嘘なのに、何だか胸が切なくなった。",
+        "after": "話をそらされた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "話をそらされた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……そういえば、、お腹は空いてるかい？」",
+        "after": "遠野　紗夜「……少し」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「……少し」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "話をそらされた。",
+        "after": "遠野　十夜「じゃあ、何か食べなきゃいけないな。何かあったかな……」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　十夜「じゃあ、何か食べなきゃいけないな。何かあったかな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……少し」",
+        "after": "私の傍を離れようとする兄を捕まえる。振り向いた兄を上目遣いに見つめる。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "私の傍を離れようとする兄を捕まえる。振り向いた兄を上目遣いに見つめる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「じゃあ、何か食べなきゃいけないな。何かあったかな……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の傍を離れようとする兄を捕まえる。振り向いた兄を上目遣いに見つめる。",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　十夜「外へ出るかい？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　十夜「外へ出るかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "遠野　紗夜「外、ですか？」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「外、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「外へ出るかい？」",
+        "after": "兄の言葉は唐突だった。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "兄の言葉は唐突だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「外、ですか？」",
+        "after": "どうしてそんなことを言うのだろうと思った。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "どうしてそんなことを言うのだろうと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の言葉は唐突だった。",
+        "after": "兄は微笑を含んでいた。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "兄は微笑を含んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうしてそんなことを言うのだろうと思った。",
+        "after": "遠野　十夜「ああ。しばらく家の中にいただろう？　たまには気分転換も必要だと思ってね」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　十夜「ああ。しばらく家の中にいただろう？　たまには気分転換も必要だと思ってね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄は微笑を含んでいた。",
+        "after": "外の世界。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "外の世界。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ああ。しばらく家の中にいただろう？　たまには気分転換も必要だと思ってね」",
+        "after": "兄に言われて確かにそうだと気付く。私はここ最近、ずっと家の中で生活をしていた。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "兄に言われて確かにそうだと気付く。私はここ最近、ずっと家の中で生活をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "外の世界。",
+        "after": "遠野　十夜「体調は？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　十夜「体調は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄に言われて確かにそうだと気付く。私はここ最近、ずっと家の中で生活をしていた。",
+        "after": "遠野　紗夜「大丈夫です」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「体調は？」",
+        "after": "遠野　十夜「そうか……。それで、どうするんだい？」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　十夜「そうか……。それで、どうするんだい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「大丈夫です」",
+        "after": "私は窓の外を見つめた。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "私は窓の外を見つめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「そうか……。それで、どうするんだい？」",
+        "after": null
+      }
+    }
+  ]
+}

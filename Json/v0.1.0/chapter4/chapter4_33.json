@@ -1,0 +1,1244 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_33.txt",
+    "chapter": "chapter4",
+    "total_lines": 67,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "それからしばらく、私達は大人しく本を読むなどして暇を潰していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "次第に窓から見える景色は薄い青の色から濃い赤の色へと変化を遂げていった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "次第に窓から見える景色は薄い青の色から濃い赤の色へと変化を遂げていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それからしばらく、私達は大人しく本を読むなどして暇を潰していた。",
+        "after": "私は本を読むのを止め、その移りゆく色を何を考えるでもなく、ただ虚ろに眺めていた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私は本を読むのを止め、その移りゆく色を何を考えるでもなく、ただ虚ろに眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "次第に窓から見える景色は薄い青の色から濃い赤の色へと変化を遂げていった。",
+        "after": "千代「あ」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "千代「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私は本を読むのを止め、その移りゆく色を何を考えるでもなく、ただ虚ろに眺めていた。",
+        "after": "私と蒼、両者共がそれぞれの作業を止めて千代さんを見た。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私と蒼、両者共がそれぞれの作業を止めて千代さんを見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「あ」",
+        "after": "千代「お嬢さん、蒼さん。そろそろ、七葵君がこっちへ戻ってきますよ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "千代「お嬢さん、蒼さん。そろそろ、七葵君がこっちへ戻ってきますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私と蒼、両者共がそれぞれの作業を止めて千代さんを見た。",
+        "after": "蒼「何故、分かる？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「何故、分かる？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん、蒼さん。そろそろ、七葵君がこっちへ戻ってきますよ」",
+        "after": "千代「え？　そうですね、勘というか」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "千代「え？　そうですね、勘というか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、分かる？」",
+        "after": "遠野　紗夜「ああ……そういえば千代さんは、桐島先輩の居場所なら分かるのですよね？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「ああ……そういえば千代さんは、桐島先輩の居場所なら分かるのですよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「え？　そうですね、勘というか」",
+        "after": "そう言うと、千代さんは嬉しそうに頷いた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "そう言うと、千代さんは嬉しそうに頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ああ……そういえば千代さんは、桐島先輩の居場所なら分かるのですよね？」",
+        "after": "千代「はい！　お嬢さんは七葵君から聞いたんですか？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "千代「はい！　お嬢さんは七葵君から聞いたんですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、千代さんは嬉しそうに頷いた。",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「はい！　お嬢さんは七葵君から聞いたんですか？」",
+        "after": "蒼「どういうことだ？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "蒼「どういうことだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "千代「俺、七葵君のいる場所だったら、七葵君がどこにいてもすぐに見付けることが出来るんです」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "千代「俺、七葵君のいる場所だったら、七葵君がどこにいてもすぐに見付けることが出来るんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "蒼「どういうことだ？」",
+        "after": "千代「例え、どんなに離れても、姿が見えなくても」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "千代「例え、どんなに離れても、姿が見えなくても」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「俺、七葵君のいる場所だったら、七葵君がどこにいてもすぐに見付けることが出来るんです」",
+        "after": "遠野　紗夜「凄いですよね。どうして分かるのでしょう？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「凄いですよね。どうして分かるのでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「例え、どんなに離れても、姿が見えなくても」",
+        "after": "千代「さあ、俺にもさっぱり」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "千代「さあ、俺にもさっぱり」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「凄いですよね。どうして分かるのでしょう？」",
+        "after": "蒼「他の者のことは分かるのか？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "蒼「他の者のことは分かるのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "千代「さあ、俺にもさっぱり」",
+        "after": "千代「いえ、残念ながら。俺が分かるのは七葵君だけです」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "千代「いえ、残念ながら。俺が分かるのは七葵君だけです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "蒼「他の者のことは分かるのか？」",
+        "after": "千代「あ……きた！」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "千代「あ……きた！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「いえ、残念ながら。俺が分かるのは七葵君だけです」",
+        "after": "突然言い出すと、千代さんは駆け出し、本棚をすり抜けていく。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "突然言い出すと、千代さんは駆け出し、本棚をすり抜けていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「あ……きた！」",
+        "after": "千代「七葵君！！」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "千代「七葵君！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "突然言い出すと、千代さんは駆け出し、本棚をすり抜けていく。",
+        "after": "桐島　七葵「うわあ！！」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「うわあ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「七葵君！！」",
+        "after": "すぐ近くで叫び声と何かが崩れる音が聞こえた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "すぐ近くで叫び声と何かが崩れる音が聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「うわあ！！」",
+        "after": "私達はすぐさま音の方に駆け寄る。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私達はすぐさま音の方に駆け寄る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すぐ近くで叫び声と何かが崩れる音が聞こえた。",
+        "after": "遠野　紗夜「だ、大丈夫ですか！？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「だ、大丈夫ですか！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私達はすぐさま音の方に駆け寄る。",
+        "after": "そこには案の定、桐島先輩が尻餅をつきながら、ばつが悪そうに私達を見上げていた。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "そこには案の定、桐島先輩が尻餅をつきながら、ばつが悪そうに私達を見上げていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「だ、大丈夫ですか！？」",
+        "after": "桐島　七葵「ああ……少し驚いただけだ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "桐島　七葵「ああ……少し驚いただけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "そこには案の定、桐島先輩が尻餅をつきながら、ばつが悪そうに私達を見上げていた。",
+        "after": "千代「ご、ごめん！　まさか、七葵君がそんなに驚くとは思わなくて……」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "千代「ご、ごめん！　まさか、七葵君がそんなに驚くとは思わなくて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ……少し驚いただけだ」",
+        "after": "桐島　七葵「いや、すまん。俺も気が緩んでいた。少し考え事をしていてな」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "桐島　七葵「いや、すまん。俺も気が緩んでいた。少し考え事をしていてな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「ご、ごめん！　まさか、七葵君がそんなに驚くとは思わなくて……」",
+        "after": "千代「考え事？　七葵君が？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "千代「考え事？　七葵君が？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや、すまん。俺も気が緩んでいた。少し考え事をしていてな」",
+        "after": "本気で意外だと言わんばかりの反応に桐島先輩はじろりと睨むが、千代さんはわけが分からないといった風に首を傾げた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "本気で意外だと言わんばかりの反応に桐島先輩はじろりと睨むが、千代さんはわけが分からないといった風に首を傾げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「考え事？　七葵君が？」",
+        "after": "桐島　七葵「……お前は、一度、人を怒らせない方法を本気で身につける必要があるようだな？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "桐島　七葵「……お前は、一度、人を怒らせない方法を本気で身につける必要があるようだな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "本気で意外だと言わんばかりの反応に桐島先輩はじろりと睨むが、千代さんはわけが分からないといった風に首を傾げた。",
+        "after": "蒼「そんな方法があるのか」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「そんな方法があるのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……お前は、一度、人を怒らせない方法を本気で身につける必要があるようだな？」",
+        "after": "話に割って入ってきた蒼を見咎めると、桐島先輩は全てを悟ったかのような顔をした。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "話に割って入ってきた蒼を見咎めると、桐島先輩は全てを悟ったかのような顔をした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そんな方法があるのか」",
+        "after": "桐島　七葵「……こいつにも話したのか？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "桐島　七葵「……こいつにも話したのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "話に割って入ってきた蒼を見咎めると、桐島先輩は全てを悟ったかのような顔をした。",
+        "after": "立ち上がり、ズボンについた誇りを払いながら私に訊ねる。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "立ち上がり、ズボンについた誇りを払いながら私に訊ねる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……こいつにも話したのか？」",
+        "after": "遠野　紗夜「あ、はい。いけませんでしたか？」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「あ、はい。いけませんでしたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "立ち上がり、ズボンについた誇りを払いながら私に訊ねる。",
+        "after": "桐島　七葵「いや、そういうわけではないんだが。話が地味に大きくなっている気がしてな……」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "桐島　七葵「いや、そういうわけではないんだが。話が地味に大きくなっている気がしてな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、はい。いけませんでしたか？」",
+        "after": "桐島　七葵「お前も日生の家に行くつもりなんだろう？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "桐島　七葵「お前も日生の家に行くつもりなんだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや、そういうわけではないんだが。話が地味に大きくなっている気がしてな……」",
+        "after": "蒼「無論だ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "蒼「無論だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お前も日生の家に行くつもりなんだろう？」",
+        "after": "桐島　七葵「……だろうな」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "桐島　七葵「……だろうな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「無論だ」",
+        "after": "蒼「それで、いつ行くつもりなのだ？」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "蒼「それで、いつ行くつもりなのだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……だろうな」",
+        "after": "桐島　七葵「そうだな……」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "桐島　七葵「そうだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それで、いつ行くつもりなのだ？」",
+        "after": "腕を組み、斜め下に顔を向け、考え込む。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "腕を組み、斜め下に顔を向け、考え込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「そうだな……」",
+        "after": "日生　光「皆さんで何のご相談？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "日生　光「皆さんで何のご相談？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "腕を組み、斜め下に顔を向け、考え込む。",
+        "after": "桐島　七葵「！」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "桐島　七葵「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「皆さんで何のご相談？」",
+        "after": "遠野　紗夜「日生先輩……」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「日生先輩……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「！」",
+        "after": "日生　光「やあ。こんばんは」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "日生　光「やあ。こんばんは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩……」",
+        "after": "気配なく現れたのは、渦中の人物である日生先輩本人だった。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "気配なく現れたのは、渦中の人物である日生先輩本人だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「やあ。こんばんは」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "気配なく現れたのは、渦中の人物である日生先輩本人だった。",
+        "after": "日生　光「嫌だな。変な顔して。まだ、僕を疑ってるわけ？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "日生　光「嫌だな。変な顔して。まだ、僕を疑ってるわけ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "と、桐島先輩の後ろに隠れるようにして立つ私に言った。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "と、桐島先輩の後ろに隠れるようにして立つ私に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「嫌だな。変な顔して。まだ、僕を疑ってるわけ？」",
+        "after": "言われるまで自分がそんな顔をしているとは思いもしなかった。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "言われるまで自分がそんな顔をしているとは思いもしなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、桐島先輩の後ろに隠れるようにして立つ私に言った。",
+        "after": "気まずさに目を伏せると、くすくすと笑い声が響いた。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "気まずさに目を伏せると、くすくすと笑い声が響いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言われるまで自分がそんな顔をしているとは思いもしなかった。",
+        "after": "蒼「ちょうどいい。今からお前の家に行くが、良いな」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "蒼「ちょうどいい。今からお前の家に行くが、良いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "気まずさに目を伏せると、くすくすと笑い声が響いた。",
+        "after": "日生　光「どうぞ」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "日生　光「どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ちょうどいい。今からお前の家に行くが、良いな」",
+        "after": "桐島　七葵「なっ……！」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "桐島　七葵「なっ……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どうぞ」",
+        "after": "蒼「何故、驚く。日生の家に行くつもりだったのだろう？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "蒼「何故、驚く。日生の家に行くつもりだったのだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「なっ……！」",
+        "after": "桐島　七葵「いや、だからって今はもう遅い……」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "桐島　七葵「いや、だからって今はもう遅い……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、驚く。日生の家に行くつもりだったのだろう？」",
+        "after": "日生　光「あはっ。僕、いつでも良いって言ったじゃないか。別に構わないさ」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "日生　光「あはっ。僕、いつでも良いって言ったじゃないか。別に構わないさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや、だからって今はもう遅い……」",
+        "after": "目の前の彼はふっと笑い声を落とした。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "目の前の彼はふっと笑い声を落とした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あはっ。僕、いつでも良いって言ったじゃないか。別に構わないさ」",
+        "after": "日生　光「それで、蒼さんは行くって言ってるけど、君達はどうするの？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "日生　光「それで、蒼さんは行くって言ってるけど、君達はどうするの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "目の前の彼はふっと笑い声を落とした。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それで、蒼さんは行くって言ってるけど、君達はどうするの？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "私達は顔を見合わせた。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "私達は顔を見合わせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "答えは決まっている。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "答えは決まっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は顔を見合わせた。",
+        "after": null
+      }
+    }
+  ]
+}

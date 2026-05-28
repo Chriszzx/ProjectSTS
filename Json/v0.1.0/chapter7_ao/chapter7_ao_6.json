@@ -1,0 +1,786 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_6.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 43,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "光に照らされた道を私は一人歩く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "外へ行くかと聞かれ、それに答えたからここにいる。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "外へ行くかと聞かれ、それに答えたからここにいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "光に照らされた道を私は一人歩く。",
+        "after": "一緒に行こうと言ったけれど、兄は首を縦には振らなかった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "一緒に行こうと言ったけれど、兄は首を縦には振らなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "外へ行くかと聞かれ、それに答えたからここにいる。",
+        "after": "待っているから行っておいでと見送ってくれた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "待っているから行っておいでと見送ってくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一緒に行こうと言ったけれど、兄は首を縦には振らなかった。",
+        "after": "私はこの数日間買いに行けなかった食料を買い込み、荷物を片手に兄が待つ家へ戻ろうとしていた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私はこの数日間買いに行けなかった食料を買い込み、荷物を片手に兄が待つ家へ戻ろうとしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "待っているから行っておいでと見送ってくれた。",
+        "after": "遠野　紗夜「…………っ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「…………っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はこの数日間買いに行けなかった食料を買い込み、荷物を片手に兄が待つ家へ戻ろうとしていた。",
+        "after": "久しぶりに歩いたせいか少し息苦しい。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "久しぶりに歩いたせいか少し息苦しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………っ」",
+        "after": "遠野　紗夜「はあ……っ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「はあ……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "久しぶりに歩いたせいか少し息苦しい。",
+        "after": "身体を休めようと脇道に逸れ、その場に座り込んだ。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "身体を休めようと脇道に逸れ、その場に座り込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はあ……っ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "身体を休めようと脇道に逸れ、その場に座り込んだ。",
+        "after": "壁に手をやり、過ぎゆく人を眺めながら思った。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "壁に手をやり、過ぎゆく人を眺めながら思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "やはり、外に出ない方が良かっただろうか。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "やはり、外に出ない方が良かっただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "壁に手をやり、過ぎゆく人を眺めながら思った。",
+        "after": "兄と二人、部屋の中で大人しくしていた方が良かったのだろうか。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "兄と二人、部屋の中で大人しくしていた方が良かったのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やはり、外に出ない方が良かっただろうか。",
+        "after": "こんな調子では学校に行くのもままならないのではないかと、今考えてもどうしようもないことばかり思い浮かんでは消えた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "こんな調子では学校に行くのもままならないのではないかと、今考えてもどうしようもないことばかり思い浮かんでは消えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄と二人、部屋の中で大人しくしていた方が良かったのだろうか。",
+        "after": "蒼「ここで何をしている？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "蒼「ここで何をしている？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "こんな調子では学校に行くのもままならないのではないかと、今考えてもどうしようもないことばかり思い浮かんでは消えた。",
+        "after": "低く、どこか無機質な印象を受ける声。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "低く、どこか無機質な印象を受ける声。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ここで何をしている？」",
+        "after": "遠野　紗夜「蒼……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「蒼……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "低く、どこか無機質な印象を受ける声。",
+        "after": "太陽の光に照らされた金色の髪が眩しくて私は目を細めた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "太陽の光に照らされた金色の髪が眩しくて私は目を細めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼……」",
+        "after": "蒼「学校に行くのではなかったのだな」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "蒼「学校に行くのではなかったのだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "太陽の光に照らされた金色の髪が眩しくて私は目を細めた。",
+        "after": "遠野　紗夜「……ええ。また休んでしまいました。貴方は？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「……ええ。また休んでしまいました。貴方は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「学校に行くのではなかったのだな」",
+        "after": "蒼「一冊本を読み終えたので、気晴らしにと歩いていた」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「一冊本を読み終えたので、気晴らしにと歩いていた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ええ。また休んでしまいました。貴方は？」",
+        "after": "遠野　紗夜「お散歩ですね」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「お散歩ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「一冊本を読み終えたので、気晴らしにと歩いていた」",
+        "after": "蒼「そうとも言うのだろう」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "蒼「そうとも言うのだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お散歩ですね」",
+        "after": "蒼「それでお前はここで何をしていたのだ？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼「それでお前はここで何をしていたのだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうとも言うのだろう」",
+        "after": "遠野　紗夜「私もいつまでも部屋の中にいるのは退屈ですし、それにお腹が空いたのでお買い物をしてました」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「私もいつまでも部屋の中にいるのは退屈ですし、それにお腹が空いたのでお買い物をしてました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それでお前はここで何をしていたのだ？」",
+        "after": "脇に置いた籠を見せる。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "脇に置いた籠を見せる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私もいつまでも部屋の中にいるのは退屈ですし、それにお腹が空いたのでお買い物をしてました」",
+        "after": "蒼「ならば、何故この様な場所で座り込んでいた？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "蒼「ならば、何故この様な場所で座り込んでいた？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "脇に置いた籠を見せる。",
+        "after": "遠野　紗夜「何だか、疲れてしまって……」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「何だか、疲れてしまって……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ならば、何故この様な場所で座り込んでいた？」",
+        "after": "蒼「そうか」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "蒼「そうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何だか、疲れてしまって……」",
+        "after": "そう言うと、蒼は片手を差し出す。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "そう言うと、蒼は片手を差し出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そうか」",
+        "after": "遠野　紗夜「何でしょう？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、蒼は片手を差し出す。",
+        "after": "蒼「疲れたのなら臥待堂で休めば良いだろう。ここからそう遠くはない上、何よりここよりは休めるはずだが？」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "蒼「疲れたのなら臥待堂で休めば良いだろう。ここからそう遠くはない上、何よりここよりは休めるはずだが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何でしょう？」",
+        "after": "私は差し出された手を取った。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "私は差し出された手を取った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「疲れたのなら臥待堂で休めば良いだろう。ここからそう遠くはない上、何よりここよりは休めるはずだが？」",
+        "after": "遠野　紗夜「また貴方に助けてもらってしまいましたね」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「また貴方に助けてもらってしまいましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は差し出された手を取った。",
+        "after": "蒼「助けが必要だったのか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "蒼「助けが必要だったのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「また貴方に助けてもらってしまいましたね」",
+        "after": "虚をつかれた様な気がした。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "虚をつかれた様な気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「助けが必要だったのか？」",
+        "after": "蒼「何を驚いている」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "蒼「何を驚いている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "虚をつかれた様な気がした。",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何を驚いている」",
+        "after": "幾つか瞬きをしてると、握った手を強く引っ張られ、私は立ち上がる。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "幾つか瞬きをしてると、握った手を強く引っ張られ、私は立ち上がる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": "蒼い眸を見つめながら、「ああそうか、私は助けて欲しかったのか」と気付いた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "蒼い眸を見つめながら、「ああそうか、私は助けて欲しかったのか」と気付いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "幾つか瞬きをしてると、握った手を強く引っ張られ、私は立ち上がる。",
+        "after": "遠野　紗夜「……ありがとうございます」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「……ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼い眸を見つめながら、「ああそうか、私は助けて欲しかったのか」と気付いた。",
+        "after": "彼はそれ以上何も言わず、背を向け歩き出した。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "彼はそれ以上何も言わず、背を向け歩き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ありがとうございます」",
+        "after": "手は繋がれたままだった。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "手は繋がれたままだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はそれ以上何も言わず、背を向け歩き出した。",
+        "after": null
+      }
+    }
+  ]
+}

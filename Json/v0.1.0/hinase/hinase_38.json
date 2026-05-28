@@ -1,0 +1,4334 @@
+{
+  "meta": {
+    "file": "hinase/hinase_38.txt",
+    "chapter": "hinase",
+    "total_lines": 242,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "揺れる風が私の髪を攫う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "僅かな灯り。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "僅かな灯り。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "揺れる風が私の髪を攫う。",
+        "after": "海は黒く、夜の闇よりも深く、波音と潮の香りがそれが海だと強く認識させる。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "海は黒く、夜の闇よりも深く、波音と潮の香りがそれが海だと強く認識させる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "僅かな灯り。",
+        "after": "今、私の目の前には彼がいる。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "今、私の目の前には彼がいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "海は黒く、夜の闇よりも深く、波音と潮の香りがそれが海だと強く認識させる。",
+        "after": "日生　光「やあ、こんばんは」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "日生　光「やあ、こんばんは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "今、私の目の前には彼がいる。",
+        "after": "遠野　紗夜「こんな所にいて貴方はどこへ行くつもりだったのですか？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「こんな所にいて貴方はどこへ行くつもりだったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「やあ、こんばんは」",
+        "after": "日生　光「どこへも」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "日生　光「どこへも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「こんな所にいて貴方はどこへ行くつもりだったのですか？」",
+        "after": "遠野　紗夜「私を連れて行ってはくれないのですか？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「私を連れて行ってはくれないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どこへも」",
+        "after": "日生　光「君が望むのならば」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "日生　光「君が望むのならば」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私を連れて行ってはくれないのですか？」",
+        "after": "矛盾したやりとり。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "矛盾したやりとり。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「君が望むのならば」",
+        "after": "遠野　紗夜「……貴方は、一体誰なのですか？」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「……貴方は、一体誰なのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "矛盾したやりとり。",
+        "after": "日生　光「さあ、誰だろう。僕も知りたいね」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "日生　光「さあ、誰だろう。僕も知りたいね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……貴方は、一体誰なのですか？」",
+        "after": "遠野　紗夜「ふざけないで下さい！」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「ふざけないで下さい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「さあ、誰だろう。僕も知りたいね」",
+        "after": "日生　光「ふざけてなんかないよ。だって、元の僕には何もないんだ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「ふざけてなんかないよ。だって、元の僕には何もないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ふざけないで下さい！」",
+        "after": "日生　光「名前も、金も、名誉も、地位も、身分という身分全て」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "日生　光「名前も、金も、名誉も、地位も、身分という身分全て」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ふざけてなんかないよ。だって、元の僕には何もないんだ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「名前も、金も、名誉も、地位も、身分という身分全て」",
+        "after": "日生　光「折角、全て上手くいってたのにな。ゆっくりと時間をかけて、周りの信頼を集めるのにも苦労したのに」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生　光「折角、全て上手くいってたのにな。ゆっくりと時間をかけて、周りの信頼を集めるのにも苦労したのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「結局、手に入れたのはこれだけだ」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "日生　光「結局、手に入れたのはこれだけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「折角、全て上手くいってたのにな。ゆっくりと時間をかけて、周りの信頼を集めるのにも苦労したのに」",
+        "after": "足下にある鞄を蹴飛ばした。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "足下にある鞄を蹴飛ばした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「結局、手に入れたのはこれだけだ」",
+        "after": "遠野　紗夜「……本当なのですか？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「……本当なのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "足下にある鞄を蹴飛ばした。",
+        "after": "遠野　紗夜「本当に貴方は『日生光』ではないのですか……？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「本当に貴方は『日生光』ではないのですか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……本当なのですか？」",
+        "after": "日生　光「そうだよ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　光「そうだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当に貴方は『日生光』ではないのですか……？」",
+        "after": "日生　光「初めてこの町に来た時、僕も驚いたよ。金持ちのばあさんがいるって聞いてたけど、その行方不明の孫が僕とそっくりだなんてね」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "日生　光「初めてこの町に来た時、僕も驚いたよ。金持ちのばあさんがいるって聞いてたけど、その行方不明の孫が僕とそっくりだなんてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうだよ」",
+        "after": "日生　光「だから利用してやろうと思った。これは神様が与えた僕へのご褒美なんだって」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "日生　光「だから利用してやろうと思った。これは神様が与えた僕へのご褒美なんだって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「初めてこの町に来た時、僕も驚いたよ。金持ちのばあさんがいるって聞いてたけど、その行方不明の孫が僕とそっくりだなんてね」",
+        "after": "日生　光「本物に近づく為に容姿も趣味嗜好も全て変えた」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "日生　光「本物に近づく為に容姿も趣味嗜好も全て変えた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だから利用してやろうと思った。これは神様が与えた僕へのご褒美なんだって」",
+        "after": "日生　光「この喋り方だって、本物と変わらないだろう？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "日生　光「この喋り方だって、本物と変わらないだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「本物に近づく為に容姿も趣味嗜好も全て変えた」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「この喋り方だって、本物と変わらないだろう？」",
+        "after": "本物と変わらない。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "本物と変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "それはそうだ。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "それはそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本物と変わらない。",
+        "after": "遠野　紗夜「……私は本物の『日生光』のことはよく知りません」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「……私は本物の『日生光』のことはよく知りません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それはそうだ。",
+        "after": "日生　光「ああ、それはそうか。君と一緒にいたのはずっと偽物の方だったからね」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "日生　光「ああ、それはそうか。君と一緒にいたのはずっと偽物の方だったからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私は本物の『日生光』のことはよく知りません」",
+        "after": "そう。私にとっては『本物』だった。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "そう。私にとっては『本物』だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ああ、それはそうか。君と一緒にいたのはずっと偽物の方だったからね」",
+        "after": "遠野　紗夜「ずっと、騙していたのですね」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「ずっと、騙していたのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう。私にとっては『本物』だった。",
+        "after": "日生　光「うん」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ずっと、騙していたのですね」",
+        "after": "遠野　紗夜「出会った時から？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「出会った時から？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うん」",
+        "after": "日生　光「僕と君が会ったのは、入学式の時だったね」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生　光「僕と君が会ったのは、入学式の時だったね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「出会った時から？」",
+        "after": "日生　光「僕は窓から身を乗り出し、中庭にいる君にこう声をかけた」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "日生　光「僕は窓から身を乗り出し、中庭にいる君にこう声をかけた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕と君が会ったのは、入学式の時だったね」",
+        "after": "日生　光「『こんにちは、お姫様。こんなところで何をしているんですか？』」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "日生　光「『こんにちは、お姫様。こんなところで何をしているんですか？』」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕は窓から身を乗り出し、中庭にいる君にこう声をかけた」",
+        "after": "あの時の思い出が今と重なる。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "あの時の思い出が今と重なる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「『こんにちは、お姫様。こんなところで何をしているんですか？』」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あの時の思い出が今と重なる。",
+        "after": "遠野　紗夜「……どうして私に近づいたのですか？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「……どうして私に近づいたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「だって、君は『遠野』だろう？」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "日生　光「だって、君は『遠野』だろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……どうして私に近づいたのですか？」",
+        "after": "日生　光「君に近づいたのだって、君に興味があったわけじゃなくて、君の背後にある『遠野』という地位が欲しかっただけだよ」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "日生　光「君に近づいたのだって、君に興味があったわけじゃなくて、君の背後にある『遠野』という地位が欲しかっただけだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だって、君は『遠野』だろう？」",
+        "after": "遠野　紗夜「……貴方は最低ですね」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「……貴方は最低ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君に近づいたのだって、君に興味があったわけじゃなくて、君の背後にある『遠野』という地位が欲しかっただけだよ」",
+        "after": "日生　光「そうだね」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "日生　光「そうだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……貴方は最低ですね」",
+        "after": "顔色一つ変えずにそう言ってのけた。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "顔色一つ変えずにそう言ってのけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「そうだね」",
+        "after": "日生　光「でも、その最低な奴の嘘に騙された奴らは馬鹿だと思うけどな」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "日生　光「でも、その最低な奴の嘘に騙された奴らは馬鹿だと思うけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "顔色一つ変えずにそう言ってのけた。",
+        "after": "遠野　紗夜「ええ。馬鹿です。とても愚かだと思います」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「ええ。馬鹿です。とても愚かだと思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも、その最低な奴の嘘に騙された奴らは馬鹿だと思うけどな」",
+        "after": "遠野　紗夜「だって、私はそれでも『貴方』が好きだから」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「だって、私はそれでも『貴方』が好きだから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。馬鹿です。とても愚かだと思います」",
+        "after": "彼は眉をぴくりとも動かさない。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "彼は眉をぴくりとも動かさない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「だって、私はそれでも『貴方』が好きだから」",
+        "after": "悔しい。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "悔しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は眉をぴくりとも動かさない。",
+        "after": "日生　光「ねえ、君は僕のことが好きだというけれど、それって本当に『僕』が好きだったのかな？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "日生　光「ねえ、君は僕のことが好きだというけれど、それって本当に『僕』が好きだったのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "悔しい。",
+        "after": "日生　光「君が好きなのは『日生光』じゃなかったのかな？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "日生　光「君が好きなのは『日生光』じゃなかったのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ねえ、君は僕のことが好きだというけれど、それって本当に『僕』が好きだったのかな？」",
+        "after": "日生　光「でも『日生光』は偽物だ。『僕』でも、ましてや本当の『日生光』ですらもない」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "日生　光「でも『日生光』は偽物だ。『僕』でも、ましてや本当の『日生光』ですらもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君が好きなのは『日生光』じゃなかったのかな？」",
+        "after": "日生　光「偽物の恋でしかないんだよ」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "日生　光「偽物の恋でしかないんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも『日生光』は偽物だ。『僕』でも、ましてや本当の『日生光』ですらもない」",
+        "after": "遠野　紗夜「……どこにも本当の貴方はいなかったのですか？」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "遠野　紗夜「……どこにも本当の貴方はいなかったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「偽物の恋でしかないんだよ」",
+        "after": "遠野　紗夜「私を愛してくれた言葉も、私を救ってくれた言葉も全て嘘だったのですか？」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「私を愛してくれた言葉も、私を救ってくれた言葉も全て嘘だったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……どこにも本当の貴方はいなかったのですか？」",
+        "after": "日生　光「そうだよ」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "日生　光「そうだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私を愛してくれた言葉も、私を救ってくれた言葉も全て嘘だったのですか？」",
+        "after": "日生　光「僕は君に魔法の呪文を唱えただけだ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　光「僕は君に魔法の呪文を唱えただけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうだよ」",
+        "after": "どうして？"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "どうして？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「僕は君に魔法の呪文を唱えただけだ」",
+        "after": "どうして、どうして、どうして？"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "どうして、どうして、どうして？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうして？",
+        "after": "どうして、貴方は築き上げられた私の思いまで壊そうとするの？"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "どうして、貴方は築き上げられた私の思いまで壊そうとするの？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうして、どうして、どうして？",
+        "after": "日生　光「泣かないんだね」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "日生　光「泣かないんだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "どうして、貴方は築き上げられた私の思いまで壊そうとするの？",
+        "after": "遠野　紗夜「……泣くと思いましたか？」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「……泣くと思いましたか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「泣かないんだね」",
+        "after": "日生　光「思ってたな。少し残念だ」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "日生　光「思ってたな。少し残念だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……泣くと思いましたか？」",
+        "after": "遠野　紗夜「泣いて全てが解決するのなら、私は幾らでも涙を流すでしょう」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「泣いて全てが解決するのなら、私は幾らでも涙を流すでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「思ってたな。少し残念だ」",
+        "after": "遠野　紗夜「けれど、そうではないことを知っています」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「けれど、そうではないことを知っています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「泣いて全てが解決するのなら、私は幾らでも涙を流すでしょう」",
+        "after": "嘘だ。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "嘘だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「けれど、そうではないことを知っています」",
+        "after": "本当はただ枯れ果ててしまっただけなのに。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "本当はただ枯れ果ててしまっただけなのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘だ。",
+        "after": "日生　光「君は強いね」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "日生　光「君は強いね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "本当はただ枯れ果ててしまっただけなのに。",
+        "after": "遠野　紗夜「……そう、思いますか？」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "遠野　紗夜「……そう、思いますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君は強いね」",
+        "after": "日生　光「ああ」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "日生　光「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そう、思いますか？」",
+        "after": "遠野　紗夜「私は……貴方が憎いです。それこそ、殺したいほどに」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「私は……貴方が憎いです。それこそ、殺したいほどに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ああ」",
+        "after": "日生　光「はっ。むしろ、君がここに来た時は殺されるかと思ったよ」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "日生　光「はっ。むしろ、君がここに来た時は殺されるかと思ったよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は……貴方が憎いです。それこそ、殺したいほどに」",
+        "after": "遠野　紗夜「殺した方が良かったですか？」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　紗夜「殺した方が良かったですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はっ。むしろ、君がここに来た時は殺されるかと思ったよ」",
+        "after": "日生　光「そこまで思われるのも悪くはない」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "日生　光「そこまで思われるのも悪くはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「殺した方が良かったですか？」",
+        "after": "彼は何を思ってこの言葉を言っているのだろう。"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "彼は何を思ってこの言葉を言っているのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「そこまで思われるのも悪くはない」",
+        "after": "遠野　紗夜「私には貴方の嘘がどこまで嘘なのか分からない……っ」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　紗夜「私には貴方の嘘がどこまで嘘なのか分からない……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は何を思ってこの言葉を言っているのだろう。",
+        "after": "日生　光「それは光栄だ。そうじゃないと嘘である理由にならない」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "日生　光「それは光栄だ。そうじゃないと嘘である理由にならない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私には貴方の嘘がどこまで嘘なのか分からない……っ」",
+        "after": "空言"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "空言",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「それは光栄だ。そうじゃないと嘘である理由にならない」",
+        "after": "虚言"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "虚言",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "空言",
+        "after": "偽り"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "偽り",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "虚言",
+        "after": "嘘とは人を欺く為に使われる。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "嘘とは人を欺く為に使われる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "偽り",
+        "after": "事実に反すること。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "事実に反すること。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘とは人を欺く為に使われる。",
+        "after": "なら、この人は何の為に嘘を吐いているのだろう？"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "なら、この人は何の為に嘘を吐いているのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "事実に反すること。",
+        "after": "嘘の反対が真実だというのなら、その隠した真実はどこにあるの？"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "嘘の反対が真実だというのなら、その隠した真実はどこにあるの？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "なら、この人は何の為に嘘を吐いているのだろう？",
+        "after": "遠野　紗夜「貴方は……」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "遠野　紗夜「貴方は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "嘘の反対が真実だというのなら、その隠した真実はどこにあるの？",
+        "after": "遠野　紗夜「貴方は、私から何を隠したがっているのですか……？」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「貴方は、私から何を隠したがっているのですか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は……」",
+        "after": "日生　光「さあ、何だろう？」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "日生　光「さあ、何だろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は、私から何を隠したがっているのですか……？」",
+        "after": "日生　光「もしかしたら、君を好きだから嘘を吐くのかも知れないよ」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "日生　光「もしかしたら、君を好きだから嘘を吐くのかも知れないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「さあ、何だろう？」",
+        "after": "遠野　紗夜「私が好きだから嘘を吐くのですか？」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "遠野　紗夜「私が好きだから嘘を吐くのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「もしかしたら、君を好きだから嘘を吐くのかも知れないよ」",
+        "after": "日生　光「ああ、そうだよ。だって、僕には何もないから」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "日生　光「ああ、そうだよ。だって、僕には何もないから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私が好きだから嘘を吐くのですか？」",
+        "after": "彼は私のすぐ近くまで来る。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "彼は私のすぐ近くまで来る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ああ、そうだよ。だって、僕には何もないから」",
+        "after": "日生　光「一目見た時から惹かれていた。君を心の底から手に入れたいと思った」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "日生　光「一目見た時から惹かれていた。君を心の底から手に入れたいと思った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "彼は私のすぐ近くまで来る。",
+        "after": "日生　光「紗夜君の体をくれないか？」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "日生　光「紗夜君の体をくれないか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「一目見た時から惹かれていた。君を心の底から手に入れたいと思った」",
+        "after": "日生　光「君の名前をくれないか？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "日生　光「君の名前をくれないか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「紗夜君の体をくれないか？」",
+        "after": "日生　光「君の全てが欲しい」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "日生　光「君の全てが欲しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君の名前をくれないか？」",
+        "after": "ああ、なんてとてもとても甘い響きなのだろう。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "ああ、なんてとてもとても甘い響きなのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「君の全てが欲しい」",
+        "after": "まるで、どろどろに溶けたチョコレートのよう。"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "まるで、どろどろに溶けたチョコレートのよう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、なんてとてもとても甘い響きなのだろう。",
+        "after": "伸ばされた手。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "伸ばされた手。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで、どろどろに溶けたチョコレートのよう。",
+        "after": "この目に"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "この目に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "伸ばされた手。",
+        "after": "この頬に"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "この頬に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この目に",
+        "after": "この唇に"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "この唇に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この頬に",
+        "after": "この喉に"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "この喉に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この唇に",
+        "after": "次々に触れていく。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "次々に触れていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この喉に",
+        "after": "そして、指先はゆっくりと私の心の臓へと辿り着く。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "そして、指先はゆっくりと私の心の臓へと辿り着く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "次々に触れていく。",
+        "after": "この言葉は嘘？　それとも本当？"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "この言葉は嘘？　それとも本当？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、指先はゆっくりと私の心の臓へと辿り着く。",
+        "after": "遠野　紗夜「…………分かりました」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「…………分かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "この言葉は嘘？　それとも本当？",
+        "after": "遠野　紗夜「貴方が私を欲しいというのならば、私は私の全てを貴方に差し上げましょう」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "遠野　紗夜「貴方が私を欲しいというのならば、私は私の全てを貴方に差し上げましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………分かりました」",
+        "after": "遠野　紗夜「けれど、お願いがあります。どうか、それを叶えては頂けませんか？」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　紗夜「けれど、お願いがあります。どうか、それを叶えては頂けませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方が私を欲しいというのならば、私は私の全てを貴方に差し上げましょう」",
+        "after": "日生　光「さあ、どうだろう？　そのお願い事によるかな」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "日生　光「さあ、どうだろう？　そのお願い事によるかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、お願いがあります。どうか、それを叶えては頂けませんか？」",
+        "after": "嘘を吐いて"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "嘘を吐いて",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「さあ、どうだろう？　そのお願い事によるかな」",
+        "after": "嘘を吐かないで"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "嘘を吐かないで",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘を吐いて",
+        "after": "貴方が嘘を吐くのなら、それでもいい。"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "貴方が嘘を吐くのなら、それでもいい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘を吐かないで",
+        "after": "その嘘が優しい嘘だとしたら、貴方は永遠に私に嘘を吐いてくれるでしょう。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "その嘘が優しい嘘だとしたら、貴方は永遠に私に嘘を吐いてくれるでしょう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "貴方が嘘を吐くのなら、それでもいい。",
+        "after": "正しさなどいらない。"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "正しさなどいらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その嘘が優しい嘘だとしたら、貴方は永遠に私に嘘を吐いてくれるでしょう。",
+        "after": "だから、私も嘘を吐こう。"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "だから、私も嘘を吐こう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "正しさなどいらない。",
+        "after": "嘘吐きな二人が紡いだ嘘なら、それは本物と変わらないのだから。"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "嘘吐きな二人が紡いだ嘘なら、それは本物と変わらないのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だから、私も嘘を吐こう。",
+        "after": "私はゆっくりとした動作で彼の頬に触れる。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "私はゆっくりとした動作で彼の頬に触れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘吐きな二人が紡いだ嘘なら、それは本物と変わらないのだから。",
+        "after": "目線は逸らさずに"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "目線は逸らさずに",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はゆっくりとした動作で彼の頬に触れる。",
+        "after": "微笑みながら"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "微笑みながら",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目線は逸らさずに",
+        "after": "さながら、物語のお姫様のように。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "さながら、物語のお姫様のように。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "微笑みながら",
+        "after": "遠野　紗夜「お姫様ごっこをしましょう？」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "遠野　紗夜「お姫様ごっこをしましょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "さながら、物語のお姫様のように。",
+        "after": "遠野　紗夜「私は魔女に囚われたお姫様」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "遠野　紗夜「私は魔女に囚われたお姫様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お姫様ごっこをしましょう？」",
+        "after": "遠野　紗夜「貴方はお姫様に心を奪われた盗賊」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「貴方はお姫様に心を奪われた盗賊」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は魔女に囚われたお姫様」",
+        "after": "遠野　紗夜「入り口のない高い塔の上にいるお姫様は、やって来た王子様に恋をするのです」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「入り口のない高い塔の上にいるお姫様は、やって来た王子様に恋をするのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方はお姫様に心を奪われた盗賊」",
+        "after": "遠野　紗夜「けれど、王子様は本当の王子様ではなく、魔女の宝を狙ってやって来た盗賊でした」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「けれど、王子様は本当の王子様ではなく、魔女の宝を狙ってやって来た盗賊でした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「入り口のない高い塔の上にいるお姫様は、やって来た王子様に恋をするのです」",
+        "after": "遠野　紗夜「それでも、お姫様は本物の王子様ではなく盗賊を選んで、盗賊はお姫様を攫って逃げてしまうのです」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "遠野　紗夜「それでも、お姫様は本物の王子様ではなく盗賊を選んで、盗賊はお姫様を攫って逃げてしまうのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、王子様は本当の王子様ではなく、魔女の宝を狙ってやって来た盗賊でした」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それでも、お姫様は本物の王子様ではなく盗賊を選んで、盗賊はお姫様を攫って逃げてしまうのです」",
+        "after": "遠野　紗夜「嘘吐きな貴方なら簡単なことですよね。ただ、ずっと嘘を吐き続けていれば良いのですから」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "遠野　紗夜「嘘吐きな貴方なら簡単なことですよね。ただ、ずっと嘘を吐き続けていれば良いのですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "日生　光「……その物語の結末は？」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "日生　光「……その物語の結末は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「嘘吐きな貴方なら簡単なことですよね。ただ、ずっと嘘を吐き続けていれば良いのですから」",
+        "after": "遠野　紗夜「さあ、どうでしょう？　是非、ご自分の目で確かめてはいかがです？」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "遠野　紗夜「さあ、どうでしょう？　是非、ご自分の目で確かめてはいかがです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……その物語の結末は？」",
+        "after": "私の言葉に彼は薄く笑う。"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "私の言葉に彼は薄く笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「さあ、どうでしょう？　是非、ご自分の目で確かめてはいかがです？」",
+        "after": "遠野　紗夜「貴方の嘘を私にくれますか？」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「貴方の嘘を私にくれますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の言葉に彼は薄く笑う。",
+        "after": "日生　光「ああ。いいよ、お姫様。僕の嘘を君にあげましょう」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "日生　光「ああ。いいよ、お姫様。僕の嘘を君にあげましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方の嘘を私にくれますか？」",
+        "after": "強く、強く抱きしめられた。"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "強く、強く抱きしめられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ああ。いいよ、お姫様。僕の嘘を君にあげましょう」",
+        "after": "今までで一番強く。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "今までで一番強く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "強く、強く抱きしめられた。",
+        "after": "何が嘘でも良い。"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "何が嘘でも良い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今までで一番強く。",
+        "after": "私はその一つの真実だけで幸せだった。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "私はその一つの真実だけで幸せだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何が嘘でも良い。",
+        "after": "遠野　紗夜「……王子様、どうか私をここから連れ出して下さい」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　紗夜「……王子様、どうか私をここから連れ出して下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその一つの真実だけで幸せだった。",
+        "after": "日生　光「はい」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "日生　光「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……王子様、どうか私をここから連れ出して下さい」",
+        "after": "これは真実深き私の恋なのだから。"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "これは真実深き私の恋なのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はい」",
+        "after": "むかしむかしあるところに、鬱蒼とした森の奥に入り口のない"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "むかしむかしあるところに、鬱蒼とした森の奥に入り口のない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これは真実深き私の恋なのだから。",
+        "after": "高い高い塔が立っていました。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "高い高い塔が立っていました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "むかしむかしあるところに、鬱蒼とした森の奥に入り口のない",
+        "after": "そこにはたくさんの財宝が魔女と共に眠っていると噂が流れて"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "そこにはたくさんの財宝が魔女と共に眠っていると噂が流れて",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "高い高い塔が立っていました。",
+        "after": "いました。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこにはたくさんの財宝が魔女と共に眠っていると噂が流れて",
+        "after": "だけど、その塔へ昇る為には魔法の言葉が必要で、"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "だけど、その塔へ昇る為には魔法の言葉が必要で、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いました。",
+        "after": "今の今まで誰一人として塔の上に昇ったことがないそうなのです。"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "今の今まで誰一人として塔の上に昇ったことがないそうなのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だけど、その塔へ昇る為には魔法の言葉が必要で、",
+        "after": "ある日、噂を聞きつけた一人の盗賊が魔女の宝を求めて塔の下へと"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "ある日、噂を聞きつけた一人の盗賊が魔女の宝を求めて塔の下へと",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今の今まで誰一人として塔の上に昇ったことがないそうなのです。",
+        "after": "やってきました。"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "やってきました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ある日、噂を聞きつけた一人の盗賊が魔女の宝を求めて塔の下へと",
+        "after": "盗賊は、とある魔法使いから盗んだ魔法の言葉を唱えます。"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "盗賊は、とある魔法使いから盗んだ魔法の言葉を唱えます。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やってきました。",
+        "after": "すると、するすると一本の蔦が伸びて、盗賊はそれに捕まって上へと"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "すると、するすると一本の蔦が伸びて、盗賊はそれに捕まって上へと",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "盗賊は、とある魔法使いから盗んだ魔法の言葉を唱えます。",
+        "after": "登っていきました。"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "登っていきました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すると、するすると一本の蔦が伸びて、盗賊はそれに捕まって上へと",
+        "after": "そして、ようやく辿り着いた塔の中。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "そして、ようやく辿り着いた塔の中。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "登っていきました。",
+        "after": "そこには魔女の姿も宝もありませんでしたが、代わりに美しいお姫様が"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "そこには魔女の姿も宝もありませんでしたが、代わりに美しいお姫様が",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、ようやく辿り着いた塔の中。",
+        "after": "いたのです。"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "いたのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには魔女の姿も宝もありませんでしたが、代わりに美しいお姫様が",
+        "after": "お姫様はやって来た盗賊に言いました。"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "お姫様はやって来た盗賊に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いたのです。",
+        "after": "『貴方は誰？』"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "『貴方は誰？』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "お姫様はやって来た盗賊に言いました。",
+        "after": "盗賊はお姫様に言いました。"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "盗賊はお姫様に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『貴方は誰？』",
+        "after": "『私は貴方を助けに来た王子です』"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "『私は貴方を助けに来た王子です』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "盗賊はお姫様に言いました。",
+        "after": "それから、明くる日も明くる日も盗賊はお姫様の下へとやって来ます。"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "それから、明くる日も明くる日も盗賊はお姫様の下へとやって来ます。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『私は貴方を助けに来た王子です』",
+        "after": "お姫様は、自分の知らない世界のことを話し聞かせてくれる王子様が"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "お姫様は、自分の知らない世界のことを話し聞かせてくれる王子様が",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それから、明くる日も明くる日も盗賊はお姫様の下へとやって来ます。",
+        "after": "やって来ることを楽しみにしていました。"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "やって来ることを楽しみにしていました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お姫様は、自分の知らない世界のことを話し聞かせてくれる王子様が",
+        "after": "盗賊は、お姫様の美しさと気高さ、そして時折見せる陰に心惹かれて"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "盗賊は、お姫様の美しさと気高さ、そして時折見せる陰に心惹かれて",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やって来ることを楽しみにしていました。",
+        "after": "いました。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "盗賊は、お姫様の美しさと気高さ、そして時折見せる陰に心惹かれて",
+        "after": "すぐに恋に落ちた二人でしたが、お姫様は王子様がいつまで経っても"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "すぐに恋に落ちた二人でしたが、お姫様は王子様がいつまで経っても",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いました。",
+        "after": "自分をここから連れ出さないのを不思議に思いました。"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "自分をここから連れ出さないのを不思議に思いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すぐに恋に落ちた二人でしたが、お姫様は王子様がいつまで経っても",
+        "after": "そして、とうとうお姫様の方から王子様に言いました。"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "そして、とうとうお姫様の方から王子様に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分をここから連れ出さないのを不思議に思いました。",
+        "after": "『私をここから連れ出して欲しいのです』"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "『私をここから連れ出して欲しいのです』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "そして、とうとうお姫様の方から王子様に言いました。",
+        "after": "けれど、やはり王子様はお姫様を外へ連れてはくれませんでした。"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "けれど、やはり王子様はお姫様を外へ連れてはくれませんでした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『私をここから連れ出して欲しいのです』",
+        "after": "そんなある日のことでした。"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "そんなある日のことでした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、やはり王子様はお姫様を外へ連れてはくれませんでした。",
+        "after": "『お姫様。貴方を迎えに来ました』"
+      }
+    },
+    {
+      "line": 172,
+      "jp": "『お姫様。貴方を迎えに来ました』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "そんなある日のことでした。",
+        "after": "お姫様の前に現れたのは、いつもの王子様ではなく、もっと身なりの"
+      }
+    },
+    {
+      "line": 173,
+      "jp": "お姫様の前に現れたのは、いつもの王子様ではなく、もっと身なりの",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『お姫様。貴方を迎えに来ました』",
+        "after": "良い姿の男でした。"
+      }
+    },
+    {
+      "line": 174,
+      "jp": "良い姿の男でした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お姫様の前に現れたのは、いつもの王子様ではなく、もっと身なりの",
+        "after": "その男が言うには、自分こそが本物の王子様で、今までお姫様に"
+      }
+    },
+    {
+      "line": 175,
+      "jp": "その男が言うには、自分こそが本物の王子様で、今までお姫様に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "良い姿の男でした。",
+        "after": "会いに来ていた王子様は偽物だというのです。"
+      }
+    },
+    {
+      "line": 176,
+      "jp": "会いに来ていた王子様は偽物だというのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その男が言うには、自分こそが本物の王子様で、今までお姫様に",
+        "after": "お姫様は、大層嘆き悲しみました。"
+      }
+    },
+    {
+      "line": 177,
+      "jp": "お姫様は、大層嘆き悲しみました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "会いに来ていた王子様は偽物だというのです。",
+        "after": "『ああ、可哀想なお姫様。貴方はあの男に騙されたのです』"
+      }
+    },
+    {
+      "line": 178,
+      "jp": "『ああ、可哀想なお姫様。貴方はあの男に騙されたのです』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "お姫様は、大層嘆き悲しみました。",
+        "after": "本物の王子様はお姫様に誓いの口づけをしようとしますが、お姫様は"
+      }
+    },
+    {
+      "line": 179,
+      "jp": "本物の王子様はお姫様に誓いの口づけをしようとしますが、お姫様は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『ああ、可哀想なお姫様。貴方はあの男に騙されたのです』",
+        "after": "その手を振り払います。"
+      }
+    },
+    {
+      "line": 180,
+      "jp": "その手を振り払います。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本物の王子様はお姫様に誓いの口づけをしようとしますが、お姫様は",
+        "after": "そして、お姫様は悲しみのあまり、そのまま塔の上から飛び降りて"
+      }
+    },
+    {
+      "line": 181,
+      "jp": "そして、お姫様は悲しみのあまり、そのまま塔の上から飛び降りて",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その手を振り払います。",
+        "after": "しまったのです。"
+      }
+    },
+    {
+      "line": 182,
+      "jp": "しまったのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、お姫様は悲しみのあまり、そのまま塔の上から飛び降りて",
+        "after": "ああ、なんてことでしょう。"
+      }
+    },
+    {
+      "line": 183,
+      "jp": "ああ、なんてことでしょう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しまったのです。",
+        "after": "塔の上に囚われたお姫様。"
+      }
+    },
+    {
+      "line": 184,
+      "jp": "塔の上に囚われたお姫様。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、なんてことでしょう。",
+        "after": "ついには、自ら塔の下へと落ちていったのです。"
+      }
+    },
+    {
+      "line": 185,
+      "jp": "ついには、自ら塔の下へと落ちていったのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "塔の上に囚われたお姫様。",
+        "after": "このままお姫様は死んでしまうのでしょうか？"
+      }
+    },
+    {
+      "line": 186,
+      "jp": "このままお姫様は死んでしまうのでしょうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ついには、自ら塔の下へと落ちていったのです。",
+        "after": "けれど、塔の下には盗賊がいて、羽のようにふわりと落ちてきた"
+      }
+    },
+    {
+      "line": 187,
+      "jp": "けれど、塔の下には盗賊がいて、羽のようにふわりと落ちてきた",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "このままお姫様は死んでしまうのでしょうか？",
+        "after": "お姫様を見事受け止めました。"
+      }
+    },
+    {
+      "line": 188,
+      "jp": "お姫様を見事受け止めました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、塔の下には盗賊がいて、羽のようにふわりと落ちてきた",
+        "after": "お姫様は、前と同じ言葉を盗賊に言いました。"
+      }
+    },
+    {
+      "line": 189,
+      "jp": "お姫様は、前と同じ言葉を盗賊に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お姫様を見事受け止めました。",
+        "after": "『私をここから連れ出して欲しいのです』"
+      }
+    },
+    {
+      "line": 190,
+      "jp": "『私をここから連れ出して欲しいのです』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "お姫様は、前と同じ言葉を盗賊に言いました。",
+        "after": "お姫様は本物の王子様が現れても、偽物の王子様である盗賊を選んだ"
+      }
+    },
+    {
+      "line": 191,
+      "jp": "お姫様は本物の王子様が現れても、偽物の王子様である盗賊を選んだ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『私をここから連れ出して欲しいのです』",
+        "after": "のです。"
+      }
+    },
+    {
+      "line": 192,
+      "jp": "のです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お姫様は本物の王子様が現れても、偽物の王子様である盗賊を選んだ",
+        "after": "盗賊はお姫様に言いました。"
+      }
+    },
+    {
+      "line": 193,
+      "jp": "盗賊はお姫様に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "のです。",
+        "after": "『私は貴方に嘘を吐きました。こんな私でも貴方は許してくれるの"
+      }
+    },
+    {
+      "line": 194,
+      "jp": "『私は貴方に嘘を吐きました。こんな私でも貴方は許してくれるの",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "盗賊はお姫様に言いました。",
+        "after": "ですか？』"
+      }
+    },
+    {
+      "line": 195,
+      "jp": "ですか？』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『私は貴方に嘘を吐きました。こんな私でも貴方は許してくれるの",
+        "after": "お姫様は盗賊に言いました。"
+      }
+    },
+    {
+      "line": 196,
+      "jp": "お姫様は盗賊に言いました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ですか？』",
+        "after": "『実は、嘘を吐いていたのは貴方だけではないのです。"
+      }
+    },
+    {
+      "line": 197,
+      "jp": "『実は、嘘を吐いていたのは貴方だけではないのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お姫様は盗賊に言いました。",
+        "after": "私も貴方に嘘を吐いていました。"
+      }
+    },
+    {
+      "line": 198,
+      "jp": "私も貴方に嘘を吐いていました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『実は、嘘を吐いていたのは貴方だけではないのです。",
+        "after": "塔に住む魔女というのは私のことなのです』"
+      }
+    },
+    {
+      "line": 199,
+      "jp": "塔に住む魔女というのは私のことなのです』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私も貴方に嘘を吐いていました。",
+        "after": "なんと、塔に囚われていたお姫様こそが魔女そのものだったという"
+      }
+    },
+    {
+      "line": 200,
+      "jp": "なんと、塔に囚われていたお姫様こそが魔女そのものだったという",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "塔に住む魔女というのは私のことなのです』",
+        "after": "のです。"
+      }
+    },
+    {
+      "line": 201,
+      "jp": "のです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "なんと、塔に囚われていたお姫様こそが魔女そのものだったという",
+        "after": "魔女は長い長い間、あの塔でずっと一人で暮らしていました。"
+      }
+    },
+    {
+      "line": 202,
+      "jp": "魔女は長い長い間、あの塔でずっと一人で暮らしていました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "のです。",
+        "after": "呪いをかけられ、一人ではあの塔から出ることが叶わなかった"
+      }
+    },
+    {
+      "line": 203,
+      "jp": "呪いをかけられ、一人ではあの塔から出ることが叶わなかった",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "魔女は長い長い間、あの塔でずっと一人で暮らしていました。",
+        "after": "からです。"
+      }
+    },
+    {
+      "line": 204,
+      "jp": "からです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "呪いをかけられ、一人ではあの塔から出ることが叶わなかった",
+        "after": "幾百の時が流れ、時代は移り変わり、塔に閉じ込められた魔女のこと"
+      }
+    },
+    {
+      "line": 205,
+      "jp": "幾百の時が流れ、時代は移り変わり、塔に閉じ込められた魔女のこと",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "からです。",
+        "after": "など人々が忘れた頃、ようやく一人の男が塔にかけられた呪いを解き"
+      }
+    },
+    {
+      "line": 206,
+      "jp": "など人々が忘れた頃、ようやく一人の男が塔にかけられた呪いを解き",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "幾百の時が流れ、時代は移り変わり、塔に閉じ込められた魔女のこと",
+        "after": "ました。"
+      }
+    },
+    {
+      "line": 207,
+      "jp": "ました。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "など人々が忘れた頃、ようやく一人の男が塔にかけられた呪いを解き",
+        "after": "それが、盗賊だったのです。"
+      }
+    },
+    {
+      "line": 208,
+      "jp": "それが、盗賊だったのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ました。",
+        "after": "魔女にとっては、自分にかけられた呪いを解いてくれた王子様が、"
+      }
+    },
+    {
+      "line": 209,
+      "jp": "魔女にとっては、自分にかけられた呪いを解いてくれた王子様が、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それが、盗賊だったのです。",
+        "after": "本当の王子様でなくても良かったのです。"
+      }
+    },
+    {
+      "line": 210,
+      "jp": "本当の王子様でなくても良かったのです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "魔女にとっては、自分にかけられた呪いを解いてくれた王子様が、",
+        "after": "そして、お姫様に恋した盗賊もまた、お姫様が本当のお姫様でなくても"
+      }
+    },
+    {
+      "line": 211,
+      "jp": "そして、お姫様に恋した盗賊もまた、お姫様が本当のお姫様でなくても",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本当の王子様でなくても良かったのです。",
+        "after": "構いませんでした。"
+      }
+    },
+    {
+      "line": 212,
+      "jp": "構いませんでした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、お姫様に恋した盗賊もまた、お姫様が本当のお姫様でなくても",
+        "after": "『王子様、どうか私をここから連れ出して下さい』"
+      }
+    },
+    {
+      "line": 213,
+      "jp": "『王子様、どうか私をここから連れ出して下さい』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "構いませんでした。",
+        "after": "###『はい』"
+      }
+    },
+    {
+      "line": 214,
+      "jp": "###『はい』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『王子様、どうか私をここから連れ出して下さい』",
+        "after": "こうして、囚われの魔女と盗賊は塔を抜け出し、"
+      }
+    },
+    {
+      "line": 215,
+      "jp": "こうして、囚われの魔女と盗賊は塔を抜け出し、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "###『はい』",
+        "after": "嘘吐きなお姫様と王子様の二人はまだ見ぬ世界を旅するのでした。"
+      }
+    },
+    {
+      "line": 216,
+      "jp": "嘘吐きなお姫様と王子様の二人はまだ見ぬ世界を旅するのでした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こうして、囚われの魔女と盗賊は塔を抜け出し、",
+        "after": "めでたしめでたし。"
+      }
+    },
+    {
+      "line": 217,
+      "jp": "めでたしめでたし。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘吐きなお姫様と王子様の二人はまだ見ぬ世界を旅するのでした。",
+        "after": "遠野　紗夜「もう嘘を吐かないで下さい」"
+      }
+    },
+    {
+      "line": 218,
+      "jp": "遠野　紗夜「もう嘘を吐かないで下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "めでたしめでたし。",
+        "after": "日生　光「どうして？」"
+      }
+    },
+    {
+      "line": 219,
+      "jp": "日生　光「どうして？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「もう嘘を吐かないで下さい」",
+        "after": "遠野　紗夜「どうして……って、嘘を吐かれればとても悲しいからです」"
+      }
+    },
+    {
+      "line": 220,
+      "jp": "遠野　紗夜「どうして……って、嘘を吐かれればとても悲しいからです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どうして？」",
+        "after": "遠野　紗夜「嘘は必ず誰かを傷つけます。貴方自身だって……」"
+      }
+    },
+    {
+      "line": 221,
+      "jp": "遠野　紗夜「嘘は必ず誰かを傷つけます。貴方自身だって……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうして……って、嘘を吐かれればとても悲しいからです」",
+        "after": "日生　光「僕は嘘に救われてるよ」"
+      }
+    },
+    {
+      "line": 222,
+      "jp": "日生　光「僕は嘘に救われてるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「嘘は必ず誰かを傷つけます。貴方自身だって……」",
+        "after": "遠野　紗夜「あ…………」"
+      }
+    },
+    {
+      "line": 223,
+      "jp": "遠野　紗夜「あ…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕は嘘に救われてるよ」",
+        "after": "あの時、彼が話した物語を思い出した。"
+      }
+    },
+    {
+      "line": 224,
+      "jp": "あの時、彼が話した物語を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ…………」",
+        "after": "嘘吐きな少年の物語。"
+      }
+    },
+    {
+      "line": 225,
+      "jp": "嘘吐きな少年の物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの時、彼が話した物語を思い出した。",
+        "after": "彼が嘘吐きならば、もしかしてあの物語も嘘だったのかもしれない。"
+      }
+    },
+    {
+      "line": 226,
+      "jp": "彼が嘘吐きならば、もしかしてあの物語も嘘だったのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘吐きな少年の物語。",
+        "after": "一度、嘘を吐けばその嘘を取り繕う為の嘘が必要で、どんどんと嘘が増えていく。"
+      }
+    },
+    {
+      "line": 227,
+      "jp": "一度、嘘を吐けばその嘘を取り繕う為の嘘が必要で、どんどんと嘘が増えていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が嘘吐きならば、もしかしてあの物語も嘘だったのかもしれない。",
+        "after": "疑いだしたらきりがない。"
+      }
+    },
+    {
+      "line": 228,
+      "jp": "疑いだしたらきりがない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一度、嘘を吐けばその嘘を取り繕う為の嘘が必要で、どんどんと嘘が増えていく。",
+        "after": "だって、今の言葉すら私は信じることが出来ないのだから。"
+      }
+    },
+    {
+      "line": 229,
+      "jp": "だって、今の言葉すら私は信じることが出来ないのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "疑いだしたらきりがない。",
+        "after": "私の目から溢れた水が一滴溢れ落ちた。"
+      }
+    },
+    {
+      "line": 230,
+      "jp": "私の目から溢れた水が一滴溢れ落ちた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だって、今の言葉すら私は信じることが出来ないのだから。",
+        "after": "そして、また一滴。"
+      }
+    },
+    {
+      "line": 231,
+      "jp": "そして、また一滴。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の目から溢れた水が一滴溢れ落ちた。",
+        "after": "また一滴。"
+      }
+    },
+    {
+      "line": 232,
+      "jp": "また一滴。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、また一滴。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 233,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "また一滴。",
+        "after": "遠野　紗夜「……一つだけ答えて頂けますか？」"
+      }
+    },
+    {
+      "line": 234,
+      "jp": "遠野　紗夜「……一つだけ答えて頂けますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「いいよ」"
+      }
+    },
+    {
+      "line": 235,
+      "jp": "日生　光「いいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……一つだけ答えて頂けますか？」",
+        "after": "遠野　紗夜「私を愛していますか？」"
+      }
+    },
+    {
+      "line": 236,
+      "jp": "遠野　紗夜「私を愛していますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「いいよ」",
+        "after": "彼は詰まることなく言った。"
+      }
+    },
+    {
+      "line": 237,
+      "jp": "彼は詰まることなく言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私を愛していますか？」",
+        "after": "日生　光「愛してるよ」"
+      }
+    },
+    {
+      "line": 238,
+      "jp": "日生　光「愛してるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "彼は詰まることなく言った。",
+        "after": "遠野　紗夜「嘘吐き」"
+      }
+    },
+    {
+      "line": 239,
+      "jp": "遠野　紗夜「嘘吐き」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「愛してるよ」",
+        "after": "私の言葉に彼は笑う。"
+      }
+    },
+    {
+      "line": 240,
+      "jp": "私の言葉に彼は笑う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「嘘吐き」",
+        "after": "そして、彼は私の前に二度と現れることはなかった。"
+      }
+    },
+    {
+      "line": 241,
+      "jp": "そして、彼は私の前に二度と現れることはなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の言葉に彼は笑う。",
+        "after": "遠野　紗夜「さようなら、偽物の王子様」"
+      }
+    },
+    {
+      "line": 242,
+      "jp": "遠野　紗夜「さようなら、偽物の王子様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、彼は私の前に二度と現れることはなかった。",
+        "after": null
+      }
+    }
+  ]
+}

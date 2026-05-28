@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_55.txt",
+    "chapter": "chapter4",
+    "total_lines": 14,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "いつもと変わらぬお昼休み。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "いつもと同じ顔ぶれ。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "いつもと同じ顔ぶれ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもと変わらぬお昼休み。",
+        "after": "広げられたランチボックス。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "広げられたランチボックス。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いつもと同じ顔ぶれ。",
+        "after": "そう、いつもと変わらない。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "そう、いつもと変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "広げられたランチボックス。",
+        "after": "ただ一つのことを除いては。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "ただ一つのことを除いては。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう、いつもと変わらない。",
+        "after": "私は罠を仕掛ける。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "私は罠を仕掛ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ一つのことを除いては。",
+        "after": "遠野　紗夜「どうですか？　私が作ったクッキーのお味は」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「どうですか？　私が作ったクッキーのお味は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は罠を仕掛ける。",
+        "after": "日生　光「うん。美味しいよ」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "日生　光「うん。美味しいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうですか？　私が作ったクッキーのお味は」",
+        "after": "遠野　紗夜「そうですか。良かったです」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「そうですか。良かったです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うん。美味しいよ」",
+        "after": "彼に仕掛けた罠が悟られぬように、私は嘘を吐いた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "彼に仕掛けた罠が悟られぬように、私は嘘を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですか。良かったです」",
+        "after": "遠野　紗夜「あの、日生先輩」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「あの、日生先輩」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼に仕掛けた罠が悟られぬように、私は嘘を吐いた。",
+        "after": "遠野　紗夜「放課後、お話ししたいことがあるのですが、付き合ってくれませんか？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「放課後、お話ししたいことがあるのですが、付き合ってくれませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの、日生先輩」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「放課後、お話ししたいことがあるのですが、付き合ってくれませんか？」",
+        "after": "日生　光「いいよ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「いいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": null
+      }
+    }
+  ]
+}

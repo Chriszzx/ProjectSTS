@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_60.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 22,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "ぴくりと指先が動いた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "ぴくりと指先が動いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "閉じていた瞼を薄く開き、次に目玉を横に動かす。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "閉じていた瞼を薄く開き、次に目玉を横に動かす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぴくりと指先が動いた。",
+        "after": "暗闇にはすぐに目が慣れ、段々と歯車の輪郭がはっきりと見て取れるようになった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "暗闇にはすぐに目が慣れ、段々と歯車の輪郭がはっきりと見て取れるようになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "閉じていた瞼を薄く開き、次に目玉を横に動かす。",
+        "after": "目を細めしっかりと見るが、何も変わらない。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "目を細めしっかりと見るが、何も変わらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "暗闇にはすぐに目が慣れ、段々と歯車の輪郭がはっきりと見て取れるようになった。",
+        "after": "そこには、いつもの様に動かない歯車があるだけだった。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "そこには、いつもの様に動かない歯車があるだけだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目を細めしっかりと見るが、何も変わらない。",
+        "after": "だが、何故かいつもと様子が違って見えた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "だが、何故かいつもと様子が違って見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには、いつもの様に動かない歯車があるだけだった。",
+        "after": "ぎぎ……と軋む音がまず始めに聞こえた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ぎぎ……と軋む音がまず始めに聞こえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だが、何故かいつもと様子が違って見えた。",
+        "after": "次にがちゃりと金属が擦れ合う音。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "次にがちゃりと金属が擦れ合う音。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぎぎ……と軋む音がまず始めに聞こえた。",
+        "after": "私はすぐに体を起こして立ち上がり、一連の様子をすぐ傍で見守ろうとしていた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私はすぐに体を起こして立ち上がり、一連の様子をすぐ傍で見守ろうとしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "次にがちゃりと金属が擦れ合う音。",
+        "after": "ゆっくりと一つ目の歯車が動く。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "ゆっくりと一つ目の歯車が動く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はすぐに体を起こして立ち上がり、一連の様子をすぐ傍で見守ろうとしていた。",
+        "after": "埃を被ったロープが引き上げられると、それに連動するように次の歯車、歯車へと伝っていく。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "埃を被ったロープが引き上げられると、それに連動するように次の歯車、歯車へと伝っていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ゆっくりと一つ目の歯車が動く。",
+        "after": "あっという間に四方にあった全ての歯車は回った。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "あっという間に四方にあった全ての歯車は回った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "埃を被ったロープが引き上げられると、それに連動するように次の歯車、歯車へと伝っていく。",
+        "after": "静かだった空間は今や騒がしいほどだ。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "静かだった空間は今や騒がしいほどだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あっという間に四方にあった全ての歯車は回った。",
+        "after": "やがて、がちゃりと一際大きな音を立てた。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "やがて、がちゃりと一際大きな音を立てた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "静かだった空間は今や騒がしいほどだ。",
+        "after": "月明かりが差し込む時計盤の長針が一つ動いた。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "月明かりが差し込む時計盤の長針が一つ動いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて、がちゃりと一際大きな音を立てた。",
+        "after": "全身を駆け抜けるこの衝動に身悶えした。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "全身を駆け抜けるこの衝動に身悶えした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "月明かりが差し込む時計盤の長針が一つ動いた。",
+        "after": "ようやく時が来たのだ。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "ようやく時が来たのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全身を駆け抜けるこの衝動に身悶えした。",
+        "after": "私は夜の暗闇の中で自分の手の平を見た。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私は夜の暗闇の中で自分の手の平を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ようやく時が来たのだ。",
+        "after": "何もないこの手を見た所で何も変わらず、それはいつも私に暗い影を落とし続けた。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "何もないこの手を見た所で何も変わらず、それはいつも私に暗い影を落とし続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は夜の暗闇の中で自分の手の平を見た。",
+        "after": "けれど、これからは違う。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "けれど、これからは違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何もないこの手を見た所で何も変わらず、それはいつも私に暗い影を落とし続けた。",
+        "after": "これで、私はようやく死神になれるのだ。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "これで、私はようやく死神になれるのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、これからは違う。",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "meta": {
+    "file": "hinase/hinase_28.txt",
+    "chapter": "hinase",
+    "total_lines": 33,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "一人で帰るのは久しぶりだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "このところ、朝も夜も光さんが一緒にいたから。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "このところ、朝も夜も光さんが一緒にいたから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一人で帰るのは久しぶりだった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "このところ、朝も夜も光さんが一緒にいたから。",
+        "after": "雑踏。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "雑踏。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "話す声。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "話す声。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "雑踏。",
+        "after": "久々に一人で歩く道は、こんなにも多くの存在で溢れかえっていることに気付かされる。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "久々に一人で歩く道は、こんなにも多くの存在で溢れかえっていることに気付かされる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "話す声。",
+        "after": "淋しい。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "淋しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "久々に一人で歩く道は、こんなにも多くの存在で溢れかえっていることに気付かされる。",
+        "after": "貴方がいないと淋しい。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "貴方がいないと淋しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "淋しい。",
+        "after": "遠野　紗夜「…………やはり、追いかけてはくれないですよね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「…………やはり、追いかけてはくれないですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "貴方がいないと淋しい。",
+        "after": "振り返り、呟いた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "振り返り、呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………やはり、追いかけてはくれないですよね」",
+        "after": "嫉妬しているわけではない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "嫉妬しているわけではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "振り返り、呟いた。",
+        "after": "信じていないわけではない。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "信じていないわけではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嫉妬しているわけではない。",
+        "after": "ただ、私は求めてる。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "ただ、私は求めてる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "信じていないわけではない。",
+        "after": "私を求めてくれることを求めてる。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私を求めてくれることを求めてる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ、私は求めてる。",
+        "after": "駄目だ。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "駄目だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を求めてくれることを求めてる。",
+        "after": "駄目だ駄目だ駄目だ。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "駄目だ駄目だ駄目だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "駄目だ。",
+        "after": "こんなことでは、いつかは呆れられてしまう。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "こんなことでは、いつかは呆れられてしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "駄目だ駄目だ駄目だ。",
+        "after": "強烈な不安の波が押し寄せる。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "強烈な不安の波が押し寄せる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんなことでは、いつかは呆れられてしまう。",
+        "after": "それは久しく忘れていた私の強い感情の揺らぎだった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "それは久しく忘れていた私の強い感情の揺らぎだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "強烈な不安の波が押し寄せる。",
+        "after": "戻ろうか？"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "戻ろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは久しく忘れていた私の強い感情の揺らぎだった。",
+        "after": "そう思ったけれど、足が動かない。言うことを聞かない。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "そう思ったけれど、足が動かない。言うことを聞かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "戻ろうか？",
+        "after": "遠野　紗夜「光さん……」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「光さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう思ったけれど、足が動かない。言うことを聞かない。",
+        "after": "私は一人ではどうにもならない程、彼を求めていた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私は一人ではどうにもならない程、彼を求めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「光さん……」",
+        "after": "彼が必要だった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "彼が必要だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は一人ではどうにもならない程、彼を求めていた。",
+        "after": "立ちつくす私の前を一台の車が通りすぎ、しばらくした所で止まった。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "立ちつくす私の前を一台の車が通りすぎ、しばらくした所で止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が必要だった。",
+        "after": "遠野　紗夜「あれは……」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「あれは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "立ちつくす私の前を一台の車が通りすぎ、しばらくした所で止まった。",
+        "after": "黒塗りの車から降り立つのは、淡紫色の着物姿の婦人。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "黒塗りの車から降り立つのは、淡紫色の着物姿の婦人。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あれは……」",
+        "after": "光さんのお祖母様？　どうして、こんなところに……。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "光さんのお祖母様？　どうして、こんなところに……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "黒塗りの車から降り立つのは、淡紫色の着物姿の婦人。",
+        "after": "手には白い紙に包まれた菊の花。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "手には白い紙に包まれた菊の花。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "光さんのお祖母様？　どうして、こんなところに……。",
+        "after": "今から歩いてどこかに行くのだろうか。車はお祖母様を残していってしまった。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "今から歩いてどこかに行くのだろうか。車はお祖母様を残していってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手には白い紙に包まれた菊の花。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今から歩いてどこかに行くのだろうか。車はお祖母様を残していってしまった。",
+        "after": "後を追いかける"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "後を追いかける",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "後を追いかけない"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "後を追いかけない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "後を追いかける",
+        "after": null
+      }
+    }
+  ]
+}

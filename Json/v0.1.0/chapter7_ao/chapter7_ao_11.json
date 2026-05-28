@@ -1,0 +1,691 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_11.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 40,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "こんな夢を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "私は思い悩んでいた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私は思い悩んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな夢を見た。",
+        "after": "思いの先は一人の少女。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "思いの先は一人の少女。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は思い悩んでいた。",
+        "after": "私は少女と二人、旅をしていた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私は少女と二人、旅をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思いの先は一人の少女。",
+        "after": "長い長い旅は辛いはずだ。けれど、少女は弱音一つ吐かない。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "長い長い旅は辛いはずだ。けれど、少女は弱音一つ吐かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は少女と二人、旅をしていた。",
+        "after": "それどころか常に微笑みを湛えていた。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "それどころか常に微笑みを湛えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "長い長い旅は辛いはずだ。けれど、少女は弱音一つ吐かない。",
+        "after": "私は何故彼女が微笑むのか分からなかった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "私は何故彼女が微笑むのか分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それどころか常に微笑みを湛えていた。",
+        "after": "少女は美しくか弱き人間だ。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "少女は美しくか弱き人間だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は何故彼女が微笑むのか分からなかった。",
+        "after": "彼女の息が絶え絶えになると、"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "彼女の息が絶え絶えになると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女は美しくか弱き人間だ。",
+        "after": "私は歩く速度を落とし、彼女の手を引いた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私は歩く速度を落とし、彼女の手を引いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の息が絶え絶えになると、",
+        "after": "少女はその度に笑った。私はもっと彼女が分からなくなっていった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "少女はその度に笑った。私はもっと彼女が分からなくなっていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は歩く速度を落とし、彼女の手を引いた。",
+        "after": "一番近くで彼女を感じていた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "一番近くで彼女を感じていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少女はその度に笑った。私はもっと彼女が分からなくなっていった。",
+        "after": "息遣いも触れた肌の温もりも全て。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "息遣いも触れた肌の温もりも全て。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一番近くで彼女を感じていた。",
+        "after": "――そう、私は少女のことばかり深く思い込んでいた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "――そう、私は少女のことばかり深く思い込んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "息遣いも触れた肌の温もりも全て。",
+        "after": "だからこそ終わりたくはなかった。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "だからこそ終わりたくはなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "――そう、私は少女のことばかり深く思い込んでいた。",
+        "after": "私達は旅をしている。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "私達は旅をしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だからこそ終わりたくはなかった。",
+        "after": "西から東へ、世界で最も美しい言葉を探し求めていた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "西から東へ、世界で最も美しい言葉を探し求めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は旅をしている。",
+        "after": "けれど、もしも答えを見つけてしまったら旅は終わる。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "けれど、もしも答えを見つけてしまったら旅は終わる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "西から東へ、世界で最も美しい言葉を探し求めていた。",
+        "after": "そうなれば、私と少女はこんな風に触れ合うこともなくなって"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "そうなれば、私と少女はこんな風に触れ合うこともなくなって",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、もしも答えを見つけてしまったら旅は終わる。",
+        "after": "しまうだろう。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "しまうだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうなれば、私と少女はこんな風に触れ合うこともなくなって",
+        "after": "こんな風に少女に対し思い悩むこともなくなってしまうだろう。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "こんな風に少女に対し思い悩むこともなくなってしまうだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しまうだろう。",
+        "after": "私は少女と初めて出会った時に交わした約束を思い出した。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "私は少女と初めて出会った時に交わした約束を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな風に少女に対し思い悩むこともなくなってしまうだろう。",
+        "after": "世界で最も美しい言葉を探していると告げた彼女に"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "世界で最も美しい言葉を探していると告げた彼女に",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は少女と初めて出会った時に交わした約束を思い出した。",
+        "after": "私はそんなものはあるのかと聞いた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "私はそんなものはあるのかと聞いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "世界で最も美しい言葉を探していると告げた彼女に",
+        "after": "分からないから知りたい、だからどうかこの旅が終わるまで私の命を"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "分からないから知りたい、だからどうかこの旅が終わるまで私の命を",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はそんなものはあるのかと聞いた。",
+        "after": "奪わないでくれと彼女は私に懇願した。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "奪わないでくれと彼女は私に懇願した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "分からないから知りたい、だからどうかこの旅が終わるまで私の命を",
+        "after": "そして、私は彼女の願いを叶え、こうして共に旅をしている。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "そして、私は彼女の願いを叶え、こうして共に旅をしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "奪わないでくれと彼女は私に懇願した。",
+        "after": "私は死神だ。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "私は死神だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、私は彼女の願いを叶え、こうして共に旅をしている。",
+        "after": "死神は終わりと共にあるはずだった。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "死神は終わりと共にあるはずだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は死神だ。",
+        "after": "けれど、何故ずっと少女の傍にいたいと思うのだろう？"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "けれど、何故ずっと少女の傍にいたいと思うのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "死神は終わりと共にあるはずだった。",
+        "after": "私達は前に進む。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "私達は前に進む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、何故ずっと少女の傍にいたいと思うのだろう？",
+        "after": "一歩、踏み出すごとに終わりが近づいていくのが分かる。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "一歩、踏み出すごとに終わりが近づいていくのが分かる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は前に進む。",
+        "after": "ふいに少女の顔が見たくなった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "ふいに少女の顔が見たくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一歩、踏み出すごとに終わりが近づいていくのが分かる。",
+        "after": "フードの下に隠された私と正反対の姿。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "フードの下に隠された私と正反対の姿。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふいに少女の顔が見たくなった。",
+        "after": "足を動かすのを止め、彼女の方に振り返ろうとした。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "足を動かすのを止め、彼女の方に振り返ろうとした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "フードの下に隠された私と正反対の姿。",
+        "after": "あと少しで顔が見える。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "あと少しで顔が見える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "足を動かすのを止め、彼女の方に振り返ろうとした。",
+        "after": "ああ、見たいお前の姿が。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "ああ、見たいお前の姿が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あと少しで顔が見える。",
+        "after": "どうか、私に微笑んで欲しい。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "どうか、私に微笑んで欲しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、見たいお前の姿が。",
+        "after": "その美しい空の眸に私の姿を映して欲しい。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "その美しい空の眸に私の姿を映して欲しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうか、私に微笑んで欲しい。",
+        "after": "願いは届き、少女は私を見るなり美しく微笑んだ。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "願いは届き、少女は私を見るなり美しく微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その美しい空の眸に私の姿を映して欲しい。",
+        "after": null
+      }
+    }
+  ]
+}

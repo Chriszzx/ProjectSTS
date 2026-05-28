@@ -1,0 +1,5888 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_44.txt",
+    "chapter": "chapter3",
+    "total_lines": 317,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "桐島　七葵「本当にいたな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "彼は時計塔の前で、ぼんやりと立ちつくしていた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "彼は時計塔の前で、ぼんやりと立ちつくしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「本当にいたな……」",
+        "after": "その手には一匹のぬいぐるみ。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "その手には一匹のぬいぐるみ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は時計塔の前で、ぼんやりと立ちつくしていた。",
+        "after": "遠野　紗夜「ヴィルヘルムさん！」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「ヴィルヘルムさん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その手には一匹のぬいぐるみ。",
+        "after": "私の声に振り返る。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私の声に振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ヴィルヘルムさん！」",
+        "after": "遠野　紗夜「あの、貴方が」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「あの、貴方が」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の声に振り返る。",
+        "after": "夏目　悠希「おい！　そこのお前！　猫のぬいぐるみ知ってるだろ！？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "夏目　悠希「おい！　そこのお前！　猫のぬいぐるみ知ってるだろ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの、貴方が」",
+        "after": "夏目君は私の言葉を遮ると、ずかずかとヴィルヘルムさんに歩み寄る。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "夏目君は私の言葉を遮ると、ずかずかとヴィルヘルムさんに歩み寄る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「おい！　そこのお前！　猫のぬいぐるみ知ってるだろ！？」",
+        "after": "ヴィルヘルムさんは黙ったまま頷く。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "ヴィルヘルムさんは黙ったまま頷く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君は私の言葉を遮ると、ずかずかとヴィルヘルムさんに歩み寄る。",
+        "after": "夏目　悠希「返せ！」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "夏目　悠希「返せ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんは黙ったまま頷く。",
+        "after": "桐島　七葵「偉そうだな……」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島　七葵「偉そうだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「返せ！」",
+        "after": "彼は抵抗することもなく、手に持ったぬいぐるみを夏目君に渡した。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "彼は抵抗することもなく、手に持ったぬいぐるみを夏目君に渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「偉そうだな……」",
+        "after": "夏目君はようやく安心したようで、表情が少し軟らかくなった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "夏目君はようやく安心したようで、表情が少し軟らかくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は抵抗することもなく、手に持ったぬいぐるみを夏目君に渡した。",
+        "after": "私達は彼の手に抱えられた猫のぬいぐるみを見せてもらった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私達は彼の手に抱えられた猫のぬいぐるみを見せてもらった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君はようやく安心したようで、表情が少し軟らかくなった。",
+        "after": "桐島　七葵「……これが夏目の探してたぬいぐるみなのか？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "桐島　七葵「……これが夏目の探してたぬいぐるみなのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "私達は彼の手に抱えられた猫のぬいぐるみを見せてもらった。",
+        "after": "日生　光「随分とボロボロなんだね」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "日生　光「随分とボロボロなんだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……これが夏目の探してたぬいぐるみなのか？」",
+        "after": "夏目　悠希「だから、言ったでしょう。普通のぬいぐるみだって」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "夏目　悠希「だから、言ったでしょう。普通のぬいぐるみだって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「随分とボロボロなんだね」",
+        "after": "日生　光「んー……まあ、確かに普通っていうのかな？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "日生　光「んー……まあ、確かに普通っていうのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「だから、言ったでしょう。普通のぬいぐるみだって」",
+        "after": "宮沢　夏帆「可愛い～」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「可愛い～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「んー……まあ、確かに普通っていうのかな？」",
+        "after": "遠野　紗夜「ですよね」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「ですよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「可愛い～」",
+        "after": "日生　光「女性陣には好評なようで」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "日生　光「女性陣には好評なようで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですよね」",
+        "after": "夏目　悠希「そんなことはどうでもいい！　問題はお前だ！　お前！！」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "夏目　悠希「そんなことはどうでもいい！　問題はお前だ！　お前！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「女性陣には好評なようで」",
+        "after": "彼はびしっと指を突き刺す。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "彼はびしっと指を突き刺す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「そんなことはどうでもいい！　問題はお前だ！　お前！！」",
+        "after": "夏目　悠希「お前、誰なんだよ。もしかしなくても、俺の家に入った泥棒か！？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "夏目　悠希「お前、誰なんだよ。もしかしなくても、俺の家に入った泥棒か！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "彼はびしっと指を突き刺す。",
+        "after": "ヴィルヘルム「…………」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ヴィルヘルム「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「お前、誰なんだよ。もしかしなくても、俺の家に入った泥棒か！？」",
+        "after": "ヴィルヘルムさんは相変わらず黙秘を貫いている。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "ヴィルヘルムさんは相変わらず黙秘を貫いている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「…………」",
+        "after": "夏目　悠希「何とか言えよ！」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "夏目　悠希「何とか言えよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんは相変わらず黙秘を貫いている。",
+        "after": "ヴィルヘルム「……ああ、そうだよ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "ヴィルヘルム「……ああ、そうだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「何とか言えよ！」",
+        "after": "夏目　悠希「やっぱり！」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "夏目　悠希「やっぱり！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……ああ、そうだよ」",
+        "after": "日生　光「じゃあ、どうするの？　このまま、お巡りさんに通報エンド？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "日生　光「じゃあ、どうするの？　このまま、お巡りさんに通報エンド？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「やっぱり！」",
+        "after": "桐島　七葵「そうだな……」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "桐島　七葵「そうだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、どうするの？　このまま、お巡りさんに通報エンド？」",
+        "after": "遠野　紗夜「ちなみに、このぬいぐるみ以外に何か取られたものはあるのですか？」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「ちなみに、このぬいぐるみ以外に何か取られたものはあるのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうだな……」",
+        "after": "夏目　悠希「ねえよ。これだけだ」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "夏目　悠希「ねえよ。これだけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ちなみに、このぬいぐるみ以外に何か取られたものはあるのですか？」",
+        "after": "日生　光「それは不思議な話だね。失礼だけど、このぬいぐるみは君以外の人には何ら価値のないただのぬいぐるみなのに」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「それは不思議な話だね。失礼だけど、このぬいぐるみは君以外の人には何ら価値のないただのぬいぐるみなのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ねえよ。これだけだ」",
+        "after": "そうだ。皆が気になっているのはそこだった。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "そうだ。皆が気になっているのはそこだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「それは不思議な話だね。失礼だけど、このぬいぐるみは君以外の人には何ら価値のないただのぬいぐるみなのに」",
+        "after": "日生先輩の言う通り、ぬいぐるみ自体に何ら価値もない。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生先輩の言う通り、ぬいぐるみ自体に何ら価値もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうだ。皆が気になっているのはそこだった。",
+        "after": "けれど、このぬいぐるみは夏目君にとってはとても大切な物で、あれほどの睡眠不足に陥るまで探し続けた物なのだ。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "けれど、このぬいぐるみは夏目君にとってはとても大切な物で、あれほどの睡眠不足に陥るまで探し続けた物なのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩の言う通り、ぬいぐるみ自体に何ら価値もない。",
+        "after": "ヴィルヘルムさんの行動は謎ばかりだったけれど、それでも夏目君への想いは確かなものだと思っていた。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "ヴィルヘルムさんの行動は謎ばかりだったけれど、それでも夏目君への想いは確かなものだと思っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、このぬいぐるみは夏目君にとってはとても大切な物で、あれほどの睡眠不足に陥るまで探し続けた物なのだ。",
+        "after": "何故、ヴィルヘルムさんは自分の友達だと言い張る夏目君から大事なぬいぐるみを盗んだのか。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "何故、ヴィルヘルムさんは自分の友達だと言い張る夏目君から大事なぬいぐるみを盗んだのか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルムさんの行動は謎ばかりだったけれど、それでも夏目君への想いは確かなものだと思っていた。",
+        "after": "けれど、当事者である夏目君自身は大してそこは気にならないようで、"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "けれど、当事者である夏目君自身は大してそこは気にならないようで、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故、ヴィルヘルムさんは自分の友達だと言い張る夏目君から大事なぬいぐるみを盗んだのか。",
+        "after": "夏目　悠希「んなことはどーでもいいんだよ！　おい！　こいつしょっぴくぞ！！」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "夏目　悠希「んなことはどーでもいいんだよ！　おい！　こいつしょっぴくぞ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "けれど、当事者である夏目君自身は大してそこは気にならないようで、",
+        "after": "と言って、ヴィルヘルムさんの腕をがっしりと掴む。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "と言って、ヴィルヘルムさんの腕をがっしりと掴む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「んなことはどーでもいいんだよ！　おい！　こいつしょっぴくぞ！！」",
+        "after": "すると、ようやくヴィルヘルムさんが重い口を開いた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "すると、ようやくヴィルヘルムさんが重い口を開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と言って、ヴィルヘルムさんの腕をがっしりと掴む。",
+        "after": "ヴィルヘルム「悠希。お前は理由を聞かないのか？　何故、お前の家に盗みに入って、そのぬいぐるみだけを盗んだのか」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "ヴィルヘルム「悠希。お前は理由を聞かないのか？　何故、お前の家に盗みに入って、そのぬいぐるみだけを盗んだのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "すると、ようやくヴィルヘルムさんが重い口を開いた。",
+        "after": "夏目　悠希「理由なんて聞いたって、意味ないだろ。お前が俺の大事なものを盗んだって事実は変わらねー！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "夏目　悠希「理由なんて聞いたって、意味ないだろ。お前が俺の大事なものを盗んだって事実は変わらねー！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「悠希。お前は理由を聞かないのか？　何故、お前の家に盗みに入って、そのぬいぐるみだけを盗んだのか」",
+        "after": "ヴィルヘルム「……大事なもの？　これが？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "ヴィルヘルム「……大事なもの？　これが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「理由なんて聞いたって、意味ないだろ。お前が俺の大事なものを盗んだって事実は変わらねー！」",
+        "after": "驚いた声。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "驚いた声。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「……大事なもの？　これが？」",
+        "after": "夏目　悠希「そうだよ！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "夏目　悠希「そうだよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "驚いた声。",
+        "after": "ヴィルヘルム「…………」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "ヴィルヘルム「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「そうだよ！」",
+        "after": "ヴィルヘルム「なあ、何でお前はそのぬいぐるみを大事にするんだ？」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ヴィルヘルム「なあ、何でお前はそのぬいぐるみを大事にするんだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「…………」",
+        "after": "ヴィルヘルム「ぬいぐるみは何も出来ない」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "ヴィルヘルム「ぬいぐるみは何も出来ない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「なあ、何でお前はそのぬいぐるみを大事にするんだ？」",
+        "after": "ヴィルヘルム「お前ももう大きいし、男の子だろ？　そんな汚いぬいぐるみより、もっと別の良い物があるはずだ」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "ヴィルヘルム「お前ももう大きいし、男の子だろ？　そんな汚いぬいぐるみより、もっと別の良い物があるはずだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ぬいぐるみは何も出来ない」",
+        "after": "夏目　悠希「そんなのない！」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "夏目　悠希「そんなのない！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前ももう大きいし、男の子だろ？　そんな汚いぬいぐるみより、もっと別の良い物があるはずだ」",
+        "after": "夏目君ははっきりと否定する。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "夏目君ははっきりと否定する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「そんなのない！」",
+        "after": "ヴィルヘルム「だ、誰かに馬鹿にされたりするだろ」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "ヴィルヘルム「だ、誰かに馬鹿にされたりするだろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目君ははっきりと否定する。",
+        "after": "夏目　悠希「馬鹿にしたい奴は馬鹿にさせときゃ良いだろ！」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "夏目　悠希「馬鹿にしたい奴は馬鹿にさせときゃ良いだろ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「だ、誰かに馬鹿にされたりするだろ」",
+        "after": "ヴィルヘルム「じゃあ、じゃあ……お前が悲しい時はどうするんだよ！　ぬいぐるみは喋らない！　お前を慰める言葉もかけてやれない！！」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "ヴィルヘルム「じゃあ、じゃあ……お前が悲しい時はどうするんだよ！　ぬいぐるみは喋らない！　お前を慰める言葉もかけてやれない！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「馬鹿にしたい奴は馬鹿にさせときゃ良いだろ！」",
+        "after": "ヴィルヘルム「お前が苦しいときだって！　ぬいぐるみは動かない！　お前を助けてやれない！！」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "ヴィルヘルム「お前が苦しいときだって！　ぬいぐるみは動かない！　お前を助けてやれない！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「じゃあ、じゃあ……お前が悲しい時はどうするんだよ！　ぬいぐるみは喋らない！　お前を慰める言葉もかけてやれない！！」",
+        "after": "夏目　悠希「それがどうした！！」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "夏目　悠希「それがどうした！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前が苦しいときだって！　ぬいぐるみは動かない！　お前を助けてやれない！！」",
+        "after": "夏目　悠希「確かに、姉貴にも言われたよ！　大事なのは分かるけど、いつまでもぬいぐるみと一緒にいるんじゃ駄目だろうってさ！」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "夏目　悠希「確かに、姉貴にも言われたよ！　大事なのは分かるけど、いつまでもぬいぐるみと一緒にいるんじゃ駄目だろうってさ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「それがどうした！！」",
+        "after": "夏目　悠希「でも、それが何で駄目なんだよ！」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "夏目　悠希「でも、それが何で駄目なんだよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「確かに、姉貴にも言われたよ！　大事なのは分かるけど、いつまでもぬいぐるみと一緒にいるんじゃ駄目だろうってさ！」",
+        "after": "夏目　悠希「俺が悲しい時や辛い時に何も出来ないって！？」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "夏目　悠希「俺が悲しい時や辛い時に何も出来ないって！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「でも、それが何で駄目なんだよ！」",
+        "after": "夏目　悠希「言葉が出せなくちゃいけないのかよ！？　動ければ何とか出来るのかよ！？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "夏目　悠希「言葉が出せなくちゃいけないのかよ！？　動ければ何とか出来るのかよ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺が悲しい時や辛い時に何も出来ないって！？」",
+        "after": "夏目　悠希「俺は別にそんなのなくたっていい！！」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "夏目　悠希「俺は別にそんなのなくたっていい！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「言葉が出せなくちゃいけないのかよ！？　動ければ何とか出来るのかよ！？」",
+        "after": "夏目　悠希「俺はこいつが側にいるから頑張れるんだ！！」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "夏目　悠希「俺はこいつが側にいるから頑張れるんだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺は別にそんなのなくたっていい！！」",
+        "after": "夏目　悠希「このぬいぐるみは、俺が一番悲しい時もひとりぼっちの時も一緒にいてくれた大切な親友なんだ！　誰にも馬鹿にさせない！！」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "夏目　悠希「このぬいぐるみは、俺が一番悲しい時もひとりぼっちの時も一緒にいてくれた大切な親友なんだ！　誰にも馬鹿にさせない！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺はこいつが側にいるから頑張れるんだ！！」",
+        "after": "夏目　悠希「ぬいぐるみが友達で何が悪い！！」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "夏目　悠希「ぬいぐるみが友達で何が悪い！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「このぬいぐるみは、俺が一番悲しい時もひとりぼっちの時も一緒にいてくれた大切な親友なんだ！　誰にも馬鹿にさせない！！」",
+        "after": "夏目君が一気にまくし立て上げると、ヴィルヘルムさんは急にその場をふらふらとし出した。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "夏目君が一気にまくし立て上げると、ヴィルヘルムさんは急にその場をふらふらとし出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「ぬいぐるみが友達で何が悪い！！」",
+        "after": "まるで、ショックを受けたとでもいうように。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "まるで、ショックを受けたとでもいうように。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君が一気にまくし立て上げると、ヴィルヘルムさんは急にその場をふらふらとし出した。",
+        "after": "ヴィルヘルム「…………」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "ヴィルヘルム「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "まるで、ショックを受けたとでもいうように。",
+        "after": "宮沢　夏帆「ちょ、ちょっとぉ、どうしたの～？」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "宮沢　夏帆「ちょ、ちょっとぉ、どうしたの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「…………」",
+        "after": "ぺたん、と地面に尻餅をついた。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "ぺたん、と地面に尻餅をついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ちょ、ちょっとぉ、どうしたの～？」",
+        "after": "夏目　悠希「な、何だよ！？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "夏目　悠希「な、何だよ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ぺたん、と地面に尻餅をついた。",
+        "after": "ヴィルヘルム「…………うん。俺、馬鹿だったなぁって」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "ヴィルヘルム「…………うん。俺、馬鹿だったなぁって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「な、何だよ！？」",
+        "after": "ぽつり、反省の言葉を口にする。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "ぽつり、反省の言葉を口にする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「…………うん。俺、馬鹿だったなぁって」",
+        "after": "その様子を見るだけで、彼が本気で言っているのだと分かる。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "その様子を見るだけで、彼が本気で言っているのだと分かる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぽつり、反省の言葉を口にする。",
+        "after": "夏目　悠希「……分かればいーんだよ」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "夏目　悠希「……分かればいーんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "その様子を見るだけで、彼が本気で言っているのだと分かる。",
+        "after": "ヴィルヘルム「……うん」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "ヴィルヘルム「……うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……分かればいーんだよ」",
+        "after": "ヴィルヘルムさんは泣いているのだろうか？"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "ヴィルヘルムさんは泣いているのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「……うん」",
+        "after": "着ぐるみの中、その本当の姿は見えないけれど、何となくそんな気がした。"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "着ぐるみの中、その本当の姿は見えないけれど、何となくそんな気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルムさんは泣いているのだろうか？",
+        "after": "ヴィルヘルム「……なあ、そいつ、お前の役に立ってるのか？」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "ヴィルヘルム「……なあ、そいつ、お前の役に立ってるのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "着ぐるみの中、その本当の姿は見えないけれど、何となくそんな気がした。",
+        "after": "夏目　悠希「は？」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "夏目　悠希「は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……なあ、そいつ、お前の役に立ってるのか？」",
+        "after": "ヴィルヘルム「友達なら、ただ側にいるだけでお前の役に立ってんのかな……って」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "ヴィルヘルム「友達なら、ただ側にいるだけでお前の役に立ってんのかな……って」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「は？」",
+        "after": "夏目　悠希「何言ってんだ、お前……」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "夏目　悠希「何言ってんだ、お前……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「友達なら、ただ側にいるだけでお前の役に立ってんのかな……って」",
+        "after": "夏目君が呆れた声で言うと、"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "夏目君が呆れた声で言うと、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「何言ってんだ、お前……」",
+        "after": "宮沢　夏帆「友達って役に立つとかそういうのなのかな～？」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "宮沢　夏帆「友達って役に立つとかそういうのなのかな～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目君が呆れた声で言うと、",
+        "after": "と、突然夏帆が口を挟んだ。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "と、突然夏帆が口を挟んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「友達って役に立つとかそういうのなのかな～？」",
+        "after": "遠野　紗夜「夏帆？」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「夏帆？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、突然夏帆が口を挟んだ。",
+        "after": "宮沢　夏帆「私も友達全然いないし、よく分かんないけど、役に立つとか立たないとかそういうんじゃない気がする」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "宮沢　夏帆「私も友達全然いないし、よく分かんないけど、役に立つとか立たないとかそういうんじゃない気がする」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏帆？」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「私も友達全然いないし、よく分かんないけど、役に立つとか立たないとかそういうんじゃない気がする」",
+        "after": "夏帆は真っ直ぐ前を向き、眸は真剣そのものだった。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "夏帆は真っ直ぐ前を向き、眸は真剣そのものだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "すると、今度は千代さんまでもがぽつりと言葉を漏らした。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "すると、今度は千代さんまでもがぽつりと言葉を漏らした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆は真っ直ぐ前を向き、眸は真剣そのものだった。",
+        "after": "千代「俺は……ヴィルヘルムさんの気持ち分かるかも」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "千代「俺は……ヴィルヘルムさんの気持ち分かるかも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "すると、今度は千代さんまでもがぽつりと言葉を漏らした。",
+        "after": "千代「大切だから、不安なんだよ。何も出来ないのが歯がゆいんだよ。自分には何も出来ないと思うから」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "千代「大切だから、不安なんだよ。何も出来ないのが歯がゆいんだよ。自分には何も出来ないと思うから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「俺は……ヴィルヘルムさんの気持ち分かるかも」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「大切だから、不安なんだよ。何も出来ないのが歯がゆいんだよ。自分には何も出来ないと思うから」",
+        "after": "桐島　七葵「俺も宮沢の意見に同意する。別に、役に立つとか立たないとかじゃなく、本人の気持ち次第なんじゃないのか？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "桐島　七葵「俺も宮沢の意見に同意する。別に、役に立つとか立たないとかじゃなく、本人の気持ち次第なんじゃないのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "桐島　七葵「……ただ、側にいるだけでいい。そういう存在もいるんじゃないか？」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "桐島　七葵「……ただ、側にいるだけでいい。そういう存在もいるんじゃないか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「俺も宮沢の意見に同意する。別に、役に立つとか立たないとかじゃなく、本人の気持ち次第なんじゃないのか？」",
+        "after": "千代「七葵君……」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "千代「七葵君……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……ただ、側にいるだけでいい。そういう存在もいるんじゃないか？」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「七葵君……」",
+        "after": "千代さんは桐島先輩の言葉にキラキラと目を輝かせると、"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "千代さんは桐島先輩の言葉にキラキラと目を輝かせると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "千代「七葵くーーん！！」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "千代「七葵くーーん！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代さんは桐島先輩の言葉にキラキラと目を輝かせると、",
+        "after": "と言って抱きつこうとする。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "と言って抱きつこうとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「七葵くーーん！！」",
+        "after": "桐島　七葵「だ……っ！！　気色悪いっ！！」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "桐島　七葵「だ……っ！！　気色悪いっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "と言って抱きつこうとする。",
+        "after": "千代「うわあっ！」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "千代「うわあっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「だ……っ！！　気色悪いっ！！」",
+        "after": "桐島先輩は千代さんを背負い投げると、ぜいぜいと肩を揺らす。"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "桐島先輩は千代さんを背負い投げると、ぜいぜいと肩を揺らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「うわあっ！」",
+        "after": "宮沢　夏帆「何やってんの先輩？」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "宮沢　夏帆「何やってんの先輩？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は千代さんを背負い投げると、ぜいぜいと肩を揺らす。",
+        "after": "桐島　七葵「……何でもないっ！」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "桐島　七葵「……何でもないっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「何やってんの先輩？」",
+        "after": "日生　光「夏目君は？」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "日生　光「夏目君は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……何でもないっ！」",
+        "after": "夏目　悠希「……俺もそう思いますよ」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "夏目　悠希「……俺もそう思いますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「夏目君は？」",
+        "after": "日生　光「だってよ。ヴィルヘルム君？」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "日生　光「だってよ。ヴィルヘルム君？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……俺もそう思いますよ」",
+        "after": "ヴィルヘルム「そっか…………」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "ヴィルヘルム「そっか…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だってよ。ヴィルヘルム君？」",
+        "after": "ヴィルヘルムさんは、すくっと立つ。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "ヴィルヘルムさんは、すくっと立つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「そっか…………」",
+        "after": "夏目　悠希「座ったり立ったり忙しい奴だな」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "夏目　悠希「座ったり立ったり忙しい奴だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルムさんは、すくっと立つ。",
+        "after": "ヴィルヘルム「おい！　そこの女！」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "ヴィルヘルム「おい！　そこの女！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「座ったり立ったり忙しい奴だな」",
+        "after": "遠野　紗夜「は、はい。私ですか？」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "遠野　紗夜「は、はい。私ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「おい！　そこの女！」",
+        "after": "急に呼ばれ、ついどもってしまう。"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "急に呼ばれ、ついどもってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「は、はい。私ですか？」",
+        "after": "ヴィルヘルム「さっきは、酷いこと言ってごめん」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "ヴィルヘルム「さっきは、酷いこと言ってごめん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "急に呼ばれ、ついどもってしまう。",
+        "after": "ヴィルヘルム「お前のせいじゃないって分かってんのに、ついかっとなっちまった」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "ヴィルヘルム「お前のせいじゃないって分かってんのに、ついかっとなっちまった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「さっきは、酷いこと言ってごめん」",
+        "after": "ヴィルヘルム「お前も。大事な友達なのに傷つけて悪かったな」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "ヴィルヘルム「お前も。大事な友達なのに傷つけて悪かったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前のせいじゃないって分かってんのに、ついかっとなっちまった」",
+        "after": "ヴィルヘルムさんは私と夏帆にそれぞれ頭を下げた。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "ヴィルヘルムさんは私と夏帆にそれぞれ頭を下げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「お前も。大事な友達なのに傷つけて悪かったな」",
+        "after": "まさか、謝られるとも思わなかったので、すぐに返事が出来ずにいると、"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "まさか、謝られるとも思わなかったので、すぐに返事が出来ずにいると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルムさんは私と夏帆にそれぞれ頭を下げた。",
+        "after": "宮沢　夏帆「お前、じゃなくて夏帆！　こっちは紗夜ちゃん！！　ちゃんと、名前で呼んでよね～」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "宮沢　夏帆「お前、じゃなくて夏帆！　こっちは紗夜ちゃん！！　ちゃんと、名前で呼んでよね～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "まさか、謝られるとも思わなかったので、すぐに返事が出来ずにいると、",
+        "after": "夏帆がヴィルヘルムさんに注意する。"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "夏帆がヴィルヘルムさんに注意する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「お前、じゃなくて夏帆！　こっちは紗夜ちゃん！！　ちゃんと、名前で呼んでよね～」",
+        "after": "ヴィルヘルム「夏帆と……。ごめんな」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "ヴィルヘルム「夏帆と……。ごめんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏帆がヴィルヘルムさんに注意する。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「夏帆と……。ごめんな」",
+        "after": "名前を呼ばれ、再度謝られた私はやはり驚いて、"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "名前を呼ばれ、再度謝られた私はやはり驚いて、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……はい」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　紗夜「……はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "名前を呼ばれ、再度謝られた私はやはり驚いて、",
+        "after": "と、何とか返事をしただけだった。"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "と、何とか返事をしただけだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はい」",
+        "after": "宮沢　夏帆「紗夜ちゃんが良いなら私も許す！　……えへへっ」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "宮沢　夏帆「紗夜ちゃんが良いなら私も許す！　……えへへっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "と、何とか返事をしただけだった。",
+        "after": "ヴィルヘルム「……へへっ！」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "ヴィルヘルム「……へへっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんが良いなら私も許す！　……えへへっ」",
+        "after": "夏帆とヴィルヘルムさんは互いに笑い合う。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "夏帆とヴィルヘルムさんは互いに笑い合う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「……へへっ！」",
+        "after": "その様子に私も何だか心が温かくなるのを感じた。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "その様子に私も何だか心が温かくなるのを感じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆とヴィルヘルムさんは互いに笑い合う。",
+        "after": "ヴィルヘルム「さてと、じゃあ、俺、もう行くよ」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "ヴィルヘルム「さてと、じゃあ、俺、もう行くよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "その様子に私も何だか心が温かくなるのを感じた。",
+        "after": "夏目　悠希「行くってどこへだ？」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "夏目　悠希「行くってどこへだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「さてと、じゃあ、俺、もう行くよ」",
+        "after": "ヴィルヘルム「ど、どこって、俺だって帰る場所くらいあるんだ！」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "ヴィルヘルム「ど、どこって、俺だって帰る場所くらいあるんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「行くってどこへだ？」",
+        "after": "夏目　悠希「へえ」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "夏目　悠希「へえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ど、どこって、俺だって帰る場所くらいあるんだ！」",
+        "after": "ヴィルヘルム「俺が色々不安だったこと、何だか全然問題なかったみたいだし」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "ヴィルヘルム「俺が色々不安だったこと、何だか全然問題なかったみたいだし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「へえ」",
+        "after": "夏目　悠希「それは良かった」"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "夏目　悠希「それは良かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「俺が色々不安だったこと、何だか全然問題なかったみたいだし」",
+        "after": "ヴィルヘルム「ああ」"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "ヴィルヘルム「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「それは良かった」",
+        "after": "夏目　悠希「てか、お前」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "夏目　悠希「てか、お前」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「ああ」",
+        "after": "ヴィルヘルム「？」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "ヴィルヘルム「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「てか、お前」",
+        "after": "夏目　悠希「このまま帰れると思ってんのか？」"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "夏目　悠希「このまま帰れると思ってんのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「？」",
+        "after": "夏目君はにっこりと天使のような微笑みを浮かべる。"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "夏目君はにっこりと天使のような微笑みを浮かべる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「このまま帰れると思ってんのか？」",
+        "after": "ただし、背後には黒いオーラをしょって。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "ただし、背後には黒いオーラをしょって。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君はにっこりと天使のような微笑みを浮かべる。",
+        "after": "ヴィルヘルム「え？」"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "ヴィルヘルム「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ただし、背後には黒いオーラをしょって。",
+        "after": "夏目　悠希「もう忘れたのかよ馬鹿！！　お前が、俺の家の泥棒だって事実は変わらねーんだよ！！」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "夏目　悠希「もう忘れたのかよ馬鹿！！　お前が、俺の家の泥棒だって事実は変わらねーんだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「え？」",
+        "after": "ヴィルヘルム「お、俺は泥棒じゃねー！！」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "ヴィルヘルム「お、俺は泥棒じゃねー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「もう忘れたのかよ馬鹿！！　お前が、俺の家の泥棒だって事実は変わらねーんだよ！！」",
+        "after": "夏目　悠希「さっき認めただろうが！！」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "夏目　悠希「さっき認めただろうが！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お、俺は泥棒じゃねー！！」",
+        "after": "ヴィルヘルム「うぐっ！　それは……！　そ、そうだ！　言葉の綾ってやつだ！！」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "ヴィルヘルム「うぐっ！　それは……！　そ、そうだ！　言葉の綾ってやつだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「さっき認めただろうが！！」",
+        "after": "夏目　悠希「そんなんで騙されるか！！」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "夏目　悠希「そんなんで騙されるか！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「うぐっ！　それは……！　そ、そうだ！　言葉の綾ってやつだ！！」",
+        "after": "日生　光「まあまあ。盗られたものは返ってきたし、彼も一応反省してるみたいだし、許してあげたら？」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "日生　光「まあまあ。盗られたものは返ってきたし、彼も一応反省してるみたいだし、許してあげたら？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「そんなんで騙されるか！！」",
+        "after": "宮沢　夏帆「そうだよ～。謝ってるんだから良いじゃん」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "宮沢　夏帆「そうだよ～。謝ってるんだから良いじゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあまあ。盗られたものは返ってきたし、彼も一応反省してるみたいだし、許してあげたら？」",
+        "after": "夏目　悠希「はあ！？　何であんたらこいつをかばうんですか！」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "夏目　悠希「はあ！？　何であんたらこいつをかばうんですか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そうだよ～。謝ってるんだから良いじゃん」",
+        "after": "日生　光「だって、君の知り合いなんでしょう？」"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "日生　光「だって、君の知り合いなんでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はあ！？　何であんたらこいつをかばうんですか！」",
+        "after": "夏目　悠希「知りませんよ！！」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "夏目　悠希「知りませんよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だって、君の知り合いなんでしょう？」",
+        "after": "宮沢　夏帆「でも、ヴィルは夏目のこと知ってるじゃん。友達なんでしょ～」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "宮沢　夏帆「でも、ヴィルは夏目のこと知ってるじゃん。友達なんでしょ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「知りませんよ！！」",
+        "after": "ヴィルヘルム「そうだ！！」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "ヴィルヘルム「そうだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でも、ヴィルは夏目のこと知ってるじゃん。友達なんでしょ～」",
+        "after": "ヴィルヘルム「俺は、ただお前がいない間、勝手に部屋にあがって飯の支度や部屋の片づけをしてただけのお前の友達だ！！」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "ヴィルヘルム「俺は、ただお前がいない間、勝手に部屋にあがって飯の支度や部屋の片づけをしてただけのお前の友達だ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「そうだ！！」",
+        "after": "日生　光「うわあ……」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "日生　光「うわあ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「俺は、ただお前がいない間、勝手に部屋にあがって飯の支度や部屋の片づけをしてただけのお前の友達だ！！」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うわあ……」",
+        "after": "ヴィルヘルム「……あれ？　どーしたんだよ？」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "ヴィルヘルム「……あれ？　どーしたんだよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "宮沢　夏帆「ごめん。やっぱり無理」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "宮沢　夏帆「ごめん。やっぱり無理」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「……あれ？　どーしたんだよ？」",
+        "after": "桐島　七葵「犯罪だな」"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "桐島　七葵「犯罪だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ごめん。やっぱり無理」",
+        "after": "ヴィルヘルム「何でだよ！？」"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "ヴィルヘルム「何でだよ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「犯罪だな」",
+        "after": "夏目　悠希「……おい。お前、ちょっと顔貸せ？」"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "夏目　悠希「……おい。お前、ちょっと顔貸せ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何でだよ！？」",
+        "after": "ヴィルヘルム「お、俺の顔か！？　顔は無理だ！！」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "ヴィルヘルム「お、俺の顔か！？　顔は無理だ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……おい。お前、ちょっと顔貸せ？」",
+        "after": "夏目　悠希「おい！　これ、持ってろ！　落とすなよ！！」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "夏目　悠希「おい！　これ、持ってろ！　落とすなよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お、俺の顔か！？　顔は無理だ！！」",
+        "after": "遠野　紗夜「は、はい」"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "遠野　紗夜「は、はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「おい！　これ、持ってろ！　落とすなよ！！」",
+        "after": "夏目君は私にぬいぐるみを預けると、ヴィルヘルムさんに飛びかかる。"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "夏目君は私にぬいぐるみを預けると、ヴィルヘルムさんに飛びかかる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「は、はい」",
+        "after": "ヴィルヘルム「おっと！」"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "ヴィルヘルム「おっと！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目君は私にぬいぐるみを預けると、ヴィルヘルムさんに飛びかかる。",
+        "after": "ひらり、とすんでの所で身をかわす。"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "ひらり、とすんでの所で身をかわす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「おっと！」",
+        "after": "日生　光「おー。着ぐるみなのに実に良い身のこなしだねぇ」"
+      }
+    },
+    {
+      "line": 172,
+      "jp": "日生　光「おー。着ぐるみなのに実に良い身のこなしだねぇ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ひらり、とすんでの所で身をかわす。",
+        "after": "桐島　七葵「そうか？　もう少し足裁きを上手く活用してだな……」"
+      }
+    },
+    {
+      "line": 173,
+      "jp": "桐島　七葵「そうか？　もう少し足裁きを上手く活用してだな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「おー。着ぐるみなのに実に良い身のこなしだねぇ」",
+        "after": "夏目　悠希「……こいつ！　生意気なっ！」"
+      }
+    },
+    {
+      "line": 174,
+      "jp": "夏目　悠希「……こいつ！　生意気なっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そうか？　もう少し足裁きを上手く活用してだな……」",
+        "after": "ヴィルヘルム「何の！」"
+      }
+    },
+    {
+      "line": 175,
+      "jp": "ヴィルヘルム「何の！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……こいつ！　生意気なっ！」",
+        "after": "宮沢　夏帆「きゃ！　……ちょっとぉ！　危ないじゃん！！　馬鹿ぁ！！」"
+      }
+    },
+    {
+      "line": 176,
+      "jp": "宮沢　夏帆「きゃ！　……ちょっとぉ！　危ないじゃん！！　馬鹿ぁ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「何の！」",
+        "after": "夏目　悠希「避けるあいつに言え！」"
+      }
+    },
+    {
+      "line": 177,
+      "jp": "夏目　悠希「避けるあいつに言え！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「きゃ！　……ちょっとぉ！　危ないじゃん！！　馬鹿ぁ！！」",
+        "after": "ヴィルヘルム「なあ！」"
+      }
+    },
+    {
+      "line": 178,
+      "jp": "ヴィルヘルム「なあ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「避けるあいつに言え！」",
+        "after": "夏目　悠希「何だよ！」"
+      }
+    },
+    {
+      "line": 179,
+      "jp": "夏目　悠希「何だよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「なあ！」",
+        "after": "ヴィルヘルム「お前ら、悠希と仲良くしてやってくれよな！」"
+      }
+    },
+    {
+      "line": 180,
+      "jp": "ヴィルヘルム「お前ら、悠希と仲良くしてやってくれよな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「何だよ！」",
+        "after": "夏目　悠希「はあ！？」"
+      }
+    },
+    {
+      "line": 181,
+      "jp": "夏目　悠希「はあ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「お前ら、悠希と仲良くしてやってくれよな！」",
+        "after": "ヴィルヘルム「悠希は、この通り口や態度は悪いけど、本当はすっげー頑張りやな良い奴なんだ！」"
+      }
+    },
+    {
+      "line": 182,
+      "jp": "ヴィルヘルム「悠希は、この通り口や態度は悪いけど、本当はすっげー頑張りやな良い奴なんだ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はあ！？」",
+        "after": "夏目　悠希「俺はお前のことなんか知らねーぞ！」"
+      }
+    },
+    {
+      "line": 183,
+      "jp": "夏目　悠希「俺はお前のことなんか知らねーぞ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「悠希は、この通り口や態度は悪いけど、本当はすっげー頑張りやな良い奴なんだ！」",
+        "after": "ヴィルヘルム「うん。そうだけど、俺は知ってるぜ」"
+      }
+    },
+    {
+      "line": 184,
+      "jp": "ヴィルヘルム「うん。そうだけど、俺は知ってるぜ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺はお前のことなんか知らねーぞ！」",
+        "after": "夏目　悠希「なら、いい加減顔を見せろ！！」"
+      }
+    },
+    {
+      "line": 185,
+      "jp": "夏目　悠希「なら、いい加減顔を見せろ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「うん。そうだけど、俺は知ってるぜ」",
+        "after": "ヴィルヘルム「それは出来ねーなー」"
+      }
+    },
+    {
+      "line": 186,
+      "jp": "ヴィルヘルム「それは出来ねーなー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「なら、いい加減顔を見せろ！！」",
+        "after": "夏目　悠希「ちょっと！　ボーッと突っ立ってないで手伝って下さいよ！！」"
+      }
+    },
+    {
+      "line": 187,
+      "jp": "夏目　悠希「ちょっと！　ボーッと突っ立ってないで手伝って下さいよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「それは出来ねーなー」",
+        "after": "日生　光「見返りは？」"
+      }
+    },
+    {
+      "line": 188,
+      "jp": "日生　光「見返りは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ちょっと！　ボーッと突っ立ってないで手伝って下さいよ！！」",
+        "after": "夏目　悠希「ない！」"
+      }
+    },
+    {
+      "line": 189,
+      "jp": "夏目　悠希「ない！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「見返りは？」",
+        "after": "日生　光「なら、僕はパス。代わりに剣道の申し子が手伝ってあげるって」"
+      }
+    },
+    {
+      "line": 190,
+      "jp": "日生　光「なら、僕はパス。代わりに剣道の申し子が手伝ってあげるって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ない！」",
+        "after": "桐島　七葵「言ってない」"
+      }
+    },
+    {
+      "line": 191,
+      "jp": "桐島　七葵「言ってない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「なら、僕はパス。代わりに剣道の申し子が手伝ってあげるって」",
+        "after": "日生　光「華麗な足裁き、僕、見てみたいなぁ」"
+      }
+    },
+    {
+      "line": 192,
+      "jp": "日生　光「華麗な足裁き、僕、見てみたいなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「言ってない」",
+        "after": "桐島　七葵「嫌だ」"
+      }
+    },
+    {
+      "line": 193,
+      "jp": "桐島　七葵「嫌だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「華麗な足裁き、僕、見てみたいなぁ」",
+        "after": "千代「あ、俺も見たい！」"
+      }
+    },
+    {
+      "line": 194,
+      "jp": "千代「あ、俺も見たい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「嫌だ」",
+        "after": "桐島　七葵「絶対に嫌だ！」"
+      }
+    },
+    {
+      "line": 195,
+      "jp": "桐島　七葵「絶対に嫌だ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「あ、俺も見たい！」",
+        "after": "日生　光「何故？」"
+      }
+    },
+    {
+      "line": 196,
+      "jp": "日生　光「何故？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「絶対に嫌だ！」",
+        "after": "桐島　七葵「……逆に聞くが、お前は拒否したのに何故俺には拒否権がないんだ」"
+      }
+    },
+    {
+      "line": 197,
+      "jp": "桐島　七葵「……逆に聞くが、お前は拒否したのに何故俺には拒否権がないんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「何故？」",
+        "after": "日生　光「僕がヴィルヘルム君の味方だから」"
+      }
+    },
+    {
+      "line": 198,
+      "jp": "日生　光「僕がヴィルヘルム君の味方だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……逆に聞くが、お前は拒否したのに何故俺には拒否権がないんだ」",
+        "after": "日生　光「蒼さんは多分どっちでもないだろうし、お嬢と夏帆ちゃんは女の子でしょう？」"
+      }
+    },
+    {
+      "line": 199,
+      "jp": "日生　光「蒼さんは多分どっちでもないだろうし、お嬢と夏帆ちゃんは女の子でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「僕がヴィルヘルム君の味方だから」",
+        "after": "日生　光「それなのに、桐島君まで手伝わないとなると、誰が夏目君の味方になるの？」"
+      }
+    },
+    {
+      "line": 200,
+      "jp": "日生　光「それなのに、桐島君まで手伝わないとなると、誰が夏目君の味方になるの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「蒼さんは多分どっちでもないだろうし、お嬢と夏帆ちゃんは女の子でしょう？」",
+        "after": "日生　光「物事はバランスが取れてこそだよ。そうじゃなきゃ、面白くも何ともないじゃないか」"
+      }
+    },
+    {
+      "line": 201,
+      "jp": "日生　光「物事はバランスが取れてこそだよ。そうじゃなきゃ、面白くも何ともないじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それなのに、桐島君まで手伝わないとなると、誰が夏目君の味方になるの？」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 202,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「物事はバランスが取れてこそだよ。そうじゃなきゃ、面白くも何ともないじゃないか」",
+        "after": "日生　光「ってなわけで、Ｌｅｔ’ｓ　Ｇｏ！」"
+      }
+    },
+    {
+      "line": 203,
+      "jp": "日生　光「ってなわけで、Ｌｅｔ’ｓ　Ｇｏ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "桐島　七葵「……っ！」"
+      }
+    },
+    {
+      "line": 204,
+      "jp": "桐島　七葵「……っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ってなわけで、Ｌｅｔ’ｓ　Ｇｏ！」",
+        "after": "桐島　七葵「……ああ！　やればいいんだろう！　やれば！！」"
+      }
+    },
+    {
+      "line": 205,
+      "jp": "桐島　七葵「……ああ！　やればいいんだろう！　やれば！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……っ！」",
+        "after": "日生　光「そうそう。頑張ってらっしゃい」"
+      }
+    },
+    {
+      "line": 206,
+      "jp": "日生　光「そうそう。頑張ってらっしゃい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……ああ！　やればいいんだろう！　やれば！！」",
+        "after": "桐島　七葵「おい、夏目！　二人で取り囲むぞ！！」"
+      }
+    },
+    {
+      "line": 207,
+      "jp": "桐島　七葵「おい、夏目！　二人で取り囲むぞ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうそう。頑張ってらっしゃい」",
+        "after": "夏目　悠希「言われなくても！！」"
+      }
+    },
+    {
+      "line": 208,
+      "jp": "夏目　悠希「言われなくても！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「おい、夏目！　二人で取り囲むぞ！！」",
+        "after": "宮沢　夏帆「ヴィルー！　頑張れ～！」"
+      }
+    },
+    {
+      "line": 209,
+      "jp": "宮沢　夏帆「ヴィルー！　頑張れ～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「言われなくても！！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 210,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ヴィルー！　頑張れ～！」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 211,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私はこの状況を呆気にとられながら、眺めていた。"
+      }
+    },
+    {
+      "line": 212,
+      "jp": "私はこの状況を呆気にとられながら、眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "蒼「賑やかだ」"
+      }
+    },
+    {
+      "line": 213,
+      "jp": "蒼「賑やかだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私はこの状況を呆気にとられながら、眺めていた。",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 214,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「賑やかだ」",
+        "after": "蒼を横目で見ると、視線は本ではなく、彼らに注がれている。"
+      }
+    },
+    {
+      "line": 215,
+      "jp": "蒼を横目で見ると、視線は本ではなく、彼らに注がれている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "遠野　紗夜「……こういった賑やかさはお嫌いですか？」"
+      }
+    },
+    {
+      "line": 216,
+      "jp": "遠野　紗夜「……こういった賑やかさはお嫌いですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼を横目で見ると、視線は本ではなく、彼らに注がれている。",
+        "after": "蒼「あまり好きではない」"
+      }
+    },
+    {
+      "line": 217,
+      "jp": "蒼「あまり好きではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……こういった賑やかさはお嫌いですか？」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 218,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「あまり好きではない」",
+        "after": "蒼「だが、物語としてならば、悪くない」"
+      }
+    },
+    {
+      "line": 219,
+      "jp": "蒼「だが、物語としてならば、悪くない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 220,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だが、物語としてならば、悪くない」",
+        "after": "私は一瞬目を見張り、そして次の瞬間、口元に自然と笑みが溢れた。"
+      }
+    },
+    {
+      "line": 221,
+      "jp": "私は一瞬目を見張り、そして次の瞬間、口元に自然と笑みが溢れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……私は、賑やかなことも好きですよ。見ていてこちらが楽しくなります」"
+      }
+    },
+    {
+      "line": 222,
+      "jp": "遠野　紗夜「……私は、賑やかなことも好きですよ。見ていてこちらが楽しくなります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は一瞬目を見張り、そして次の瞬間、口元に自然と笑みが溢れた。",
+        "after": "蒼「なら、お前もあの中に混ざればいい」"
+      }
+    },
+    {
+      "line": 223,
+      "jp": "蒼「なら、お前もあの中に混ざればいい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私は、賑やかなことも好きですよ。見ていてこちらが楽しくなります」",
+        "after": "はい"
+      }
+    },
+    {
+      "line": 224,
+      "jp": "はい",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「なら、お前もあの中に混ざればいい」",
+        "after": "いいえ"
+      }
+    },
+    {
+      "line": 225,
+      "jp": "いいえ",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "はい",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 226,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "いいえ",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 227,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "蒼「何故だ？」"
+      }
+    },
+    {
+      "line": 228,
+      "jp": "蒼「何故だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "遠野　紗夜「貴方がここにいるから」"
+      }
+    },
+    {
+      "line": 229,
+      "jp": "遠野　紗夜「貴方がここにいるから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故だ？」",
+        "after": "そう言うと、彼は少しだけ目を見開かせた。"
+      }
+    },
+    {
+      "line": 230,
+      "jp": "そう言うと、彼は少しだけ目を見開かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方がここにいるから」",
+        "after": "ヴィルヘルム「ふははははは！　お前ら甘いぜ！！」"
+      }
+    },
+    {
+      "line": 231,
+      "jp": "ヴィルヘルム「ふははははは！　お前ら甘いぜ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、彼は少しだけ目を見開かせた。",
+        "after": "気付くと、ヴィルヘルムさんが二人の壁を突破していた。"
+      }
+    },
+    {
+      "line": 232,
+      "jp": "気付くと、ヴィルヘルムさんが二人の壁を突破していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「ふははははは！　お前ら甘いぜ！！」",
+        "after": "桐島　七葵「油断した……。一生の不覚だ……」"
+      }
+    },
+    {
+      "line": 233,
+      "jp": "桐島　七葵「油断した……。一生の不覚だ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "気付くと、ヴィルヘルムさんが二人の壁を突破していた。",
+        "after": "日生　光「見た目で侮るからだよ」"
+      }
+    },
+    {
+      "line": 234,
+      "jp": "日生　光「見た目で侮るからだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「油断した……。一生の不覚だ……」",
+        "after": "夏目　悠希「おい！！　お前、結局誰なんだよ！！」"
+      }
+    },
+    {
+      "line": 235,
+      "jp": "夏目　悠希「おい！！　お前、結局誰なんだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「見た目で侮るからだよ」",
+        "after": "少し走った所で立ち止まるヴィルヘルムさん。ぶんぶんと大きく手を振ると負けないくらい大きな声で言った。"
+      }
+    },
+    {
+      "line": 236,
+      "jp": "少し走った所で立ち止まるヴィルヘルムさん。ぶんぶんと大きく手を振ると負けないくらい大きな声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「おい！！　お前、結局誰なんだよ！！」",
+        "after": "ヴィルヘルム「頑張れ悠希！　負けるな悠希！　俺はいつでも悠希の味方だぜ！！」"
+      }
+    },
+    {
+      "line": 237,
+      "jp": "ヴィルヘルム「頑張れ悠希！　負けるな悠希！　俺はいつでも悠希の味方だぜ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "少し走った所で立ち止まるヴィルヘルムさん。ぶんぶんと大きく手を振ると負けないくらい大きな声で言った。",
+        "after": "ヴィルヘルム「ありがとうな！　悠希！！」"
+      }
+    },
+    {
+      "line": 238,
+      "jp": "ヴィルヘルム「ありがとうな！　悠希！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ヴィルヘルム",
+      "special_char": true,
+      "context": {
+        "before": "ヴィルヘルム「頑張れ悠希！　負けるな悠希！　俺はいつでも悠希の味方だぜ！！」",
+        "after": "そして、彼はまた走り出すと、ついには私達の目の前から姿を消したのだった。"
+      }
+    },
+    {
+      "line": 239,
+      "jp": "そして、彼はまた走り出すと、ついには私達の目の前から姿を消したのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ヴィルヘルム「ありがとうな！　悠希！！」",
+        "after": "宮沢　夏帆「ばいばーい！」"
+      }
+    },
+    {
+      "line": 240,
+      "jp": "宮沢　夏帆「ばいばーい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そして、彼はまた走り出すと、ついには私達の目の前から姿を消したのだった。",
+        "after": "蒼「質問に対しての回答がずれている」"
+      }
+    },
+    {
+      "line": 241,
+      "jp": "蒼「質問に対しての回答がずれている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ばいばーい！」",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 242,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「質問に対しての回答がずれている」",
+        "after": "何だか、今日は随分と騒がしい一日だった。"
+      }
+    },
+    {
+      "line": 243,
+      "jp": "何だか、今日は随分と騒がしい一日だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "まだ、夜も来ていないうちから、そう思えるくらいの目まぐるしさだった。"
+      }
+    },
+    {
+      "line": 244,
+      "jp": "まだ、夜も来ていないうちから、そう思えるくらいの目まぐるしさだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか、今日は随分と騒がしい一日だった。",
+        "after": "夏目　悠希「な、何なんだよ……あいつは……」"
+      }
+    },
+    {
+      "line": 245,
+      "jp": "夏目　悠希「な、何なんだよ……あいつは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "まだ、夜も来ていないうちから、そう思えるくらいの目まぐるしさだった。",
+        "after": "桐島　七葵「お前が分からんなら、俺達には理解不能なんだがな……」"
+      }
+    },
+    {
+      "line": 246,
+      "jp": "桐島　七葵「お前が分からんなら、俺達には理解不能なんだがな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「な、何なんだよ……あいつは……」",
+        "after": "夏目　悠希「だから、あんな知り合いいないですよ！」"
+      }
+    },
+    {
+      "line": 247,
+      "jp": "夏目　悠希「だから、あんな知り合いいないですよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お前が分からんなら、俺達には理解不能なんだがな……」",
+        "after": "日生　光「本当に？　覚えてないだけじゃないの？」"
+      }
+    },
+    {
+      "line": 248,
+      "jp": "日生　光「本当に？　覚えてないだけじゃないの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「だから、あんな知り合いいないですよ！」",
+        "after": "夏目　悠希「俺をそこら辺にいる馬鹿と同列に語らないで下さい。一度会った奴の声くらい覚えてます！」"
+      }
+    },
+    {
+      "line": 249,
+      "jp": "夏目　悠希「俺をそこら辺にいる馬鹿と同列に語らないで下さい。一度会った奴の声くらい覚えてます！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「本当に？　覚えてないだけじゃないの？」",
+        "after": "日生　光「へえ、それは凄いな」"
+      }
+    },
+    {
+      "line": 250,
+      "jp": "日生　光「へえ、それは凄いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺をそこら辺にいる馬鹿と同列に語らないで下さい。一度会った奴の声くらい覚えてます！」",
+        "after": "夏目　悠希「でも……」"
+      }
+    },
+    {
+      "line": 251,
+      "jp": "夏目　悠希「でも……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「へえ、それは凄いな」",
+        "after": "日生　光「でも？」"
+      }
+    },
+    {
+      "line": 252,
+      "jp": "日生　光「でも？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「でも……」",
+        "after": "夏目　悠希「何だか、親近感っていうか、昔からの友達みたいな懐かしさは感じた。……かな」"
+      }
+    },
+    {
+      "line": 253,
+      "jp": "夏目　悠希「何だか、親近感っていうか、昔からの友達みたいな懐かしさは感じた。……かな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも？」",
+        "after": "蒼「親近感か」"
+      }
+    },
+    {
+      "line": 254,
+      "jp": "蒼「親近感か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「何だか、親近感っていうか、昔からの友達みたいな懐かしさは感じた。……かな」",
+        "after": "夏目　悠希「……なんだよ？」"
+      }
+    },
+    {
+      "line": 255,
+      "jp": "夏目　悠希「……なんだよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "蒼「親近感か」",
+        "after": "蒼「確かにヴィルヘルムと夏目は似ている」"
+      }
+    },
+    {
+      "line": 256,
+      "jp": "蒼「確かにヴィルヘルムと夏目は似ている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……なんだよ？」",
+        "after": "夏目　悠希「どこがだよ」"
+      }
+    },
+    {
+      "line": 257,
+      "jp": "夏目　悠希「どこがだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "蒼「確かにヴィルヘルムと夏目は似ている」",
+        "after": "蒼「その横柄な態度と粗暴な口調がだ」"
+      }
+    },
+    {
+      "line": 258,
+      "jp": "蒼「その横柄な態度と粗暴な口調がだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「どこがだよ」",
+        "after": "ぽかんと、呆気に取られた様子の夏目君。"
+      }
+    },
+    {
+      "line": 259,
+      "jp": "ぽかんと、呆気に取られた様子の夏目君。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「その横柄な態度と粗暴な口調がだ」",
+        "after": "日生　光「……っぶ」"
+      }
+    },
+    {
+      "line": 260,
+      "jp": "日生　光「……っぶ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ぽかんと、呆気に取られた様子の夏目君。",
+        "after": "宮沢　夏帆「あはははははっ！！」"
+      }
+    },
+    {
+      "line": 261,
+      "jp": "宮沢　夏帆「あはははははっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「……っぶ」",
+        "after": "夏目　悠希「っ！　笑うな！！」"
+      }
+    },
+    {
+      "line": 262,
+      "jp": "夏目　悠希「っ！　笑うな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あはははははっ！！」",
+        "after": "宮沢　夏帆「ふーん。だって、本当のことなんだもーん。あ、でもぉ、ヴィルの方が可愛いし、素直だよねぇ～。あ～どっかの誰かとは大違ぁい～」"
+      }
+    },
+    {
+      "line": 263,
+      "jp": "宮沢　夏帆「ふーん。だって、本当のことなんだもーん。あ、でもぉ、ヴィルの方が可愛いし、素直だよねぇ～。あ～どっかの誰かとは大違ぁい～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「っ！　笑うな！！」",
+        "after": "夏目　悠希「このクソ女！」"
+      }
+    },
+    {
+      "line": 264,
+      "jp": "夏目　悠希「このクソ女！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふーん。だって、本当のことなんだもーん。あ、でもぉ、ヴィルの方が可愛いし、素直だよねぇ～。あ～どっかの誰かとは大違ぁい～」",
+        "after": "宮沢　夏帆「べ～っだ」"
+      }
+    },
+    {
+      "line": 265,
+      "jp": "宮沢　夏帆「べ～っだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「このクソ女！」",
+        "after": "遠野　紗夜「……ふふっ」"
+      }
+    },
+    {
+      "line": 266,
+      "jp": "遠野　紗夜「……ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「べ～っだ」",
+        "after": "私は思わず声に出して笑ってしまった。"
+      }
+    },
+    {
+      "line": 267,
+      "jp": "私は思わず声に出して笑ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ふふっ」",
+        "after": "日生　光「あ、ようやくお嬢が笑った」"
+      }
+    },
+    {
+      "line": 268,
+      "jp": "日生　光「あ、ようやくお嬢が笑った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は思わず声に出して笑ってしまった。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 269,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あ、ようやくお嬢が笑った」",
+        "after": "日生　光「君が笑ってくれて嬉しいですよ」"
+      }
+    },
+    {
+      "line": 270,
+      "jp": "日生　光「君が笑ってくれて嬉しいですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「……嬉しいですか？」"
+      }
+    },
+    {
+      "line": 271,
+      "jp": "遠野　紗夜「……嬉しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「君が笑ってくれて嬉しいですよ」",
+        "after": "日生　光「ああ。そうだね」"
+      }
+    },
+    {
+      "line": 272,
+      "jp": "日生　光「ああ。そうだね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……嬉しいですか？」",
+        "after": "桐島　七葵「お前が笑わせたわけじゃないだろう……」"
+      }
+    },
+    {
+      "line": 273,
+      "jp": "桐島　七葵「お前が笑わせたわけじゃないだろう……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ああ。そうだね」",
+        "after": "日生　光「別にその過程に僕がいるかいないかは大した問題じゃないんだよ、桐島君。大事なのは、結果さ」"
+      }
+    },
+    {
+      "line": 274,
+      "jp": "日生　光「別にその過程に僕がいるかいないかは大した問題じゃないんだよ、桐島君。大事なのは、結果さ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「お前が笑わせたわけじゃないだろう……」",
+        "after": "蒼「何故、紗夜が笑えばお前が嬉しい？」"
+      }
+    },
+    {
+      "line": 275,
+      "jp": "蒼「何故、紗夜が笑えばお前が嬉しい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「別にその過程に僕がいるかいないかは大した問題じゃないんだよ、桐島君。大事なのは、結果さ」",
+        "after": "日生　光「彼女が好きだから」"
+      }
+    },
+    {
+      "line": 276,
+      "jp": "日生　光「彼女が好きだから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、紗夜が笑えばお前が嬉しい？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 277,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「彼女が好きだから」",
+        "after": "日生　光「好きだから笑顔でいて欲しい。幸せでいて欲しい」"
+      }
+    },
+    {
+      "line": 278,
+      "jp": "日生　光「好きだから笑顔でいて欲しい。幸せでいて欲しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "蒼「……ふむ。ならば、それは『友達』も同じだということか」"
+      }
+    },
+    {
+      "line": 279,
+      "jp": "蒼「……ふむ。ならば、それは『友達』も同じだということか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「好きだから笑顔でいて欲しい。幸せでいて欲しい」",
+        "after": "桐島　七葵「何でそうなる」"
+      }
+    },
+    {
+      "line": 280,
+      "jp": "桐島　七葵「何でそうなる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……ふむ。ならば、それは『友達』も同じだということか」",
+        "after": "蒼「友達は肯定的な感情だ。そして、ヴィルヘルムは夏目の幸せを願っていた。つまるところ、相手の幸福を願うのが『友達』というものなのではないのか？」"
+      }
+    },
+    {
+      "line": 281,
+      "jp": "蒼「友達は肯定的な感情だ。そして、ヴィルヘルムは夏目の幸せを願っていた。つまるところ、相手の幸福を願うのが『友達』というものなのではないのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「何でそうなる」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 282,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「友達は肯定的な感情だ。そして、ヴィルヘルムは夏目の幸せを願っていた。つまるところ、相手の幸福を願うのが『友達』というものなのではないのか？」",
+        "after": "蒼「どうした？」"
+      }
+    },
+    {
+      "line": 283,
+      "jp": "蒼「どうした？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "桐島　七葵「……いや、お前がそんなにまともなことを言うなんて思いも寄らなかったというか……」"
+      }
+    },
+    {
+      "line": 284,
+      "jp": "桐島　七葵「……いや、お前がそんなにまともなことを言うなんて思いも寄らなかったというか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「どうした？」",
+        "after": "蒼「私の言葉が間違っているとでもいうのか？」"
+      }
+    },
+    {
+      "line": 285,
+      "jp": "蒼「私の言葉が間違っているとでもいうのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……いや、お前がそんなにまともなことを言うなんて思いも寄らなかったというか……」",
+        "after": "桐島　七葵「いや、そうじゃない」"
+      }
+    },
+    {
+      "line": 286,
+      "jp": "桐島　七葵「いや、そうじゃない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「私の言葉が間違っているとでもいうのか？」",
+        "after": "蒼「では、何だ。答えろ」"
+      }
+    },
+    {
+      "line": 287,
+      "jp": "蒼「では、何だ。答えろ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや、そうじゃない」",
+        "after": "日生　光「その通りだと思うよ。ね、お嬢？」"
+      }
+    },
+    {
+      "line": 288,
+      "jp": "日生　光「その通りだと思うよ。ね、お嬢？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "蒼「では、何だ。答えろ」",
+        "after": "遠野　紗夜「え？　あ、は、はい……」"
+      }
+    },
+    {
+      "line": 289,
+      "jp": "遠野　紗夜「え？　あ、は、はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「その通りだと思うよ。ね、お嬢？」",
+        "after": "遠野　紗夜「そうですね……。私もそう思います」"
+      }
+    },
+    {
+      "line": 290,
+      "jp": "遠野　紗夜「そうですね……。私もそう思います」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　あ、は、はい……」",
+        "after": "蒼「ならいい」"
+      }
+    },
+    {
+      "line": 291,
+      "jp": "蒼「ならいい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね……。私もそう思います」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 292,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ならいい」",
+        "after": "急に居心地が悪くなった気がして、視線を彷徨わせると、ふと、自分の手の中にある存在を思い出した。"
+      }
+    },
+    {
+      "line": 293,
+      "jp": "急に居心地が悪くなった気がして、視線を彷徨わせると、ふと、自分の手の中にある存在を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「この、お友達も夏目君のことが大好きなのでしょうね」"
+      }
+    },
+    {
+      "line": 294,
+      "jp": "遠野　紗夜「この、お友達も夏目君のことが大好きなのでしょうね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "急に居心地が悪くなった気がして、視線を彷徨わせると、ふと、自分の手の中にある存在を思い出した。",
+        "after": "私は夏目君から渡されたぬいぐるみを掲げた。"
+      }
+    },
+    {
+      "line": 295,
+      "jp": "私は夏目君から渡されたぬいぐるみを掲げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「この、お友達も夏目君のことが大好きなのでしょうね」",
+        "after": "つぶらな緑の眸に光が差し込み当たって、キラキラとまるで涙のように見えた。"
+      }
+    },
+    {
+      "line": 296,
+      "jp": "つぶらな緑の眸に光が差し込み当たって、キラキラとまるで涙のように見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は夏目君から渡されたぬいぐるみを掲げた。",
+        "after": "遠野　紗夜「……そういえば、蒼はぬいぐるみの言葉が分かるのでしたよね？」"
+      }
+    },
+    {
+      "line": 297,
+      "jp": "遠野　紗夜「……そういえば、蒼はぬいぐるみの言葉が分かるのでしたよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "つぶらな緑の眸に光が差し込み当たって、キラキラとまるで涙のように見えた。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 298,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そういえば、蒼はぬいぐるみの言葉が分かるのでしたよね？」",
+        "after": "遠野　紗夜「今、何と仰っているか分かります？」"
+      }
+    },
+    {
+      "line": 299,
+      "jp": "遠野　紗夜「今、何と仰っているか分かります？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "蒼は少し間を置いて言った。"
+      }
+    },
+    {
+      "line": 300,
+      "jp": "蒼は少し間を置いて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「今、何と仰っているか分かります？」",
+        "after": "蒼「私は幸せです」"
+      }
+    },
+    {
+      "line": 301,
+      "jp": "蒼「私は幸せです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼は少し間を置いて言った。",
+        "after": "私はその言葉を聞いた時、彼女の姿が思い浮かんだ。"
+      }
+    },
+    {
+      "line": 302,
+      "jp": "私はその言葉を聞いた時、彼女の姿が思い浮かんだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「私は幸せです」",
+        "after": "遠野　紗夜「夏帆！」"
+      }
+    },
+    {
+      "line": 303,
+      "jp": "遠野　紗夜「夏帆！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその言葉を聞いた時、彼女の姿が思い浮かんだ。",
+        "after": "私に呼ばれると、一瞬きょとんとして、けれどすぐに笑顔になって私の呼びかけに答える。"
+      }
+    },
+    {
+      "line": 304,
+      "jp": "私に呼ばれると、一瞬きょとんとして、けれどすぐに笑顔になって私の呼びかけに答える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆！」",
+        "after": "宮沢　夏帆「な～に～？」"
+      }
+    },
+    {
+      "line": 305,
+      "jp": "宮沢　夏帆「な～に～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私に呼ばれると、一瞬きょとんとして、けれどすぐに笑顔になって私の呼びかけに答える。",
+        "after": "私は彼女の小さい体を抱きしめた。"
+      }
+    },
+    {
+      "line": 306,
+      "jp": "私は彼女の小さい体を抱きしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「な～に～？」",
+        "after": "宮沢　夏帆「ど、どうしたのぉ～？」"
+      }
+    },
+    {
+      "line": 307,
+      "jp": "宮沢　夏帆「ど、どうしたのぉ～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私は彼女の小さい体を抱きしめた。",
+        "after": "遠野　紗夜「私は貴方がいてくれて、幸せです」"
+      }
+    },
+    {
+      "line": 308,
+      "jp": "遠野　紗夜「私は貴方がいてくれて、幸せです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ど、どうしたのぉ～？」",
+        "after": "宮沢　夏帆「えっ」"
+      }
+    },
+    {
+      "line": 309,
+      "jp": "宮沢　夏帆「えっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は貴方がいてくれて、幸せです」",
+        "after": "唐突な私の告白に夏帆が小さな驚きをあげる。"
+      }
+    },
+    {
+      "line": 310,
+      "jp": "唐突な私の告白に夏帆が小さな驚きをあげる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「えっ」",
+        "after": "彼女の大きな目が更に大きくなって、その透き通った眼で私の姿を映し出した。"
+      }
+    },
+    {
+      "line": 311,
+      "jp": "彼女の大きな目が更に大きくなって、その透き通った眼で私の姿を映し出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "唐突な私の告白に夏帆が小さな驚きをあげる。",
+        "after": "私がふふっと笑うと、"
+      }
+    },
+    {
+      "line": 312,
+      "jp": "私がふふっと笑うと、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の大きな目が更に大きくなって、その透き通った眼で私の姿を映し出した。",
+        "after": "宮沢　夏帆「えへへ……」"
+      }
+    },
+    {
+      "line": 313,
+      "jp": "宮沢　夏帆「えへへ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私がふふっと笑うと、",
+        "after": "と彼女も照れ隠しに笑い、私を抱きしめ返した。"
+      }
+    },
+    {
+      "line": 314,
+      "jp": "と彼女も照れ隠しに笑い、私を抱きしめ返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「えへへ……」",
+        "after": "宮沢　夏帆「私も紗夜ちゃんがいてくれて幸せだよ！」"
+      }
+    },
+    {
+      "line": 315,
+      "jp": "宮沢　夏帆「私も紗夜ちゃんがいてくれて幸せだよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "と彼女も照れ隠しに笑い、私を抱きしめ返した。",
+        "after": "そう、貴方がいてくれて私はとても幸せです。"
+      }
+    },
+    {
+      "line": 316,
+      "jp": "そう、貴方がいてくれて私はとても幸せです。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「私も紗夜ちゃんがいてくれて幸せだよ！」",
+        "after": "私の大事なお友達。"
+      }
+    },
+    {
+      "line": 317,
+      "jp": "私の大事なお友達。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう、貴方がいてくれて私はとても幸せです。",
+        "after": null
+      }
+    }
+  ]
+}

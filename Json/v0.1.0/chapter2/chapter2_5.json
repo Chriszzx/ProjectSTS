@@ -1,0 +1,1484 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_5.txt",
+    "chapter": "chapter2",
+    "total_lines": 81,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "食事も終え、粗方の用事も済ませた私は兄の部屋を訪れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「兄さん、失礼します」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「兄さん、失礼します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "食事も終え、粗方の用事も済ませた私は兄の部屋を訪れた。",
+        "after": "遠野　十夜「ああ」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　十夜「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、失礼します」",
+        "after": "遠野　紗夜「お茶を淹れたので、お持ち致しました」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「お茶を淹れたので、お持ち致しました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ」",
+        "after": "遠野　十夜「ありがとう」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　十夜「ありがとう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お茶を淹れたので、お持ち致しました」",
+        "after": "遠野　紗夜「まだ熱いと思いますので、気をつけて下さいね」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「まだ熱いと思いますので、気をつけて下さいね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ありがとう」",
+        "after": "遠野　十夜「うん」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　十夜「うん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「まだ熱いと思いますので、気をつけて下さいね」",
+        "after": "兄は机の上の原稿用紙から目を離さない。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "兄は机の上の原稿用紙から目を離さない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「うん」",
+        "after": "私は兄の横に立つと、トレーの上の紅茶を机の上の隙間に置いた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は兄の横に立つと、トレーの上の紅茶を机の上の隙間に置いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は机の上の原稿用紙から目を離さない。",
+        "after": "そして、ちらりと兄を流し見た。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "そして、ちらりと兄を流し見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は兄の横に立つと、トレーの上の紅茶を机の上の隙間に置いた。",
+        "after": "兄の手は止まっている。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "兄の手は止まっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、ちらりと兄を流し見た。",
+        "after": "先程、仕事が忙しいと言っていたけれど、何か煮詰まっていることでもあるのだろうかと、私は兄に話しかけた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "先程、仕事が忙しいと言っていたけれど、何か煮詰まっていることでもあるのだろうかと、私は兄に話しかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の手は止まっている。",
+        "after": "遠野　紗夜「……どうですか？　物語の方は」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「……どうですか？　物語の方は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "先程、仕事が忙しいと言っていたけれど、何か煮詰まっていることでもあるのだろうかと、私は兄に話しかけた。",
+        "after": "遠野　十夜「そうだね……まあ、順調とはいかないかな」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　十夜「そうだね……まあ、順調とはいかないかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……どうですか？　物語の方は」",
+        "after": "遠野　紗夜「そうなのですか……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「そうなのですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そうだね……まあ、順調とはいかないかな」",
+        "after": "遠野　紗夜「ですが、まだ始まったばかりですものね！　それは仕方ありません」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「ですが、まだ始まったばかりですものね！　それは仕方ありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか……」",
+        "after": "励ましにならない言葉をかける。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "励ましにならない言葉をかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ですが、まだ始まったばかりですものね！　それは仕方ありません」",
+        "after": "兄は私の言葉にくすりと笑い、手を組んで、こちらを見た。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "兄は私の言葉にくすりと笑い、手を組んで、こちらを見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "励ましにならない言葉をかける。",
+        "after": "遠野　十夜「……紗夜は良い子だな」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　十夜「……紗夜は良い子だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄は私の言葉にくすりと笑い、手を組んで、こちらを見た。",
+        "after": "遠野　紗夜「あら、だって兄さんの妹ですもの」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「あら、だって兄さんの妹ですもの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……紗夜は良い子だな」",
+        "after": "トレーを胸に抱え、首を傾げる仕草をする。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "トレーを胸に抱え、首を傾げる仕草をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あら、だって兄さんの妹ですもの」",
+        "after": "すると、私の頬に髪が一房かかり、兄は手を伸ばしてそれを耳にかけた。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "すると、私の頬に髪が一房かかり、兄は手を伸ばしてそれを耳にかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "トレーを胸に抱え、首を傾げる仕草をする。",
+        "after": "遠野　十夜「……何だか」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　十夜「……何だか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "すると、私の頬に髪が一房かかり、兄は手を伸ばしてそれを耳にかけた。",
+        "after": "遠野　十夜「こうして紗夜に触れてると、物語の続きとか全てどうでも良くなってくるな」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　十夜「こうして紗夜に触れてると、物語の続きとか全てどうでも良くなってくるな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……何だか」",
+        "after": "遠野　紗夜「駄目です。それはちゃんとしないと。私も楽しみにしているのですから」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「駄目です。それはちゃんとしないと。私も楽しみにしているのですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「こうして紗夜に触れてると、物語の続きとか全てどうでも良くなってくるな」",
+        "after": "遠野　十夜「……だな」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　十夜「……だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「駄目です。それはちゃんとしないと。私も楽しみにしているのですから」",
+        "after": "不意に、兄の手が私の腕を掴んだ。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "不意に、兄の手が私の腕を掴んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……だな」",
+        "after": "トレーが地面に落ちる。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "トレーが地面に落ちる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "不意に、兄の手が私の腕を掴んだ。",
+        "after": "遠野　十夜「紗夜」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　十夜「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "トレーが地面に落ちる。",
+        "after": "私を引き寄せ、私の名前を呟く。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "私を引き寄せ、私の名前を呟く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「紗夜」",
+        "after": "優しく、甘く。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "優しく、甘く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を引き寄せ、私の名前を呟く。",
+        "after": "その声に私は、両の目を閉じた。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "その声に私は、両の目を閉じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "優しく、甘く。",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "その声に私は、両の目を閉じた。",
+        "after": "艶めかしい音と共に、額に感じた感触。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "艶めかしい音と共に、額に感じた感触。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "遠野　紗夜「……兄さん」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「……兄さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "艶めかしい音と共に、額に感じた感触。",
+        "after": "漆黒の眸。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "漆黒の眸。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……兄さん」",
+        "after": "その闇に吸い込まれそうになってしまう。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "その闇に吸い込まれそうになってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "漆黒の眸。",
+        "after": "遠野　十夜「……うん。これでやる気になった」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　十夜「……うん。これでやる気になった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "その闇に吸い込まれそうになってしまう。",
+        "after": "甘く囁く声に私は全身の熱が上がるのを意識した。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "甘く囁く声に私は全身の熱が上がるのを意識した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……うん。これでやる気になった」",
+        "after": "するりと手を抜け、私は兄から一歩後ずさった。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "するりと手を抜け、私は兄から一歩後ずさった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "甘く囁く声に私は全身の熱が上がるのを意識した。",
+        "after": "兄が触れた額に自分の手を乗せる。"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "兄が触れた額に自分の手を乗せる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "するりと手を抜け、私は兄から一歩後ずさった。",
+        "after": "熱い。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "熱い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が触れた額に自分の手を乗せる。",
+        "after": "遠野　紗夜「……もう、兄さんのせいでトレーを落としてしまったではありませんか」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「……もう、兄さんのせいでトレーを落としてしまったではありませんか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "熱い。",
+        "after": "遠野　十夜「ごめん」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　十夜「ごめん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……もう、兄さんのせいでトレーを落としてしまったではありませんか」",
+        "after": "私は床に落ちたトレーを拾う。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "私は床に落ちたトレーを拾う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ごめん」",
+        "after": "そのまま、視線を合わさない。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "そのまま、視線を合わさない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は床に落ちたトレーを拾う。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そのまま、視線を合わさない。",
+        "after": "遠野　紗夜「……これ以上、兄さんの邪魔しても悪いですし、私戻ります」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「……これ以上、兄さんの邪魔しても悪いですし、私戻ります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "くるりとその場を廻り、背を向けた私に兄は呼びかけた。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "くるりとその場を廻り、背を向けた私に兄は呼びかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……これ以上、兄さんの邪魔しても悪いですし、私戻ります」",
+        "after": "遠野　十夜「！」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　十夜「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "くるりとその場を廻り、背を向けた私に兄は呼びかけた。",
+        "after": "遠野　紗夜「……何でしょう？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「……何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「！」",
+        "after": "私は振り向かない。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "私は振り向かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……何でしょう？」",
+        "after": "遠野　十夜「良かったら、本でも何か持って行くかい？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　十夜「良かったら、本でも何か持って行くかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "私は振り向かない。",
+        "after": "遠野　十夜「ほら、図書館の本は読み終わってしまったって言ってただろう？」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　十夜「ほら、図書館の本は読み終わってしまったって言ってただろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「良かったら、本でも何か持って行くかい？」",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ほら、図書館の本は読み終わってしまったって言ってただろう？」",
+        "after": "ようやく振り向いた時には、兄は席を立っていた。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "ようやく振り向いた時には、兄は席を立っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "遠野　紗夜「そう……ですね。では……」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「そう……ですね。では……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ようやく振り向いた時には、兄は席を立っていた。",
+        "after": "遠野　十夜「何が良いかな。ここにある作品は、ほとんど紗夜も読んでしまったとは思うけれど」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "遠野　十夜「何が良いかな。ここにある作品は、ほとんど紗夜も読んでしまったとは思うけれど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そう……ですね。では……」",
+        "after": "兄が私の隣に並ぶ。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "兄が私の隣に並ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「何が良いかな。ここにある作品は、ほとんど紗夜も読んでしまったとは思うけれど」",
+        "after": "私は一度目を閉じ、息をする。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "私は一度目を閉じ、息をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が私の隣に並ぶ。",
+        "after": "そして、次にはいつもの調子で"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "そして、次にはいつもの調子で",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は一度目を閉じ、息をする。",
+        "after": "遠野　紗夜「兄さんの作品が読みたいです」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「兄さんの作品が読みたいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、次にはいつもの調子で",
+        "after": "と、兄の眸を見て言った。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "と、兄の眸を見て言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さんの作品が読みたいです」",
+        "after": "遠野　十夜「遠野十夜の？」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　十夜「遠野十夜の？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "と、兄の眸を見て言った。",
+        "after": "遠野　紗夜「ええ。兄さんの話は、全部読みましたが、また読みたいな……と」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「ええ。兄さんの話は、全部読みましたが、また読みたいな……と」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「遠野十夜の？」",
+        "after": "遠野　十夜「そうかい。何がいい？」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　十夜「そうかい。何がいい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。兄さんの話は、全部読みましたが、また読みたいな……と」",
+        "after": "遠野　紗夜「明るい結末のお話が良いです」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「明るい結末のお話が良いです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そうかい。何がいい？」",
+        "after": "遠野　十夜「難しいな……」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　十夜「難しいな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「明るい結末のお話が良いです」",
+        "after": "苦笑する兄。私もそれに倣う。"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "苦笑する兄。私もそれに倣う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「難しいな……」",
+        "after": "遠野　紗夜「兄さんのお話は、救われない話が多いですからね」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「兄さんのお話は、救われない話が多いですからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "苦笑する兄。私もそれに倣う。",
+        "after": "遠野　十夜「ははは……」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "遠野　十夜「ははは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さんのお話は、救われない話が多いですからね」",
+        "after": "遠野　紗夜「私はそれでも好きですが、どうしてもっと幸せな結末にしてあげないのですか？」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「私はそれでも好きですが、どうしてもっと幸せな結末にしてあげないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ははは……」",
+        "after": "遠野　十夜「別に、これでもワザとやっているわけじゃないんだけどな」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　十夜「別に、これでもワザとやっているわけじゃないんだけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私はそれでも好きですが、どうしてもっと幸せな結末にしてあげないのですか？」",
+        "after": "遠野　紗夜「あら、そうなのですか？」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「あら、そうなのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「別に、これでもワザとやっているわけじゃないんだけどな」",
+        "after": "遠野　十夜「ああ。俺は登場人物全て、幸せな形で終わらせようと思って書いているつもりではいるんだよ」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　十夜「ああ。俺は登場人物全て、幸せな形で終わらせようと思って書いているつもりではいるんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、そうなのですか？」",
+        "after": "遠野　十夜「どうしてか、中々伝わらないみたいだけど」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　十夜「どうしてか、中々伝わらないみたいだけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ。俺は登場人物全て、幸せな形で終わらせようと思って書いているつもりではいるんだよ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「どうしてか、中々伝わらないみたいだけど」",
+        "after": "遠野　十夜「ああ……これなんかちょうど良いかな」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　十夜「ああ……これなんかちょうど良いかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "そう言って、兄が本棚から取り出した一冊の蒼色の本。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "そう言って、兄が本棚から取り出した一冊の蒼色の本。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ああ……これなんかちょうど良いかな」",
+        "after": "遠野　十夜「これを持って行くといい」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "遠野　十夜「これを持って行くといい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、兄が本棚から取り出した一冊の蒼色の本。",
+        "after": "遠野　紗夜「はい。ありがとうございます」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　紗夜「はい。ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「これを持って行くといい」",
+        "after": null
+      }
+    }
+  ]
+}

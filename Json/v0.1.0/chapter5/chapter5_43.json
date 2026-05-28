@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_43.txt",
+    "chapter": "chapter5",
+    "total_lines": 38,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "千代さんの姿が見えなくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "千代さんの声が聞こえなくなった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "千代さんの声が聞こえなくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんの姿が見えなくなった。",
+        "after": "桐島先輩は見えることは正しいことではないと言った。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "桐島先輩は見えることは正しいことではないと言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんの声が聞こえなくなった。",
+        "after": "蒼は最も多くの人の言葉が『正しい』と言った。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼は最も多くの人の言葉が『正しい』と言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は見えることは正しいことではないと言った。",
+        "after": "それらは否定の言葉。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "それらは否定の言葉。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼は最も多くの人の言葉が『正しい』と言った。",
+        "after": "ならば、今までこの目で見ていたものは何だったのだろう？"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "ならば、今までこの目で見ていたものは何だったのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それらは否定の言葉。",
+        "after": "この耳で聞いた言葉は全て嘘だったとでもいうの？"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "この耳で聞いた言葉は全て嘘だったとでもいうの？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ならば、今までこの目で見ていたものは何だったのだろう？",
+        "after": "遠野　紗夜「違う！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「違う！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "この耳で聞いた言葉は全て嘘だったとでもいうの？",
+        "after": "嘘ではない。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "嘘ではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「違う！」",
+        "after": "確かに感じた存在。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "確かに感じた存在。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘ではない。",
+        "after": "この目にこの耳にこの手に。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "この目にこの耳にこの手に。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに感じた存在。",
+        "after": "嘘ではない。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "嘘ではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この目にこの耳にこの手に。",
+        "after": "遠野　十夜「？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　十夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "嘘ではない。",
+        "after": "遠野　十夜「どうしたんだい？　帰ってくるなり、部屋に閉じ籠もって……」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　十夜「どうしたんだい？　帰ってくるなり、部屋に閉じ籠もって……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「？」",
+        "after": "遠野　紗夜「兄さん……」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「どうしたんだい？　帰ってくるなり、部屋に閉じ籠もって……」",
+        "after": "横たわった身体を起こそうとすると、兄はそれを手で制した。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "横たわった身体を起こそうとすると、兄はそれを手で制した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん……」",
+        "after": "枕元に立ち、私の頭を撫でる。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "枕元に立ち、私の頭を撫でる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "横たわった身体を起こそうとすると、兄はそれを手で制した。",
+        "after": "遠野　十夜「また、何かあったのかい？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　十夜「また、何かあったのかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "枕元に立ち、私の頭を撫でる。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「また、何かあったのかい？」",
+        "after": "兄が言った言葉を思い出した。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "兄が言った言葉を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が言った言葉を思い出した。",
+        "after": "『彼のことだけど、あまり近づきすぎない方が良いんじゃないかな』"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "『彼のことだけど、あまり近づきすぎない方が良いんじゃないかな』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "結局、私は身を起こし、兄の手を取り、その黒い眸を見返す。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "結局、私は身を起こし、兄の手を取り、その黒い眸を見返す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『彼のことだけど、あまり近づきすぎない方が良いんじゃないかな』",
+        "after": "遠野　紗夜「兄さん、兄さんはどうしてあの時、あの様なことを言ったのです？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「兄さん、兄さんはどうしてあの時、あの様なことを言ったのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "結局、私は身を起こし、兄の手を取り、その黒い眸を見返す。",
+        "after": "遠野　十夜「あの様な？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　十夜「あの様な？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、兄さんはどうしてあの時、あの様なことを言ったのです？」",
+        "after": "遠野　紗夜「千代さんのことです！」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「千代さんのことです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「あの様な？」",
+        "after": "遠野　十夜「ああ……」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　十夜「ああ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さんのことです！」",
+        "after": "遠野　紗夜「見えなくなってしまったのです……千代さんの姿が」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "遠野　紗夜「見えなくなってしまったのです……千代さんの姿が」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ……」",
+        "after": "遠野　紗夜「声も聞こえない。今までずっと見てきたもの、聞こえていたもの全てが私には届かなくなってしまったのです！」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「声も聞こえない。今までずっと見てきたもの、聞こえていたもの全てが私には届かなくなってしまったのです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「見えなくなってしまったのです……千代さんの姿が」",
+        "after": "遠野　十夜「紗夜」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　十夜「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「声も聞こえない。今までずっと見てきたもの、聞こえていたもの全てが私には届かなくなってしまったのです！」",
+        "after": "兄は私の濡れた頬に唇を寄せ、私を強く抱きしめた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "兄は私の濡れた頬に唇を寄せ、私を強く抱きしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「紗夜」",
+        "after": "怖い。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "怖い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は私の濡れた頬に唇を寄せ、私を強く抱きしめた。",
+        "after": "遠野　紗夜「兄さん……」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "怖い。",
+        "after": "怖い。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "怖い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん……」",
+        "after": "遠野　紗夜「兄さん。私は間違っていますか……？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「兄さん。私は間違っていますか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "怖い。",
+        "after": "遠野　十夜「……いいや。何も間違ってはいないさ」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　十夜「……いいや。何も間違ってはいないさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん。私は間違っていますか……？」",
+        "after": "遠野　十夜「愛しい。どうか涙を流さないでおくれ」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　十夜「愛しい。どうか涙を流さないでおくれ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……いいや。何も間違ってはいないさ」",
+        "after": "どうか、私の前からいなくならないで？"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "どうか、私の前からいなくならないで？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「愛しい。どうか涙を流さないでおくれ」",
+        "after": null
+      }
+    }
+  ]
+}

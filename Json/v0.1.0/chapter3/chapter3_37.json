@@ -1,0 +1,1134 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_37.txt",
+    "chapter": "chapter3",
+    "total_lines": 61,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "月曜日",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "宮沢　夏帆「ねえ、今日もあいつ来るかなぁ？」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "宮沢　夏帆「ねえ、今日もあいつ来るかなぁ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "月曜日",
+        "after": "普段通りの朝、夏帆は毎度同じく私の机の上に突っ伏しながら、そんなことを言った。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "普段通りの朝、夏帆は毎度同じく私の机の上に突っ伏しながら、そんなことを言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ねえ、今日もあいつ来るかなぁ？」",
+        "after": "『あいつ』というのは勿論、ヴィルヘルムさんのことだ。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "『あいつ』というのは勿論、ヴィルヘルムさんのことだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "普段通りの朝、夏帆は毎度同じく私の机の上に突っ伏しながら、そんなことを言った。",
+        "after": "遠野　紗夜「さあ、どうでしょう」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「さあ、どうでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "『あいつ』というのは勿論、ヴィルヘルムさんのことだ。",
+        "after": "と、曖昧に返した後、すぐに付け足す。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "と、曖昧に返した後、すぐに付け足す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「さあ、どうでしょう」",
+        "after": "遠野　紗夜「……ですが、何となくではありますが、やはり今日も来るような気がします」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「……ですが、何となくではありますが、やはり今日も来るような気がします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、曖昧に返した後、すぐに付け足す。",
+        "after": "宮沢　夏帆「やっぱり、そう思う？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "宮沢　夏帆「やっぱり、そう思う？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ですが、何となくではありますが、やはり今日も来るような気がします」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「やっぱり、そう思う？」",
+        "after": "私が頷くと、夏帆は嬉しそうに目を輝かせた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私が頷くと、夏帆は嬉しそうに目を輝かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "宮沢　夏帆「あいつ、夏目の友達って言ってるけど、何で友達なのにこそこそするんだろうねぇ～」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "宮沢　夏帆「あいつ、夏目の友達って言ってるけど、何で友達なのにこそこそするんだろうねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私が頷くと、夏帆は嬉しそうに目を輝かせた。",
+        "after": "うきうきとした様子の夏帆を見て、思わずこんな本音を漏らした。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "うきうきとした様子の夏帆を見て、思わずこんな本音を漏らした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あいつ、夏目の友達って言ってるけど、何で友達なのにこそこそするんだろうねぇ～」",
+        "after": "遠野　紗夜「……夏帆は、ヴィルヘルムさんのことを疑わないのですね」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「……夏帆は、ヴィルヘルムさんのことを疑わないのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "うきうきとした様子の夏帆を見て、思わずこんな本音を漏らした。",
+        "after": "宮沢　夏帆「？　何が？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "宮沢　夏帆「？　何が？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……夏帆は、ヴィルヘルムさんのことを疑わないのですね」",
+        "after": "遠野　紗夜「いえ……彼は、私達の前で決して姿を見せませんし、素性も謎ですから。疑わないのかな、と」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「いえ……彼は、私達の前で決して姿を見せませんし、素性も謎ですから。疑わないのかな、と」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「？　何が？」",
+        "after": "宮沢　夏帆「それって、ヴィルが嘘を吐いてるってこと？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "宮沢　夏帆「それって、ヴィルが嘘を吐いてるってこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いえ……彼は、私達の前で決して姿を見せませんし、素性も謎ですから。疑わないのかな、と」",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「それって、ヴィルが嘘を吐いてるってこと？」",
+        "after": "遠野　紗夜「思えば、夏目君の『友達』だという言葉もヴィルヘルムさんからしか聞いていないわけですし……」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「思えば、夏目君の『友達』だという言葉もヴィルヘルムさんからしか聞いていないわけですし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "宮沢　夏帆「夏目からはヴィルが友達かどうかは聞いてないしね」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「夏目からはヴィルが友達かどうかは聞いてないしね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「思えば、夏目君の『友達』だという言葉もヴィルヘルムさんからしか聞いていないわけですし……」",
+        "after": "遠野　紗夜「はい。尋ねようにもご自分の正体がばれることを恐れているようでしたから」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「はい。尋ねようにもご自分の正体がばれることを恐れているようでしたから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「夏目からはヴィルが友達かどうかは聞いてないしね」",
+        "after": "宮沢　夏帆「夏目には絶対に言うなって口止めされたもんねぇ～」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "宮沢　夏帆「夏目には絶対に言うなって口止めされたもんねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。尋ねようにもご自分の正体がばれることを恐れているようでしたから」",
+        "after": "夏帆は顎に人差し指を添え、考え込んだ。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "夏帆は顎に人差し指を添え、考え込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「夏目には絶対に言うなって口止めされたもんねぇ～」",
+        "after": "宮沢　夏帆「……え～……う～ん。確かにすっごく怪しいとは思うけどぉ」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「……え～……う～ん。確かにすっごく怪しいとは思うけどぉ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は顎に人差し指を添え、考え込んだ。",
+        "after": "宮沢　夏帆「でも、可愛いじゃん。私、可愛いもの好きだし！」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "宮沢　夏帆「でも、可愛いじゃん。私、可愛いもの好きだし！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……え～……う～ん。確かにすっごく怪しいとは思うけどぉ」",
+        "after": "遠野　紗夜「だから、疑わないと？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「だから、疑わないと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でも、可愛いじゃん。私、可愛いもの好きだし！」",
+        "after": "宮沢　夏帆「そういうわけじゃないけどぉ～……」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "宮沢　夏帆「そういうわけじゃないけどぉ～……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「だから、疑わないと？」",
+        "after": "歯切れ悪くいうと、夏帆は真顔で私を見た。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "歯切れ悪くいうと、夏帆は真顔で私を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「そういうわけじゃないけどぉ～……」",
+        "after": "宮沢　夏帆「紗夜ちゃんは、ヴィルのこと疑ってるんだよね～？」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "宮沢　夏帆「紗夜ちゃんは、ヴィルのこと疑ってるんだよね～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "歯切れ悪くいうと、夏帆は真顔で私を見た。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんは、ヴィルのこと疑ってるんだよね～？」",
+        "after": "宮沢　夏帆「疑ってるから疑問に思うわけなんだし、そうなんじゃないのぉ？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "宮沢　夏帆「疑ってるから疑問に思うわけなんだし、そうなんじゃないのぉ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "疑っている"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "疑っている",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「疑ってるから疑問に思うわけなんだし、そうなんじゃないのぉ？」",
+        "after": "疑っていない"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "疑っていない",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "疑っている",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "疑っていない",
+        "after": "宮沢　夏帆「そっかぁ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "宮沢　夏帆「そっかぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "宮沢　夏帆「でも、ま、それもしょーがないんじゃないのかなぁ？　むしろ、当然だと思うよ～」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "宮沢　夏帆「でも、ま、それもしょーがないんじゃないのかなぁ？　むしろ、当然だと思うよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そっかぁ」",
+        "after": "宮沢　夏帆「私も疑ってるとか疑ってないとかそういうんじゃないけど、気にはなってるわけだしぃ」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "宮沢　夏帆「私も疑ってるとか疑ってないとかそういうんじゃないけど、気にはなってるわけだしぃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「でも、ま、それもしょーがないんじゃないのかなぁ？　むしろ、当然だと思うよ～」",
+        "after": "遠野　紗夜「そうなのですか？」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「そうなのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「私も疑ってるとか疑ってないとかそういうんじゃないけど、気にはなってるわけだしぃ」",
+        "after": "宮沢　夏帆「そうじゃないと、今日ヴィルが来るかなんてどうでもいいこと話さないよ～」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "宮沢　夏帆「そうじゃないと、今日ヴィルが来るかなんてどうでもいいこと話さないよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか？」",
+        "after": "遠野　紗夜「……それもそうですね」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "遠野　紗夜「……それもそうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そうじゃないと、今日ヴィルが来るかなんてどうでもいいこと話さないよ～」",
+        "after": "遠野　紗夜「疑ってはいません」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「疑ってはいません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それもそうですね」",
+        "after": "宮沢　夏帆「そうなのぉ？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "宮沢　夏帆「そうなのぉ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「疑ってはいません」",
+        "after": "遠野　紗夜「ええ。確かに、こんな風に疑問を持つこと自体が疑っていると言われればそうなのでしょうけど……」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「ええ。確かに、こんな風に疑問を持つこと自体が疑っていると言われればそうなのでしょうけど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そうなのぉ？」",
+        "after": "遠野　紗夜「けれど、完璧に疑っているというよりは……単に気になっている、とでも言った方が良いのでしょうか」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「けれど、完璧に疑っているというよりは……単に気になっている、とでも言った方が良いのでしょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。確かに、こんな風に疑問を持つこと自体が疑っていると言われればそうなのでしょうけど……」",
+        "after": "宮沢　夏帆「じゃあ、私と同じだよ！　私もヴィルのことは気になるもん！」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "宮沢　夏帆「じゃあ、私と同じだよ！　私もヴィルのことは気になるもん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、完璧に疑っているというよりは……単に気になっている、とでも言った方が良いのでしょうか」",
+        "after": "宮沢　夏帆「だけど、気にはなっても、誰も敢えて突っ込もうともしてないし、私からする気もないしなぁ」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "宮沢　夏帆「だけど、気にはなっても、誰も敢えて突っ込もうともしてないし、私からする気もないしなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「じゃあ、私と同じだよ！　私もヴィルのことは気になるもん！」",
+        "after": "宮沢　夏帆「それに、質問したところでヴィルがまともに答えてくれるとは思わないし」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "宮沢　夏帆「それに、質問したところでヴィルがまともに答えてくれるとは思わないし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「だけど、気にはなっても、誰も敢えて突っ込もうともしてないし、私からする気もないしなぁ」",
+        "after": "遠野　紗夜「そうですよね……」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「そうですよね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「それに、質問したところでヴィルがまともに答えてくれるとは思わないし」",
+        "after": "肝心なのはそこだった。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "肝心なのはそこだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですよね……」",
+        "after": "いくら私達が疑問に思ったところで、ヴィルヘルムさんが真相を話さない限り、結局は私達の想像だけに留まってしまうのだ。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "いくら私達が疑問に思ったところで、ヴィルヘルムさんが真相を話さない限り、結局は私達の想像だけに留まってしまうのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "肝心なのはそこだった。",
+        "after": "女子生徒「おはよう、夏目君」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "女子生徒「おはよう、夏目君」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "いくら私達が疑問に思ったところで、ヴィルヘルムさんが真相を話さない限り、結局は私達の想像だけに留まってしまうのだ。",
+        "after": "夏目　悠希「おはよう」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "夏目　悠希「おはよう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒「おはよう、夏目君」",
+        "after": "宮沢　夏帆「あ、噂をすれば～」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "宮沢　夏帆「あ、噂をすれば～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「おはよう」",
+        "after": "夏目君が登校してきた。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "夏目君が登校してきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あ、噂をすれば～」",
+        "after": "彼は真っ直ぐに私達の下にやってくる。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "彼は真っ直ぐに私達の下にやってくる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君が登校してきた。",
+        "after": "遠野　紗夜「おはようございます」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「おはようございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼は真っ直ぐに私達の下にやってくる。",
+        "after": "私が声をかけると、彼は何だか眠そうに言った。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私が声をかけると、彼は何だか眠そうに言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「おはようございます」",
+        "after": "夏目　悠希「……おはよう」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "夏目　悠希「……おはよう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私が声をかけると、彼は何だか眠そうに言った。",
+        "after": "そして、がたん、と席につくなり、机の上に手を組んで顔を埋めたのだった。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "そして、がたん、と席につくなり、机の上に手を組んで顔を埋めたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「……おはよう」",
+        "after": "宮沢　夏帆「？」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "宮沢　夏帆「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そして、がたん、と席につくなり、机の上に手を組んで顔を埋めたのだった。",
+        "after": "夏帆が私に向かって「どうしたんだろう？」と肩を竦める。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "夏帆が私に向かって「どうしたんだろう？」と肩を竦める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「？」",
+        "after": "私も分からず、首を傾げた。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "私も分からず、首を傾げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆が私に向かって「どうしたんだろう？」と肩を竦める。",
+        "after": null
+      }
+    }
+  ]
+}

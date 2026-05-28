@@ -1,0 +1,1416 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_29.txt",
+    "chapter": "chapter3",
+    "total_lines": 77,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "私達は図書館を訪れるなり、司書官に事情を話した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "とりあえず、ヴィルヘルムさんの件に関しては保留にしておき、まずは蒼をここに置いてくれないかとだけ頼み込む。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "とりあえず、ヴィルヘルムさんの件に関しては保留にしておき、まずは蒼をここに置いてくれないかとだけ頼み込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は図書館を訪れるなり、司書官に事情を話した。",
+        "after": "司書「……で、ここに来たと」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "司書「……で、ここに来たと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "とりあえず、ヴィルヘルムさんの件に関しては保留にしておき、まずは蒼をここに置いてくれないかとだけ頼み込む。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「……で、ここに来たと」",
+        "after": "司書「はああ～～……。もう、何でよりにもよって私のところなのかしらぁ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "司書「はああ～～……。もう、何でよりにもよって私のところなのかしらぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "司書官は頭に手をつき、眉をハの字にして、空を振り仰いだ。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "司書官は頭に手をつき、眉をハの字にして、空を振り仰いだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「はああ～～……。もう、何でよりにもよって私のところなのかしらぁ」",
+        "after": "授業前だからなのか、図書館にはほとんど人の姿が見あたらない。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "授業前だからなのか、図書館にはほとんど人の姿が見あたらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書官は頭に手をつき、眉をハの字にして、空を振り仰いだ。",
+        "after": "遠野　紗夜「すみません、ここは教室棟からは離れていますし、授業中は人も来ませんし、目立たないかと思いまして……」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「すみません、ここは教室棟からは離れていますし、授業中は人も来ませんし、目立たないかと思いまして……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "授業前だからなのか、図書館にはほとんど人の姿が見あたらない。",
+        "after": "司書「……はあ。いつか、なーんかこうなるんじゃないかと思ってたけど」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "司書「……はあ。いつか、なーんかこうなるんじゃないかと思ってたけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません、ここは教室棟からは離れていますし、授業中は人も来ませんし、目立たないかと思いまして……」",
+        "after": "大きなため息を吐く姿に罪悪感を感じる。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "大きなため息を吐く姿に罪悪感を感じる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「……はあ。いつか、なーんかこうなるんじゃないかと思ってたけど」",
+        "after": "彼女が困るのも無理もない、と目を伏せた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "彼女が困るのも無理もない、と目を伏せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "大きなため息を吐く姿に罪悪感を感じる。",
+        "after": "遠野　紗夜「申し訳ありません……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「申し訳ありません……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女が困るのも無理もない、と目を伏せた。",
+        "after": "司書「なーんてね」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "司書「なーんてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「申し訳ありません……」",
+        "after": "彼女はおどけて、舌を出した。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "彼女はおどけて、舌を出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「なーんてね」",
+        "after": "私は目をぱちくりとさせる。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私は目をぱちくりとさせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はおどけて、舌を出した。",
+        "after": "司書「いいわよ、別に。ここにいる限りは」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "司書「いいわよ、別に。ここにいる限りは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "私は目をぱちくりとさせる。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「いいわよ、別に。ここにいる限りは」",
+        "after": "意外な言葉をあっけらかんと言われた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "意外な言葉をあっけらかんと言われた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "現状が掴めずにいる私に司書官は笑って説明してくれた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "現状が掴めずにいる私に司書官は笑って説明してくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "意外な言葉をあっけらかんと言われた。",
+        "after": "司書「蒼君から聞かされてなかったのねぇ。蒼君、今日から特別に解放日以外でもここに立ち寄れることになったのよ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "司書「蒼君から聞かされてなかったのねぇ。蒼君、今日から特別に解放日以外でもここに立ち寄れることになったのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "現状が掴めずにいる私に司書官は笑って説明してくれた。",
+        "after": "遠野　紗夜「……初めて知りました」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「……初めて知りました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「蒼君から聞かされてなかったのねぇ。蒼君、今日から特別に解放日以外でもここに立ち寄れることになったのよ」",
+        "after": "桐島　七葵「どういうことだ、おい」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "桐島　七葵「どういうことだ、おい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……初めて知りました」",
+        "after": "私達はじろりと張本人に抗議の視線を向ける。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私達はじろりと張本人に抗議の視線を向ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「どういうことだ、おい」",
+        "after": "蒼はそれを物ともせず、いつもと調子を崩さず言った。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼はそれを物ともせず、いつもと調子を崩さず言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達はじろりと張本人に抗議の視線を向ける。",
+        "after": "蒼「だから、図書館に行くと言っただろう」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "蒼「だから、図書館に行くと言っただろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼はそれを物ともせず、いつもと調子を崩さず言った。",
+        "after": "蒼「昨日、知らせを受け、通行証も発行された」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "蒼「昨日、知らせを受け、通行証も発行された」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だから、図書館に行くと言っただろう」",
+        "after": "桐島　七葵「そういうことは早く言え！」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "桐島　七葵「そういうことは早く言え！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「昨日、知らせを受け、通行証も発行された」",
+        "after": "蒼「聞かれなかったから言わなかったまでだ。それに、日生は知っていただろう」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「聞かれなかったから言わなかったまでだ。それに、日生は知っていただろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「そういうことは早く言え！」",
+        "after": "桐島　七葵「はあ！？　……日生」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "桐島　七葵「はあ！？　……日生」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「聞かれなかったから言わなかったまでだ。それに、日生は知っていただろう」",
+        "after": "何か合点がいったのか、はた、と桐島先輩の動きが止まった。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "何か合点がいったのか、はた、と桐島先輩の動きが止まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「はあ！？　……日生」",
+        "after": "そういえば、日生先輩は生徒指導の先生に蒼のことを説明する際、許可がどうとか言っていた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "そういえば、日生先輩は生徒指導の先生に蒼のことを説明する際、許可がどうとか言っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何か合点がいったのか、はた、と桐島先輩の動きが止まった。",
+        "after": "日生　光「そうだよ。生徒会経由でたまたま知っててね」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "日生　光「そうだよ。生徒会経由でたまたま知っててね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "そういえば、日生先輩は生徒指導の先生に蒼のことを説明する際、許可がどうとか言っていた。",
+        "after": "遠野　紗夜「では、あの時先生についた嘘は……」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「では、あの時先生についた嘘は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうだよ。生徒会経由でたまたま知っててね」",
+        "after": "日生　光「あはっ。嘘じゃなかったということさ。勿論、嘘もあるけど」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "日生　光「あはっ。嘘じゃなかったということさ。勿論、嘘もあるけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、あの時先生についた嘘は……」",
+        "after": "彼はそういってばっちりとウィンクを決める。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "彼はそういってばっちりとウィンクを決める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あはっ。嘘じゃなかったということさ。勿論、嘘もあるけど」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼はそういってばっちりとウィンクを決める。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「あれ、どうしたの。そんな顔して」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "日生　光「あれ、どうしたの。そんな顔して」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "日生先輩はにやにやとわざと私達を煽るようなことを言ってのける。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "日生先輩はにやにやとわざと私達を煽るようなことを言ってのける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「あれ、どうしたの。そんな顔して」",
+        "after": "宮沢　夏帆「やっぱ、日生先輩って性格悪い」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "宮沢　夏帆「やっぱ、日生先輩って性格悪い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩はにやにやとわざと私達を煽るようなことを言ってのける。",
+        "after": "桐島　七葵「……俺は今後一切お前らの言動に対して突っ込まん」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "桐島　七葵「……俺は今後一切お前らの言動に対して突っ込まん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「やっぱ、日生先輩って性格悪い」",
+        "after": "日生　光「ええー」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "日生　光「ええー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……俺は今後一切お前らの言動に対して突っ込まん」",
+        "after": "そのような会話を繰り広げていると、"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "そのような会話を繰り広げていると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ええー」",
+        "after": "司書「ねえ、盛り上がってる最中に悪いんだけどさ。……さっきから気になってたんだけど、その着ぐるみは何なの？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "司書「ねえ、盛り上がってる最中に悪いんだけどさ。……さっきから気になってたんだけど、その着ぐるみは何なの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "そのような会話を繰り広げていると、",
+        "after": "どうやらついに司書官は私達の後ろにあったそれを見つけたようだった。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "どうやらついに司書官は私達の後ろにあったそれを見つけたようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「ねえ、盛り上がってる最中に悪いんだけどさ。……さっきから気になってたんだけど、その着ぐるみは何なの？」",
+        "after": "彼女の指さす先には台車に乗った大きな段ボールがあり、その中には頭部だけがまるまるはみ出たヴィルヘルムさんの姿があった。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "彼女の指さす先には台車に乗った大きな段ボールがあり、その中には頭部だけがまるまるはみ出たヴィルヘルムさんの姿があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうやらついに司書官は私達の後ろにあったそれを見つけたようだった。",
+        "after": "ちなみに、彼には念の為、人のいる前ではただの着ぐるみでいるように言って聞かせている。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "ちなみに、彼には念の為、人のいる前ではただの着ぐるみでいるように言って聞かせている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女の指さす先には台車に乗った大きな段ボールがあり、その中には頭部だけがまるまるはみ出たヴィルヘルムさんの姿があった。",
+        "after": "日生　光「ああ、これは次の生徒会の催しで使用する予定の着ぐるみなんですよ」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "日生　光「ああ、これは次の生徒会の催しで使用する予定の着ぐるみなんですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ちなみに、彼には念の為、人のいる前ではただの着ぐるみでいるように言って聞かせている。",
+        "after": "日生先輩は予定通り機転を利かす。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "日生先輩は予定通り機転を利かす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ああ、これは次の生徒会の催しで使用する予定の着ぐるみなんですよ」",
+        "after": "司書「そうなの？」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "司書「そうなの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は予定通り機転を利かす。",
+        "after": "日生　光「はい。そこで先生にお願いがあるんですが、この着ぐるみを少しの間ここに置いておいて欲しいんです」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "日生　光「はい。そこで先生にお願いがあるんですが、この着ぐるみを少しの間ここに置いておいて欲しいんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "司書「そうなの？」",
+        "after": "司書「えええー……。別にいいけど、何で？　生徒会室じゃ駄目なの？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "司書「えええー……。別にいいけど、何で？　生徒会室じゃ駄目なの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はい。そこで先生にお願いがあるんですが、この着ぐるみを少しの間ここに置いておいて欲しいんです」",
+        "after": "日生　光「生徒会の催しといってもサプライズなんで。ほら、この間ようやく新生徒会メンバーが決まったでしょう？」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "日生　光「生徒会の催しといってもサプライズなんで。ほら、この間ようやく新生徒会メンバーが決まったでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "司書「えええー……。別にいいけど、何で？　生徒会室じゃ駄目なの？」",
+        "after": "日生　光「今、そのお祝いを企画しているんです。それで、この着ぐるみを用意したわけなんですけど……置き場所に困ってしまって」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "日生　光「今、そのお祝いを企画しているんです。それで、この着ぐるみを用意したわけなんですけど……置き場所に困ってしまって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「生徒会の催しといってもサプライズなんで。ほら、この間ようやく新生徒会メンバーが決まったでしょう？」",
+        "after": "日生　光「折角商店街から借りたっていうのに、これが見つかったら元も子もないでしょう？」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "日生　光「折角商店街から借りたっていうのに、これが見つかったら元も子もないでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「今、そのお祝いを企画しているんです。それで、この着ぐるみを用意したわけなんですけど……置き場所に困ってしまって」",
+        "after": "よくもこうすらすらと嘘が思いつくものだ、と感心する。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "よくもこうすらすらと嘘が思いつくものだ、と感心する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「折角商店街から借りたっていうのに、これが見つかったら元も子もないでしょう？」",
+        "after": "普通なら少しくらい突っかかりそうなものだが、彼の場合は完璧だった。これにはもう流石としか言いようがない。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "普通なら少しくらい突っかかりそうなものだが、彼の場合は完璧だった。これにはもう流石としか言いようがない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "よくもこうすらすらと嘘が思いつくものだ、と感心する。",
+        "after": "司書「そういうことか。じゃ、しょうがないわね。邪魔にならない所に置いておいてね」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "司書「そういうことか。じゃ、しょうがないわね。邪魔にならない所に置いておいてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "普通なら少しくらい突っかかりそうなものだが、彼の場合は完璧だった。これにはもう流石としか言いようがない。",
+        "after": "日生　光「はい」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "日生　光「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "司書「そういうことか。じゃ、しょうがないわね。邪魔にならない所に置いておいてね」",
+        "after": "納得した司書官は台車を隅に置いておくよう指示し、日生先輩はそれに従う。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "納得した司書官は台車を隅に置いておくよう指示し、日生先輩はそれに従う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はい」",
+        "after": "私も彼を手伝おうと、隣に立ち、取っ手を押した。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "私も彼を手伝おうと、隣に立ち、取っ手を押した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "納得した司書官は台車を隅に置いておくよう指示し、日生先輩はそれに従う。",
+        "after": "すると、タイミング良く鐘が鳴り響いた。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "すると、タイミング良く鐘が鳴り響いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私も彼を手伝おうと、隣に立ち、取っ手を押した。",
+        "after": "司書「ほら、貴方達！　チャイム鳴っちゃったわよ！」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "司書「ほら、貴方達！　チャイム鳴っちゃったわよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "すると、タイミング良く鐘が鳴り響いた。",
+        "after": "遠野　紗夜「えっ、あ……」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「えっ、あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "司書「ほら、貴方達！　チャイム鳴っちゃったわよ！」",
+        "after": "司書「あとは私がやっておくから、急ぎなさい」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "司書「あとは私がやっておくから、急ぎなさい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "司書",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「えっ、あ……」",
+        "after": "司書官は私達を追い立てるように手を振り、私達はそれに甘える形で急いで扉に向かう。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "司書官は私達を追い立てるように手を振り、私達はそれに甘える形で急いで扉に向かう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "司書「あとは私がやっておくから、急ぎなさい」",
+        "after": "蒼「行くのか？」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "蒼「行くのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "司書官は私達を追い立てるように手を振り、私達はそれに甘える形で急いで扉に向かう。",
+        "after": "遠野　紗夜「ええ。蒼、それではまた後で。……ヴィルヘルムさんのことお願いしますね」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「ええ。蒼、それではまた後で。……ヴィルヘルムさんのことお願いしますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「行くのか？」",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。蒼、それではまた後で。……ヴィルヘルムさんのことお願いしますね」",
+        "after": "桐島　七葵「千代もな」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "桐島　七葵「千代もな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "千代「うん！　任せて！」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "千代「うん！　任せて！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「千代もな」",
+        "after": "後のことは二人に任せることにして、学生は学生らしく本業を全うせねばならない。"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "後のことは二人に任せることにして、学生は学生らしく本業を全うせねばならない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「うん！　任せて！」",
+        "after": "宮沢　夏帆「ねえ、いっそのこと、サボっちゃうとか～？」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "宮沢　夏帆「ねえ、いっそのこと、サボっちゃうとか～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "後のことは二人に任せることにして、学生は学生らしく本業を全うせねばならない。",
+        "after": "桐島　七葵「駄目だ」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "桐島　七葵「駄目だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ねえ、いっそのこと、サボっちゃうとか～？」",
+        "after": "遠野　紗夜「駄目です」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　紗夜「駄目です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「駄目だ」",
+        "after": "同時に言われ、夏帆はぷっくりと頬を膨らませる。"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "同時に言われ、夏帆はぷっくりと頬を膨らませる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「駄目です」",
+        "after": "宮沢　夏帆「ぶー。堅物ー……」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "宮沢　夏帆「ぶー。堅物ー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "同時に言われ、夏帆はぷっくりと頬を膨らませる。",
+        "after": null
+      }
+    }
+  ]
+}

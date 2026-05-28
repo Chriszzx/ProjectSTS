@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_11.txt",
+    "chapter": "chapter5",
+    "total_lines": 43,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "蒼「邪魔するぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "家に着くなり、蒼は兄の書斎へと入る。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "家に着くなり、蒼は兄の書斎へと入る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「邪魔するぞ」",
+        "after": "私と兄は顔を見合わせ、互いに苦笑した。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私と兄は顔を見合わせ、互いに苦笑した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家に着くなり、蒼は兄の書斎へと入る。",
+        "after": "荷物をソファの上に置き、時計を見た。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "荷物をソファの上に置き、時計を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と兄は顔を見合わせ、互いに苦笑した。",
+        "after": "時刻は六時過ぎ。丁度良い時間帯だ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "時刻は六時過ぎ。丁度良い時間帯だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "荷物をソファの上に置き、時計を見た。",
+        "after": "遠野　紗夜「夕飯はどういたしましょう？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「夕飯はどういたしましょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "時刻は六時過ぎ。丁度良い時間帯だ。",
+        "after": "遠野　十夜「何でも。……まさか、蒼にも食べさせてやろうって考えてるんじゃないだろうな」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　十夜「何でも。……まさか、蒼にも食べさせてやろうって考えてるんじゃないだろうな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夕飯はどういたしましょう？」",
+        "after": "遠野　紗夜「あら、そのつもりで彼を招待したのではないのですか？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「あら、そのつもりで彼を招待したのではないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「何でも。……まさか、蒼にも食べさせてやろうって考えてるんじゃないだろうな」",
+        "after": "遠野　十夜「すぐに帰らせるつもりだったよ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　十夜「すぐに帰らせるつもりだったよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、そのつもりで彼を招待したのではないのですか？」",
+        "after": "私が何も言わずにいると、兄の方から折れてくれた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私が何も言わずにいると、兄の方から折れてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「すぐに帰らせるつもりだったよ」",
+        "after": "遠野　十夜「……まあ、いいさ。好きにするといい」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　十夜「……まあ、いいさ。好きにするといい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "私が何も言わずにいると、兄の方から折れてくれた。",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……まあ、いいさ。好きにするといい」",
+        "after": "丁度、兄の書斎から蒼が本を抱えて出てきた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "丁度、兄の書斎から蒼が本を抱えて出てきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "遠野　紗夜「蒼。良いところに」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「蒼。良いところに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "丁度、兄の書斎から蒼が本を抱えて出てきた。",
+        "after": "蒼「何だ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "蒼「何だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼。良いところに」",
+        "after": "遠野　紗夜「今日の夕飯ですが、リクエストは何かありますか？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「今日の夕飯ですが、リクエストは何かありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何だ」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「今日の夕飯ですが、リクエストは何かありますか？」",
+        "after": "彼は私の質問に対し、暫く目線を横にすると、"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "彼は私の質問に対し、暫く目線を横にすると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "蒼「寿司が食べたい」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "蒼「寿司が食べたい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は私の質問に対し、暫く目線を横にすると、",
+        "after": "と一言言った。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "と一言言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「寿司が食べたい」",
+        "after": "遠野　紗夜「美味しいですか？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「美味しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と一言言った。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「美味しいですか？」",
+        "after": "私は箸を置き、蒼が食べるのをにこにこしながら見つめていた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私は箸を置き、蒼が食べるのをにこにこしながら見つめていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "蒼「何を見ている」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "蒼「何を見ている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私は箸を置き、蒼が食べるのをにこにこしながら見つめていた。",
+        "after": "遠野　紗夜「お寿司の何が気に入ったのですか？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「お寿司の何が気に入ったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何を見ている」",
+        "after": "蒼「今まで様々な料理を食べてきたが、寿司が一番口に合うことが分かった」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "蒼「今まで様々な料理を食べてきたが、寿司が一番口に合うことが分かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お寿司の何が気に入ったのですか？」",
+        "after": "遠野　紗夜「お好きなネタは何でしょう？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「お好きなネタは何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「今まで様々な料理を食べてきたが、寿司が一番口に合うことが分かった」",
+        "after": "蒼「これだ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「これだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お好きなネタは何でしょう？」",
+        "after": "箸で指したのは、ピンク色の切り身。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "箸で指したのは、ピンク色の切り身。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「これだ」",
+        "after": "遠野　紗夜「トロサーモンですね」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「トロサーモンですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "箸で指したのは、ピンク色の切り身。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「トロサーモンですね」",
+        "after": "彼は返事をすると、それを器用に箸で掴み、口にする。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "彼は返事をすると、それを器用に箸で掴み、口にする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "何だか、こうして彼を見ているのは楽しい。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "何だか、こうして彼を見ているのは楽しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は返事をすると、それを器用に箸で掴み、口にする。",
+        "after": "遠野　十夜「変わったな」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　十夜「変わったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "何だか、こうして彼を見ているのは楽しい。",
+        "after": "突然、兄が口を挟んだ。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "突然、兄が口を挟んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「変わったな」",
+        "after": "遠野　紗夜「何がです？」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「何がです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "突然、兄が口を挟んだ。",
+        "after": "遠野　十夜「蒼がだよ。以前は、寿司が食べたいだなんて言い出さなかったろう」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　十夜「蒼がだよ。以前は、寿司が食べたいだなんて言い出さなかったろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何がです？」",
+        "after": "遠野　紗夜「確かに、言われてみればそうですね」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「確かに、言われてみればそうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「蒼がだよ。以前は、寿司が食べたいだなんて言い出さなかったろう」",
+        "after": "以前の彼ならば、『何でも構わない』と言うか、それかさっさと帰ってしまっただろう。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "以前の彼ならば、『何でも構わない』と言うか、それかさっさと帰ってしまっただろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「確かに、言われてみればそうですね」",
+        "after": "遠野　十夜「……紗夜のおかげか」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　十夜「……紗夜のおかげか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "以前の彼ならば、『何でも構わない』と言うか、それかさっさと帰ってしまっただろう。",
+        "after": "遠野　紗夜「どうして、私のおかげなのです？」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「どうして、私のおかげなのです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……紗夜のおかげか」",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「どうして、私のおかげなのです？」",
+        "after": "兄は目を細めて笑うだけで答えてはくれなかった。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "兄は目を細めて笑うだけで答えてはくれなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,3556 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_55.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 198,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　十夜「そして、彼は記憶を失った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そして、彼は記憶を失った」",
+        "after": "兄が語った事の顛末。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "兄が語った事の顛末。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私は兄が言葉を発する最中、一言も言えずにいた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "私は兄が言葉を発する最中、一言も言えずにいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が語った事の顛末。",
+        "after": "あまりの衝撃の事実ばかりに一体何に驚いたら良いのか、何に対し兄を責め立てれば良いのか頭が混乱し、上手く言葉が纏まらなかったからだ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "あまりの衝撃の事実ばかりに一体何に驚いたら良いのか、何に対し兄を責め立てれば良いのか頭が混乱し、上手く言葉が纏まらなかったからだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は兄が言葉を発する最中、一言も言えずにいた。",
+        "after": "まさか蒼の記憶を失った原因が兄にあるとは思わなかった。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "まさか蒼の記憶を失った原因が兄にあるとは思わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あまりの衝撃の事実ばかりに一体何に驚いたら良いのか、何に対し兄を責め立てれば良いのか頭が混乱し、上手く言葉が纏まらなかったからだ。",
+        "after": "裏切られた気さえした。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "裏切られた気さえした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まさか蒼の記憶を失った原因が兄にあるとは思わなかった。",
+        "after": "兄はそのことをずっと黙っていたのだ。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "兄はそのことをずっと黙っていたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "裏切られた気さえした。",
+        "after": "しかし、それよりも何よりも……"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "しかし、それよりも何よりも……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄はそのことをずっと黙っていたのだ。",
+        "after": "今、私の目の前にいる彼は人ではない。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "今、私の目の前にいる彼は人ではない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しかし、それよりも何よりも……",
+        "after": "涙は出なかった。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "涙は出なかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今、私の目の前にいる彼は人ではない。",
+        "after": "いいえ、きっと私はしばらくしたらまた泣くのだろう。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "いいえ、きっと私はしばらくしたらまた泣くのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "涙は出なかった。",
+        "after": "日生先輩がいなくなった時もそうだった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "日生先輩がいなくなった時もそうだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いいえ、きっと私はしばらくしたらまた泣くのだろう。",
+        "after": "結局、私はあの時も日生先輩を前にして泣いてしまった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "結局、私はあの時も日生先輩を前にして泣いてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩がいなくなった時もそうだった。",
+        "after": "泣くのは私の心が弱いせいだろうか、と余計なことを考えた。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "泣くのは私の心が弱いせいだろうか、と余計なことを考えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、私はあの時も日生先輩を前にして泣いてしまった。",
+        "after": "頭が現状の整理をつけることを拒否している。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "頭が現状の整理をつけることを拒否している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "泣くのは私の心が弱いせいだろうか、と余計なことを考えた。",
+        "after": "それでは駄目だと心を叱咤し、強く目を瞑り、心を落ち着けた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "それでは駄目だと心を叱咤し、強く目を瞑り、心を落ち着けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭が現状の整理をつけることを拒否している。",
+        "after": "ゆっくりと眸を開けると、いつの間にか私は布団を握っていたらしいことに気が付き、手を離すとその部分がしわくちゃになっていた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "ゆっくりと眸を開けると、いつの間にか私は布団を握っていたらしいことに気が付き、手を離すとその部分がしわくちゃになっていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それでは駄目だと心を叱咤し、強く目を瞑り、心を落ち着けた。",
+        "after": "自由になった両の手をしばらく眺めた。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "自由になった両の手をしばらく眺めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ゆっくりと眸を開けると、いつの間にか私は布団を握っていたらしいことに気が付き、手を離すとその部分がしわくちゃになっていた。",
+        "after": "そして、その何もない手を見つめながら、これでようやく私は認めざるを得なくなったと思った。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "そして、その何もない手を見つめながら、これでようやく私は認めざるを得なくなったと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自由になった両の手をしばらく眺めた。",
+        "after": "兄が兄ではないと、兄が人間ではないと、私自ら認めてしまった。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "兄が兄ではないと、兄が人間ではないと、私自ら認めてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、その何もない手を見つめながら、これでようやく私は認めざるを得なくなったと思った。",
+        "after": "分かっていた。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "分かっていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が兄ではないと、兄が人間ではないと、私自ら認めてしまった。",
+        "after": "『死神と少女』を読んだ瞬間から、ずっと。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "『死神と少女』を読んだ瞬間から、ずっと。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "分かっていた。",
+        "after": "けれど、どうしても認めたくなかった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "けれど、どうしても認めたくなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『死神と少女』を読んだ瞬間から、ずっと。",
+        "after": "遠野　十夜「ごめん」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　十夜「ごめん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、どうしても認めたくなかった。",
+        "after": "兄は私の心を知ってか知らでか、謝罪の言葉を口にした。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "兄は私の心を知ってか知らでか、謝罪の言葉を口にした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ごめん」",
+        "after": "そして、いつもの様に私の髪に、頬に、触れようと手を伸ばした。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "そして、いつもの様に私の髪に、頬に、触れようと手を伸ばした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は私の心を知ってか知らでか、謝罪の言葉を口にした。",
+        "after": "けれど、待てども兄は私に触れてはくれず、結局、何もせずに手を下ろした。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "けれど、待てども兄は私に触れてはくれず、結局、何もせずに手を下ろした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、いつもの様に私の髪に、頬に、触れようと手を伸ばした。",
+        "after": "私はその一連の動作を目で追い、兄の方から何か言うことを期待していた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私はその一連の動作を目で追い、兄の方から何か言うことを期待していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、待てども兄は私に触れてはくれず、結局、何もせずに手を下ろした。",
+        "after": "私と目が合うと、兄はいつもの様に静かに微笑みを浮かべた。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "私と目が合うと、兄はいつもの様に静かに微笑みを浮かべた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はその一連の動作を目で追い、兄の方から何か言うことを期待していた。",
+        "after": "口端を上げ、目を弓なりに細め……。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "口端を上げ、目を弓なりに細め……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と目が合うと、兄はいつもの様に静かに微笑みを浮かべた。",
+        "after": "私にはすぐに兄が無理をしているのが分かった。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "私にはすぐに兄が無理をしているのが分かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口端を上げ、目を弓なりに細め……。",
+        "after": "自分自身もよく作り笑いを浮かべることがあった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "自分自身もよく作り笑いを浮かべることがあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私にはすぐに兄が無理をしているのが分かった。",
+        "after": "兄のこの笑い方は私と同じものだ。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "兄のこの笑い方は私と同じものだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分自身もよく作り笑いを浮かべることがあった。",
+        "after": "遠野　紗夜「兄さん……」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "兄のこの笑い方は私と同じものだ。",
+        "after": "兄の代わりに自分から手を出し、兄がいつもそうやってくれる様に、兄の髪を撫でた。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "兄の代わりに自分から手を出し、兄がいつもそうやってくれる様に、兄の髪を撫でた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん……」",
+        "after": "兄は目を細め、されるがままにされていた。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "兄は目を細め、されるがままにされていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の代わりに自分から手を出し、兄がいつもそうやってくれる様に、兄の髪を撫でた。",
+        "after": "私は黙って兄の髪を撫で続けた。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "私は黙って兄の髪を撫で続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は目を細め、されるがままにされていた。",
+        "after": "やがて、兄の笑みが消え、眸が揺れた。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "やがて、兄の笑みが消え、眸が揺れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は黙って兄の髪を撫で続けた。",
+        "after": "兄は私を抱きしめた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "兄は私を抱きしめた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて、兄の笑みが消え、眸が揺れた。",
+        "after": "遠野　十夜「すまない……紗夜」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　十夜「すまない……紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "兄は私を抱きしめた。",
+        "after": "遠野　十夜「ずっと、俺はお前に嘘を吐いていた……」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　十夜「ずっと、俺はお前に嘘を吐いていた……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「すまない……紗夜」",
+        "after": "まるで懺悔するかの様な物言いで声は震えていた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "まるで懺悔するかの様な物言いで声は震えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ずっと、俺はお前に嘘を吐いていた……」",
+        "after": "垂れた手を片方背中に回し、もう片方の手は本当は髪に触れたかったのだけれど、きつく抱きしめられているおかげで届かず、結局腕に触れるだけに留まった。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "垂れた手を片方背中に回し、もう片方の手は本当は髪に触れたかったのだけれど、きつく抱きしめられているおかげで届かず、結局腕に触れるだけに留まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで懺悔するかの様な物言いで声は震えていた。",
+        "after": "頭の上にかかる吐息を静かにじっと感じていた。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "頭の上にかかる吐息を静かにじっと感じていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "垂れた手を片方背中に回し、もう片方の手は本当は髪に触れたかったのだけれど、きつく抱きしめられているおかげで届かず、結局腕に触れるだけに留まった。",
+        "after": "兄が何の嘘を吐いたというのだろう。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "兄が何の嘘を吐いたというのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭の上にかかる吐息を静かにじっと感じていた。",
+        "after": "そもそも、私は兄が蒼を知っていたことも知らなかった。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "そもそも、私は兄が蒼を知っていたことも知らなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が何の嘘を吐いたというのだろう。",
+        "after": "兄はただ私から聞かれなかったから答えなかっただけに過ぎない。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "兄はただ私から聞かれなかったから答えなかっただけに過ぎない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そもそも、私は兄が蒼を知っていたことも知らなかった。",
+        "after": "私がただ真実に対し、見えない振りをしていただけなのだ。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "私がただ真実に対し、見えない振りをしていただけなのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄はただ私から聞かれなかったから答えなかっただけに過ぎない。",
+        "after": "嘘を吐いていたのはやはり私だ。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "嘘を吐いていたのはやはり私だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私がただ真実に対し、見えない振りをしていただけなのだ。",
+        "after": "だって、私は知っていたのだから。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "だって、私は知っていたのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "嘘を吐いていたのはやはり私だ。",
+        "after": "兄が『死神』であると。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "兄が『死神』であると。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だって、私は知っていたのだから。",
+        "after": "瞬きもせずにいた目を閉じ、そして自ら記憶をたぐり寄せた。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "瞬きもせずにいた目を閉じ、そして自ら記憶をたぐり寄せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄が『死神』であると。",
+        "after": "遠野　紗夜「私は……」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「私は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "瞬きもせずにいた目を閉じ、そして自ら記憶をたぐり寄せた。",
+        "after": "私が声を発すると、ぴくりと体を震わせる。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "私が声を発すると、ぴくりと体を震わせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私は……」",
+        "after": "そして、今度はゆっくりと抱きしめた腕の力を弱め、私から体を離す。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "そして、今度はゆっくりと抱きしめた腕の力を弱め、私から体を離す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が声を発すると、ぴくりと体を震わせる。",
+        "after": "兄は、私の顔にはらりと落ちた髪を耳へとかけてくれた。"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "兄は、私の顔にはらりと落ちた髪を耳へとかけてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、今度はゆっくりと抱きしめた腕の力を弱め、私から体を離す。",
+        "after": "その一連の動作の後、私達は眸を交わし合い、小声で囁いた。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "その一連の動作の後、私達は眸を交わし合い、小声で囁いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は、私の顔にはらりと落ちた髪を耳へとかけてくれた。",
+        "after": "遠野　紗夜「……私は小さな頃、身体が弱かった。よく咳をしては、お継母様を心配させていたわ」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「……私は小さな頃、身体が弱かった。よく咳をしては、お継母様を心配させていたわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "その一連の動作の後、私達は眸を交わし合い、小声で囁いた。",
+        "after": "遠野　十夜「……ああ」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "遠野　十夜「……ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私は小さな頃、身体が弱かった。よく咳をしては、お継母様を心配させていたわ」",
+        "after": "遠野　紗夜「私はお継母様が大好きだった。お継母様はとても優しくて、とても可憐で、私はそんなお継母様のことが大好きだったの」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「私はお継母様が大好きだった。お継母様はとても優しくて、とても可憐で、私はそんなお継母様のことが大好きだったの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「……ああ」",
+        "after": "遠野　紗夜「目の前でお継母様がいなくなった時、息が出来ない苦しみと共に目の前が真っ暗になった」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「目の前でお継母様がいなくなった時、息が出来ない苦しみと共に目の前が真っ暗になった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私はお継母様が大好きだった。お継母様はとても優しくて、とても可憐で、私はそんなお継母様のことが大好きだったの」",
+        "after": "遠野　紗夜「私は一人になってしまったのだと思った」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「私は一人になってしまったのだと思った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「目の前でお継母様がいなくなった時、息が出来ない苦しみと共に目の前が真っ暗になった」",
+        "after": "遠野　紗夜「周りに人はいるけれど、その人達もやがて私を置いて終わってしまうのだと思った」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「周りに人はいるけれど、その人達もやがて私を置いて終わってしまうのだと思った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は一人になってしまったのだと思った」",
+        "after": "遠野　紗夜「そして、それからもそのことは私の心に暗い影を落とし続けた」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「そして、それからもそのことは私の心に暗い影を落とし続けた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「周りに人はいるけれど、その人達もやがて私を置いて終わってしまうのだと思った」",
+        "after": "遠野　紗夜「お継母様がいなくなってからというもの、私はろくに食事も摂らずに弱っていった」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「お継母様がいなくなってからというもの、私はろくに食事も摂らずに弱っていった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そして、それからもそのことは私の心に暗い影を落とし続けた」",
+        "after": "遠野　紗夜「弱い身体だった私は大好きだったお継母様を亡くし、そのショック故に更に憔悴しきった」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "遠野　紗夜「弱い身体だった私は大好きだったお継母様を亡くし、そのショック故に更に憔悴しきった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「お継母様がいなくなってからというもの、私はろくに食事も摂らずに弱っていった」",
+        "after": "遠野　紗夜「そうして死の淵に立たされた私の前に、孤独だった私の前に現れたのが貴方だった」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「そうして死の淵に立たされた私の前に、孤独だった私の前に現れたのが貴方だった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「弱い身体だった私は大好きだったお継母様を亡くし、そのショック故に更に憔悴しきった」",
+        "after": "『ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？』"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "『ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　紗夜「そうして死の淵に立たされた私の前に、孤独だった私の前に現れたのが貴方だった」",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『ねえ、死神さん。私、この物語で最後だけどうしても分からないの。結局、世界で一番美しい言葉って何だったのかしら……？』",
+        "after": "『お前はそれが何かを知りたいのか？』"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "『お前はそれが何かを知りたいのか？』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "###『ええ、そうよ』"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "###『ええ、そうよ』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『お前はそれが何かを知りたいのか？』",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "###『ええ、そうよ』",
+        "after": "『そうか』"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "『そうか』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『そうか』",
+        "after": "『ならば、私はお前の時を止めよう』"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "『ならば、私はお前の時を止めよう』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "###『時を？』"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "###『時を？』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『ならば、私はお前の時を止めよう』",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "###『時を？』",
+        "after": "『時を止めれば、お前は死ななくて済む』"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "『時を止めれば、お前は死ななくて済む』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "###『本当？』"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "###『本当？』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『時を止めれば、お前は死ななくて済む』",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "###『本当？』",
+        "after": "『ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる』"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "『ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "###『その時は私の命が終わるのね』"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "###『その時は私の命が終わるのね』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『ただし、それは答えを探すまでの間だ。お前が世界で一番美しい言葉を探し出せば旅は終わる』",
+        "after": "遠野　十夜"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　十夜",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "###『その時は私の命が終わるのね』",
+        "after": "『そうだ。時は進みだし、お前は予定通りに私の手を取る』"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "『そうだ。時は進みだし、お前は予定通りに私の手を取る』",
+      "cn": "",
+      "type": "choice",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "is_choice": true,
+      "context": {
+        "before": "遠野　十夜",
+        "after": "###『分かったわ』"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "###『分かったわ』",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『そうだ。時は進みだし、お前は予定通りに私の手を取る』",
+        "after": "遠野　紗夜「貴方は私の命を奪わず、私の時を止めた」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "遠野　紗夜「貴方は私の命を奪わず、私の時を止めた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "###『分かったわ』",
+        "after": "憧れていた物語。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "憧れていた物語。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方は私の命を奪わず、私の時を止めた」",
+        "after": "ずっとずっと、夢見ていた。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "ずっとずっと、夢見ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "憧れていた物語。",
+        "after": "私の前に死神が現れてくれることを。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "私の前に死神が現れてくれることを。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ずっとずっと、夢見ていた。",
+        "after": "遠野　紗夜「私はもうずっと前に死ぬ運命だったのですね」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "遠野　紗夜「私はもうずっと前に死ぬ運命だったのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私の前に死神が現れてくれることを。",
+        "after": "遠野　紗夜「けれど、貴方が救ってくれた」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "遠野　紗夜「けれど、貴方が救ってくれた」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私はもうずっと前に死ぬ運命だったのですね」",
+        "after": "遠野　紗夜「貴方が私の時を止めた……」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「貴方が私の時を止めた……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、貴方が救ってくれた」",
+        "after": "遠野　十夜「ああ、そうさ。そして、俺はお前と共にいるうちに死神ではなく『遠野十夜』として生きるようになった」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "遠野　十夜「ああ、そうさ。そして、俺はお前と共にいるうちに死神ではなく『遠野十夜』として生きるようになった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方が私の時を止めた……」",
+        "after": "遠野　十夜「あの日、あの男に会うまでは」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　十夜「あの日、あの男に会うまでは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ、そうさ。そして、俺はお前と共にいるうちに死神ではなく『遠野十夜』として生きるようになった」",
+        "after": "遠野　紗夜「やはり、彼は人だったのですね……」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "遠野　紗夜「やはり、彼は人だったのですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「あの日、あの男に会うまでは」",
+        "after": "遠野　十夜「ああ、そうだ。けど、どうやら彼自身はそうは思っていないらしい」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　十夜「ああ、そうだ。けど、どうやら彼自身はそうは思っていないらしい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「やはり、彼は人だったのですね……」",
+        "after": "遠野　紗夜「それは何故です？」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "遠野　紗夜「それは何故です？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ、そうだ。けど、どうやら彼自身はそうは思っていないらしい」",
+        "after": "遠野　十夜「彼が死神だからさ」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "遠野　十夜「彼が死神だからさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それは何故です？」",
+        "after": "兄はよく分からないことを言う。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "兄はよく分からないことを言う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「彼が死神だからさ」",
+        "after": "蒼は人間であるというのに、どうして兄は彼を『死神』などと言うのだろう。"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "蒼は人間であるというのに、どうして兄は彼を『死神』などと言うのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄はよく分からないことを言う。",
+        "after": "遠野　十夜「俺と彼はとてもよく似ている。こんなにも正反対だというのに、根本的なものが同じなんだろう」"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "遠野　十夜「俺と彼はとてもよく似ている。こんなにも正反対だというのに、根本的なものが同じなんだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼は人間であるというのに、どうして兄は彼を『死神』などと言うのだろう。",
+        "after": "遠野　十夜「だから、互いを邪魔に思う。死神は二人もいらないからね」"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "遠野　十夜「だから、互いを邪魔に思う。死神は二人もいらないからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「俺と彼はとてもよく似ている。こんなにも正反対だというのに、根本的なものが同じなんだろう」",
+        "after": "遠野　紗夜「二人の死神……？」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「二人の死神……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「だから、互いを邪魔に思う。死神は二人もいらないからね」",
+        "after": "遠野　十夜「そう」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　十夜「そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「二人の死神……？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そう」",
+        "after": "言われて、最初はしっくりこなかったけれども、段々と自分でも不思議なほどにそれが理解出来るようになった。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "言われて、最初はしっくりこなかったけれども、段々と自分でも不思議なほどにそれが理解出来るようになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "確かに死神は二人いた。"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "確かに死神は二人いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言われて、最初はしっくりこなかったけれども、段々と自分でも不思議なほどにそれが理解出来るようになった。",
+        "after": "そのどちらも、私が望んでいた『死神』だ。"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "そのどちらも、私が望んでいた『死神』だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "確かに死神は二人いた。",
+        "after": "遠野　十夜「まさか、俺が記憶を消し去った後にお前が蒼を連れてくるとは思わなかった」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　十夜「まさか、俺が記憶を消し去った後にお前が蒼を連れてくるとは思わなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そのどちらも、私が望んでいた『死神』だ。",
+        "after": "遠野　紗夜「だから、最初から兄さんは蒼のことを良く思わなかったのですね」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "遠野　紗夜「だから、最初から兄さんは蒼のことを良く思わなかったのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「まさか、俺が記憶を消し去った後にお前が蒼を連れてくるとは思わなかった」",
+        "after": "遠野　十夜「ああ、そうさ。記憶を失っているとはいえ、一度はお前を殺そうと考えた男だったからね」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "遠野　十夜「ああ、そうさ。記憶を失っているとはいえ、一度はお前を殺そうと考えた男だったからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「だから、最初から兄さんは蒼のことを良く思わなかったのですね」",
+        "after": "遠野　十夜「本当は彼をお前に近づけさせたくはなかった。けれど、どれだけ警告してもお前達は惹かれ合うことを止めなかった」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "遠野　十夜「本当は彼をお前に近づけさせたくはなかった。けれど、どれだけ警告してもお前達は惹かれ合うことを止めなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ、そうさ。記憶を失っているとはいえ、一度はお前を殺そうと考えた男だったからね」",
+        "after": "遠野　十夜「どうして、お前が好きになる相手が彼だったのか……」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "遠野　十夜「どうして、お前が好きになる相手が彼だったのか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「本当は彼をお前に近づけさせたくはなかった。けれど、どれだけ警告してもお前達は惹かれ合うことを止めなかった」",
+        "after": "私は目に涙を浮かべた。遂に我慢していた涙腺が崩れる寸前の所まで来ていた。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "私は目に涙を浮かべた。遂に我慢していた涙腺が崩れる寸前の所まで来ていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「どうして、お前が好きになる相手が彼だったのか……」",
+        "after": "遠野　十夜「せめて、お前を大事にしてくれる他の男を選んでくれれば良かったのに」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "遠野　十夜「せめて、お前を大事にしてくれる他の男を選んでくれれば良かったのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "私は目に涙を浮かべた。遂に我慢していた涙腺が崩れる寸前の所まで来ていた。",
+        "after": "遠野　十夜「いや、本来ならばそうするべきだった。お前は死神の存在など知らぬまま、生きていくべきだった」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "遠野　十夜「いや、本来ならばそうするべきだった。お前は死神の存在など知らぬまま、生きていくべきだった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「せめて、お前を大事にしてくれる他の男を選んでくれれば良かったのに」",
+        "after": "遠野　紗夜「そして、貴方は静かに私の前から消えるのですか？」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「そして、貴方は静かに私の前から消えるのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「いや、本来ならばそうするべきだった。お前は死神の存在など知らぬまま、生きていくべきだった」",
+        "after": "兄は何も言わなかった。"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "兄は何も言わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そして、貴方は静かに私の前から消えるのですか？」",
+        "after": "つまりは、それが答えということだ。"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "つまりは、それが答えということだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は何も言わなかった。",
+        "after": "悲しみよりも先に怒りの方がふっと沸いた。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "悲しみよりも先に怒りの方がふっと沸いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "つまりは、それが答えということだ。",
+        "after": "『貴方は馬鹿だ』と罵ってやろうかとも思った。"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "『貴方は馬鹿だ』と罵ってやろうかとも思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "悲しみよりも先に怒りの方がふっと沸いた。",
+        "after": "後はどうしようもなく悲しかった。"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "後はどうしようもなく悲しかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "『貴方は馬鹿だ』と罵ってやろうかとも思った。",
+        "after": "涙が出た。"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "涙が出た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "後はどうしようもなく悲しかった。",
+        "after": "遠野　十夜「けど、結局お前は彼を選んだ」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　十夜「けど、結局お前は彼を選んだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "涙が出た。",
+        "after": "遠野　十夜「賭けようと思った。あの男に紗夜を託せるかどうか」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　十夜「賭けようと思った。あの男に紗夜を託せるかどうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「けど、結局お前は彼を選んだ」",
+        "after": "遠野　十夜「だから、本を渡した。彼の唯一の持ち物であったあの本を渡せば、俺がかけた幻想は解ける」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "遠野　十夜「だから、本を渡した。彼の唯一の持ち物であったあの本を渡せば、俺がかけた幻想は解ける」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「賭けようと思った。あの男に紗夜を託せるかどうか」",
+        "after": "遠野　紗夜「現に蒼は記憶を取り戻した」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "遠野　紗夜「現に蒼は記憶を取り戻した」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「だから、本を渡した。彼の唯一の持ち物であったあの本を渡せば、俺がかけた幻想は解ける」",
+        "after": "遠野　十夜「そして、紗夜を殺そうとしたんだ」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "遠野　十夜「そして、紗夜を殺そうとしたんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「現に蒼は記憶を取り戻した」",
+        "after": "私は思わず兄に縋って叫んだ。"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "私は思わず兄に縋って叫んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「そして、紗夜を殺そうとしたんだ」",
+        "after": "遠野　紗夜「違います！」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "遠野　紗夜「違います！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は思わず兄に縋って叫んだ。",
+        "after": "遠野　紗夜「違います、兄さん……。彼は私を殺そうとなんてしなかった！」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "遠野　紗夜「違います、兄さん……。彼は私を殺そうとなんてしなかった！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「違います！」",
+        "after": "遠野　紗夜「あの時、確かに私は首に手をかけられていたけれど、彼は本気で私を殺そうとはしなかったのです！！」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "遠野　紗夜「あの時、確かに私は首に手をかけられていたけれど、彼は本気で私を殺そうとはしなかったのです！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「違います、兄さん……。彼は私を殺そうとなんてしなかった！」",
+        "after": "遠野　紗夜「私も初めは彼が私を殺そうとしているのだと思っていました！」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「私も初めは彼が私を殺そうとしているのだと思っていました！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの時、確かに私は首に手をかけられていたけれど、彼は本気で私を殺そうとはしなかったのです！！」",
+        "after": "遠野　紗夜「けれど、それは違うのです！　彼は私を殺す気などなかったのです！」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "遠野　紗夜「けれど、それは違うのです！　彼は私を殺す気などなかったのです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も初めは彼が私を殺そうとしているのだと思っていました！」",
+        "after": "遠野　紗夜「その証拠に、あの時、彼は……」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "遠野　紗夜「その証拠に、あの時、彼は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、それは違うのです！　彼は私を殺す気などなかったのです！」",
+        "after": "私は私の首を絞めていた彼の顔を思い出した。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "私は私の首を絞めていた彼の顔を思い出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「その証拠に、あの時、彼は……」",
+        "after": "自分の首に手をやり、そのまま唇を引き結んだ。"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "自分の首に手をやり、そのまま唇を引き結んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は私の首を絞めていた彼の顔を思い出した。",
+        "after": "そう。彼は私を殺そうとなんてしていなかった。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "そう。彼は私を殺そうとなんてしていなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分の首に手をやり、そのまま唇を引き結んだ。",
+        "after": "遠野　十夜「…………」"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "遠野　十夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "そう。彼は私を殺そうとなんてしていなかった。",
+        "after": "遠野　十夜「……そうか。紗夜が言うならそうなんだろう」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "遠野　十夜「……そうか。紗夜が言うならそうなんだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「…………」",
+        "after": "兄はとても淋しそうに笑いながら言った。"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "兄はとても淋しそうに笑いながら言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「……そうか。紗夜が言うならそうなんだろう」",
+        "after": "遠野　紗夜「……信じて下さるのですか？」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "遠野　紗夜「……信じて下さるのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "兄はとても淋しそうに笑いながら言った。",
+        "after": "遠野　十夜「ああ、信じるさ。紗夜の言うことなら」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "遠野　十夜「ああ、信じるさ。紗夜の言うことなら」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……信じて下さるのですか？」",
+        "after": "そして、私の髪に手を置き、いつもやるように撫でた。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "そして、私の髪に手を置き、いつもやるように撫でた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「ああ、信じるさ。紗夜の言うことなら」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、私の髪に手を置き、いつもやるように撫でた。",
+        "after": "遠野　十夜「けれど、彼が俺を殺して死神になろうとしているのは変わらない」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "遠野　十夜「けれど、彼が俺を殺して死神になろうとしているのは変わらない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　十夜「そして、それには紗夜を殺すより他はないと思っている」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "遠野　十夜「そして、それには紗夜を殺すより他はないと思っている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「けれど、彼が俺を殺して死神になろうとしているのは変わらない」",
+        "after": "遠野　十夜「彼が何故そこまで死神に執着するのか深い理由は分からない」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "遠野　十夜「彼が何故そこまで死神に執着するのか深い理由は分からない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「そして、それには紗夜を殺すより他はないと思っている」",
+        "after": "遠野　十夜「だが、間違いなくこの本に関係があるのだと思う」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "遠野　十夜「だが、間違いなくこの本に関係があるのだと思う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「彼が何故そこまで死神に執着するのか深い理由は分からない」",
+        "after": "遠野　紗夜「死神と少女……」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "遠野　紗夜「死神と少女……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「だが、間違いなくこの本に関係があるのだと思う」",
+        "after": "この本さえ読まなかったら、私は、彼は、どうなっていたのだろうか。"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "この本さえ読まなかったら、私は、彼は、どうなっていたのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「死神と少女……」",
+        "after": "私達は『死神と少女』によって人生を運命づけられた。"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "私達は『死神と少女』によって人生を運命づけられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この本さえ読まなかったら、私は、彼は、どうなっていたのだろうか。",
+        "after": "遠野　紗夜「日生先輩は全てを知っていらっしゃったのですね……」"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "遠野　紗夜「日生先輩は全てを知っていらっしゃったのですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私達は『死神と少女』によって人生を運命づけられた。",
+        "after": "遠野　十夜「全てかどうかは分からない。彼に俺の姿が認識出来ていたとは思えない」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "遠野　十夜「全てかどうかは分からない。彼に俺の姿が認識出来ていたとは思えない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩は全てを知っていらっしゃったのですね……」",
+        "after": "遠野　紗夜「けれど、彼はこの『死神と少女』を私に託して下さいました」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "遠野　紗夜「けれど、彼はこの『死神と少女』を私に託して下さいました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「全てかどうかは分からない。彼に俺の姿が認識出来ていたとは思えない」",
+        "after": "遠野　十夜「ああ。彼がどうやってあの本を手に入れたのかは分からない」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "遠野　十夜「ああ。彼がどうやってあの本を手に入れたのかは分からない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「けれど、彼はこの『死神と少女』を私に託して下さいました」",
+        "after": "遠野　十夜「しかし、これを紗夜に届けようとした時点で、少なくとも俺の存在やが抱える事情などは知っていたんだろう」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "遠野　十夜「しかし、これを紗夜に届けようとした時点で、少なくとも俺の存在やが抱える事情などは知っていたんだろう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ。彼がどうやってあの本を手に入れたのかは分からない」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「しかし、これを紗夜に届けようとした時点で、少なくとも俺の存在やが抱える事情などは知っていたんだろう」",
+        "after": "遠野　紗夜「……私は」"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "遠野　紗夜「……私は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「最初、この本を開くのは怖かった……。この本を開いたら何故か終わりがやって来る様な気がしたのです」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "遠野　紗夜「最初、この本を開くのは怖かった……。この本を開いたら何故か終わりがやって来る様な気がしたのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……私は」",
+        "after": "遠野　十夜「紗夜は終わりが嫌いだからね」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "遠野　十夜「紗夜は終わりが嫌いだからね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「最初、この本を開くのは怖かった……。この本を開いたら何故か終わりがやって来る様な気がしたのです」",
+        "after": "遠野　紗夜「ええ。今も怖い……」"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "遠野　紗夜「ええ。今も怖い……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「紗夜は終わりが嫌いだからね」",
+        "after": "ぶるっと体を震わせた。"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "ぶるっと体を震わせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ。今も怖い……」",
+        "after": "自分の両腕を抱き、兄の胸に体を預けた。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "自分の両腕を抱き、兄の胸に体を預けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぶるっと体を震わせた。",
+        "after": "遠野　紗夜「兄さん、私はこの死神と少女が終わるのが怖いのです」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "遠野　紗夜「兄さん、私はこの死神と少女が終わるのが怖いのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "自分の両腕を抱き、兄の胸に体を預けた。",
+        "after": "遠野　紗夜「私は、この物語をずっとずっと以前に知っていました」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "遠野　紗夜「私は、この物語をずっとずっと以前に知っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「兄さん、私はこの死神と少女が終わるのが怖いのです」",
+        "after": "遠野　紗夜「この言葉の一字一句、私は覚えていたことを」"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "遠野　紗夜「この言葉の一字一句、私は覚えていたことを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は、この物語をずっとずっと以前に知っていました」",
+        "after": "遠野　紗夜「私は、ずっとこの物語に憧れていたということを」"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "遠野　紗夜「私は、ずっとこの物語に憧れていたということを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この言葉の一字一句、私は覚えていたことを」",
+        "after": "遠野　十夜「ああ、そうだな」"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "遠野　十夜「ああ、そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は、ずっとこの物語に憧れていたということを」",
+        "after": "遠野　紗夜「そして、貴方を思い描いた……」"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "遠野　紗夜「そして、貴方を思い描いた……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「ああ、そうだな」",
+        "after": "遠野　十夜「遠野紗夜は俺の全てだ」"
+      }
+    },
+    {
+      "line": 172,
+      "jp": "遠野　十夜「遠野紗夜は俺の全てだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そして、貴方を思い描いた……」",
+        "after": "遠野　十夜「遠野は俺の全てだ」"
+      }
+    },
+    {
+      "line": 173,
+      "jp": "遠野　十夜「遠野は俺の全てだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「遠野紗夜は俺の全てだ」",
+        "after": "今、私の瞼の裏には兄と過ごした数々の記憶が巡っている。"
+      }
+    },
+    {
+      "line": 174,
+      "jp": "今、私の瞼の裏には兄と過ごした数々の記憶が巡っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　十夜「遠野は俺の全てだ」",
+        "after": "それは幻想だったのだろうか。"
+      }
+    },
+    {
+      "line": 175,
+      "jp": "それは幻想だったのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今、私の瞼の裏には兄と過ごした数々の記憶が巡っている。",
+        "after": "全ては偽物だったのだろうか。"
+      }
+    },
+    {
+      "line": 176,
+      "jp": "全ては偽物だったのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは幻想だったのだろうか。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 177,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "全ては偽物だったのだろうか。",
+        "after": "遠野　十夜「何故、お前達が惹かれ合ったのか初めは分からなかったけれど……」"
+      }
+    },
+    {
+      "line": 178,
+      "jp": "遠野　十夜「何故、お前達が惹かれ合ったのか初めは分からなかったけれど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　十夜「でも、今なら分かる。紗夜と蒼はよく似ているよ」"
+      }
+    },
+    {
+      "line": 179,
+      "jp": "遠野　十夜「でも、今なら分かる。紗夜と蒼はよく似ているよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「何故、お前達が惹かれ合ったのか初めは分からなかったけれど……」",
+        "after": "遠野　十夜「俺と蒼が似ているという理由とは違う」"
+      }
+    },
+    {
+      "line": 180,
+      "jp": "遠野　十夜「俺と蒼が似ているという理由とは違う」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「でも、今なら分かる。紗夜と蒼はよく似ているよ」",
+        "after": "遠野　十夜「お前達は互いに足りないもの同士なんだ。そして、互いに欠けた部分を相手が持っている」"
+      }
+    },
+    {
+      "line": 181,
+      "jp": "遠野　十夜「お前達は互いに足りないもの同士なんだ。そして、互いに欠けた部分を相手が持っている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「俺と蒼が似ているという理由とは違う」",
+        "after": "遠野　十夜「だから、欠けたものを補う様に惹かれ合う存在。死神と少女なんだ」"
+      }
+    },
+    {
+      "line": 182,
+      "jp": "遠野　十夜「だから、欠けたものを補う様に惹かれ合う存在。死神と少女なんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「お前達は互いに足りないもの同士なんだ。そして、互いに欠けた部分を相手が持っている」",
+        "after": "遠野　紗夜「死神と少女……」"
+      }
+    },
+    {
+      "line": 183,
+      "jp": "遠野　紗夜「死神と少女……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「だから、欠けたものを補う様に惹かれ合う存在。死神と少女なんだ」",
+        "after": "兄の話の後、私は部屋で一人考えていた。"
+      }
+    },
+    {
+      "line": 184,
+      "jp": "兄の話の後、私は部屋で一人考えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「死神と少女……」",
+        "after": "布団に顔を埋め、時々思い出しては涙を流していた。"
+      }
+    },
+    {
+      "line": 185,
+      "jp": "布団に顔を埋め、時々思い出しては涙を流していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の話の後、私は部屋で一人考えていた。",
+        "after": "私は一度兄を選んだ。"
+      }
+    },
+    {
+      "line": 186,
+      "jp": "私は一度兄を選んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "布団に顔を埋め、時々思い出しては涙を流していた。",
+        "after": "兄は人間ではない。私が抱いた幻想なら、私が必要としなくなった瞬間に泡となって消えていく。"
+      }
+    },
+    {
+      "line": 187,
+      "jp": "兄は人間ではない。私が抱いた幻想なら、私が必要としなくなった瞬間に泡となって消えていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は一度兄を選んだ。",
+        "after": "私にとってそれはとても耐え難いことだった。"
+      }
+    },
+    {
+      "line": 188,
+      "jp": "私にとってそれはとても耐え難いことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄は人間ではない。私が抱いた幻想なら、私が必要としなくなった瞬間に泡となって消えていく。",
+        "after": "私には兄の存在が全てだった。"
+      }
+    },
+    {
+      "line": 189,
+      "jp": "私には兄の存在が全てだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私にとってそれはとても耐え難いことだった。",
+        "after": "大好きだった継母が死んだ後、孤独だった私は絵本の中の死神を求めた。"
+      }
+    },
+    {
+      "line": 190,
+      "jp": "大好きだった継母が死んだ後、孤独だった私は絵本の中の死神を求めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私には兄の存在が全てだった。",
+        "after": "そして、望み通り死神が現れ、死ぬはずだった私を助けてくれた。"
+      }
+    },
+    {
+      "line": 191,
+      "jp": "そして、望み通り死神が現れ、死ぬはずだった私を助けてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "大好きだった継母が死んだ後、孤独だった私は絵本の中の死神を求めた。",
+        "after": "私は兄を愛していた。"
+      }
+    },
+    {
+      "line": 192,
+      "jp": "私は兄を愛していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、望み通り死神が現れ、死ぬはずだった私を助けてくれた。",
+        "after": "兄を求めていた。"
+      }
+    },
+    {
+      "line": 193,
+      "jp": "兄を求めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は兄を愛していた。",
+        "after": "けれど、今それが覆されそうになっている。"
+      }
+    },
+    {
+      "line": 194,
+      "jp": "けれど、今それが覆されそうになっている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄を求めていた。",
+        "after": "私はこの世で一番兄を思っていたはずなのに。"
+      }
+    },
+    {
+      "line": 195,
+      "jp": "私はこの世で一番兄を思っていたはずなのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、今それが覆されそうになっている。",
+        "after": "兄も私を愛し、大切にしてくれているというのに。"
+      }
+    },
+    {
+      "line": 196,
+      "jp": "兄も私を愛し、大切にしてくれているというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はこの世で一番兄を思っていたはずなのに。",
+        "after": "けれど、こんなにも蒼のことが気になってしまう。"
+      }
+    },
+    {
+      "line": 197,
+      "jp": "けれど、こんなにも蒼のことが気になってしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄も私を愛し、大切にしてくれているというのに。",
+        "after": "蒼を思えば思うほど、兄が消えてしまうというのに。"
+      }
+    },
+    {
+      "line": 198,
+      "jp": "蒼を思えば思うほど、兄が消えてしまうというのに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、こんなにも蒼のことが気になってしまう。",
+        "after": null
+      }
+    }
+  ]
+}

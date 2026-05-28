@@ -1,0 +1,2508 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_21.txt",
+    "chapter": "chapter1",
+    "total_lines": 137,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "町内をあらかた歩き回った私達は公園のベンチで体を休めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "ふう、と息を吐き、隣に座る彼を見上げた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "ふう、と息を吐き、隣に座る彼を見上げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "町内をあらかた歩き回った私達は公園のベンチで体を休めた。",
+        "after": "遠野　紗夜「……かなり、歩き回りましたね。疲れていませんか？」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「……かなり、歩き回りましたね。疲れていませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ふう、と息を吐き、隣に座る彼を見上げた。",
+        "after": "蒼「特に支障はない」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "蒼「特に支障はない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……かなり、歩き回りましたね。疲れていませんか？」",
+        "after": "遠野　紗夜「そうですか。なら、そろそろ時間もいい頃ですし……」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「そうですか。なら、そろそろ時間もいい頃ですし……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「特に支障はない」",
+        "after": "懐中時計で現在の時刻を確認すると、四時半を廻った所だった。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "懐中時計で現在の時刻を確認すると、四時半を廻った所だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですか。なら、そろそろ時間もいい頃ですし……」",
+        "after": "ぱちんと蓋を閉じ、時計をしまう。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "ぱちんと蓋を閉じ、時計をしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "懐中時計で現在の時刻を確認すると、四時半を廻った所だった。",
+        "after": "遠野　紗夜「では、行きましょうか」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「では、行きましょうか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ぱちんと蓋を閉じ、時計をしまう。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「では、行きましょうか」",
+        "after": "私達は本来の目的である丘を目指した。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私達は本来の目的である丘を目指した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "緩やかな斜面を上っていく。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "緩やかな斜面を上っていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は本来の目的である丘を目指した。",
+        "after": "目の前に広がる、紅色、桃色、白色……。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "目の前に広がる、紅色、桃色、白色……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "緩やかな斜面を上っていく。",
+        "after": "夕日が照らし出すその色は、どこか淋しげだが、花びらが整然と並ぶ様子は美しい。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "夕日が照らし出すその色は、どこか淋しげだが、花びらが整然と並ぶ様子は美しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目の前に広がる、紅色、桃色、白色……。",
+        "after": "風に吹かれれば、匂い立つ花の香り。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "風に吹かれれば、匂い立つ花の香り。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夕日が照らし出すその色は、どこか淋しげだが、花びらが整然と並ぶ様子は美しい。",
+        "after": "一本一本の香りは、さほど強くはないはずなのに、こうして一面に咲くとこんなにも優しい薫りに変わる。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "一本一本の香りは、さほど強くはないはずなのに、こうして一面に咲くとこんなにも優しい薫りに変わる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "風に吹かれれば、匂い立つ花の香り。",
+        "after": "蒼「これが、あれと同じ風景か」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "蒼「これが、あれと同じ風景か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "一本一本の香りは、さほど強くはないはずなのに、こうして一面に咲くとこんなにも優しい薫りに変わる。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「これが、あれと同じ風景か」",
+        "after": "私達はしばらく言葉を忘れたようにただ黙って、眼下に広がる景色を眺めていた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私達はしばらく言葉を忘れたようにただ黙って、眼下に広がる景色を眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "それほどまでに、この光景は美しく、私の心を強く惹きつけたのだった。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "それほどまでに、この光景は美しく、私の心を強く惹きつけたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達はしばらく言葉を忘れたようにただ黙って、眼下に広がる景色を眺めていた。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それほどまでに、この光景は美しく、私の心を強く惹きつけたのだった。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "蒼「お前の言う通りだったな」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "蒼「お前の言う通りだったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "蒼「春夫の言う通りだったな」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "蒼「春夫の言う通りだったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前の言う通りだったな」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「春夫の言う通りだったな」",
+        "after": "彼の方に振り向くと、彼は私を見ずに語った。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "彼の方に振り向くと、彼は私を見ずに語った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "蒼「本と現実は違うと」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "蒼「本と現実は違うと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼の方に振り向くと、彼は私を見ずに語った。",
+        "after": "蒼「本の中では、頬を撫でる風も、葉が擦れる音も、運ばれる匂いも感じられはしなかった」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "蒼「本の中では、頬を撫でる風も、葉が擦れる音も、運ばれる匂いも感じられはしなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「本と現実は違うと」",
+        "after": "蒼「夕日の色も、花の色も何一つ同じものなどなかった」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "蒼「夕日の色も、花の色も何一つ同じものなどなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「本の中では、頬を撫でる風も、葉が擦れる音も、運ばれる匂いも感じられはしなかった」",
+        "after": "蒼「そして、何よりもこの様子はあの本には描かれていなかった」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "蒼「そして、何よりもこの様子はあの本には描かれていなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「夕日の色も、花の色も何一つ同じものなどなかった」",
+        "after": "蒼の視線の先には、赤く染まる町の様子があった。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "蒼の視線の先には、赤く染まる町の様子があった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そして、何よりもこの様子はあの本には描かれていなかった」",
+        "after": "日を受け煌めく水面。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "日を受け煌めく水面。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼の視線の先には、赤く染まる町の様子があった。",
+        "after": "その上を影となり進む船。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "その上を影となり進む船。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日を受け煌めく水面。",
+        "after": "そこには、あの時計塔の存在もあった。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "そこには、あの時計塔の存在もあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その上を影となり進む船。",
+        "after": "私は彼の横顔を見つめ、微笑んだ。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "私は彼の横顔を見つめ、微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そこには、あの時計塔の存在もあった。",
+        "after": "遠野　紗夜「そうですね……。あの写真は、コスモスが主体でしたから」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「そうですね……。あの写真は、コスモスが主体でしたから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は彼の横顔を見つめ、微笑んだ。",
+        "after": "遠野　紗夜「知っていますか？　ここの丘のコスモスはおよそ一千万本もあるそうですよ」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「知っていますか？　ここの丘のコスモスはおよそ一千万本もあるそうですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね……。あの写真は、コスモスが主体でしたから」",
+        "after": "遠野　紗夜「そして、ここからはこの町全体が見下ろせるそうです」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「そして、ここからはこの町全体が見下ろせるそうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「知っていますか？　ここの丘のコスモスはおよそ一千万本もあるそうですよ」",
+        "after": "遠野　紗夜「一千万本のコスモスに囲まれながら眺める町並み、何だかとても贅沢な気分ですね」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「一千万本のコスモスに囲まれながら眺める町並み、何だかとても贅沢な気分ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そして、ここからはこの町全体が見下ろせるそうです」",
+        "after": "蒼「……お前は、よく物を知っているな」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "蒼「……お前は、よく物を知っているな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「一千万本のコスモスに囲まれながら眺める町並み、何だかとても贅沢な気分ですね」",
+        "after": "彼がようやくこちらを向いた。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "彼がようやくこちらを向いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「……お前は、よく物を知っているな」",
+        "after": "遠野　紗夜「それはそうですよ。ここに蒼を案内するに至って、私なりに調べましたから」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「それはそうですよ。ここに蒼を案内するに至って、私なりに調べましたから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼がようやくこちらを向いた。",
+        "after": "遠野　紗夜「ですが……」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「ですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それはそうですよ。ここに蒼を案内するに至って、私なりに調べましたから」",
+        "after": "今度は私が視線を向こう側へと移して、語る番だった。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "今度は私が視線を向こう側へと移して、語る番だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ですが……」",
+        "after": "遠野　紗夜「私も今日ここに来て、初めて知ったことがあります」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "遠野　紗夜「私も今日ここに来て、初めて知ったことがあります」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "今度は私が視線を向こう側へと移して、語る番だった。",
+        "after": "蒼「それは何だ？」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "蒼「それは何だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私も今日ここに来て、初めて知ったことがあります」",
+        "after": "遠野　紗夜「コスモスから、こんなに良い匂いがするなど知りませんでした」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "遠野　紗夜「コスモスから、こんなに良い匂いがするなど知りませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それは何だ？」",
+        "after": "遠野　紗夜「町中で見かけたりはする花ですが、そこでは特に匂いを感じられませんでした」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「町中で見かけたりはする花ですが、そこでは特に匂いを感じられませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「コスモスから、こんなに良い匂いがするなど知りませんでした」",
+        "after": "遠野　紗夜「一本一本は特に良い匂いというわけではないのに、こんな風にたくさんのコスモスに囲まれて、風に運ばれた花の香りは、ふわりとした優しい薫りなのだなと、初めて知ることが出来ました」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「一本一本は特に良い匂いというわけではないのに、こんな風にたくさんのコスモスに囲まれて、風に運ばれた花の香りは、ふわりとした優しい薫りなのだなと、初めて知ることが出来ました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「町中で見かけたりはする花ですが、そこでは特に匂いを感じられませんでした」",
+        "after": "すう、と花の匂いを嗅いでゆっくりと息を吐き出した。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "すう、と花の匂いを嗅いでゆっくりと息を吐き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「一本一本は特に良い匂いというわけではないのに、こんな風にたくさんのコスモスに囲まれて、風に運ばれた花の香りは、ふわりとした優しい薫りなのだなと、初めて知ることが出来ました」",
+        "after": "優しい花の香りは自分の気持ちに安らぎを与えてくれる。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "優しい花の香りは自分の気持ちに安らぎを与えてくれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すう、と花の匂いを嗅いでゆっくりと息を吐き出した。",
+        "after": "蒼「お前はこの場所に来たことがなかったのか？」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "蒼「お前はこの場所に来たことがなかったのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "優しい花の香りは自分の気持ちに安らぎを与えてくれる。",
+        "after": "遠野　紗夜「ええ、ありません。初めてここに来ました」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「ええ、ありません。初めてここに来ました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「お前はこの場所に来たことがなかったのか？」",
+        "after": "遠野　紗夜「ここが町の名所の一つだとは知っていましたが、実際に目にするのは初めてです」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「ここが町の名所の一つだとは知っていましたが、実際に目にするのは初めてです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、ありません。初めてここに来ました」",
+        "after": "遠野　紗夜「私自身、つい一年半前まではあまり外に出なかったものですから」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「私自身、つい一年半前まではあまり外に出なかったものですから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ここが町の名所の一つだとは知っていましたが、実際に目にするのは初めてです」",
+        "after": "一年半前。私がまだあの屋敷にいた頃。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "一年半前。私がまだあの屋敷にいた頃。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私自身、つい一年半前まではあまり外に出なかったものですから」",
+        "after": "私は籠の鳥だった。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私は籠の鳥だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一年半前。私がまだあの屋敷にいた頃。",
+        "after": "遠野　紗夜「本当は、貴方のことを言える立場ではなかったのです」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「本当は、貴方のことを言える立場ではなかったのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は籠の鳥だった。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当は、貴方のことを言える立場ではなかったのです」",
+        "after": "くすくすと笑いながら彼を見ると、夕日に照らし出された彼の眸が光って見えた。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "くすくすと笑いながら彼を見ると、夕日に照らし出された彼の眸が光って見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "彼は相変わらず何を考えているのか分からない表情でこちらを見つめている。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "彼は相変わらず何を考えているのか分からない表情でこちらを見つめている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "くすくすと笑いながら彼を見ると、夕日に照らし出された彼の眸が光って見えた。",
+        "after": "私はまた視線を外した。"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "私はまた視線を外した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼は相変わらず何を考えているのか分からない表情でこちらを見つめている。",
+        "after": "口を閉じ、目を閉じ、今日の出来事を思い返した。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "口を閉じ、目を閉じ、今日の出来事を思い返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はまた視線を外した。",
+        "after": "あっという間の一日だった。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "あっという間の一日だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "口を閉じ、目を閉じ、今日の出来事を思い返した。",
+        "after": "遠野　紗夜「……今日は、少しだけ貴方を知ることが出来たような気がします」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "遠野　紗夜「……今日は、少しだけ貴方を知ることが出来たような気がします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あっという間の一日だった。",
+        "after": "遠野　紗夜「貴方が病院でこの町を眺めていたことを知らなかった」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "遠野　紗夜「貴方が病院でこの町を眺めていたことを知らなかった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……今日は、少しだけ貴方を知ることが出来たような気がします」",
+        "after": "遠野　紗夜「……こう言ってはなんですが、貴方はあまり感情を露わにしないので」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「……こう言ってはなんですが、貴方はあまり感情を露わにしないので」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方が病院でこの町を眺めていたことを知らなかった」",
+        "after": "蒼「神に感情はいらない」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "蒼「神に感情はいらない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……こう言ってはなんですが、貴方はあまり感情を露わにしないので」",
+        "after": "彼は落ち着き払った声で言った。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "彼は落ち着き払った声で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「神に感情はいらない」",
+        "after": "蒼「神は全てに平等であるものだ」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "蒼「神は全てに平等であるものだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "彼は落ち着き払った声で言った。",
+        "after": "蒼「平等という前提が在る限り、感情に左右されるわけにはいかない」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "蒼「平等という前提が在る限り、感情に左右されるわけにはいかない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「神は全てに平等であるものだ」",
+        "after": "蒼「もしも、神に感情があるとしたら、それは不完全なもので、それは神ではないということになる」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "蒼「もしも、神に感情があるとしたら、それは不完全なもので、それは神ではないということになる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「平等という前提が在る限り、感情に左右されるわけにはいかない」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「もしも、神に感情があるとしたら、それは不完全なもので、それは神ではないということになる」",
+        "after": "遠野　紗夜「……確かに、そうかもしれませんね」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「……確かに、そうかもしれませんね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私はそう言いながらも頷かなかった。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "私はそう言いながらも頷かなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……確かに、そうかもしれませんね」",
+        "after": "遠野　紗夜「ですが……」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "遠野　紗夜「ですが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はそう言いながらも頷かなかった。",
+        "after": "遠野　紗夜「貴方は『神』ではない」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「貴方は『神』ではない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが……」",
+        "after": "遠野　紗夜「貴方は『死神』です」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "遠野　紗夜「貴方は『死神』です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方は『神』ではない」",
+        "after": "私はしっかりとした声で、彼の眸を一心に見て言った。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "私はしっかりとした声で、彼の眸を一心に見て言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「貴方は『死神』です」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私はしっかりとした声で、彼の眸を一心に見て言った。",
+        "after": "遠野　紗夜「……ですから、死神の貴方に感情があってもそれが不自然なことだとしても、間違いではないのではありませんか？」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "遠野　紗夜「……ですから、死神の貴方に感情があってもそれが不自然なことだとしても、間違いではないのではありませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "こちらが顔を和らげて言うと、彼は"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "こちらが顔を和らげて言うと、彼は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ですから、死神の貴方に感情があってもそれが不自然なことだとしても、間違いではないのではありませんか？」",
+        "after": "蒼「屁理屈だな」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "蒼「屁理屈だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "こちらが顔を和らげて言うと、彼は",
+        "after": "と目を閉じ、少し呆れたような口調で言った。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "と目を閉じ、少し呆れたような口調で言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「屁理屈だな」",
+        "after": "遠野　紗夜「そうでしょうか？」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "遠野　紗夜「そうでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と目を閉じ、少し呆れたような口調で言った。",
+        "after": "蒼「ああ。けれど、中々に面白い考え方ではある」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "蒼「ああ。けれど、中々に面白い考え方ではある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうでしょうか？」",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ。けれど、中々に面白い考え方ではある」",
+        "after": "私が笑うのを見て、彼は少しばかり目を細め、海の方を向いた。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "私が笑うのを見て、彼は少しばかり目を細め、海の方を向いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "私も彼と同じ方を見て、同じように目を細めた。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "私も彼と同じ方を見て、同じように目を細めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が笑うのを見て、彼は少しばかり目を細め、海の方を向いた。",
+        "after": "気付くと、陽は大分落ちかけていた。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "気付くと、陽は大分落ちかけていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私も彼と同じ方を見て、同じように目を細めた。",
+        "after": "蒼「……そうだな。今日、お前とここに来て、色々と私も知った」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "蒼「……そうだな。今日、お前とここに来て、色々と私も知った」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "気付くと、陽は大分落ちかけていた。",
+        "after": "蒼「この町のこと、行き交う人々、本を読むだけでは知ることの出来ないことがあるとも」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "蒼「この町のこと、行き交う人々、本を読むだけでは知ることの出来ないことがあるとも」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「……そうだな。今日、お前とここに来て、色々と私も知った」",
+        "after": "淡々と語る彼の、赤く照らされたその白い肌と、赤く照らされても猶蒼く、輝く眸に私は『美しい』と思った。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "淡々と語る彼の、赤く照らされたその白い肌と、赤く照らされても猶蒼く、輝く眸に私は『美しい』と思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「この町のこと、行き交う人々、本を読むだけでは知ることの出来ないことがあるとも」",
+        "after": "遠野　紗夜「なら、これからも私と一緒に知っていきませんか？」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「なら、これからも私と一緒に知っていきませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "淡々と語る彼の、赤く照らされたその白い肌と、赤く照らされても猶蒼く、輝く眸に私は『美しい』と思った。",
+        "after": "自分でも不思議なくらい、言葉が自然と口に出た。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "自分でも不思議なくらい、言葉が自然と口に出た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「なら、これからも私と一緒に知っていきませんか？」",
+        "after": "遠野　紗夜「私に出来ることがあるならば、お手伝いします」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "遠野　紗夜「私に出来ることがあるならば、お手伝いします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "自分でも不思議なくらい、言葉が自然と口に出た。",
+        "after": "蒼「知るというのは何か？　自分の知らぬ世界のことか？」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "蒼「知るというのは何か？　自分の知らぬ世界のことか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私に出来ることがあるならば、お手伝いします」",
+        "after": "遠野　紗夜「いいえ」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　紗夜「いいえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「知るというのは何か？　自分の知らぬ世界のことか？」",
+        "after": "私は首を振った。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "私は首を振った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いいえ」",
+        "after": "言葉"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "言葉",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は首を振った。",
+        "after": "です」"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "です」",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言葉",
+        "after": "蒼「言葉？」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "蒼「言葉？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "です」",
+        "after": "流石の彼もわけが分からないようで、顔を顰め、疑問の声をあげた。"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "流石の彼もわけが分からないようで、顔を顰め、疑問の声をあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「言葉？」",
+        "after": "私は気にせずに話を続けた。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "私は気にせずに話を続けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "流石の彼もわけが分からないようで、顔を顰め、疑問の声をあげた。",
+        "after": "遠野　紗夜「ええ。私は知りたいのです」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「ええ。私は知りたいのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は気にせずに話を続けた。",
+        "after": "遠野　紗夜「世界はとても美しい。だから、その世界を彩る言葉を探したいのです」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　紗夜「世界はとても美しい。だから、その世界を彩る言葉を探したいのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。私は知りたいのです」",
+        "after": "遠野　紗夜「清艶」"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "遠野　紗夜「清艶」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「世界はとても美しい。だから、その世界を彩る言葉を探したいのです」",
+        "after": "遠野　紗夜「可憐」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "遠野　紗夜「可憐」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「清艶」",
+        "after": "遠野　紗夜「優美」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "遠野　紗夜「優美」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「可憐」",
+        "after": "遠野　紗夜「壮大」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "遠野　紗夜「壮大」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「優美」",
+        "after": "遠野　紗夜「この景色を表す言葉もこれほどにあることですし、もっと、もっと、今思いつく以上の言葉があるのでしょう」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "遠野　紗夜「この景色を表す言葉もこれほどにあることですし、もっと、もっと、今思いつく以上の言葉があるのでしょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「壮大」",
+        "after": "遠野　紗夜「この世界を彩る言葉を探しましょう」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "遠野　紗夜「この世界を彩る言葉を探しましょう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この景色を表す言葉もこれほどにあることですし、もっと、もっと、今思いつく以上の言葉があるのでしょう」",
+        "after": "遠野　紗夜「私は知りたいのです。美しい言葉を」"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "遠野　紗夜「私は知りたいのです。美しい言葉を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「この世界を彩る言葉を探しましょう」",
+        "after": "遠野　紗夜「そして、貴方のことを」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "遠野　紗夜「そして、貴方のことを」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私は知りたいのです。美しい言葉を」",
+        "after": "どうして、こんなことを言い出したのか自分でもよく分からなかった。"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "どうして、こんなことを言い出したのか自分でもよく分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そして、貴方のことを」",
+        "after": "ただ、彼と一緒にコスモスの花を見て、彼の姿を見て、それらを『美しい』と思った瞬間、知りたくなったのだ。"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "ただ、彼と一緒にコスモスの花を見て、彼の姿を見て、それらを『美しい』と思った瞬間、知りたくなったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうして、こんなことを言い出したのか自分でもよく分からなかった。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ただ、彼と一緒にコスモスの花を見て、彼の姿を見て、それらを『美しい』と思った瞬間、知りたくなったのだ。",
+        "after": "蒼「それを知っていけば、何か変わるというのか？」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "蒼「それを知っていけば、何か変わるというのか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "遠野　紗夜「分かりません」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「分かりません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「それを知っていけば、何か変わるというのか？」",
+        "after": "遠野　紗夜「ですが、知ることで何か物語が生まれるかもしれません」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "遠野　紗夜「ですが、知ることで何か物語が生まれるかもしれません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「分かりません」",
+        "after": "遠野　紗夜「だって、言葉がなければ物語は生まれないでしょう？」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "遠野　紗夜「だって、言葉がなければ物語は生まれないでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ですが、知ることで何か物語が生まれるかもしれません」",
+        "after": "私がそう言って微笑むと、彼は少しだけ表情を変えた。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "私がそう言って微笑むと、彼は少しだけ表情を変えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「だって、言葉がなければ物語は生まれないでしょう？」",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私がそう言って微笑むと、彼は少しだけ表情を変えた。",
+        "after": "蒼「……それもそうだな」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "蒼「……それもそうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "彼が目を閉じて言ったのを見て、私はふふっと笑い、彼の方に体ごと向け、手を差し出した。"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "彼が目を閉じて言ったのを見て、私はふふっと笑い、彼の方に体ごと向け、手を差し出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「……それもそうだな」",
+        "after": "遠野　紗夜「それが、面白いのか、面白くないものなのかは分かりませんが……」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "遠野　紗夜「それが、面白いのか、面白くないものなのかは分かりませんが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼が目を閉じて言ったのを見て、私はふふっと笑い、彼の方に体ごと向け、手を差し出した。",
+        "after": "遠野　紗夜「……どうでしょう？　私と一緒に探してはくれませんか？」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「……どうでしょう？　私と一緒に探してはくれませんか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「それが、面白いのか、面白くないものなのかは分かりませんが……」",
+        "after": "私は彼がこの手を取ってくれるのを待った。"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "私は彼がこの手を取ってくれるのを待った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……どうでしょう？　私と一緒に探してはくれませんか？」",
+        "after": "彼がこの手を取れば、それは彼が私の言葉に同意したということだ。"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "彼がこの手を取れば、それは彼が私の言葉に同意したということだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼がこの手を取ってくれるのを待った。",
+        "after": "しばらく黙って私の手を見つめていた彼だけれど、私と向き合うと、こう呟いた。"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "しばらく黙って私の手を見つめていた彼だけれど、私と向き合うと、こう呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼がこの手を取れば、それは彼が私の言葉に同意したということだ。",
+        "after": "蒼「言葉を知る」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "蒼「言葉を知る」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "しばらく黙って私の手を見つめていた彼だけれど、私と向き合うと、こう呟いた。",
+        "after": "蒼「まあ、暇潰しには丁度良いのかもしれないな」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "蒼「まあ、暇潰しには丁度良いのかもしれないな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「言葉を知る」",
+        "after": "遠野　紗夜「ええ、そういうことです。それに、貴方の記憶を取り戻す糸口になるかもしれません」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "遠野　紗夜「ええ、そういうことです。それに、貴方の記憶を取り戻す糸口になるかもしれません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「まあ、暇潰しには丁度良いのかもしれないな」",
+        "after": "蒼「確かにお前の言う通り、知らないことを知っていくのは面白いのかもしれない」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "蒼「確かにお前の言う通り、知らないことを知っていくのは面白いのかもしれない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そういうことです。それに、貴方の記憶を取り戻す糸口になるかもしれません」",
+        "after": "蒼「幸いにも私には時間がある」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "蒼「幸いにも私には時間がある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「確かにお前の言う通り、知らないことを知っていくのは面白いのかもしれない」",
+        "after": "蒼「良いだろう。私はお前と共に言葉を探そう」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "蒼「良いだろう。私はお前と共に言葉を探そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼「幸いにも私には時間がある」",
+        "after": "彼が私の手を取った。"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "彼が私の手を取った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「良いだろう。私はお前と共に言葉を探そう」",
+        "after": "それが今後、私と彼の一緒にいる理由となった。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "それが今後、私と彼の一緒にいる理由となった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼が私の手を取った。",
+        "after": null
+      }
+    }
+  ]
+}

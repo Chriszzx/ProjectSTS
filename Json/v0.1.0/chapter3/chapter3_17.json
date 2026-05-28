@@ -1,0 +1,2937 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_17.txt",
+    "chapter": "chapter3",
+    "total_lines": 160,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "私達は夏目君の様子を窺っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "彼はやはり私達のことには気が付かず、談笑していた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "彼はやはり私達のことには気が付かず、談笑していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は夏目君の様子を窺っていた。",
+        "after": "離れた位置にいる為、彼らが何を話しているのかは分からない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "離れた位置にいる為、彼らが何を話しているのかは分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼はやはり私達のことには気が付かず、談笑していた。",
+        "after": "けれど、その表情から、深刻などといった話題というよりは、ただ単に世間話をしていることが見受けられる。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "けれど、その表情から、深刻などといった話題というよりは、ただ単に世間話をしていることが見受けられる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "離れた位置にいる為、彼らが何を話しているのかは分からない。",
+        "after": "？？？「悠希！」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "？？？「悠希！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "けれど、その表情から、深刻などといった話題というよりは、ただ単に世間話をしていることが見受けられる。",
+        "after": "夏目　悠希「貴」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "夏目　悠希「貴」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "？？？「悠希！」",
+        "after": "看護士「うふふ。お姉さんがいらしたみたいね。じゃあね」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "看護士「うふふ。お姉さんがいらしたみたいね。じゃあね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "看護士",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「貴」",
+        "after": "夏目　悠希「はい」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "夏目　悠希「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "看護士「うふふ。お姉さんがいらしたみたいね。じゃあね」",
+        "after": "松葉杖をついた女性が現れると、看護士は夏目君から離れ、彼はそれに対し軽く頭を下げた。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "松葉杖をついた女性が現れると、看護士は夏目君から離れ、彼はそれに対し軽く頭を下げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「はい」",
+        "after": "そして、くるりと女性の方に振り返った途端、整った彼の表情が崩れた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "そして、くるりと女性の方に振り返った途端、整った彼の表情が崩れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "松葉杖をついた女性が現れると、看護士は夏目君から離れ、彼はそれに対し軽く頭を下げた。",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "そして、くるりと女性の方に振り返った途端、整った彼の表情が崩れた。",
+        "after": "先程までの愛想はどこにいったのだろうかと思う程に、今の彼はぶすりと不機嫌そうな顔をしている。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "先程までの愛想はどこにいったのだろうかと思う程に、今の彼はぶすりと不機嫌そうな顔をしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "夏目　悠希「……怪我の方は大丈夫なのかよ？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "夏目　悠希「……怪我の方は大丈夫なのかよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "先程までの愛想はどこにいったのだろうかと思う程に、今の彼はぶすりと不機嫌そうな顔をしている。",
+        "after": "夏目姉「見ての通り。松葉杖だけど、もうすぐ退院出来ると思うわ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "夏目姉「見ての通り。松葉杖だけど、もうすぐ退院出来ると思うわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「……怪我の方は大丈夫なのかよ？」",
+        "after": "夏目　悠希「そっか」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "夏目　悠希「そっか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「見ての通り。松葉杖だけど、もうすぐ退院出来ると思うわ」",
+        "after": "夏目姉「……ふっふっふー」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "夏目姉「……ふっふっふー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「そっか」",
+        "after": "夏目　悠希「……なんだよ。気味悪ぃな」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "夏目　悠希「……なんだよ。気味悪ぃな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「……ふっふっふー」",
+        "after": "夏目姉「そんなに、私のこと心配だったー？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "夏目姉「そんなに、私のこと心配だったー？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「……なんだよ。気味悪ぃな」",
+        "after": "夏目　悠希「してない」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "夏目　悠希「してない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「そんなに、私のこと心配だったー？」",
+        "after": "夏目姉「……むぅ。薄情者！　ちゃんと、家のこと一人でやってるの？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "夏目姉「……むぅ。薄情者！　ちゃんと、家のこと一人でやってるの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「してない」",
+        "after": "夏目　悠希「してるよ」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "夏目　悠希「してるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「……むぅ。薄情者！　ちゃんと、家のこと一人でやってるの？」",
+        "after": "夏目姉「無理、してない？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "夏目姉「無理、してない？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「してるよ」",
+        "after": "夏目　悠希「してない」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "夏目　悠希「してない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「無理、してない？」",
+        "after": "夏目姉「……ほんとー？」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "夏目姉「……ほんとー？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「してない」",
+        "after": "夏目　悠希「ああ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "夏目　悠希「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「……ほんとー？」",
+        "after": "夏目姉「……ふう。ならいいけど。あ、そうそう。例のあの子は見つかった？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "夏目姉「……ふう。ならいいけど。あ、そうそう。例のあの子は見つかった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「ああ」",
+        "after": "夏目　悠希「…………まだ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "夏目　悠希「…………まだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「……ふう。ならいいけど。あ、そうそう。例のあの子は見つかった？」",
+        "after": "夏目姉「そっか……。いい加減、諦めたら？　そろそろ、独り立ちしなきゃ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "夏目姉「そっか……。いい加減、諦めたら？　そろそろ、独り立ちしなきゃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「…………まだ」",
+        "after": "夏目　悠希「嫌だ！！」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "夏目　悠希「嫌だ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「そっか……。いい加減、諦めたら？　そろそろ、独り立ちしなきゃ」",
+        "after": "夏目姉「嫌だって言ったって見つからないんじゃねぇ」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "夏目姉「嫌だって言ったって見つからないんじゃねぇ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「嫌だ！！」",
+        "after": "夏目　悠希「……っ」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "夏目　悠希「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「嫌だって言ったって見つからないんじゃねぇ」",
+        "after": "夏目　悠希「誰に何を言われようが、俺にはあいつが必要なんだ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "夏目　悠希「誰に何を言われようが、俺にはあいつが必要なんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「……っ」",
+        "after": "夏目姉「……ふう。しょうがないわね」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "夏目姉「……ふう。しょうがないわね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「誰に何を言われようが、俺にはあいつが必要なんだ」",
+        "after": "夏目君と松葉杖の女性は何か軽く言い争いをしているようだった。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "夏目君と松葉杖の女性は何か軽く言い争いをしているようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「……ふう。しょうがないわね」",
+        "after": "私と蒼の二人は相変わらず、声もかけず、相手が気付くのを待っていた。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "私と蒼の二人は相変わらず、声もかけず、相手が気付くのを待っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君と松葉杖の女性は何か軽く言い争いをしているようだった。",
+        "after": "私は内心、気付かないまま終わるだろうと思っていた。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "私は内心、気付かないまま終わるだろうと思っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私と蒼の二人は相変わらず、声もかけず、相手が気付くのを待っていた。",
+        "after": "現に夏目君は右足を前にし、いかにも早くこの場を動きたいといった感じである。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "現に夏目君は右足を前にし、いかにも早くこの場を動きたいといった感じである。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は内心、気付かないまま終わるだろうと思っていた。",
+        "after": "それでもすぐに動きださないのは、女性に対しての彼なりの気遣いなのだろうか。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "それでもすぐに動きださないのは、女性に対しての彼なりの気遣いなのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "現に夏目君は右足を前にし、いかにも早くこの場を動きたいといった感じである。",
+        "after": "夏目　悠希「ほら、さっさと病室戻るぞ」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "夏目　悠希「ほら、さっさと病室戻るぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "それでもすぐに動きださないのは、女性に対しての彼なりの気遣いなのだろうか。",
+        "after": "夏目姉「えーやだー」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "夏目姉「えーやだー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「ほら、さっさと病室戻るぞ」",
+        "after": "夏目　悠希「あのなぁ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "夏目　悠希「あのなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「えーやだー」",
+        "after": "女性がようやく歩き出し、彼はそれを確認すると、ゆっくりと足を動かした。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "女性がようやく歩き出し、彼はそれを確認すると、ゆっくりと足を動かした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「あのなぁ」",
+        "after": "やはり、気付かれなかった。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "やはり、気付かれなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女性がようやく歩き出し、彼はそれを確認すると、ゆっくりと足を動かした。",
+        "after": "そう思った瞬間、急に女性がこちらを向いた。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "そう思った瞬間、急に女性がこちらを向いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やはり、気付かれなかった。",
+        "after": "夏目姉「…………！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "夏目姉「…………！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "そう思った瞬間、急に女性がこちらを向いた。",
+        "after": "夏目姉「……見て！！　悠希！！」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "夏目姉「……見て！！　悠希！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「…………！」",
+        "after": "夏目　悠希「ああ？　何だよ？」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "夏目　悠希「ああ？　何だよ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「……見て！！　悠希！！」",
+        "after": "夏目姉「金髪！！」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "夏目姉「金髪！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「ああ？　何だよ？」",
+        "after": "夏目　悠希「はぁ！？　馬鹿か、お前は！！　……」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "夏目　悠希「はぁ！？　馬鹿か、お前は！！　……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「金髪！！」",
+        "after": "ばっちりと目が合うと、彼の目や口があんぐりと開いた。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "ばっちりと目が合うと、彼の目や口があんぐりと開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「はぁ！？　馬鹿か、お前は！！　……」",
+        "after": "夏目　悠希「って、何でお前らがここにいんだよ！！」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "夏目　悠希「って、何でお前らがここにいんだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "ばっちりと目が合うと、彼の目や口があんぐりと開いた。",
+        "after": "夏目姉「ちょっと！　ここは病院なんだから静かにしなさい！」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "夏目姉「ちょっと！　ここは病院なんだから静かにしなさい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「って、何でお前らがここにいんだよ！！」",
+        "after": "遠野　紗夜「……どうやら、気付かれてしまったようですね」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "遠野　紗夜「……どうやら、気付かれてしまったようですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「ちょっと！　ここは病院なんだから静かにしなさい！」",
+        "after": "蒼「つまり、ここで夏目と出会ったのは何らかの理由があるわけだな」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "蒼「つまり、ここで夏目と出会ったのは何らかの理由があるわけだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……どうやら、気付かれてしまったようですね」",
+        "after": "遠野　紗夜「そのようです」"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "遠野　紗夜「そのようです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「つまり、ここで夏目と出会ったのは何らかの理由があるわけだな」",
+        "after": "私は短い息を吐き出しながら、諦めたように笑った。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私は短い息を吐き出しながら、諦めたように笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そのようです」",
+        "after": "夏目姉「悠希！！　もしかして、あの人あんたの知り合い！？　でかした！！」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "夏目姉「悠希！！　もしかして、あの人あんたの知り合い！？　でかした！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "私は短い息を吐き出しながら、諦めたように笑った。",
+        "after": "夏目　悠希「あ！　馬鹿！！　関わるな！！　……って、あー……」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "夏目　悠希「あ！　馬鹿！！　関わるな！！　……って、あー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「悠希！！　もしかして、あの人あんたの知り合い！？　でかした！！」",
+        "after": "夏目君は額に手を当て、天を仰いだ。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "夏目君は額に手を当て、天を仰いだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「あ！　馬鹿！！　関わるな！！　……って、あー……」",
+        "after": "松葉杖の女性は器用に杖を使って、私達の前までやって来る。"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "松葉杖の女性は器用に杖を使って、私達の前までやって来る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君は額に手を当て、天を仰いだ。",
+        "after": "夏目姉「こんにちは！」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "夏目姉「こんにちは！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "松葉杖の女性は器用に杖を使って、私達の前までやって来る。",
+        "after": "遠野　紗夜「こんにちは……」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "遠野　紗夜「こんにちは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「こんにちは！」",
+        "after": "にこやかに、はきはきとした声で挨拶され、少々面くらいながらも頭を下げた。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "にこやかに、はきはきとした声で挨拶され、少々面くらいながらも頭を下げた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「こんにちは……」",
+        "after": "そして、頭を上げると、失礼ながら私は彼女の顔を間近で凝視した。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "そして、頭を上げると、失礼ながら私は彼女の顔を間近で凝視した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "にこやかに、はきはきとした声で挨拶され、少々面くらいながらも頭を下げた。",
+        "after": "見覚えのある、くりくりとした大きな眸、明るい髪色と眸の色。"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "見覚えのある、くりくりとした大きな眸、明るい髪色と眸の色。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、頭を上げると、失礼ながら私は彼女の顔を間近で凝視した。",
+        "after": "離れている時には気付かなかったけれど、こうして近くで見てみると、夏目君にとてもよく似ている。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "離れている時には気付かなかったけれど、こうして近くで見てみると、夏目君にとてもよく似ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "見覚えのある、くりくりとした大きな眸、明るい髪色と眸の色。",
+        "after": "蒼「お前は誰だ」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "蒼「お前は誰だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "離れている時には気付かなかったけれど、こうして近くで見てみると、夏目君にとてもよく似ている。",
+        "after": "夏目姉「私？　私は……」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "夏目姉「私？　私は……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "蒼「お前は誰だ」",
+        "after": "夏目　悠希「姉貴！」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "夏目　悠希「姉貴！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「私？　私は……」",
+        "after": "夏目君が叫びながらこちらにやって来た。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "夏目君が叫びながらこちらにやって来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「姉貴！」",
+        "after": "蒼の方も夏目君と女性を見比べ、察しがついたようだった。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "蒼の方も夏目君と女性を見比べ、察しがついたようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目君が叫びながらこちらにやって来た。",
+        "after": "蒼「夏目の姉か。確かに夏目に似ている」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "蒼「夏目の姉か。確かに夏目に似ている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼の方も夏目君と女性を見比べ、察しがついたようだった。",
+        "after": "夏目姉「そうでしょー、姉に似てとっても可愛いでしょー？　こいつは、可愛いとか言われるの大嫌いみたいだけど」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "夏目姉「そうでしょー、姉に似てとっても可愛いでしょー？　こいつは、可愛いとか言われるの大嫌いみたいだけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "蒼「夏目の姉か。確かに夏目に似ている」",
+        "after": "夏目　悠希「当たり前だ！」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "夏目　悠希「当たり前だ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「そうでしょー、姉に似てとっても可愛いでしょー？　こいつは、可愛いとか言われるの大嫌いみたいだけど」",
+        "after": "夏目姉「って、貴方達ってば、もしかして悠希の知り合い？　あ、そっちの女の子は同じ学校の子ね～」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "夏目姉「って、貴方達ってば、もしかして悠希の知り合い？　あ、そっちの女の子は同じ学校の子ね～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「当たり前だ！」",
+        "after": "夏目　悠希「違う！」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "夏目　悠希「違う！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「って、貴方達ってば、もしかして悠希の知り合い？　あ、そっちの女の子は同じ学校の子ね～」",
+        "after": "蒼「そうだ」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "蒼「そうだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「違う！」",
+        "after": "両者の言葉はほぼ同時だった。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "両者の言葉はほぼ同時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「そうだ」",
+        "after": "夏目姉「ちょっと、あんたにこんな金髪のイケメンとふわふわロングな美少女の知り合いがいるなんて知らなかったわよ。何でさっさと教えてくれなかったのよ！」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "夏目姉「ちょっと、あんたにこんな金髪のイケメンとふわふわロングな美少女の知り合いがいるなんて知らなかったわよ。何でさっさと教えてくれなかったのよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "両者の言葉はほぼ同時だった。",
+        "after": "夏目　悠希「だから、知り合いじゃねーって言ってんじゃねーか！」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "夏目　悠希「だから、知り合いじゃねーって言ってんじゃねーか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「ちょっと、あんたにこんな金髪のイケメンとふわふわロングな美少女の知り合いがいるなんて知らなかったわよ。何でさっさと教えてくれなかったのよ！」",
+        "after": "夏目　悠希「第一、知ってても誰がテメーに教えるか！！」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "夏目　悠希「第一、知ってても誰がテメーに教えるか！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「だから、知り合いじゃねーって言ってんじゃねーか！」",
+        "after": "夏目姉「本当に可愛くない子！」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "夏目姉「本当に可愛くない子！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「第一、知ってても誰がテメーに教えるか！！」",
+        "after": "遠野　紗夜「あの、お話中にすみません……」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "遠野　紗夜「あの、お話中にすみません……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「本当に可愛くない子！」",
+        "after": "段々と声が大きくなって、周囲の反応が気になってきた私は、それを伝えようと口を挟んだ。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "段々と声が大きくなって、周囲の反応が気になってきた私は、それを伝えようと口を挟んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あの、お話中にすみません……」",
+        "after": "夏目　悠希「てめえも！！　黙って見てないで、早くこいつ連れて出てけよ！！　目障りこの上ねーんだよ！！　クソが！！」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "夏目　悠希「てめえも！！　黙って見てないで、早くこいつ連れて出てけよ！！　目障りこの上ねーんだよ！！　クソが！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "段々と声が大きくなって、周囲の反応が気になってきた私は、それを伝えようと口を挟んだ。",
+        "after": "夏目姉「ちょっと、そんな言い方ないでしょ！　口の利き方に気を付けなさいって何度言ったら分かるの！！」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "夏目姉「ちょっと、そんな言い方ないでしょ！　口の利き方に気を付けなさいって何度言ったら分かるの！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「てめえも！！　黙って見てないで、早くこいつ連れて出てけよ！！　目障りこの上ねーんだよ！！　クソが！！」",
+        "after": "夏目姉「まったく！　ごめんなさいね、うちの馬鹿が」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "夏目姉「まったく！　ごめんなさいね、うちの馬鹿が」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「ちょっと、そんな言い方ないでしょ！　口の利き方に気を付けなさいって何度言ったら分かるの！！」",
+        "after": "遠野　紗夜「あ、いえ……」"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "遠野　紗夜「あ、いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「まったく！　ごめんなさいね、うちの馬鹿が」",
+        "after": "何だか、あまり目にしたことのない剣幕に、結局口を挟むことなど出来なかった"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "何だか、あまり目にしたことのない剣幕に、結局口を挟むことなど出来なかった",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、いえ……」",
+        "after": "二人の言い合いもそうだけれど、夏目君の雰囲気というか、口調がいつもと全く違っていて、面食らっていたせいもあるのかもしれない。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "二人の言い合いもそうだけれど、夏目君の雰囲気というか、口調がいつもと全く違っていて、面食らっていたせいもあるのかもしれない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか、あまり目にしたことのない剣幕に、結局口を挟むことなど出来なかった",
+        "after": "これが、彼の素なのかもしれないけれど、あまりの豹変振りに戸惑いを隠せない。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "これが、彼の素なのかもしれないけれど、あまりの豹変振りに戸惑いを隠せない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人の言い合いもそうだけれど、夏目君の雰囲気というか、口調がいつもと全く違っていて、面食らっていたせいもあるのかもしれない。",
+        "after": "蒼の方は、彼と面識がないせいか、別段驚いた様子もなく、二人の様子をいつもと変わらぬ調子で眺めていた。"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "蒼の方は、彼と面識がないせいか、別段驚いた様子もなく、二人の様子をいつもと変わらぬ調子で眺めていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これが、彼の素なのかもしれないけれど、あまりの豹変振りに戸惑いを隠せない。",
+        "after": "夏目姉「…………」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "夏目姉「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "蒼の方は、彼と面識がないせいか、別段驚いた様子もなく、二人の様子をいつもと変わらぬ調子で眺めていた。",
+        "after": "ふと、夏目君のお姉さんの眸の色が翳った。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "ふと、夏目君のお姉さんの眸の色が翳った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「…………」",
+        "after": "夏目姉「……貴方……」"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "夏目姉「……貴方……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "ふと、夏目君のお姉さんの眸の色が翳った。",
+        "after": "先程までの笑顔は消え失せ、私の顔を見たまま、何故かぴたりと動かなくなった。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "先程までの笑顔は消え失せ、私の顔を見たまま、何故かぴたりと動かなくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「……貴方……」",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "先程までの笑顔は消え失せ、私の顔を見たまま、何故かぴたりと動かなくなった。",
+        "after": "私はその時、彼女が私の姿に何を思っていたかも知れず、暢気に首など傾げていた。"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "私はその時、彼女が私の姿に何を思っていたかも知れず、暢気に首など傾げていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "夏目姉「遠野椿姫」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "夏目姉「遠野椿姫」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "私はその時、彼女が私の姿に何を思っていたかも知れず、暢気に首など傾げていた。",
+        "after": "それは忘れて久しい名前。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "それは忘れて久しい名前。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「遠野椿姫」",
+        "after": "夏目姉「驚いた……。貴方、もしかして娘さん？」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "夏目姉「驚いた……。貴方、もしかして娘さん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "それは忘れて久しい名前。",
+        "after": "忘れてた？"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "忘れてた？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「驚いた……。貴方、もしかして娘さん？」",
+        "after": "いいえ、忘れてなどいない。"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "いいえ、忘れてなどいない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "忘れてた？",
+        "after": "忘れられなかった名前。"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "忘れられなかった名前。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いいえ、忘れてなどいない。",
+        "after": "遠野　紗夜「何故……」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "遠野　紗夜「何故……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "忘れられなかった名前。",
+        "after": "全身の血の気が引いたとはこのことを言うのだろうか？"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "全身の血の気が引いたとはこのことを言うのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「何故……」",
+        "after": "私の体は凍ってしまったかのように、急激に冷たく、固くなっていった。"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "私の体は凍ってしまったかのように、急激に冷たく、固くなっていった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全身の血の気が引いたとはこのことを言うのだろうか？",
+        "after": "夏目姉「やっぱり！」"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "夏目姉「やっぱり！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "私の体は凍ってしまったかのように、急激に冷たく、固くなっていった。",
+        "after": "夏目姉「私、貴方のお母様に一度だけお会いしたことあるわよ」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "夏目姉「私、貴方のお母様に一度だけお会いしたことあるわよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「やっぱり！」",
+        "after": "夏目姉「雪のように白い肌、血のように赤い唇、夜を映し出したような黒髪……」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "夏目姉「雪のように白い肌、血のように赤い唇、夜を映し出したような黒髪……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「私、貴方のお母様に一度だけお会いしたことあるわよ」",
+        "after": "夏目姉「とても、とても、幼心に怖ろしく感じる程に美しい人だった」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "夏目姉「とても、とても、幼心に怖ろしく感じる程に美しい人だった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「雪のように白い肌、血のように赤い唇、夜を映し出したような黒髪……」",
+        "after": "胸の中でどろりとした何かが動いた気がした。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "胸の中でどろりとした何かが動いた気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目姉「とても、とても、幼心に怖ろしく感じる程に美しい人だった」",
+        "after": "夏目姉「貴方は、お母様似なのね。とてもそっくりだわ」"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "夏目姉「貴方は、お母様似なのね。とてもそっくりだわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "胸の中でどろりとした何かが動いた気がした。",
+        "after": "遠野　紗夜「あ……」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "遠野　紗夜「あ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「貴方は、お母様似なのね。とてもそっくりだわ」",
+        "after": "夏目姉「？」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "夏目姉「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「あ……」",
+        "after": "遠野　紗夜「あんなのお母様じゃないっ！！！！」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "遠野　紗夜「あんなのお母様じゃないっ！！！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「？」",
+        "after": "夏目姉「！」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "夏目姉「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「あんなのお母様じゃないっ！！！！」",
+        "after": "夏目姉「あ……ええと、人違いだったかしら？　ごめんなさいねー、似てたからつい……」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "夏目姉「あ……ええと、人違いだったかしら？　ごめんなさいねー、似てたからつい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「！」",
+        "after": "遠野　紗夜「似てない！！　私はあの人とは違う！！」"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "遠野　紗夜「似てない！！　私はあの人とは違う！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「あ……ええと、人違いだったかしら？　ごめんなさいねー、似てたからつい……」",
+        "after": "夏目姉「そ、そうね。よく見ると、全然似てないわ。私の勘違いだったみたい」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "夏目姉「そ、そうね。よく見ると、全然似てないわ。私の勘違いだったみたい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「似てない！！　私はあの人とは違う！！」",
+        "after": "夏目　悠希「違わねーよ！」"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "夏目　悠希「違わねーよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「そ、そうね。よく見ると、全然似てないわ。私の勘違いだったみたい」",
+        "after": "夏目　悠希「遠野椿姫は、紛れもなくお前の母親だろうが！」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "夏目　悠希「遠野椿姫は、紛れもなくお前の母親だろうが！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「違わねーよ！」",
+        "after": "夏目姉「ちょ、ちょっと！　悠希……！！」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "夏目姉「ちょ、ちょっと！　悠希……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「遠野椿姫は、紛れもなくお前の母親だろうが！」",
+        "after": "遠野　紗夜「違います！　あの人はもういません！」"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "遠野　紗夜「違います！　あの人はもういません！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「ちょ、ちょっと！　悠希……！！」",
+        "after": "夏目　悠希「ああ、そういや男作って出てったんだっけ。大ふんだくってさ」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "夏目　悠希「ああ、そういや男作って出てったんだっけ。大ふんだくってさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「違います！　あの人はもういません！」",
+        "after": "遠野　紗夜「ええ、そうです！　だから、あの人はもう母でも何でもありませんっ……！」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "遠野　紗夜「ええ、そうです！　だから、あの人はもう母でも何でもありませんっ……！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ああ、そういや男作って出てったんだっけ。大ふんだくってさ」",
+        "after": "夏目　悠希「はっ、被害者面かよ」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "夏目　悠希「はっ、被害者面かよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ、そうです！　だから、あの人はもう母でも何でもありませんっ……！」",
+        "after": "夏目　悠希「どうやら、自分が売女と人でなしの娘だってことは分かってるみたいだな！」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "夏目　悠希「どうやら、自分が売女と人でなしの娘だってことは分かってるみたいだな！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はっ、被害者面かよ」",
+        "after": "夏目姉「こら悠希！　なんてこと言うの！！」"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "夏目姉「こら悠希！　なんてこと言うの！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目　悠希「どうやら、自分が売女と人でなしの娘だってことは分かってるみたいだな！」",
+        "after": "夏目　悠希「これで、俺が何でお前を嫌いなのか分かったよな？」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "夏目　悠希「これで、俺が何でお前を嫌いなのか分かったよな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「こら悠希！　なんてこと言うの！！」",
+        "after": "夏目　悠希「俺は絶対に許さないからな」"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "夏目　悠希「俺は絶対に許さないからな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「これで、俺が何でお前を嫌いなのか分かったよな？」",
+        "after": "夏目　悠希「お前が知らなくても、直接関係なくても、お前の父親と母親が俺達家族にしたこと」"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "夏目　悠希「お前が知らなくても、直接関係なくても、お前の父親と母親が俺達家族にしたこと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「俺は絶対に許さないからな」",
+        "after": "夏目　悠希「絶対に許さねー！！」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "夏目　悠希「絶対に許さねー！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「お前が知らなくても、直接関係なくても、お前の父親と母親が俺達家族にしたこと」",
+        "after": "突き刺さる言葉と強い視線。"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "突き刺さる言葉と強い視線。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「絶対に許さねー！！」",
+        "after": "夏目姉「ちょっと！　いい加減にしなさい！！　悠希！！」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "夏目姉「ちょっと！　いい加減にしなさい！！　悠希！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "突き刺さる言葉と強い視線。",
+        "after": "夏目姉「ごめんね。こいつ、今苛々してるから……」"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "夏目姉「ごめんね。こいつ、今苛々してるから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目姉",
+      "special_char": false,
+      "context": {
+        "before": "夏目姉「ちょっと！　いい加減にしなさい！！　悠希！！」",
+        "after": "夏目　悠希「姉貴は黙ってろよ！」"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "夏目　悠希「姉貴は黙ってろよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目姉「ごめんね。こいつ、今苛々してるから……」",
+        "after": "響く怒声。"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "響く怒声。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「姉貴は黙ってろよ！」",
+        "after": "喉の奥が熱い。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "喉の奥が熱い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "響く怒声。",
+        "after": "声が、出てこない。"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "声が、出てこない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "喉の奥が熱い。",
+        "after": "ああ、私は何を言おうとしたのだろう？"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "ああ、私は何を言おうとしたのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "声が、出てこない。",
+        "after": "体ががくがくと震え出す。"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "体ががくがくと震え出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、私は何を言おうとしたのだろう？",
+        "after": "遠野　紗夜「……っ」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "遠野　紗夜「……っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "体ががくがくと震え出す。",
+        "after": "やがて、立つこともおぼつかなくなって、その場に頭を抱えて座り込んだ。"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "やがて、立つこともおぼつかなくなって、その場に頭を抱えて座り込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ」",
+        "after": "暗い。"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "暗い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やがて、立つこともおぼつかなくなって、その場に頭を抱えて座り込んだ。",
+        "after": "目の前が暗くなる。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "目の前が暗くなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "暗い。",
+        "after": "助けて、助けて、助けて……。"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "助けて、助けて、助けて……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目の前が暗くなる。",
+        "after": "遠野　紗夜「兄さん！！」"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "遠野　紗夜「兄さん！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "助けて、助けて、助けて……。",
+        "after": "私は無意識のうちに叫んでいた。"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "私は無意識のうちに叫んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「兄さん！！」",
+        "after": "遠野　紗夜「！？」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "遠野　紗夜「！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は無意識のうちに叫んでいた。",
+        "after": "その時だった。"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "その時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「！？」",
+        "after": "蒼が私の腕を掴み、引っ張りあげた。"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "蒼が私の腕を掴み、引っ張りあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その時だった。",
+        "after": "蒼「…………」"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "蒼「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "蒼が私の腕を掴み、引っ張りあげた。",
+        "after": "思わず、その目を見つめてしまう。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "思わず、その目を見つめてしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「…………」",
+        "after": "遠野　紗夜「蒼……？」"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "遠野　紗夜「蒼……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "思わず、その目を見つめてしまう。",
+        "after": "相変わらず、感情の色さえ感じない蒼の眸。"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "相変わらず、感情の色さえ感じない蒼の眸。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼……？」",
+        "after": "蒼「帰るぞ」"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "蒼「帰るぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "相変わらず、感情の色さえ感じない蒼の眸。",
+        "after": "遠野　紗夜「え……」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "遠野　紗夜「え……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「帰るぞ」",
+        "after": "蒼「失礼したな」"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "蒼「失礼したな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え……」",
+        "after": "彼は私の腕を掴んだまま突き進んだ。"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "彼は私の腕を掴んだまま突き進んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「失礼したな」",
+        "after": null
+      }
+    }
+  ]
+}

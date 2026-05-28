@@ -1,0 +1,1723 @@
+{
+  "meta": {
+    "file": "chapter1/chapter1_27.txt",
+    "chapter": "chapter1",
+    "total_lines": 94,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "私達は太宰ともゑさんの姉だという人に誘われるがまま、病院の外へとやって来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "風が強く、髪をおさえた。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "風が強く、髪をおさえた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私達は太宰ともゑさんの姉だという人に誘われるがまま、病院の外へとやって来た。",
+        "after": "遠くにミニチュアのような町並みと海が見えた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠くにミニチュアのような町並みと海が見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "風が強く、髪をおさえた。",
+        "after": "ここの病院は高台にあり、随分と見通しが良いことでも有名だった。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ここの病院は高台にあり、随分と見通しが良いことでも有名だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠くにミニチュアのような町並みと海が見えた。",
+        "after": "太宰姉「貴方、とても綺麗な子ね。特にその髪。素敵だわ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "太宰姉「貴方、とても綺麗な子ね。特にその髪。素敵だわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "ここの病院は高台にあり、随分と見通しが良いことでも有名だった。",
+        "after": "彼女は空いたもう一方の手で私の髪に触れる。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "彼女は空いたもう一方の手で私の髪に触れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「貴方、とても綺麗な子ね。特にその髪。素敵だわ」",
+        "after": "結局、私はこの場所に来るまでの間、手を繋がれたままだった。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "結局、私はこの場所に来るまでの間、手を繋がれたままだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は空いたもう一方の手で私の髪に触れる。",
+        "after": "遠野　紗夜「……ありがとうございます。あの、それでお話とは？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "遠野　紗夜「……ありがとうございます。あの、それでお話とは？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "結局、私はこの場所に来るまでの間、手を繋がれたままだった。",
+        "after": "太宰姉「ああ、そうだったわね」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "太宰姉「ああ、そうだったわね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ありがとうございます。あの、それでお話とは？」",
+        "after": "ようやく手が離れた。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "ようやく手が離れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「ああ、そうだったわね」",
+        "after": "太宰さんは私達から一歩退くと、こちらを窺うように言った。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "太宰さんは私達から一歩退くと、こちらを窺うように言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ようやく手が離れた。",
+        "after": "太宰姉「……貴方達、ともゑとは知り合いなのよね？」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "太宰姉「……貴方達、ともゑとは知り合いなのよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰さんは私達から一歩退くと、こちらを窺うように言った。",
+        "after": "遠野　紗夜「はい……。でも、最近知り合ったばかりで……」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「はい……。でも、最近知り合ったばかりで……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「……貴方達、ともゑとは知り合いなのよね？」",
+        "after": "そう言うと、急に声を高らかにさせた。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "そう言うと、急に声を高らかにさせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい……。でも、最近知り合ったばかりで……」",
+        "after": "太宰姉「なら、是非知ってもらわなきゃ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "太宰姉「なら、是非知ってもらわなきゃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "そう言うと、急に声を高らかにさせた。",
+        "after": "蒼「何をだ？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "蒼「何をだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「なら、是非知ってもらわなきゃ」",
+        "after": "太宰姉「何って、勿論ともゑのことをよ」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "太宰姉「何って、勿論ともゑのことをよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何をだ？」",
+        "after": "突然、何を言い出すのだろうと顔を顰める。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "突然、何を言い出すのだろうと顔を顰める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「何って、勿論ともゑのことをよ」",
+        "after": "太宰姉「ともゑが記憶を失っていることは知っている？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "太宰姉「ともゑが記憶を失っていることは知っている？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "突然、何を言い出すのだろうと顔を顰める。",
+        "after": "遠野　紗夜「え、ええ……。詳しくは知りませんが、以前ご自分で高校時代の一部の記憶がないと仰っていました」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「え、ええ……。詳しくは知りませんが、以前ご自分で高校時代の一部の記憶がないと仰っていました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ともゑが記憶を失っていることは知っている？」",
+        "after": "太宰姉「そう。あの子はね、一年間分の記憶がないの。どうしてだと思う？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "太宰姉「そう。あの子はね、一年間分の記憶がないの。どうしてだと思う？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え、ええ……。詳しくは知りませんが、以前ご自分で高校時代の一部の記憶がないと仰っていました」",
+        "after": "遠野　紗夜「……太宰さんが、どうして記憶を失ったのか、ですか？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「……太宰さんが、どうして記憶を失ったのか、ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「そう。あの子はね、一年間分の記憶がないの。どうしてだと思う？」",
+        "after": "太宰姉「ええ、そう」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "太宰姉「ええ、そう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……太宰さんが、どうして記憶を失ったのか、ですか？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ええ、そう」",
+        "after": "遠野　紗夜「…………事故に遭われたとか？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「…………事故に遭われたとか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "太宰さんの質問に対し、私が答えると"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "太宰さんの質問に対し、私が答えると",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………事故に遭われたとか？」",
+        "after": "太宰姉「そうね。言うなれば、あれは事故に近いわ。けど、残念。はずれ」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "太宰姉「そうね。言うなれば、あれは事故に近いわ。けど、残念。はずれ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰さんの質問に対し、私が答えると",
+        "after": "と、くすくすと笑みを溢しながら、髪を耳にかける。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "と、くすくすと笑みを溢しながら、髪を耳にかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「そうね。言うなれば、あれは事故に近いわ。けど、残念。はずれ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、くすくすと笑みを溢しながら、髪を耳にかける。",
+        "after": "質問の意図が全く分からない。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "質問の意図が全く分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "一体、彼女は何がしたいのだろう。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "一体、彼女は何がしたいのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "質問の意図が全く分からない。",
+        "after": "こちらの不穏な様子に気付いたのか分からないが、彼女は話題を蒼に振る。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "こちらの不穏な様子に気付いたのか分からないが、彼女は話題を蒼に振る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一体、彼女は何がしたいのだろう。",
+        "after": "太宰姉「ああ、そういえば貴方も記憶を失っているんですってね？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "太宰姉「ああ、そういえば貴方も記憶を失っているんですってね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "こちらの不穏な様子に気付いたのか分からないが、彼女は話題を蒼に振る。",
+        "after": "蒼「そうだが、それが何と関係があるというのだ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "蒼「そうだが、それが何と関係があるというのだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ああ、そういえば貴方も記憶を失っているんですってね？」",
+        "after": "太宰姉「貴方なら彼女の気持ちが分かるのかしら？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "太宰姉「貴方なら彼女の気持ちが分かるのかしら？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そうだが、それが何と関係があるというのだ」",
+        "after": "太宰姉「ねえ、記憶がないってどんな感じ？　ともゑがいうには、普段生活している分には気にならなくとも、ふとした時に何か自分には足りない気がすると言っていたのだけど」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "太宰姉「ねえ、記憶がないってどんな感じ？　ともゑがいうには、普段生活している分には気にならなくとも、ふとした時に何か自分には足りない気がすると言っていたのだけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「貴方なら彼女の気持ちが分かるのかしら？」",
+        "after": "太宰姉「心の一部分が空っぽで、思い出そうと思っても、何も思い出せない。それがどうしても時々淋しくなると言っていたわ」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "太宰姉「心の一部分が空っぽで、思い出そうと思っても、何も思い出せない。それがどうしても時々淋しくなると言っていたわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ねえ、記憶がないってどんな感じ？　ともゑがいうには、普段生活している分には気にならなくとも、ふとした時に何か自分には足りない気がすると言っていたのだけど」",
+        "after": "太宰姉「私、彼女の気持ちを少しでも分かってあげられないことが悔しくて……」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "太宰姉「私、彼女の気持ちを少しでも分かってあげられないことが悔しくて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「心の一部分が空っぽで、思い出そうと思っても、何も思い出せない。それがどうしても時々淋しくなると言っていたわ」",
+        "after": "彼女は自分の体を抱きしめ、目を伏せ、下唇を噛んだ。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "彼女は自分の体を抱きしめ、目を伏せ、下唇を噛んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「私、彼女の気持ちを少しでも分かってあげられないことが悔しくて……」",
+        "after": "その様子はとても悲しそうに見えて、この人はともゑさんのことを本当に大切に想っているのだと思った。"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "その様子はとても悲しそうに見えて、この人はともゑさんのことを本当に大切に想っているのだと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女は自分の体を抱きしめ、目を伏せ、下唇を噛んだ。",
+        "after": "太宰姉「あの時計塔に行ってからなの」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "太宰姉「あの時計塔に行ってからなの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "その様子はとても悲しそうに見えて、この人はともゑさんのことを本当に大切に想っているのだと思った。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「あの時計塔に行ってからなの」",
+        "after": "彼女はぱっと顔を上げる。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "彼女はぱっと顔を上げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "その眼差しはとても真剣だった。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "その眼差しはとても真剣だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "彼女はぱっと顔を上げる。",
+        "after": "太宰姉「彼女がおかしくなってしまったのは」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "太宰姉「彼女がおかしくなってしまったのは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "その眼差しはとても真剣だった。",
+        "after": "太宰姉「貴方達はともゑの知り合いなんでしょう？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "太宰姉「貴方達はともゑの知り合いなんでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「彼女がおかしくなってしまったのは」",
+        "after": "太宰姉「ともゑが言っていたわ。時計塔の前で黒髪の美しい子を見たって」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "太宰姉「ともゑが言っていたわ。時計塔の前で黒髪の美しい子を見たって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「貴方達はともゑの知り合いなんでしょう？」",
+        "after": "太宰姉「一目見て分かった。それは貴方なんでしょう？」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "太宰姉「一目見て分かった。それは貴方なんでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ともゑが言っていたわ。時計塔の前で黒髪の美しい子を見たって」",
+        "after": "太宰さんは私を、私だけを見る。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "太宰さんは私を、私だけを見る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「一目見て分かった。それは貴方なんでしょう？」",
+        "after": "一歩、私に近づき、手を伸ばす。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "一歩、私に近づき、手を伸ばす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰さんは私を、私だけを見る。",
+        "after": "一瞬、何だか怖くなって退きそうになったのだけれど、その前に髪に触れられた。"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "一瞬、何だか怖くなって退きそうになったのだけれど、その前に髪に触れられた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一歩、私に近づき、手を伸ばす。",
+        "after": "遠野　紗夜「……時計塔の前でなら、何度かともゑさんとお会いしたことがありましたが……」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「……時計塔の前でなら、何度かともゑさんとお会いしたことがありましたが……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "一瞬、何だか怖くなって退きそうになったのだけれど、その前に髪に触れられた。",
+        "after": "私は声を抑えて言った。"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "私は声を抑えて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……時計塔の前でなら、何度かともゑさんとお会いしたことがありましたが……」",
+        "after": "むしろ、考えてみれば会ったうちのほとんどが時計塔の前だった。"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "むしろ、考えてみれば会ったうちのほとんどが時計塔の前だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は声を抑えて言った。",
+        "after": "そして、ともゑさんとあの時計塔に浅からぬ因縁があることも知っている。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "そして、ともゑさんとあの時計塔に浅からぬ因縁があることも知っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "むしろ、考えてみれば会ったうちのほとんどが時計塔の前だった。",
+        "after": "太宰姉「……そう。やはり、貴方だったのね」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "太宰姉「……そう。やはり、貴方だったのね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "そして、ともゑさんとあの時計塔に浅からぬ因縁があることも知っている。",
+        "after": "けれど、それと私に何の関係があるというのだろう？"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "けれど、それと私に何の関係があるというのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「……そう。やはり、貴方だったのね」",
+        "after": "やはり、私にはこの人の言葉の意味も、そしてこうして執拗に私に触れるわけも解らない。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "やはり、私にはこの人の言葉の意味も、そしてこうして執拗に私に触れるわけも解らない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、それと私に何の関係があるというのだろう？",
+        "after": "太宰さんは、それ以上は私に触れることなく、手を前の方で組んで見せた。"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "太宰さんは、それ以上は私に触れることなく、手を前の方で組んで見せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "やはり、私にはこの人の言葉の意味も、そしてこうして執拗に私に触れるわけも解らない。",
+        "after": "太宰姉「ごめんなさいね。貴方の髪を見てると、どうしても触りたくなっちゃって」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "太宰姉「ごめんなさいね。貴方の髪を見てると、どうしても触りたくなっちゃって」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰さんは、それ以上は私に触れることなく、手を前の方で組んで見せた。",
+        "after": "遠野　紗夜「いえ……」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「いえ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「ごめんなさいね。貴方の髪を見てると、どうしても触りたくなっちゃって」",
+        "after": "そう言いながらも、私は一歩彼女から退いた。"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "そう言いながらも、私は一歩彼女から退いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ……」",
+        "after": "太宰さんは俯き、はらりと落ちた髪をまた耳へとかけた。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "太宰さんは俯き、はらりと落ちた髪をまた耳へとかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言いながらも、私は一歩彼女から退いた。",
+        "after": "そして、しばらくして"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "そして、しばらくして",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰さんは俯き、はらりと落ちた髪をまた耳へとかけた。",
+        "after": "太宰姉「彼女、五年前に一度自殺を謀ったことがあるの」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "太宰姉「彼女、五年前に一度自殺を謀ったことがあるの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "そして、しばらくして",
+        "after": "遠野　紗夜「自殺……」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "遠野　紗夜「自殺……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「彼女、五年前に一度自殺を謀ったことがあるの」",
+        "after": "太宰姉「そう。自殺」"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "太宰姉「そう。自殺」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「自殺……」",
+        "after": "衝撃の事実を軽々と言ってのける。"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "衝撃の事実を軽々と言ってのける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「そう。自殺」",
+        "after": "太宰姉「そして、その時の後遺症で過去一年間分の記憶が消えてしまったのよ」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "太宰姉「そして、その時の後遺症で過去一年間分の記憶が消えてしまったのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "衝撃の事実を軽々と言ってのける。",
+        "after": "遠野　紗夜「それは……」"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "遠野　紗夜「それは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「そして、その時の後遺症で過去一年間分の記憶が消えてしまったのよ」",
+        "after": "私はかける言葉を失う。"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "私はかける言葉を失う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは……」",
+        "after": "蒼「何故、ともゑは自ら命を絶とうと考えるに至ったのだ？」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "蒼「何故、ともゑは自ら命を絶とうと考えるに至ったのだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "私はかける言葉を失う。",
+        "after": "遠野　紗夜「蒼」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "遠野　紗夜「蒼」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「何故、ともゑは自ら命を絶とうと考えるに至ったのだ？」",
+        "after": "彼を制するが、太宰さんは特に気にした様子もなく、ふふんと鼻で笑った。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "彼を制するが、太宰さんは特に気にした様子もなく、ふふんと鼻で笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「蒼」",
+        "after": "太宰姉「好きな男に騙されたのよ」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "太宰姉「好きな男に騙されたのよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "彼を制するが、太宰さんは特に気にした様子もなく、ふふんと鼻で笑った。",
+        "after": "遠野　紗夜「すみません……。不躾な質問でした」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「すみません……。不躾な質問でした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「好きな男に騙されたのよ」",
+        "after": "太宰姉「いいえ、いいの。知って欲しいといったのは、こっちの方だから」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "太宰姉「いいえ、いいの。知って欲しいといったのは、こっちの方だから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません……。不躾な質問でした」",
+        "after": "太宰姉「…………」"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "太宰姉「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「いいえ、いいの。知って欲しいといったのは、こっちの方だから」",
+        "after": "太宰さんは顔を横にさせ、吐き捨てるように呟いた。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "太宰さんは顔を横にさせ、吐き捨てるように呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太宰姉「…………」",
+        "after": "太宰姉「……あの子は、騙されたのよ。あの男に」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "太宰姉「……あの子は、騙されたのよ。あの男に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰さんは顔を横にさせ、吐き捨てるように呟いた。",
+        "after": "遠野　紗夜「……何だか悲しい話ですね。綺麗な人なのに」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "遠野　紗夜「……何だか悲しい話ですね。綺麗な人なのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「……あの子は、騙されたのよ。あの男に」",
+        "after": "太宰姉「そうね……」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "太宰姉「そうね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何だか悲しい話ですね。綺麗な人なのに」",
+        "after": "太宰姉「きっと、忘れたいと願うほどに、あの男のことを愛していたのかもしれないわ」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "太宰姉「きっと、忘れたいと願うほどに、あの男のことを愛していたのかもしれないわ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「そうね……」",
+        "after": "蒼「だから忘れたのか」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "蒼「だから忘れたのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「きっと、忘れたいと願うほどに、あの男のことを愛していたのかもしれないわ」",
+        "after": "太宰姉「そう。多分ね」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "太宰姉「そう。多分ね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "蒼「だから忘れたのか」",
+        "after": "太宰姉「でもね、彼女にとって過去の記憶がないのは、幸せなことだったと思うの」"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "太宰姉「でもね、彼女にとって過去の記憶がないのは、幸せなことだったと思うの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「そう。多分ね」",
+        "after": "遠野　紗夜「……どうしてですか？」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "遠野　紗夜「……どうしてですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「でもね、彼女にとって過去の記憶がないのは、幸せなことだったと思うの」",
+        "after": "私が訊ねると、太宰さんは声に出して笑った。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "私が訊ねると、太宰さんは声に出して笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……どうしてですか？」",
+        "after": "どこか、人をせせら笑うような笑い方だった。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "どこか、人をせせら笑うような笑い方だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私が訊ねると、太宰さんは声に出して笑った。",
+        "after": "太宰姉「どうして、って。自殺するほど悲しい出来事を忘れて生きていけるのなら、それは彼女にとって良いことでしょう？」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "太宰姉「どうして、って。自殺するほど悲しい出来事を忘れて生きていけるのなら、それは彼女にとって良いことでしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "どこか、人をせせら笑うような笑い方だった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「どうして、って。自殺するほど悲しい出来事を忘れて生きていけるのなら、それは彼女にとって良いことでしょう？」",
+        "after": "太宰姉「だから、私からしたらあまり彼女には時計塔に行かないでもらいたいのだけど……」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "太宰姉「だから、私からしたらあまり彼女には時計塔に行かないでもらいたいのだけど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「時計塔？」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "遠野　紗夜「時計塔？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "太宰姉「だから、私からしたらあまり彼女には時計塔に行かないでもらいたいのだけど……」",
+        "after": "太宰姉「彼女が自殺を謀った場所が、ちょうどあの辺りなの」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "太宰姉「彼女が自殺を謀った場所が、ちょうどあの辺りなの」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "太宰姉",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「時計塔？」",
+        "after": null
+      }
+    }
+  ]
+}

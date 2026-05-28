@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "file": "chapter2/chapter2_6.txt",
+    "chapter": "chapter2",
+    "total_lines": 21,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「……はあ」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「……はあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "私は自分の部屋に戻るなり、ベッドの上に飛び込んだ。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "私は自分の部屋に戻るなり、ベッドの上に飛び込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……はあ」",
+        "after": "心臓がまだ早鐘を打っている。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "心臓がまだ早鐘を打っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は自分の部屋に戻るなり、ベッドの上に飛び込んだ。",
+        "after": "駄目だ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "駄目だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "心臓がまだ早鐘を打っている。",
+        "after": "どうして？"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "どうして？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "駄目だ。",
+        "after": "熱い。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "熱い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうして？",
+        "after": "兄さんの触れた場所が。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "兄さんの触れた場所が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "熱い。",
+        "after": "思い出すだけでぞくぞくする。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "思い出すだけでぞくぞくする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄さんの触れた場所が。",
+        "after": "あの声が、私の耳元で囁くのを。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "あの声が、私の耳元で囁くのを。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "思い出すだけでぞくぞくする。",
+        "after": "私の名前を呼ぶ、あの声が。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "私の名前を呼ぶ、あの声が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あの声が、私の耳元で囁くのを。",
+        "after": "まるで、逃げるようにしてあの場を立ち去ろうとしてしまったけれど、怪しまれてはいなかっただろうか？"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "まるで、逃げるようにしてあの場を立ち去ろうとしてしまったけれど、怪しまれてはいなかっただろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の名前を呼ぶ、あの声が。",
+        "after": "キスくらい何でもないことだった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "キスくらい何でもないことだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで、逃げるようにしてあの場を立ち去ろうとしてしまったけれど、怪しまれてはいなかっただろうか？",
+        "after": "実際、頬でも額でも、兄からでも私からでも、触れあうことは珍しくない。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "実際、頬でも額でも、兄からでも私からでも、触れあうことは珍しくない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "キスくらい何でもないことだった。",
+        "after": "けれど、今日に限っては違った。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "けれど、今日に限っては違った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "実際、頬でも額でも、兄からでも私からでも、触れあうことは珍しくない。",
+        "after": "遠野　紗夜「十夜兄さん……」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「十夜兄さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、今日に限っては違った。",
+        "after": "そっと呟いた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "そっと呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「十夜兄さん……」",
+        "after": "勿論、返してくれる甘い声は今は聞こえない。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "勿論、返してくれる甘い声は今は聞こえない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そっと呟いた。",
+        "after": "今頃、兄は執筆活動に専念しているのだろう。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "今頃、兄は執筆活動に専念しているのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "勿論、返してくれる甘い声は今は聞こえない。",
+        "after": "何もない天をしばらく見つめた後、私は瞼を閉じた。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "何もない天をしばらく見つめた後、私は瞼を閉じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今頃、兄は執筆活動に専念しているのだろう。",
+        "after": "さあ、夢見る世界へと旅立とう。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "さあ、夢見る世界へと旅立とう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何もない天をしばらく見つめた後、私は瞼を閉じた。",
+        "after": null
+      }
+    }
+  ]
+}

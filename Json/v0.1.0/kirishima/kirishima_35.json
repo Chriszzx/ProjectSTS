@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_35.txt",
+    "chapter": "kirishima",
+    "total_lines": 13,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "通り過ぎる人の顔を確認しては、軽くため息を吐く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "何だか気分が落ち着かない。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "何だか気分が落ち着かない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "通り過ぎる人の顔を確認しては、軽くため息を吐く。",
+        "after": "こんな気持ち、前にもあったような気がしたけれど、それはいつの時だった？"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "こんな気持ち、前にもあったような気がしたけれど、それはいつの時だった？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか気分が落ち着かない。",
+        "after": "？？？「遠野！」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "？？？「遠野！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "こんな気持ち、前にもあったような気がしたけれど、それはいつの時だった？",
+        "after": "桐島先輩が小走りでこちらに近づいてきた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "桐島先輩が小走りでこちらに近づいてきた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「遠野！」",
+        "after": "桐島　七葵「すまん。遅くなった」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "桐島　七葵「すまん。遅くなった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩が小走りでこちらに近づいてきた。",
+        "after": "遠野　紗夜「いえ。大丈夫です」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「いえ。大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「すまん。遅くなった」",
+        "after": "まるで恋人の様な会話。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "まるで恋人の様な会話。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ。大丈夫です」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "まるで恋人の様な会話。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "桐島　七葵「……じゃあ、行くか」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島　七葵「……じゃあ、行くか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……じゃあ、行くか」",
+        "after": "私は桐島先輩の後を行く。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "私は桐島先輩の後を行く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": null
+      }
+    }
+  ]
+}

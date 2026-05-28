@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_9.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 29,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「すみません、わざわざ送って頂いて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "蒼「構わない」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "蒼「構わない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません、わざわざ送って頂いて……」",
+        "after": "臥待堂を出る頃には、日が傾いていた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "臥待堂を出る頃には、日が傾いていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「構わない」",
+        "after": "遠野　紗夜「蒼色の空ですね」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「蒼色の空ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "臥待堂を出る頃には、日が傾いていた。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「蒼色の空ですね」",
+        "after": "遠野　紗夜「貴方の色です」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "遠野　紗夜「貴方の色です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "蒼「狭間の色だな」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "蒼「狭間の色だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「貴方の色です」",
+        "after": "二人、同時に言った。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "二人、同時に言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼「狭間の色だな」",
+        "after": "蒼「どちらにせよ同じことだな」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "蒼「どちらにせよ同じことだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "二人、同時に言った。",
+        "after": "遠野　紗夜「そうですね」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「そうですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「どちらにせよ同じことだな」",
+        "after": "それ以上は何か言うこともなく、黙って歩いていた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "それ以上は何か言うこともなく、黙って歩いていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね」",
+        "after": "空を仰いだままの蒼を私は見つめる。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "空を仰いだままの蒼を私は見つめる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それ以上は何か言うこともなく、黙って歩いていた。",
+        "after": "遠野　紗夜「……そういえば、最近はずっとあの白いローブ姿ではないのですね」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「……そういえば、最近はずっとあの白いローブ姿ではないのですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "空を仰いだままの蒼を私は見つめる。",
+        "after": "蒼「ああ」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "蒼「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そういえば、最近はずっとあの白いローブ姿ではないのですね」",
+        "after": "遠野　紗夜「……今日は私を送り届けたら、そのまま帰ってしまわれますか？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「……今日は私を送り届けたら、そのまま帰ってしまわれますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「ああ」",
+        "after": "蒼「そのつもりだが」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "蒼「そのつもりだが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……今日は私を送り届けたら、そのまま帰ってしまわれますか？」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「そのつもりだが」",
+        "after": "自分でも思ったより落胆した声音だった。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "自分でも思ったより落胆した声音だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "このまま歩いていけば、やがて私の家まで行き着いてしまう。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "このまま歩いていけば、やがて私の家まで行き着いてしまう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "自分でも思ったより落胆した声音だった。",
+        "after": "そうしたら、蒼と別れねばならなくなる。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "そうしたら、蒼と別れねばならなくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "このまま歩いていけば、やがて私の家まで行き着いてしまう。",
+        "after": "遠野　紗夜「本を……本を借りるとか！」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「本を……本を借りるとか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そうしたら、蒼と別れねばならなくなる。",
+        "after": "蒼「今は間に合っている」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "蒼「今は間に合っている」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本を……本を借りるとか！」",
+        "after": "遠野　紗夜「……そうですか」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「……そうですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「今は間に合っている」",
+        "after": "気恥ずかしくなって、俯いてしまった。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "気恥ずかしくなって、俯いてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……そうですか」",
+        "after": "少し、必死過ぎただろうか。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "少し、必死過ぎただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "気恥ずかしくなって、俯いてしまった。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "少し、必死過ぎただろうか。",
+        "after": "何だか、こんな気持ちを知っている気がする。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "何だか、こんな気持ちを知っている気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "以前、本を読んだ時に感じた気持ち。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "以前、本を読んだ時に感じた気持ち。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか、こんな気持ちを知っている気がする。",
+        "after": "あれは、一体何という名前だった？"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "あれは、一体何という名前だった？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "以前、本を読んだ時に感じた気持ち。",
+        "after": null
+      }
+    }
+  ]
+}

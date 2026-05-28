@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "file": "hinase/hinase_34.txt",
+    "chapter": "hinase",
+    "total_lines": 33,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "時計塔。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "私はその前で待っている。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私はその前で待っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時計塔。",
+        "after": "一人目が通り過ぎた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "一人目が通り過ぎた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はその前で待っている。",
+        "after": "違う。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一人目が通り過ぎた。",
+        "after": "二人目が通り過ぎた。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "二人目が通り過ぎた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違う。",
+        "after": "違う。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人目が通り過ぎた。",
+        "after": "三人目が通り過ぎた。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "三人目が通り過ぎた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違う。",
+        "after": "違う。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "三人目が通り過ぎた。",
+        "after": "四人目五人目六人目七人目八人目九人目。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "四人目五人目六人目七人目八人目九人目。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違う。",
+        "after": "違う、違う、違う、違う違う違う違う。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "違う、違う、違う、違う違う違う違う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "四人目五人目六人目七人目八人目九人目。",
+        "after": "貴方じゃない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "貴方じゃない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "違う、違う、違う、違う違う違う違う。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "貴方じゃない。",
+        "after": "宮沢　夏帆「あれ、紗夜ちゃん？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "宮沢　夏帆「あれ、紗夜ちゃん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「夏帆……」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「夏帆……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あれ、紗夜ちゃん？」",
+        "after": "宮沢　夏帆「どしたの～？　日生先輩は～？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "宮沢　夏帆「どしたの～？　日生先輩は～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏帆……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「どしたの～？　日生先輩は～？」",
+        "after": "宮沢　夏帆「あ！　もしかして、約束ブッチされたとか！？　だとしたら後でボッコボコにしてやるんだからぁ～！！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "宮沢　夏帆「あ！　もしかして、約束ブッチされたとか！？　だとしたら後でボッコボコにしてやるんだからぁ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "夏帆の言葉に私はとても驚いた。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "夏帆の言葉に私はとても驚いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あ！　もしかして、約束ブッチされたとか！？　だとしたら後でボッコボコにしてやるんだからぁ～！！」",
+        "after": "宮沢　夏帆「……紗夜ちゃん？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "宮沢　夏帆「……紗夜ちゃん？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆の言葉に私はとても驚いた。",
+        "after": "遠野　紗夜「そういえば、約束もしてませんでした」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「そういえば、約束もしてませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……紗夜ちゃん？」",
+        "after": "宮沢　夏帆「は、はい？」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "宮沢　夏帆「は、はい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そういえば、約束もしてませんでした」",
+        "after": "遠野　紗夜「光さんと私は何も約束はしていませんでした」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「光さんと私は何も約束はしていませんでした」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「は、はい？」",
+        "after": "宮沢　夏帆「そ、そうなのぉ？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「そ、そうなのぉ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光さんと私は何も約束はしていませんでした」",
+        "after": "遠野　紗夜「はい……」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そ、そうなのぉ？」",
+        "after": "そうだ、いつも彼が迎えに来たから。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "そうだ、いつも彼が迎えに来たから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そうだ、いつも彼が迎えに来たから。",
+        "after": "宮沢　夏帆「……大丈夫？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "宮沢　夏帆「……大丈夫？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "夏帆が心配そうに私の顔をのぞき込む。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "夏帆が心配そうに私の顔をのぞき込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……大丈夫？」",
+        "after": "私はこれ以上彼女を不安にさせないよう、無理矢理笑顔を作る。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私はこれ以上彼女を不安にさせないよう、無理矢理笑顔を作る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆が心配そうに私の顔をのぞき込む。",
+        "after": "遠野　紗夜「大丈夫です」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「大丈夫です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はこれ以上彼女を不安にさせないよう、無理矢理笑顔を作る。",
+        "after": "宮沢　夏帆「そっかぁ……。でも、あんまり無理しないでね？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "宮沢　夏帆「そっかぁ……。でも、あんまり無理しないでね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「大丈夫です」",
+        "after": "遠野　紗夜「はい。ありがとうございます」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「はい。ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そっかぁ……。でも、あんまり無理しないでね？」",
+        "after": "宮沢　夏帆「じゃ、学校行こうよ！　このままじゃ遅刻遅刻～！！」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "宮沢　夏帆「じゃ、学校行こうよ！　このままじゃ遅刻遅刻～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい。ありがとうございます」",
+        "after": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1790 @@
+{
+  "meta": {
+    "file": "hinase/hinase_13.txt",
+    "chapter": "hinase",
+    "total_lines": 97,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "家政婦「はい、どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "机の上に置かれた銀のトレイ。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "机の上に置かれた銀のトレイ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「はい、どうぞ」",
+        "after": "そこには昨日飲んだハーブティーとサンドイッチが用意されてあった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "そこには昨日飲んだハーブティーとサンドイッチが用意されてあった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "机の上に置かれた銀のトレイ。",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そこには昨日飲んだハーブティーとサンドイッチが用意されてあった。",
+        "after": "家政婦「本当にこんなもので良かったんですか？　今からでもちゃんとしたものを用意させますけど……」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "家政婦「本当にこんなもので良かったんですか？　今からでもちゃんとしたものを用意させますけど……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "年は四五十台といったところだろうか。やや、くすみがかった浅黄色の着物に白い割烹着を重ねた使用人らしき女性は申し訳なげな顔で私に訊ねた。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "年は四五十台といったところだろうか。やや、くすみがかった浅黄色の着物に白い割烹着を重ねた使用人らしき女性は申し訳なげな顔で私に訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「本当にこんなもので良かったんですか？　今からでもちゃんとしたものを用意させますけど……」",
+        "after": "遠野　紗夜「いえ、本当に気にしないで下さい。こちらが勝手にお邪魔して、あまつさえこうして食事を頂いているのですし」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「いえ、本当に気にしないで下さい。こちらが勝手にお邪魔して、あまつさえこうして食事を頂いているのですし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "年は四五十台といったところだろうか。やや、くすみがかった浅黄色の着物に白い割烹着を重ねた使用人らしき女性は申し訳なげな顔で私に訊ねた。",
+        "after": "結局、私は彼の家で夕飯を頂くことになった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "結局、私は彼の家で夕飯を頂くことになった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ、本当に気にしないで下さい。こちらが勝手にお邪魔して、あまつさえこうして食事を頂いているのですし」",
+        "after": "申し訳ないのはむしろ私の方だ。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "申し訳ないのはむしろ私の方だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、私は彼の家で夕飯を頂くことになった。",
+        "after": "遠野　紗夜「それでは、頂きます」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「それでは、頂きます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "申し訳ないのはむしろ私の方だ。",
+        "after": "銀のフォークとナイフを手にし、皿の上のサンドイッチを小口に切り分け、口に放り込む。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "銀のフォークとナイフを手にし、皿の上のサンドイッチを小口に切り分け、口に放り込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それでは、頂きます」",
+        "after": "家政婦「あの……」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "家政婦「あの……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "銀のフォークとナイフを手にし、皿の上のサンドイッチを小口に切り分け、口に放り込む。",
+        "after": "遠野　紗夜「何でしょう？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「あの……」",
+        "after": "家政婦「……こんなことを私が聞くのもどうかと思いますが……貴方は坊ちゃんの恋人ですよね？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "家政婦「……こんなことを私が聞くのもどうかと思いますが……貴方は坊ちゃんの恋人ですよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何でしょう？」",
+        "after": "遠野　紗夜「ええ、まあ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「ええ、まあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「……こんなことを私が聞くのもどうかと思いますが……貴方は坊ちゃんの恋人ですよね？」",
+        "after": "と答えると、女性は顔を明るくさせ、両手を合わせた。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "と答えると、女性は顔を明るくさせ、両手を合わせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、まあ」",
+        "after": "家政婦「そうですか！　そうですよね！！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "家政婦「そうですか！　そうですよね！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "と答えると、女性は顔を明るくさせ、両手を合わせた。",
+        "after": "家政婦「ああ、坊ちゃんが連れてくる人はきっと綺麗な方なんでしょうとは思っていましたが、貴方は私の想像以上に美しくて驚きました！」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "家政婦「ああ、坊ちゃんが連れてくる人はきっと綺麗な方なんでしょうとは思っていましたが、貴方は私の想像以上に美しくて驚きました！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「そうですか！　そうですよね！！」",
+        "after": "遠野　紗夜「……ありがとうございます」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「……ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「ああ、坊ちゃんが連れてくる人はきっと綺麗な方なんでしょうとは思っていましたが、貴方は私の想像以上に美しくて驚きました！」",
+        "after": "家政婦「制服は楓葉のものだから、きっとお家もさぞやご立派なんでしょうね！　失礼ですが、お名前の方を聞いても宜しいですか？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "家政婦「制服は楓葉のものだから、きっとお家もさぞやご立派なんでしょうね！　失礼ですが、お名前の方を聞いても宜しいですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ありがとうございます」",
+        "after": "遠野　紗夜「遠野紗夜と申します」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「遠野紗夜と申します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「制服は楓葉のものだから、きっとお家もさぞやご立派なんでしょうね！　失礼ですが、お名前の方を聞いても宜しいですか？」",
+        "after": "家政婦「お嬢様……。素敵なお名前ですね！」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "家政婦「お嬢様……。素敵なお名前ですね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「遠野紗夜と申します」",
+        "after": "遠野　紗夜「いえ」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「いえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「お嬢様……。素敵なお名前ですね！」",
+        "after": "何だか面白そうな人だと思った。人の好さそうな顔をしている。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "何だか面白そうな人だと思った。人の好さそうな顔をしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「いえ」",
+        "after": "家政婦「あ、私は坊ちゃんが幼い頃からここで家政婦をやらせて頂いている者です」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "家政婦「あ、私は坊ちゃんが幼い頃からここで家政婦をやらせて頂いている者です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "何だか面白そうな人だと思った。人の好さそうな顔をしている。",
+        "after": "遠野　紗夜「幼い頃からですか？」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「幼い頃からですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「あ、私は坊ちゃんが幼い頃からここで家政婦をやらせて頂いている者です」",
+        "after": "家政婦「ええ。坊ちゃんが七歳の時からです」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "家政婦「ええ。坊ちゃんが七歳の時からです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「幼い頃からですか？」",
+        "after": "七歳の頃からというと、もう仕えて十年程になる。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "七歳の頃からというと、もう仕えて十年程になる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「ええ。坊ちゃんが七歳の時からです」",
+        "after": "私はあることを思いついた。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "私はあることを思いついた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "七歳の頃からというと、もう仕えて十年程になる。",
+        "after": "遠野　紗夜「……幼い頃から先輩を知っているなら、他の人が知らないような先輩の秘密など知っていたりするのですか？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "遠野　紗夜「……幼い頃から先輩を知っているなら、他の人が知らないような先輩の秘密など知っていたりするのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はあることを思いついた。",
+        "after": "家政婦「坊ちゃんの秘密ですか？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "家政婦「坊ちゃんの秘密ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……幼い頃から先輩を知っているなら、他の人が知らないような先輩の秘密など知っていたりするのですか？」",
+        "after": "遠野　紗夜「ええ。いつも、日生先輩にはしてやられてばかりいるので、たまには私の方で何か仕返しでも出来ないものかと」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「ええ。いつも、日生先輩にはしてやられてばかりいるので、たまには私の方で何か仕返しでも出来ないものかと」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「坊ちゃんの秘密ですか？」",
+        "after": "怪訝な顔をされることも予想していたが、彼女は嫌な顔一つせず、ふふっと笑って返してくれた。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "怪訝な顔をされることも予想していたが、彼女は嫌な顔一つせず、ふふっと笑って返してくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ。いつも、日生先輩にはしてやられてばかりいるので、たまには私の方で何か仕返しでも出来ないものかと」",
+        "after": "家政婦「そうですね。お嬢様だったら特別にお教えしてもいいですよ」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "家政婦「そうですね。お嬢様だったら特別にお教えしてもいいですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "怪訝な顔をされることも予想していたが、彼女は嫌な顔一つせず、ふふっと笑って返してくれた。",
+        "after": "遠野　紗夜「本当ですか？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「本当ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「そうですね。お嬢様だったら特別にお教えしてもいいですよ」",
+        "after": "家政婦「ええ！　あのですね……」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "家政婦「ええ！　あのですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「本当ですか？」",
+        "after": "彼女が声を秘やかにすると、"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "彼女が声を秘やかにすると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「ええ！　あのですね……」",
+        "after": "日生　光「ちょっと、余計なこと言わないでよ」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "日生　光「ちょっと、余計なこと言わないでよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "彼女が声を秘やかにすると、",
+        "after": "扉の向こうから日生先輩がやって来た。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "扉の向こうから日生先輩がやって来た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ちょっと、余計なこと言わないでよ」",
+        "after": "家政婦「あら、坊ちゃん」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "家政婦「あら、坊ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "扉の向こうから日生先輩がやって来た。",
+        "after": "日生　光「も。仕返し紗夜だなんて物騒だなぁ」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "日生　光「も。仕返し紗夜だなんて物騒だなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「あら、坊ちゃん」",
+        "after": "遠野　紗夜「あら、聞こえていましたか」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "遠野　紗夜「あら、聞こえていましたか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「も。仕返し紗夜だなんて物騒だなぁ」",
+        "after": "日生　光「勿論」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "日生　光「勿論」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、聞こえていましたか」",
+        "after": "日生先輩は私の隣に座る。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "日生先輩は私の隣に座る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「勿論」",
+        "after": "ふわりと石鹸の匂いが香った。"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "ふわりと石鹸の匂いが香った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は私の隣に座る。",
+        "after": "私と同じ匂い。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "私と同じ匂い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふわりと石鹸の匂いが香った。",
+        "after": "家政婦「まあ！　まあ！　こうして二人並んでいるのを見ると、とてもお似合いだわ！」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "家政婦「まあ！　まあ！　こうして二人並んでいるのを見ると、とてもお似合いだわ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "私と同じ匂い。",
+        "after": "日生　光「ありがとう」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "日生　光「ありがとう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「まあ！　まあ！　こうして二人並んでいるのを見ると、とてもお似合いだわ！」",
+        "after": "遠野　紗夜「日生先輩は食べないのですか？」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「日生先輩は食べないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ありがとう」",
+        "after": "日生　光「ああ、僕はいいよ」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "日生　光「ああ、僕はいいよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩は食べないのですか？」",
+        "after": "家政婦「またですか、坊ちゃん」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "家政婦「またですか、坊ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ああ、僕はいいよ」",
+        "after": "遠野　紗夜「また？」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "遠野　紗夜「また？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「またですか、坊ちゃん」",
+        "after": "家政婦「ええ。お嬢様からも言ってやって下さいな。坊ちゃんったら、こんな風に奥様がいらっしゃらない日などはまともに食事を召し上がってくれないんですよ」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "家政婦「ええ。お嬢様からも言ってやって下さいな。坊ちゃんったら、こんな風に奥様がいらっしゃらない日などはまともに食事を召し上がってくれないんですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「また？」",
+        "after": "家政婦「昼食もいくらこっちが作ると言っても、遠慮ばかり。折角のシェフも腕が廃るってもんです」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "家政婦「昼食もいくらこっちが作ると言っても、遠慮ばかり。折角のシェフも腕が廃るってもんです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「ええ。お嬢様からも言ってやって下さいな。坊ちゃんったら、こんな風に奥様がいらっしゃらない日などはまともに食事を召し上がってくれないんですよ」",
+        "after": "仁王立ちで鼻をふんと鳴らす彼女に、日生先輩も折れたようだ。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "仁王立ちで鼻をふんと鳴らす彼女に、日生先輩も折れたようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「昼食もいくらこっちが作ると言っても、遠慮ばかり。折角のシェフも腕が廃るってもんです」",
+        "after": "日生　光「分かったよ。じゃあ、彼女と同じ物を」"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "日生　光「分かったよ。じゃあ、彼女と同じ物を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "仁王立ちで鼻をふんと鳴らす彼女に、日生先輩も折れたようだ。",
+        "after": "家政婦「そうこなくっちゃ！　今すぐ作らせますから、ちょっと待ってて下さいね！」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "家政婦「そうこなくっちゃ！　今すぐ作らせますから、ちょっと待ってて下さいね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「分かったよ。じゃあ、彼女と同じ物を」",
+        "after": "彼女は待ってましたと言わんばかりに、足早に扉の向こう側へと消えてしまった。"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "彼女は待ってましたと言わんばかりに、足早に扉の向こう側へと消えてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「そうこなくっちゃ！　今すぐ作らせますから、ちょっと待ってて下さいね！」",
+        "after": "遠野　紗夜「感じの良い人ですね」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「感じの良い人ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "彼女は待ってましたと言わんばかりに、足早に扉の向こう側へと消えてしまった。",
+        "after": "日生　光「まあね。面白くていい人だよ。ちょっとお喋りで世話焼き過ぎるのが玉に瑕だけど」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "日生　光「まあね。面白くていい人だよ。ちょっとお喋りで世話焼き過ぎるのが玉に瑕だけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「感じの良い人ですね」",
+        "after": "遠野　紗夜「日生先輩のことが心配なのですよ。ちゃんと、食事は摂った方が良いですよ」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "遠野　紗夜「日生先輩のことが心配なのですよ。ちゃんと、食事は摂った方が良いですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあね。面白くていい人だよ。ちょっとお喋りで世話焼き過ぎるのが玉に瑕だけど」",
+        "after": "日生　光「まあ、そうなんだけどね。なんか面倒くさくてね」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "日生　光「まあ、そうなんだけどね。なんか面倒くさくてね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「日生先輩のことが心配なのですよ。ちゃんと、食事は摂った方が良いですよ」",
+        "after": "遠野　紗夜「そうなのですか？」"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "遠野　紗夜「そうなのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、そうなんだけどね。なんか面倒くさくてね」",
+        "after": "食事を摂るのが面倒だなんて言う人は初めて聞いた気がする。"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "食事を摂るのが面倒だなんて言う人は初めて聞いた気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか？」",
+        "after": "まじまじと見ていたせいか、彼は"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "まじまじと見ていたせいか、彼は",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "食事を摂るのが面倒だなんて言う人は初めて聞いた気がする。",
+        "after": "日生　光「……ああ、だからといって別に紗夜の作った手料理が食べたくないわけじゃないから、そこは安心してよ」"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "日生　光「……ああ、だからといって別に紗夜の作った手料理が食べたくないわけじゃないから、そこは安心してよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "まじまじと見ていたせいか、彼は",
+        "after": "と私に優しく言った。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "と私に優しく言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「……ああ、だからといって別に紗夜の作った手料理が食べたくないわけじゃないから、そこは安心してよ」",
+        "after": "遠野　紗夜「……それは催促ですか？」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "遠野　紗夜「……それは催促ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と私に優しく言った。",
+        "after": "日生　光「ええ、そうです」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生　光「ええ、そうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……それは催促ですか？」",
+        "after": "自分の言い方を真似され、私はくすりと笑った。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "自分の言い方を真似され、私はくすりと笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ええ、そうです」",
+        "after": "遠野　紗夜「そうですね。私で良ければ、いつでも作ります。……味の保証はないですが」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "遠野　紗夜「そうですね。私で良ければ、いつでも作ります。……味の保証はないですが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "自分の言い方を真似され、私はくすりと笑った。",
+        "after": "日生　光「ははっ。あれだけ作れれば問題ないよ」"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "日生　光「ははっ。あれだけ作れれば問題ないよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですね。私で良ければ、いつでも作ります。……味の保証はないですが」",
+        "after": "間があった後、私は居間の時計を見て呟いた。"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "間があった後、私は居間の時計を見て呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ははっ。あれだけ作れれば問題ないよ」",
+        "after": "遠野　紗夜「……まだ、お祖母様は戻られないのですか？」"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "遠野　紗夜「……まだ、お祖母様は戻られないのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "間があった後、私は居間の時計を見て呟いた。",
+        "after": "日生　光「今日は遅くなるって言ってたからなぁ。大方、会議でも長引いているんじゃないかな」"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "日生　光「今日は遅くなるって言ってたからなぁ。大方、会議でも長引いているんじゃないかな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……まだ、お祖母様は戻られないのですか？」",
+        "after": "遠野　紗夜「会議ですか？」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "遠野　紗夜「会議ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「今日は遅くなるって言ってたからなぁ。大方、会議でも長引いているんじゃないかな」",
+        "after": "お祖母様が？"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "お祖母様が？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「会議ですか？」",
+        "after": "そう思った言葉はすぐに飲み込んだ。"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "そう思った言葉はすぐに飲み込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お祖母様が？",
+        "after": "そうだ、日生先輩の身寄りはお祖母様以外にいないのだ。"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "そうだ、日生先輩の身寄りはお祖母様以外にいないのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう思った言葉はすぐに飲み込んだ。",
+        "after": "遠野　紗夜「……お祖母様は会社経営もなさっているのですね、凄いです」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "遠野　紗夜「……お祖母様は会社経営もなさっているのですね、凄いです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そうだ、日生先輩の身寄りはお祖母様以外にいないのだ。",
+        "after": "日生　光「まあ、実質運営しているのはお祖母様の妹のお婿さんなんだけどね」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "日生　光「まあ、実質運営しているのはお祖母様の妹のお婿さんなんだけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……お祖母様は会社経営もなさっているのですね、凄いです」",
+        "after": "日生　光「でも、今うちの一族の実権を握っているのは、紛れもなくお祖母様だし？　顔見せは必要だよね」"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "日生　光「でも、今うちの一族の実権を握っているのは、紛れもなくお祖母様だし？　顔見せは必要だよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、実質運営しているのはお祖母様の妹のお婿さんなんだけどね」",
+        "after": "遠野　紗夜「私には経営のことは分かりませんが、とても大変そうです」"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "遠野　紗夜「私には経営のことは分かりませんが、とても大変そうです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも、今うちの一族の実権を握っているのは、紛れもなくお祖母様だし？　顔見せは必要だよね」",
+        "after": "ノック音が聞こえ、私は瞬時に気を張った。"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "ノック音が聞こえ、私は瞬時に気を張った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「私には経営のことは分かりませんが、とても大変そうです」",
+        "after": "家政婦「失礼します。お持ちしましたよ、坊ちゃん」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "家政婦「失礼します。お持ちしましたよ、坊ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "ノック音が聞こえ、私は瞬時に気を張った。",
+        "after": "彼女はお盆に私と同じサンドイッチと新しいハーブティーを乗せて現れた。"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "彼女はお盆に私と同じサンドイッチと新しいハーブティーを乗せて現れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「失礼します。お持ちしましたよ、坊ちゃん」",
+        "after": "日生　光「ありがとう」"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "日生　光「ありがとう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "彼女はお盆に私と同じサンドイッチと新しいハーブティーを乗せて現れた。",
+        "after": "日生先輩が立ち上がってそれを受け取ろうとすると、"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "日生先輩が立ち上がってそれを受け取ろうとすると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ありがとう」",
+        "after": "家政婦「あら、いけません！　坊ちゃん」"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "家政婦「あら、いけません！　坊ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩が立ち上がってそれを受け取ろうとすると、",
+        "after": "と、拒否する。"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "と、拒否する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「あら、いけません！　坊ちゃん」",
+        "after": "日生　光「まあ、良いじゃない。たまには、楽したら良いと思うよ」"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "日生　光「まあ、良いじゃない。たまには、楽したら良いと思うよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "と、拒否する。",
+        "after": "家政婦「私はいつでも楽してますよ。坊ちゃん。貴方は我が儘も言わないし、お部屋も自分で片づけてしまうじゃありませんか。私達の仕事がなくなってしまいます」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "家政婦「私はいつでも楽してますよ。坊ちゃん。貴方は我が儘も言わないし、お部屋も自分で片づけてしまうじゃありませんか。私達の仕事がなくなってしまいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、良いじゃない。たまには、楽したら良いと思うよ」",
+        "after": "日生　光「あまり子供扱いしないでよ。そのくらいは自分でやるさ」"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "日生　光「あまり子供扱いしないでよ。そのくらいは自分でやるさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "家政婦「私はいつでも楽してますよ。坊ちゃん。貴方は我が儘も言わないし、お部屋も自分で片づけてしまうじゃありませんか。私達の仕事がなくなってしまいます」",
+        "after": "家政婦「いーえ。これは私どもの役目ですから。お嬢様。坊ちゃんはほんっとーに優しくていい子なんですよ。だから、坊ちゃんのことこれからも宜しくお願い致しますね！」"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "家政婦「いーえ。これは私どもの役目ですから。お嬢様。坊ちゃんはほんっとーに優しくていい子なんですよ。だから、坊ちゃんのことこれからも宜しくお願い致しますね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "家政婦",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あまり子供扱いしないでよ。そのくらいは自分でやるさ」",
+        "after": "勢いに圧され、珍しくたじろぐ日生先輩。そんな二人を仲が良いななど思いながら、"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "勢いに圧され、珍しくたじろぐ日生先輩。そんな二人を仲が良いななど思いながら、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "家政婦「いーえ。これは私どもの役目ですから。お嬢様。坊ちゃんはほんっとーに優しくていい子なんですよ。だから、坊ちゃんのことこれからも宜しくお願い致しますね！」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "勢いに圧され、珍しくたじろぐ日生先輩。そんな二人を仲が良いななど思いながら、",
+        "after": "笑いながら頷いた。"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "笑いながら頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": null
+      }
+    }
+  ]
+}

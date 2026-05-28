@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_13.txt",
+    "chapter": "chapter3",
+    "total_lines": 10,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「ふう……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "夏帆との待ち合わせには、何とか間に合いそうだ。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "夏帆との待ち合わせには、何とか間に合いそうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふう……」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏帆との待ち合わせには、何とか間に合いそうだ。",
+        "after": "朝方の商店街。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "朝方の商店街。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "まだシャッターが閉まっている店や、ＣＬＯＳＥの看板がかかった店ばかりが見える。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "まだシャッターが閉まっている店や、ＣＬＯＳＥの看板がかかった店ばかりが見える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "朝方の商店街。",
+        "after": "活気溢れた雰囲気はなく、どこかのんびりしている。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "活気溢れた雰囲気はなく、どこかのんびりしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まだシャッターが閉まっている店や、ＣＬＯＳＥの看板がかかった店ばかりが見える。",
+        "after": "そういえば、昨日の着ぐるみの彼……ヴィルヘルム·猫田さんはあれからどうしているのだろう？"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "そういえば、昨日の着ぐるみの彼……ヴィルヘルム·猫田さんはあれからどうしているのだろう？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "活気溢れた雰囲気はなく、どこかのんびりしている。",
+        "after": "今日もここにいるのだろうか？"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "今日もここにいるのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そういえば、昨日の着ぐるみの彼……ヴィルヘルム·猫田さんはあれからどうしているのだろう？",
+        "after": "蒼、千代さん、ヴィルヘルムさん。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "蒼、千代さん、ヴィルヘルムさん。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今日もここにいるのだろうか？",
+        "after": "彼らのおかげでこうして無事にお弁当を作れたわけなのだから、今度会った時にはお礼を申し上げねばと道中思い耽った。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "彼らのおかげでこうして無事にお弁当を作れたわけなのだから、今度会った時にはお礼を申し上げねばと道中思い耽った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "蒼、千代さん、ヴィルヘルムさん。",
+        "after": null
+      }
+    }
+  ]
+}

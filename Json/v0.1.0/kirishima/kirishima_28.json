@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "file": "kirishima/kirishima_28.txt",
+    "chapter": "kirishima",
+    "total_lines": 38,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "教室を出た後、私は桐島先輩の姿を探していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "遠野　紗夜「まだ、教室に残っていらっしゃいますでしょうか……」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "遠野　紗夜「まだ、教室に残っていらっしゃいますでしょうか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "教室を出た後、私は桐島先輩の姿を探していた。",
+        "after": "少し時間が経ってしまった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "少し時間が経ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「まだ、教室に残っていらっしゃいますでしょうか……」",
+        "after": "果たして、ちゃんと約束もしていないのに桐島先輩は待っていてくれているのだろうか。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "果たして、ちゃんと約束もしていないのに桐島先輩は待っていてくれているのだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少し時間が経ってしまった。",
+        "after": "日生　光「こんな所で何してるの？」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "日生　光「こんな所で何してるの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "果たして、ちゃんと約束もしていないのに桐島先輩は待っていてくれているのだろうか。",
+        "after": "呼び止められて振り返る。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "呼び止められて振り返る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「こんな所で何してるの？」",
+        "after": "遠野　紗夜「光先輩。ちょうど良かったです。桐島先輩がどこにいるかご存じないでしょうか？」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「光先輩。ちょうど良かったです。桐島先輩がどこにいるかご存じないでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "呼び止められて振り返る。",
+        "after": "日生　光「桐島君？　んー、そうだなぁ、見かけてないけどその辺にいるんじゃない？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "日生　光「桐島君？　んー、そうだなぁ、見かけてないけどその辺にいるんじゃない？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「光先輩。ちょうど良かったです。桐島先輩がどこにいるかご存じないでしょうか？」",
+        "after": "遠野　紗夜「そうですか……」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「そうですか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「桐島君？　んー、そうだなぁ、見かけてないけどその辺にいるんじゃない？」",
+        "after": "日生　光「桐島君に何か用？　朝も君達二人きりで何か話してたようだけど」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "日生　光「桐島君に何か用？　朝も君達二人きりで何か話してたようだけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうですか……」",
+        "after": "遠野　紗夜「よくご存じで」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「よくご存じで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「桐島君に何か用？　朝も君達二人きりで何か話してたようだけど」",
+        "after": "日生　光「そりゃあ、まあ」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "日生　光「そりゃあ、まあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「よくご存じで」",
+        "after": "遠野　紗夜「……変な風に誤解してしまいますか？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "遠野　紗夜「……変な風に誤解してしまいますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そりゃあ、まあ」",
+        "after": "日生　光「変な風ってどんな風？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "日生　光「変な風ってどんな風？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……変な風に誤解してしまいますか？」",
+        "after": "遠野　紗夜「意地の悪い言い方ですね」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「意地の悪い言い方ですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「変な風ってどんな風？」",
+        "after": "日生　光「あはっ。まあ、誤解は人によってするかもね。二人は恋人同士なのかな、とか」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "日生　光「あはっ。まあ、誤解は人によってするかもね。二人は恋人同士なのかな、とか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「意地の悪い言い方ですね」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あはっ。まあ、誤解は人によってするかもね。二人は恋人同士なのかな、とか」",
+        "after": "朝にはああいったけれど、やはり色々と迷惑だっただろうか。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "朝にはああいったけれど、やはり色々と迷惑だっただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「やはり、好きでもない方と噂されるのは、あまり気分は良くないものでしょうか……？」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「やはり、好きでもない方と噂されるのは、あまり気分は良くないものでしょうか……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "朝にはああいったけれど、やはり色々と迷惑だっただろうか。",
+        "after": "日生　光「相手にもよるけど、まあ噂は僕も嫌いかな。変に勘ぐられるの嫌いだし」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　光「相手にもよるけど、まあ噂は僕も嫌いかな。変に勘ぐられるの嫌いだし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「やはり、好きでもない方と噂されるのは、あまり気分は良くないものでしょうか……？」",
+        "after": "遠野　紗夜「……そうですね。以後、気を付けます」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「……そうですね。以後、気を付けます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「相手にもよるけど、まあ噂は僕も嫌いかな。変に勘ぐられるの嫌いだし」",
+        "after": "日生　光「付き合えば？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　光「付き合えば？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そうですね。以後、気を付けます」",
+        "after": "突拍子もない言葉。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "突拍子もない言葉。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「付き合えば？」",
+        "after": "日生　光「ほら、そうすれば別におかしくもなんともない。恋人同士の甘い蜜月ってことで済まされて噂も何も関係ない」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "日生　光「ほら、そうすれば別におかしくもなんともない。恋人同士の甘い蜜月ってことで済まされて噂も何も関係ない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "突拍子もない言葉。",
+        "after": "私は即座に答える。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "私は即座に答える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ほら、そうすれば別におかしくもなんともない。恋人同士の甘い蜜月ってことで済まされて噂も何も関係ない」",
+        "after": "遠野　紗夜「そのようなこと出来るはずありません」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「そのようなこと出来るはずありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は即座に答える。",
+        "after": "日生　光「好きなのかと思ってたけど、違うの？　そんな風に大事にしてるから、そうなんだとばかり」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "日生　光「好きなのかと思ってたけど、違うの？　そんな風に大事にしてるから、そうなんだとばかり」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そのようなこと出来るはずありません」",
+        "after": "それ、という風に私の手首に飾られたものを指す。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "それ、という風に私の手首に飾られたものを指す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「好きなのかと思ってたけど、違うの？　そんな風に大事にしてるから、そうなんだとばかり」",
+        "after": "遠野　紗夜「……ええ、大事ですよ。私のお気に入りなのです」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「……ええ、大事ですよ。私のお気に入りなのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それ、という風に私の手首に飾られたものを指す。",
+        "after": "日生　光「そういう言い方をするってことは、肯定と捉えてＯＫ？」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "日生　光「そういう言い方をするってことは、肯定と捉えてＯＫ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ええ、大事ですよ。私のお気に入りなのです」",
+        "after": "遠野　紗夜「あら、何のことです？」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「あら、何のことです？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そういう言い方をするってことは、肯定と捉えてＯＫ？」",
+        "after": "日生　光「君は狡いなぁ。……ま、桐島君に飽きたら、僕の所にでもおいでよ。僕は君なら正直大歓迎だからさ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "日生　光「君は狡いなぁ。……ま、桐島君に飽きたら、僕の所にでもおいでよ。僕は君なら正直大歓迎だからさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、何のことです？」",
+        "after": "そう言って、ふざけて手を広げてみせる光先輩。"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "そう言って、ふざけて手を広げてみせる光先輩。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「君は狡いなぁ。……ま、桐島君に飽きたら、僕の所にでもおいでよ。僕は君なら正直大歓迎だからさ」",
+        "after": "私はその横を一礼しながらに通り過ぎる。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "私はその横を一礼しながらに通り過ぎる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、ふざけて手を広げてみせる光先輩。",
+        "after": "遠野　紗夜「ありがとうございます。では、私はそろそろ失礼致しますね」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　紗夜「ありがとうございます。では、私はそろそろ失礼致しますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はその横を一礼しながらに通り過ぎる。",
+        "after": "日生　光「うわっ、つれな！　……うん。まあ、頑張って下さい」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "日生　光「うわっ、つれな！　……うん。まあ、頑張って下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます。では、私はそろそろ失礼致しますね」",
+        "after": "背中から言われ、私は元気よく返した。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "背中から言われ、私は元気よく返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「うわっ、つれな！　……うん。まあ、頑張って下さい」",
+        "after": "遠野　紗夜「はい！　ありがとうございます」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「はい！　ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "背中から言われ、私は元気よく返した。",
+        "after": null
+      }
+    }
+  ]
+}

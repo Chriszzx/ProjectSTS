@@ -1,0 +1,8644 @@
+{
+  "meta": {
+    "file": "chapter3/chapter3_14.txt",
+    "chapter": "chapter3",
+    "total_lines": 473,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "お弁当作り当日　発表",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "日生　光「というわけで、試食タイムの始まり始まり～」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "日生　光「というわけで、試食タイムの始まり始まり～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "お弁当作り当日　発表",
+        "after": "日生先輩は一人拍手をする。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "日生先輩は一人拍手をする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「というわけで、試食タイムの始まり始まり～」",
+        "after": "桐島　七葵「ちゃんと作ってきただろうな？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "桐島　七葵「ちゃんと作ってきただろうな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は一人拍手をする。",
+        "after": "宮沢　夏帆「もっちろん！」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "宮沢　夏帆「もっちろん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ちゃんと作ってきただろうな？」",
+        "after": "日生　光「はーい」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "日生　光「はーい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「もっちろん！」",
+        "after": "遠野　紗夜「一応……」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「一応……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はーい」",
+        "after": "千代「お嬢さん！　頑張って下さい！」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "千代「お嬢さん！　頑張って下さい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「一応……」",
+        "after": "私の隣で励ます千代さんに、皆に怪しまれない程度に軽く頷く。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私の隣で励ます千代さんに、皆に怪しまれない程度に軽く頷く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「お嬢さん！　頑張って下さい！」",
+        "after": "日生　光「まずは誰のお弁当からいく？　無難に僕からいく？」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "日生　光「まずは誰のお弁当からいく？　無難に僕からいく？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私の隣で励ます千代さんに、皆に怪しまれない程度に軽く頷く。",
+        "after": "桐島　七葵「ああ。別に構わんぞ」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "桐島　七葵「ああ。別に構わんぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まずは誰のお弁当からいく？　無難に僕からいく？」",
+        "after": "宮沢　夏帆「うん。いいよぉ～」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "宮沢　夏帆「うん。いいよぉ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ。別に構わんぞ」",
+        "after": "日生　光「じゃあ、それで。で、時計回りに順番ずつ、夏帆ちゃん、桐島君……」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "日生　光「じゃあ、それで。で、時計回りに順番ずつ、夏帆ちゃん、桐島君……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「うん。いいよぉ～」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、それで。で、時計回りに順番ずつ、夏帆ちゃん、桐島君……」",
+        "after": "日生　光「トリはお嬢ということで」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "日生　光「トリはお嬢ということで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「先輩は意地が悪いですね？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「先輩は意地が悪いですね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「トリはお嬢ということで」",
+        "after": "日生　光「さあ？　何のこと？」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生　光「さあ？　何のこと？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先輩は意地が悪いですね？」",
+        "after": "日生先輩は意地の悪い表情を浮かべる。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "日生先輩は意地の悪い表情を浮かべる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「さあ？　何のこと？」",
+        "after": "私は悔し紛れに、口を尖らし、僅かに睨んで見せたが、勿論何の効果もない。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私は悔し紛れに、口を尖らし、僅かに睨んで見せたが、勿論何の効果もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は意地の悪い表情を浮かべる。",
+        "after": "日生　光「ということで、僕が作ってきたお弁当をどうぞ」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "日生　光「ということで、僕が作ってきたお弁当をどうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は悔し紛れに、口を尖らし、僅かに睨んで見せたが、勿論何の効果もない。",
+        "after": "お弁当披露　～日生光の場合～"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "お弁当披露　～日生光の場合～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ということで、僕が作ってきたお弁当をどうぞ」",
+        "after": "日生先輩は持参したお弁当を広げる。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生先輩は持参したお弁当を広げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お弁当披露　～日生光の場合～",
+        "after": "遠野　紗夜「え！？」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「え！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は持参したお弁当を広げる。",
+        "after": "宮沢　夏帆「すごく……普通、というか、むしろ……！！」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "宮沢　夏帆「すごく……普通、というか、むしろ……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え！？」",
+        "after": "桐島　七葵「ちゃんとしてるな……」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "桐島　七葵「ちゃんとしてるな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「すごく……普通、というか、むしろ……！！」",
+        "after": "皆、思わず感嘆のため息を漏らす。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "皆、思わず感嘆のため息を漏らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「ちゃんとしてるな……」",
+        "after": "日生先輩のお弁当は完璧だった。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "日生先輩のお弁当は完璧だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "皆、思わず感嘆のため息を漏らす。",
+        "after": "ラップフィルムに包まれたフレンチトーストをメインとし、おかずは定番のだし巻き卵にウィンナーにハンバーグ……。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "ラップフィルムに包まれたフレンチトーストをメインとし、おかずは定番のだし巻き卵にウィンナーにハンバーグ……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩のお弁当は完璧だった。",
+        "after": "そして、それらの間には勿論パセリやミニトマトが添えられてあり、色どりも華やかである。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "そして、それらの間には勿論パセリやミニトマトが添えられてあり、色どりも華やかである。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ラップフィルムに包まれたフレンチトーストをメインとし、おかずは定番のだし巻き卵にウィンナーにハンバーグ……。",
+        "after": "極めつけは、中央に添えられたハムで作られた薔薇の花だ。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "極めつけは、中央に添えられたハムで作られた薔薇の花だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、それらの間には勿論パセリやミニトマトが添えられてあり、色どりも華やかである。",
+        "after": "千代「うわー。凄いなー」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "千代「うわー。凄いなー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "極めつけは、中央に添えられたハムで作られた薔薇の花だ。",
+        "after": "遠野　紗夜「何だか、とても先輩らしいですね」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "遠野　紗夜「何だか、とても先輩らしいですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「うわー。凄いなー」",
+        "after": "日生　光「そう？」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "日生　光「そう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何だか、とても先輩らしいですね」",
+        "after": "宮沢　夏帆「ていうか、先輩って料理出来たんだ～」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "宮沢　夏帆「ていうか、先輩って料理出来たんだ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そう？」",
+        "after": "日生　光「あはっ。僕は何でも出来るんです。惚れた？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "日生　光「あはっ。僕は何でも出来るんです。惚れた？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ていうか、先輩って料理出来たんだ～」",
+        "after": "宮沢　夏帆「ない！」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "宮沢　夏帆「ない！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あはっ。僕は何でも出来るんです。惚れた？」",
+        "after": "日生先輩はははっと笑うと、一膳割り箸を割った。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "日生先輩はははっと笑うと、一膳割り箸を割った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ない！」",
+        "after": "そして、その箸の先端を自分に向けると、夏帆と桐島先輩に差し出す。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "そして、その箸の先端を自分に向けると、夏帆と桐島先輩に差し出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩はははっと笑うと、一膳割り箸を割った。",
+        "after": "日生　光「はい。お箸。それとも僕が食べさせてあげようか？」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "日生　光「はい。お箸。それとも僕が食べさせてあげようか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "そして、その箸の先端を自分に向けると、夏帆と桐島先輩に差し出す。",
+        "after": "宮沢　夏帆「無理。無理無理無理！！　ぜ～ったい無理！！」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "宮沢　夏帆「無理。無理無理無理！！　ぜ～ったい無理！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はい。お箸。それとも僕が食べさせてあげようか？」",
+        "after": "桐島　七葵「全力で遠慮する」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "桐島　七葵「全力で遠慮する」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「無理。無理無理無理！！　ぜ～ったい無理！！」",
+        "after": "二人は心底嫌そうな顔をして、日生先輩の申し出を断る。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "二人は心底嫌そうな顔をして、日生先輩の申し出を断る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「全力で遠慮する」",
+        "after": "それらの反応は無視し、日生先輩は手に持った箸でだし巻き卵を突き刺すと、それを私に向けた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "それらの反応は無視し、日生先輩は手に持った箸でだし巻き卵を突き刺すと、それを私に向けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人は心底嫌そうな顔をして、日生先輩の申し出を断る。",
+        "after": "日生　光「はい、お嬢。あーん」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "日生　光「はい、お嬢。あーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "それらの反応は無視し、日生先輩は手に持った箸でだし巻き卵を突き刺すと、それを私に向けた。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はい、お嬢。あーん」",
+        "after": "宮沢　夏帆「なっ！　ちょっとぉ！？」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "宮沢　夏帆「なっ！　ちょっとぉ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「なっ！　ちょっとぉ！？」",
+        "after": "遠慮する"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠慮する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "そのまま口にする"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "そのまま口にする",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠慮する",
+        "after": "遠野　紗夜「あの、日生先輩。自分で食べますので……」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "遠野　紗夜「あの、日生先輩。自分で食べますので……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そのまま口にする",
+        "after": "日生　光「遠慮しなくて良いのに」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "日生　光「遠慮しなくて良いのに」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あの、日生先輩。自分で食べますので……」",
+        "after": "私がどう返そうかと困っていると、日生先輩はくすりと笑って、箸を手渡した。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "私がどう返そうかと困っていると、日生先輩はくすりと笑って、箸を手渡した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「遠慮しなくて良いのに」",
+        "after": "日生　光「はい」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "日生　光「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私がどう返そうかと困っていると、日生先輩はくすりと笑って、箸を手渡した。",
+        "after": "遠野　紗夜「ありがとうございます」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「はい」",
+        "after": "私は突き刺さったままのだし巻き卵を一口でほおばる。"
+      }
+    },
+    {
+      "line": 55,
+      "jp": "私は突き刺さったままのだし巻き卵を一口でほおばる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ありがとうございます」",
+        "after": "私は顔を近づけ、だし巻き卵をほおばる。"
+      }
+    },
+    {
+      "line": 56,
+      "jp": "私は顔を近づけ、だし巻き卵をほおばる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は突き刺さったままのだし巻き卵を一口でほおばる。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 57,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は顔を近づけ、だし巻き卵をほおばる。",
+        "after": "日生　光「どう？　味の方は」"
+      }
+    },
+    {
+      "line": 58,
+      "jp": "日生　光「どう？　味の方は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「……美味しいです」"
+      }
+    },
+    {
+      "line": 59,
+      "jp": "遠野　紗夜「……美味しいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「どう？　味の方は」",
+        "after": "日生　光「それは良かった」"
+      }
+    },
+    {
+      "line": 60,
+      "jp": "日生　光「それは良かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……美味しいです」",
+        "after": "宮沢　夏帆「むー……！！」"
+      }
+    },
+    {
+      "line": 61,
+      "jp": "宮沢　夏帆「むー……！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それは良かった」",
+        "after": "桐島　七葵「……うむ。本当に美味いな」"
+      }
+    },
+    {
+      "line": 62,
+      "jp": "桐島　七葵「……うむ。本当に美味いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「むー……！！」",
+        "after": "いつの間にか、桐島先輩はお弁当に手をつけていたようだ。"
+      }
+    },
+    {
+      "line": 63,
+      "jp": "いつの間にか、桐島先輩はお弁当に手をつけていたようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……うむ。本当に美味いな」",
+        "after": "日生　光「ほらほら、夏帆ちゃんも食べなよ」"
+      }
+    },
+    {
+      "line": 64,
+      "jp": "日生　光「ほらほら、夏帆ちゃんも食べなよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "いつの間にか、桐島先輩はお弁当に手をつけていたようだ。",
+        "after": "宮沢　夏帆「食べるよ！」"
+      }
+    },
+    {
+      "line": 65,
+      "jp": "宮沢　夏帆「食べるよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ほらほら、夏帆ちゃんも食べなよ」",
+        "after": "夏帆は叫ぶと、フレンチトーストを手にし、口をつける。"
+      }
+    },
+    {
+      "line": 66,
+      "jp": "夏帆は叫ぶと、フレンチトーストを手にし、口をつける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「食べるよ！」",
+        "after": "眉がぴくりと動いたと思ったら、その後動かなくなる。"
+      }
+    },
+    {
+      "line": 67,
+      "jp": "眉がぴくりと動いたと思ったら、その後動かなくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆は叫ぶと、フレンチトーストを手にし、口をつける。",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 68,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "眉がぴくりと動いたと思ったら、その後動かなくなる。",
+        "after": "日生　光「どうですか？　お味の方は」"
+      }
+    },
+    {
+      "line": 69,
+      "jp": "日生　光「どうですか？　お味の方は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "日生先輩が訊ねると、ようやく口を離し、咀嚼する。"
+      }
+    },
+    {
+      "line": 70,
+      "jp": "日生先輩が訊ねると、ようやく口を離し、咀嚼する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「どうですか？　お味の方は」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 71,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩が訊ねると、ようやく口を離し、咀嚼する。",
+        "after": "それを飲み込んだ後、"
+      }
+    },
+    {
+      "line": 72,
+      "jp": "それを飲み込んだ後、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "宮沢　夏帆「……こ、これなら私の作ったお弁当の方が美味しいもん！」"
+      }
+    },
+    {
+      "line": 73,
+      "jp": "宮沢　夏帆「……こ、これなら私の作ったお弁当の方が美味しいもん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "それを飲み込んだ後、",
+        "after": "と、仄かに顔を赤らめながら言った。"
+      }
+    },
+    {
+      "line": 74,
+      "jp": "と、仄かに顔を赤らめながら言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……こ、これなら私の作ったお弁当の方が美味しいもん！」",
+        "after": "どうやら、予想外に美味しかったようだ。"
+      }
+    },
+    {
+      "line": 75,
+      "jp": "どうやら、予想外に美味しかったようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、仄かに顔を赤らめながら言った。",
+        "after": "日生　光「そうですか。じゃあ、次は夏帆ちゃんの番だ」"
+      }
+    },
+    {
+      "line": 76,
+      "jp": "日生　光「そうですか。じゃあ、次は夏帆ちゃんの番だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "どうやら、予想外に美味しかったようだ。",
+        "after": "宮沢　夏帆「ふふん！　泣きを見ないでよねぇ～！！」"
+      }
+    },
+    {
+      "line": 77,
+      "jp": "宮沢　夏帆「ふふん！　泣きを見ないでよねぇ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうですか。じゃあ、次は夏帆ちゃんの番だ」",
+        "after": "お弁当披露　～宮沢夏帆の場合～"
+      }
+    },
+    {
+      "line": 78,
+      "jp": "お弁当披露　～宮沢夏帆の場合～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ふふん！　泣きを見ないでよねぇ～！！」",
+        "after": "宮沢　夏帆「じゃ～ん！！　海鮮シチリア風サンドー！」"
+      }
+    },
+    {
+      "line": 79,
+      "jp": "宮沢　夏帆「じゃ～ん！！　海鮮シチリア風サンドー！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "お弁当披露　～宮沢夏帆の場合～",
+        "after": "日生　光「おおー」"
+      }
+    },
+    {
+      "line": 80,
+      "jp": "日生　光「おおー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「じゃ～ん！！　海鮮シチリア風サンドー！」",
+        "after": "千代「うわー」"
+      }
+    },
+    {
+      "line": 81,
+      "jp": "千代「うわー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「おおー」",
+        "after": "籠に入った、エビやトマトといった具を挟んだバケット。"
+      }
+    },
+    {
+      "line": 82,
+      "jp": "籠に入った、エビやトマトといった具を挟んだバケット。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「うわー」",
+        "after": "海外の新聞紙を下敷きにすることによって、より一層華やかさを演出している。"
+      }
+    },
+    {
+      "line": 83,
+      "jp": "海外の新聞紙を下敷きにすることによって、より一層華やかさを演出している。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "籠に入った、エビやトマトといった具を挟んだバケット。",
+        "after": "千代「サンドイッチかぁ」"
+      }
+    },
+    {
+      "line": 84,
+      "jp": "千代「サンドイッチかぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "海外の新聞紙を下敷きにすることによって、より一層華やかさを演出している。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 85,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「サンドイッチかぁ」",
+        "after": "まるで、売り物のように綺麗なサンドイッチを目の前にし、私の心はどんよりと曇った。"
+      }
+    },
+    {
+      "line": 86,
+      "jp": "まるで、売り物のように綺麗なサンドイッチを目の前にし、私の心はどんよりと曇った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生先輩が披露したのも、見事なフレンチトーストだった。"
+      }
+    },
+    {
+      "line": 87,
+      "jp": "日生先輩が披露したのも、見事なフレンチトーストだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるで、売り物のように綺麗なサンドイッチを目の前にし、私の心はどんよりと曇った。",
+        "after": "対して、私は何の工夫もないただのサンドイッチ。"
+      }
+    },
+    {
+      "line": 88,
+      "jp": "対して、私は何の工夫もないただのサンドイッチ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩が披露したのも、見事なフレンチトーストだった。",
+        "after": "一目見ただけでも、出来映えの差が分かる。"
+      }
+    },
+    {
+      "line": 89,
+      "jp": "一目見ただけでも、出来映えの差が分かる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "対して、私は何の工夫もないただのサンドイッチ。",
+        "after": "千代「だ、大丈夫ですよ！　お嬢さん！　お嬢さんのだって負けてません！」"
+      }
+    },
+    {
+      "line": 90,
+      "jp": "千代「だ、大丈夫ですよ！　お嬢さん！　お嬢さんのだって負けてません！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "一目見ただけでも、出来映えの差が分かる。",
+        "after": "千代さんが苦し紛れの励ましをくれる。"
+      }
+    },
+    {
+      "line": 91,
+      "jp": "千代さんが苦し紛れの励ましをくれる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「だ、大丈夫ですよ！　お嬢さん！　お嬢さんのだって負けてません！」",
+        "after": "宮沢　夏帆「ちなみに。サンドイッチだけじゃないからね～。ちゃーんと、おかずもデザートも用意してるんだからぁ！」"
+      }
+    },
+    {
+      "line": 92,
+      "jp": "宮沢　夏帆「ちなみに。サンドイッチだけじゃないからね～。ちゃーんと、おかずもデザートも用意してるんだからぁ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "千代さんが苦し紛れの励ましをくれる。",
+        "after": "そう言ってサンドイッチとお揃いの籠状のお弁当箱の蓋を開け、その中を見せた。"
+      }
+    },
+    {
+      "line": 93,
+      "jp": "そう言ってサンドイッチとお揃いの籠状のお弁当箱の蓋を開け、その中を見せた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ちなみに。サンドイッチだけじゃないからね～。ちゃーんと、おかずもデザートも用意してるんだからぁ！」",
+        "after": "おかずは、サンドイッチに良く合いそうなポテトやからあげやサラダといったものが並んでいた。"
+      }
+    },
+    {
+      "line": 94,
+      "jp": "おかずは、サンドイッチに良く合いそうなポテトやからあげやサラダといったものが並んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言ってサンドイッチとお揃いの籠状のお弁当箱の蓋を開け、その中を見せた。",
+        "after": "それらは、やはり同じようにして海外の新聞紙を下敷きにしている。"
+      }
+    },
+    {
+      "line": 95,
+      "jp": "それらは、やはり同じようにして海外の新聞紙を下敷きにしている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "おかずは、サンドイッチに良く合いそうなポテトやからあげやサラダといったものが並んでいた。",
+        "after": "デザートは果物の盛り合わせだ。"
+      }
+    },
+    {
+      "line": 96,
+      "jp": "デザートは果物の盛り合わせだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それらは、やはり同じようにして海外の新聞紙を下敷きにしている。",
+        "after": "宮沢　夏帆「この日の為に昨日から準備して作ったんだからね！」"
+      }
+    },
+    {
+      "line": 97,
+      "jp": "宮沢　夏帆「この日の為に昨日から準備して作ったんだからね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "デザートは果物の盛り合わせだ。",
+        "after": "宮沢　夏帆「というわけでぇー。はい、紗夜ちゃん。あーん」"
+      }
+    },
+    {
+      "line": 98,
+      "jp": "宮沢　夏帆「というわけでぇー。はい、紗夜ちゃん。あーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「この日の為に昨日から準備して作ったんだからね！」",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 99,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「というわけでぇー。はい、紗夜ちゃん。あーん」",
+        "after": "夏帆は前のめりになって、サンドイッチを私の口元に持って行く。"
+      }
+    },
+    {
+      "line": 100,
+      "jp": "夏帆は前のめりになって、サンドイッチを私の口元に持って行く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "宮沢　夏帆「あーん」"
+      }
+    },
+    {
+      "line": 101,
+      "jp": "宮沢　夏帆「あーん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は前のめりになって、サンドイッチを私の口元に持って行く。",
+        "after": "遠慮する"
+      }
+    },
+    {
+      "line": 102,
+      "jp": "遠慮する",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あーん」",
+        "after": "食べさせてもらう"
+      }
+    },
+    {
+      "line": 103,
+      "jp": "食べさせてもらう",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠慮する",
+        "after": "遠野　紗夜「夏帆、自分で食べますから……」"
+      }
+    },
+    {
+      "line": 104,
+      "jp": "遠野　紗夜「夏帆、自分で食べますから……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "食べさせてもらう",
+        "after": "宮沢　夏帆「ええー」"
+      }
+    },
+    {
+      "line": 105,
+      "jp": "宮沢　夏帆「ええー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「夏帆、自分で食べますから……」",
+        "after": "不満そうに声をあげる夏帆を宥め、私は自らの手でサンドイッチを口にする。"
+      }
+    },
+    {
+      "line": 106,
+      "jp": "不満そうに声をあげる夏帆を宥め、私は自らの手でサンドイッチを口にする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ええー」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 107,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "不満そうに声をあげる夏帆を宥め、私は自らの手でサンドイッチを口にする。",
+        "after": "私は言われるがまま、口を開けて、食べさせてもらう。"
+      }
+    },
+    {
+      "line": 108,
+      "jp": "私は言われるがまま、口を開けて、食べさせてもらう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 109,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は言われるがまま、口を開けて、食べさせてもらう。",
+        "after": "宮沢　夏帆「美味しい？」"
+      }
+    },
+    {
+      "line": 110,
+      "jp": "宮沢　夏帆「美味しい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「はい。とても」"
+      }
+    },
+    {
+      "line": 111,
+      "jp": "遠野　紗夜「はい。とても」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「美味しい？」",
+        "after": "本当に嘘偽り無く美味しいと思った。"
+      }
+    },
+    {
+      "line": 112,
+      "jp": "本当に嘘偽り無く美味しいと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい。とても」",
+        "after": "多分、そこらで売っているものより、ずっと美味しいのではないかと思う。"
+      }
+    },
+    {
+      "line": 113,
+      "jp": "多分、そこらで売っているものより、ずっと美味しいのではないかと思う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "本当に嘘偽り無く美味しいと思った。",
+        "after": "千代「いいなぁ」"
+      }
+    },
+    {
+      "line": 114,
+      "jp": "千代「いいなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "多分、そこらで売っているものより、ずっと美味しいのではないかと思う。",
+        "after": "日生　光「見た目すごく綺麗だよね。凝ってる」"
+      }
+    },
+    {
+      "line": 115,
+      "jp": "日生　光「見た目すごく綺麗だよね。凝ってる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "千代「いいなぁ」",
+        "after": "桐島　七葵「見た目ばかりではなく中身が重要なんだがな」"
+      }
+    },
+    {
+      "line": 116,
+      "jp": "桐島　七葵「見た目ばかりではなく中身が重要なんだがな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「見た目すごく綺麗だよね。凝ってる」",
+        "after": "宮沢　夏帆「ふん！　中身もちゃんとしっかりしてますよーだ！！」"
+      }
+    },
+    {
+      "line": 117,
+      "jp": "宮沢　夏帆「ふん！　中身もちゃんとしっかりしてますよーだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「見た目ばかりではなく中身が重要なんだがな」",
+        "after": "遠野　紗夜「ええ。本当にとても美味しいですよ」"
+      }
+    },
+    {
+      "line": 118,
+      "jp": "遠野　紗夜「ええ。本当にとても美味しいですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ふん！　中身もちゃんとしっかりしてますよーだ！！」",
+        "after": "桐島先輩はサンドイッチを一口口にすると、"
+      }
+    },
+    {
+      "line": 119,
+      "jp": "桐島先輩はサンドイッチを一口口にすると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ。本当にとても美味しいですよ」",
+        "after": "桐島　七葵「……確かに。美味いな」"
+      }
+    },
+    {
+      "line": 120,
+      "jp": "桐島　七葵「……確かに。美味いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩はサンドイッチを一口口にすると、",
+        "after": "と感嘆の声をあげる。"
+      }
+    },
+    {
+      "line": 121,
+      "jp": "と感嘆の声をあげる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……確かに。美味いな」",
+        "after": "日生　光「流石、夏帆ちゃん」"
+      }
+    },
+    {
+      "line": 122,
+      "jp": "日生　光「流石、夏帆ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "と感嘆の声をあげる。",
+        "after": "宮沢　夏帆「でしょ～？」"
+      }
+    },
+    {
+      "line": 123,
+      "jp": "宮沢　夏帆「でしょ～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「流石、夏帆ちゃん」",
+        "after": "夏帆は腰に両手を当て、ふふんと鼻を鳴らした。"
+      }
+    },
+    {
+      "line": 124,
+      "jp": "夏帆は腰に両手を当て、ふふんと鼻を鳴らした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「でしょ～？」",
+        "after": "桐島　七葵「では、次は俺の番か」"
+      }
+    },
+    {
+      "line": 125,
+      "jp": "桐島　七葵「では、次は俺の番か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は腰に両手を当て、ふふんと鼻を鳴らした。",
+        "after": "宮沢　夏帆「あっ！　ちょっと～！　も～うちょっと私のお弁当味わってからでも良いじゃん！」"
+      }
+    },
+    {
+      "line": 126,
+      "jp": "宮沢　夏帆「あっ！　ちょっと～！　も～うちょっと私のお弁当味わってからでも良いじゃん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「では、次は俺の番か」",
+        "after": "桐島　七葵「時間がない」"
+      }
+    },
+    {
+      "line": 127,
+      "jp": "桐島　七葵「時間がない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あっ！　ちょっと～！　も～うちょっと私のお弁当味わってからでも良いじゃん！」",
+        "after": "宮沢　夏帆「む～……」"
+      }
+    },
+    {
+      "line": 128,
+      "jp": "宮沢　夏帆「む～……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「時間がない」",
+        "after": "お弁当披露　～桐島七葵の場合～"
+      }
+    },
+    {
+      "line": 129,
+      "jp": "お弁当披露　～桐島七葵の場合～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「む～……」",
+        "after": "桐島　七葵「さて。次は俺の番か」"
+      }
+    },
+    {
+      "line": 130,
+      "jp": "桐島　七葵「さて。次は俺の番か」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "お弁当披露　～桐島七葵の場合～",
+        "after": "桐島先輩はそう言うと、風呂敷包みを解いた。"
+      }
+    },
+    {
+      "line": 131,
+      "jp": "桐島先輩はそう言うと、風呂敷包みを解いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「さて。次は俺の番か」",
+        "after": "現れた立派なお重に『おおっ』とどよめきが走る。"
+      }
+    },
+    {
+      "line": 132,
+      "jp": "現れた立派なお重に『おおっ』とどよめきが走る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩はそう言うと、風呂敷包みを解いた。",
+        "after": "日生　光「立派だな～」"
+      }
+    },
+    {
+      "line": 133,
+      "jp": "日生　光「立派だな～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "現れた立派なお重に『おおっ』とどよめきが走る。",
+        "after": "遠野　紗夜「……ええ」"
+      }
+    },
+    {
+      "line": 134,
+      "jp": "遠野　紗夜「……ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「立派だな～」",
+        "after": "宮沢　夏帆「外側だけが立派でも中身が伴ってなければ意味ないもんね！早く開けてよ～！　は·や·く～！」"
+      }
+    },
+    {
+      "line": 135,
+      "jp": "宮沢　夏帆「外側だけが立派でも中身が伴ってなければ意味ないもんね！早く開けてよ～！　は·や·く～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ええ」",
+        "after": "急かす夏帆を意識することなく、桐島先輩は落ち着いた動作でお重の蓋を開ける。"
+      }
+    },
+    {
+      "line": 136,
+      "jp": "急かす夏帆を意識することなく、桐島先輩は落ち着いた動作でお重の蓋を開ける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「外側だけが立派でも中身が伴ってなければ意味ないもんね！早く開けてよ～！　は·や·く～！」",
+        "after": "二段になっているお重には夏帆のお弁当とは全く別の華やかさを持つ、食材が並んでいた。"
+      }
+    },
+    {
+      "line": 137,
+      "jp": "二段になっているお重には夏帆のお弁当とは全く別の華やかさを持つ、食材が並んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "急かす夏帆を意識することなく、桐島先輩は落ち着いた動作でお重の蓋を開ける。",
+        "after": "一段目には白いご飯にぽつぽつと艶やかな黄色を乗せた、栗ご飯。"
+      }
+    },
+    {
+      "line": 138,
+      "jp": "一段目には白いご飯にぽつぽつと艶やかな黄色を乗せた、栗ご飯。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二段になっているお重には夏帆のお弁当とは全く別の華やかさを持つ、食材が並んでいた。",
+        "after": "二段目には四つに仕切られた、鯛やかまぼこ、揚げなすなど、その他煮物が並んでいた。"
+      }
+    },
+    {
+      "line": 139,
+      "jp": "二段目には四つに仕切られた、鯛やかまぼこ、揚げなすなど、その他煮物が並んでいた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一段目には白いご飯にぽつぽつと艶やかな黄色を乗せた、栗ご飯。",
+        "after": "見事に『和』という感じの見てくれである。"
+      }
+    },
+    {
+      "line": 140,
+      "jp": "見事に『和』という感じの見てくれである。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二段目には四つに仕切られた、鯛やかまぼこ、揚げなすなど、その他煮物が並んでいた。",
+        "after": "宮沢　夏帆「う。……味も美味しい」"
+      }
+    },
+    {
+      "line": 141,
+      "jp": "宮沢　夏帆「う。……味も美味しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "見事に『和』という感じの見てくれである。",
+        "after": "早速、栗ご飯に手をつけた夏帆が口惜しそうに呟いた。"
+      }
+    },
+    {
+      "line": 142,
+      "jp": "早速、栗ご飯に手をつけた夏帆が口惜しそうに呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「う。……味も美味しい」",
+        "after": "桐島　七葵「当たり前だ」"
+      }
+    },
+    {
+      "line": 143,
+      "jp": "桐島　七葵「当たり前だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "早速、栗ご飯に手をつけた夏帆が口惜しそうに呟いた。",
+        "after": "遠野　紗夜「これは全て桐島先輩がお作りになられたのですか？」"
+      }
+    },
+    {
+      "line": 144,
+      "jp": "遠野　紗夜「これは全て桐島先輩がお作りになられたのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「当たり前だ」",
+        "after": "千代「はい、そうですよ」"
+      }
+    },
+    {
+      "line": 145,
+      "jp": "千代「はい、そうですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「これは全て桐島先輩がお作りになられたのですか？」",
+        "after": "自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。"
+      }
+    },
+    {
+      "line": 146,
+      "jp": "自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「はい、そうですよ」",
+        "after": "桐島　七葵「……ああ、そうだ。変か？」"
+      }
+    },
+    {
+      "line": 147,
+      "jp": "桐島　七葵「……ああ、そうだ。変か？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。",
+        "after": "変かと聞かれ、少し考える。"
+      }
+    },
+    {
+      "line": 148,
+      "jp": "変かと聞かれ、少し考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……ああ、そうだ。変か？」",
+        "after": "宮沢　夏帆「桐島先輩が料理をしている姿って想像つかなーい」"
+      }
+    },
+    {
+      "line": 149,
+      "jp": "宮沢　夏帆「桐島先輩が料理をしている姿って想像つかなーい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "変かと聞かれ、少し考える。",
+        "after": "日生　光「いつも自分で作ってるの？」"
+      }
+    },
+    {
+      "line": 150,
+      "jp": "日生　光「いつも自分で作ってるの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「桐島先輩が料理をしている姿って想像つかなーい」",
+        "after": "桐島　七葵「いつもじゃないぞ。一応、母親と交代で作っている。あまり、迷惑もかけられんしな」"
+      }
+    },
+    {
+      "line": 151,
+      "jp": "桐島　七葵「いつもじゃないぞ。一応、母親と交代で作っている。あまり、迷惑もかけられんしな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「いつも自分で作ってるの？」",
+        "after": "遠野　紗夜「凄いですね」"
+      }
+    },
+    {
+      "line": 152,
+      "jp": "遠野　紗夜「凄いですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いつもじゃないぞ。一応、母親と交代で作っている。あまり、迷惑もかけられんしな」",
+        "after": "こんな単純な言葉で言い表すが、本当に凄いと思ったのだから仕方がない。"
+      }
+    },
+    {
+      "line": 153,
+      "jp": "こんな単純な言葉で言い表すが、本当に凄いと思ったのだから仕方がない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「凄いですね」",
+        "after": "交代とはいえ、自分で朝早く起きてお弁当を作るだなんて、しかも男の方がだ。"
+      }
+    },
+    {
+      "line": 154,
+      "jp": "交代とはいえ、自分で朝早く起きてお弁当を作るだなんて、しかも男の方がだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんな単純な言葉で言い表すが、本当に凄いと思ったのだから仕方がない。",
+        "after": "私はほうっと息を吐いて、目の前のお弁当に見惚れていた。"
+      }
+    },
+    {
+      "line": 155,
+      "jp": "私はほうっと息を吐いて、目の前のお弁当に見惚れていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "交代とはいえ、自分で朝早く起きてお弁当を作るだなんて、しかも男の方がだ。",
+        "after": "千代「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」"
+      }
+    },
+    {
+      "line": 156,
+      "jp": "千代「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私はほうっと息を吐いて、目の前のお弁当に見惚れていた。",
+        "after": "千代さんは私の耳元でそっと囁いた。"
+      }
+    },
+    {
+      "line": 157,
+      "jp": "千代さんは私の耳元でそっと囁いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」",
+        "after": "遠野　紗夜「そうなのですか？」"
+      }
+    },
+    {
+      "line": 158,
+      "jp": "遠野　紗夜「そうなのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代さんは私の耳元でそっと囁いた。",
+        "after": "と、言うように目をぱちくりさせる。"
+      }
+    },
+    {
+      "line": 159,
+      "jp": "と、言うように目をぱちくりさせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか？」",
+        "after": "すると、千代さんは笑顔で頷いた。"
+      }
+    },
+    {
+      "line": 160,
+      "jp": "すると、千代さんは笑顔で頷いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "と、言うように目をぱちくりさせる。",
+        "after": "千代「初めの頃は、よく指だって切ってたし、焦がしたりもしてました」"
+      }
+    },
+    {
+      "line": 161,
+      "jp": "千代「初めの頃は、よく指だって切ってたし、焦がしたりもしてました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "すると、千代さんは笑顔で頷いた。",
+        "after": "千代「しかも、今日はいつもより気合いを入れてましたよ。おかずもいつもより多めに作ってあるし、一時間も早く起きてました！　こう見えて凄い努力家なんですよ！」"
+      }
+    },
+    {
+      "line": 162,
+      "jp": "千代「しかも、今日はいつもより気合いを入れてましたよ。おかずもいつもより多めに作ってあるし、一時間も早く起きてました！　こう見えて凄い努力家なんですよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「初めの頃は、よく指だって切ってたし、焦がしたりもしてました」",
+        "after": "千代さんが意気揚々として語る。"
+      }
+    },
+    {
+      "line": 163,
+      "jp": "千代さんが意気揚々として語る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「しかも、今日はいつもより気合いを入れてましたよ。おかずもいつもより多めに作ってあるし、一時間も早く起きてました！　こう見えて凄い努力家なんですよ！」",
+        "after": "桐島　七葵「ごほん！」"
+      }
+    },
+    {
+      "line": 164,
+      "jp": "桐島　七葵「ごほん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代さんが意気揚々として語る。",
+        "after": "先程よりも大きな咳払いでこちらを威嚇する。"
+      }
+    },
+    {
+      "line": 165,
+      "jp": "先程よりも大きな咳払いでこちらを威嚇する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「ごほん！」",
+        "after": "宮沢　夏帆「ちょっとぉ～。風邪ぇ？　こっちに飛ばさないでよ～」"
+      }
+    },
+    {
+      "line": 166,
+      "jp": "宮沢　夏帆「ちょっとぉ～。風邪ぇ？　こっちに飛ばさないでよ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "先程よりも大きな咳払いでこちらを威嚇する。",
+        "after": "桐島　七葵「ああ……すまんな」"
+      }
+    },
+    {
+      "line": 167,
+      "jp": "桐島　七葵「ああ……すまんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちょっとぉ～。風邪ぇ？　こっちに飛ばさないでよ～」",
+        "after": "千代「……っと、調子に乗りすぎたみたいですね。あー……あとで怒られるんだろうなー……」"
+      }
+    },
+    {
+      "line": 168,
+      "jp": "千代「……っと、調子に乗りすぎたみたいですね。あー……あとで怒られるんだろうなー……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ……すまんな」",
+        "after": "その秘密のやり取りに私はついくすりと笑ってしまった。"
+      }
+    },
+    {
+      "line": 169,
+      "jp": "その秘密のやり取りに私はついくすりと笑ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「……っと、調子に乗りすぎたみたいですね。あー……あとで怒られるんだろうなー……」",
+        "after": "そして、一番手前にあった揚げなすを箸で摘むと、口の中に放り込んだ。"
+      }
+    },
+    {
+      "line": 170,
+      "jp": "そして、一番手前にあった揚げなすを箸で摘むと、口の中に放り込んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その秘密のやり取りに私はついくすりと笑ってしまった。",
+        "after": "遠野　紗夜「美味しいです」"
+      }
+    },
+    {
+      "line": 171,
+      "jp": "遠野　紗夜「美味しいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そして、一番手前にあった揚げなすを箸で摘むと、口の中に放り込んだ。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 172,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「美味しいです」",
+        "after": "日生　光「……さて、では次はおおトリの番だ」"
+      }
+    },
+    {
+      "line": 173,
+      "jp": "日生　光「……さて、では次はおおトリの番だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "お弁当披露　～遠野紗夜の場合～"
+      }
+    },
+    {
+      "line": 174,
+      "jp": "お弁当披露　～遠野紗夜の場合～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「……さて、では次はおおトリの番だ」",
+        "after": "言われて、急に胃に重みがのし掛かった。"
+      }
+    },
+    {
+      "line": 175,
+      "jp": "言われて、急に胃に重みがのし掛かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お弁当披露　～遠野紗夜の場合～",
+        "after": "宮沢　夏帆「わくわく」"
+      }
+    },
+    {
+      "line": 176,
+      "jp": "宮沢　夏帆「わくわく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "言われて、急に胃に重みがのし掛かった。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 177,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「わくわく」",
+        "after": "皆が私に注目する。"
+      }
+    },
+    {
+      "line": 178,
+      "jp": "皆が私に注目する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "早々に諦めていたとはいえ、やはり、こうして豪勢なお弁当を目にした後で、自分の貧相なお弁当を見られるのはどうにも我慢ならない。"
+      }
+    },
+    {
+      "line": 179,
+      "jp": "早々に諦めていたとはいえ、やはり、こうして豪勢なお弁当を目にした後で、自分の貧相なお弁当を見られるのはどうにも我慢ならない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "皆が私に注目する。",
+        "after": "けれど、今更拒否することなど、それこそ失礼に当たるだろう。"
+      }
+    },
+    {
+      "line": 180,
+      "jp": "けれど、今更拒否することなど、それこそ失礼に当たるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "早々に諦めていたとはいえ、やはり、こうして豪勢なお弁当を目にした後で、自分の貧相なお弁当を見られるのはどうにも我慢ならない。",
+        "after": "千代「お嬢さん！　大丈夫ですよ！」"
+      }
+    },
+    {
+      "line": 181,
+      "jp": "千代「お嬢さん！　大丈夫ですよ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "けれど、今更拒否することなど、それこそ失礼に当たるだろう。",
+        "after": "千代さんが拳を握り、目を輝かせる。"
+      }
+    },
+    {
+      "line": 182,
+      "jp": "千代さんが拳を握り、目を輝かせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「お嬢さん！　大丈夫ですよ！」",
+        "after": "お弁当作りを手伝ってくれた彼の行為に酬いる為にも、私はここで引き下がってはならないのだ。"
+      }
+    },
+    {
+      "line": 183,
+      "jp": "お弁当作りを手伝ってくれた彼の行為に酬いる為にも、私はここで引き下がってはならないのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代さんが拳を握り、目を輝かせる。",
+        "after": "遠野　紗夜「すみません、私はやはり皆さんのように上手くはいかなくて……」"
+      }
+    },
+    {
+      "line": 184,
+      "jp": "遠野　紗夜「すみません、私はやはり皆さんのように上手くはいかなくて……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "お弁当作りを手伝ってくれた彼の行為に酬いる為にも、私はここで引き下がってはならないのだ。",
+        "after": "私は謝罪を口にしながら、巾着袋の包みを開いた。"
+      }
+    },
+    {
+      "line": 185,
+      "jp": "私は謝罪を口にしながら、巾着袋の包みを開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「すみません、私はやはり皆さんのように上手くはいかなくて……」",
+        "after": "中から出した地味なお弁当を目にした面々は特に何も言わない。"
+      }
+    },
+    {
+      "line": 186,
+      "jp": "中から出した地味なお弁当を目にした面々は特に何も言わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は謝罪を口にしながら、巾着袋の包みを開いた。",
+        "after": "かえって、『下手くそだな』くらい言ってくれた方が気楽にはなるのだけれど、ここにそのようなことを言う人間は誰一人としていなかった。"
+      }
+    },
+    {
+      "line": 187,
+      "jp": "かえって、『下手くそだな』くらい言ってくれた方が気楽にはなるのだけれど、ここにそのようなことを言う人間は誰一人としていなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "中から出した地味なお弁当を目にした面々は特に何も言わない。",
+        "after": "三人はそれぞれ、私の作った物を口にする。"
+      }
+    },
+    {
+      "line": 188,
+      "jp": "三人はそれぞれ、私の作った物を口にする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "かえって、『下手くそだな』くらい言ってくれた方が気楽にはなるのだけれど、ここにそのようなことを言う人間は誰一人としていなかった。",
+        "after": "宮沢　夏帆「あれ」"
+      }
+    },
+    {
+      "line": 189,
+      "jp": "宮沢　夏帆「あれ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "三人はそれぞれ、私の作った物を口にする。",
+        "after": "夏帆が不思議そうな声をあげ、どきりとする。"
+      }
+    },
+    {
+      "line": 190,
+      "jp": "夏帆が不思議そうな声をあげ、どきりとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「あれ」",
+        "after": "何か不味かったのだろうか？"
+      }
+    },
+    {
+      "line": 191,
+      "jp": "何か不味かったのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆が不思議そうな声をあげ、どきりとする。",
+        "after": "けれど、返ってきた反応は私の予想外のものだった。"
+      }
+    },
+    {
+      "line": 192,
+      "jp": "けれど、返ってきた反応は私の予想外のものだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何か不味かったのだろうか？",
+        "after": "桐島　七葵「何だ。普通に食えるじゃないか」"
+      }
+    },
+    {
+      "line": 193,
+      "jp": "桐島　七葵「何だ。普通に食えるじゃないか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "けれど、返ってきた反応は私の予想外のものだった。",
+        "after": "遠野　紗夜「……本当ですか？」"
+      }
+    },
+    {
+      "line": 194,
+      "jp": "遠野　紗夜「……本当ですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「何だ。普通に食えるじゃないか」",
+        "after": "宮沢　夏帆「うん。美味しいよ！　見た目は普通……ていうか地味だな～ってぶっちゃけ思ってたんだけど、でも中身は美味しいよ！　うん！」"
+      }
+    },
+    {
+      "line": 195,
+      "jp": "宮沢　夏帆「うん。美味しいよ！　見た目は普通……ていうか地味だな～ってぶっちゃけ思ってたんだけど、でも中身は美味しいよ！　うん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……本当ですか？」",
+        "after": "桐島　七葵「そうだな」"
+      }
+    },
+    {
+      "line": 196,
+      "jp": "桐島　七葵「そうだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「うん。美味しいよ！　見た目は普通……ていうか地味だな～ってぶっちゃけ思ってたんだけど、でも中身は美味しいよ！　うん！」",
+        "after": "そう言われて、緊張の糸が一気にほぐれた。"
+      }
+    },
+    {
+      "line": 197,
+      "jp": "そう言われて、緊張の糸が一気にほぐれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「そうだな」",
+        "after": "遠野　紗夜「良かったです……」"
+      }
+    },
+    {
+      "line": 198,
+      "jp": "遠野　紗夜「良かったです……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言われて、緊張の糸が一気にほぐれた。",
+        "after": "千代「良かったですね！　お嬢さん！」"
+      }
+    },
+    {
+      "line": 199,
+      "jp": "千代「良かったですね！　お嬢さん！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「良かったです……」",
+        "after": "桐島　七葵「だが、この野菜は頂けんな」"
+      }
+    },
+    {
+      "line": 200,
+      "jp": "桐島　七葵「だが、この野菜は頂けんな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「良かったですね！　お嬢さん！」",
+        "after": "そう言って、桐島先輩が箸でつかんだのは中途半端に切れて居らず、繋がったままのキュウリだった。"
+      }
+    },
+    {
+      "line": 201,
+      "jp": "そう言って、桐島先輩が箸でつかんだのは中途半端に切れて居らず、繋がったままのキュウリだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「だが、この野菜は頂けんな」",
+        "after": "宮沢　夏帆「あ、ほんとだ」"
+      }
+    },
+    {
+      "line": 202,
+      "jp": "宮沢　夏帆「あ、ほんとだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、桐島先輩が箸でつかんだのは中途半端に切れて居らず、繋がったままのキュウリだった。",
+        "after": "遠野　紗夜「あああ……すみません……」"
+      }
+    },
+    {
+      "line": 203,
+      "jp": "遠野　紗夜「あああ……すみません……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あ、ほんとだ」",
+        "after": "私は恥ずかしくて見ていられなくなり、両手で顔を覆う。"
+      }
+    },
+    {
+      "line": 204,
+      "jp": "私は恥ずかしくて見ていられなくなり、両手で顔を覆う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あああ……すみません……」",
+        "after": "夏帆の明るい笑い声が響き渡り、小さく笑う桐島先輩の姿が指の隙間から見えた。"
+      }
+    },
+    {
+      "line": 205,
+      "jp": "夏帆の明るい笑い声が響き渡り、小さく笑う桐島先輩の姿が指の隙間から見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は恥ずかしくて見ていられなくなり、両手で顔を覆う。",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 206,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆の明るい笑い声が響き渡り、小さく笑う桐島先輩の姿が指の隙間から見えた。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 207,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "日生　光「…………」"
+      }
+    },
+    {
+      "line": 208,
+      "jp": "日生　光「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 209,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「…………」",
+        "after": "誰も何も言わない。"
+      }
+    },
+    {
+      "line": 210,
+      "jp": "誰も何も言わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "私が不思議に思っていると、夏帆が小さく呟いた。"
+      }
+    },
+    {
+      "line": 211,
+      "jp": "私が不思議に思っていると、夏帆が小さく呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "誰も何も言わない。",
+        "after": "宮沢　夏帆「……うん。まあ、想像通りというか何というかぁ」"
+      }
+    },
+    {
+      "line": 212,
+      "jp": "宮沢　夏帆「……うん。まあ、想像通りというか何というかぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私が不思議に思っていると、夏帆が小さく呟いた。",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 213,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……うん。まあ、想像通りというか何というかぁ」",
+        "after": "桐島先輩は黙って水を飲むと、夏帆もそれに続く。"
+      }
+    },
+    {
+      "line": 214,
+      "jp": "桐島先輩は黙って水を飲むと、夏帆もそれに続く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「すみません…………」"
+      }
+    },
+    {
+      "line": 215,
+      "jp": "遠野　紗夜「すみません…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は黙って水を飲むと、夏帆もそれに続く。",
+        "after": "やはり、美味しくはなかったようだ。"
+      }
+    },
+    {
+      "line": 216,
+      "jp": "やはり、美味しくはなかったようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「すみません…………」",
+        "after": "千代「す、すみません。お嬢さん……。俺が頼りないばっかりに……」"
+      }
+    },
+    {
+      "line": 217,
+      "jp": "千代「す、すみません。お嬢さん……。俺が頼りないばっかりに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "やはり、美味しくはなかったようだ。",
+        "after": "いいえ、と私は小さく首を振る。"
+      }
+    },
+    {
+      "line": 218,
+      "jp": "いいえ、と私は小さく首を振る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「す、すみません。お嬢さん……。俺が頼りないばっかりに……」",
+        "after": "千代さんは悪くはない。悪いのは、今まで料理も何もしてこなかった私自身だ。"
+      }
+    },
+    {
+      "line": 219,
+      "jp": "千代さんは悪くはない。悪いのは、今まで料理も何もしてこなかった私自身だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いいえ、と私は小さく首を振る。",
+        "after": "千代「お嬢さん……」"
+      }
+    },
+    {
+      "line": 220,
+      "jp": "千代「お嬢さん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代さんは悪くはない。悪いのは、今まで料理も何もしてこなかった私自身だ。",
+        "after": "私が一人項垂れていると、"
+      }
+    },
+    {
+      "line": 221,
+      "jp": "私が一人項垂れていると、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「お嬢さん……」",
+        "after": "日生　光「僕は美味しいと思うけどなぁ」"
+      }
+    },
+    {
+      "line": 222,
+      "jp": "日生　光「僕は美味しいと思うけどなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私が一人項垂れていると、",
+        "after": "と、日生先輩が呟いた。"
+      }
+    },
+    {
+      "line": 223,
+      "jp": "と、日生先輩が呟いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「僕は美味しいと思うけどなぁ」",
+        "after": "遠野　紗夜「……そうですか？」"
+      }
+    },
+    {
+      "line": 224,
+      "jp": "遠野　紗夜「……そうですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、日生先輩が呟いた。",
+        "after": "日生　光「うん。お嬢が作ったといわれると更に」"
+      }
+    },
+    {
+      "line": 225,
+      "jp": "日生　光「うん。お嬢が作ったといわれると更に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……そうですか？」",
+        "after": "日生先輩はそう言って、ばっちりとウィンクをした。"
+      }
+    },
+    {
+      "line": 226,
+      "jp": "日生先輩はそう言って、ばっちりとウィンクをした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「うん。お嬢が作ったといわれると更に」",
+        "after": "遠野　紗夜「……ありがとうございます」"
+      }
+    },
+    {
+      "line": 227,
+      "jp": "遠野　紗夜「……ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩はそう言って、ばっちりとウィンクをした。",
+        "after": "私は日生先輩の心配りに微笑んだ。"
+      }
+    },
+    {
+      "line": 228,
+      "jp": "私は日生先輩の心配りに微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……ありがとうございます」",
+        "after": "日生　光「じゃあ、判定しようか」"
+      }
+    },
+    {
+      "line": 229,
+      "jp": "日生　光「じゃあ、判定しようか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私は日生先輩の心配りに微笑んだ。",
+        "after": "宮沢　夏帆「判定も何も私の余裕勝ちじゃん」"
+      }
+    },
+    {
+      "line": 230,
+      "jp": "宮沢　夏帆「判定も何も私の余裕勝ちじゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「じゃあ、判定しようか」",
+        "after": "桐島　七葵「宮沢。寝言は寝て言え」"
+      }
+    },
+    {
+      "line": 231,
+      "jp": "桐島　七葵「宮沢。寝言は寝て言え」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「判定も何も私の余裕勝ちじゃん」",
+        "after": "宮沢　夏帆「寝てないもん。寝言じゃないし～」"
+      }
+    },
+    {
+      "line": 232,
+      "jp": "宮沢　夏帆「寝てないもん。寝言じゃないし～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「宮沢。寝言は寝て言え」",
+        "after": "日生　光「えーと、二人は自分のお弁当が一番だということで」"
+      }
+    },
+    {
+      "line": 233,
+      "jp": "日生　光「えーと、二人は自分のお弁当が一番だということで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「寝てないもん。寝言じゃないし～」",
+        "after": "桐島　七葵「ああ」"
+      }
+    },
+    {
+      "line": 234,
+      "jp": "桐島　七葵「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「えーと、二人は自分のお弁当が一番だということで」",
+        "after": "宮沢　夏帆「そうだよ～！」"
+      }
+    },
+    {
+      "line": 235,
+      "jp": "宮沢　夏帆「そうだよ～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ」",
+        "after": "二人は揃って、深く頷く。"
+      }
+    },
+    {
+      "line": 236,
+      "jp": "二人は揃って、深く頷く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「そうだよ～！」",
+        "after": "千代「はは……。流石、二人は違うなぁ」"
+      }
+    },
+    {
+      "line": 237,
+      "jp": "千代「はは……。流石、二人は違うなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "二人は揃って、深く頷く。",
+        "after": "日生　光「僕はお嬢のお弁当が一番美味しかったけどな」"
+      }
+    },
+    {
+      "line": 238,
+      "jp": "日生　光「僕はお嬢のお弁当が一番美味しかったけどな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "千代「はは……。流石、二人は違うなぁ」",
+        "after": "と、日生先輩。"
+      }
+    },
+    {
+      "line": 239,
+      "jp": "と、日生先輩。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「僕はお嬢のお弁当が一番美味しかったけどな」",
+        "after": "遠野　紗夜「えっ！！」"
+      }
+    },
+    {
+      "line": 240,
+      "jp": "遠野　紗夜「えっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と、日生先輩。",
+        "after": "二人が驚くよりも先に、私は驚きの声をあげた。"
+      }
+    },
+    {
+      "line": 241,
+      "jp": "二人が驚くよりも先に、私は驚きの声をあげた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「えっ！！」",
+        "after": "私のお弁当は他の二人の反応から見て分かるように、どう考えても美味しくはなかったはずなのだ。"
+      }
+    },
+    {
+      "line": 242,
+      "jp": "私のお弁当は他の二人の反応から見て分かるように、どう考えても美味しくはなかったはずなのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "二人が驚くよりも先に、私は驚きの声をあげた。",
+        "after": "それは自分自身でもよく理解しているし、例えこれが美味しく作られていたとしても、他の人には到底敵わない。"
+      }
+    },
+    {
+      "line": 243,
+      "jp": "それは自分自身でもよく理解しているし、例えこれが美味しく作られていたとしても、他の人には到底敵わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私のお弁当は他の二人の反応から見て分かるように、どう考えても美味しくはなかったはずなのだ。",
+        "after": "日生先輩は何やら意味ありげな微笑みを浮かべ、こちらを見ている。"
+      }
+    },
+    {
+      "line": 244,
+      "jp": "日生先輩は何やら意味ありげな微笑みを浮かべ、こちらを見ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは自分自身でもよく理解しているし、例えこれが美味しく作られていたとしても、他の人には到底敵わない。",
+        "after": "彼が何を考えているのか分からない。"
+      }
+    },
+    {
+      "line": 245,
+      "jp": "彼が何を考えているのか分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は何やら意味ありげな微笑みを浮かべ、こちらを見ている。",
+        "after": "宮沢　夏帆「紗夜ちゃんは！？」"
+      }
+    },
+    {
+      "line": 246,
+      "jp": "宮沢　夏帆「紗夜ちゃんは！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "彼が何を考えているのか分からない。",
+        "after": "遠野　紗夜「え……」"
+      }
+    },
+    {
+      "line": 247,
+      "jp": "遠野　紗夜「え……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃんは！？」",
+        "after": "私はと聞かれ、ハッと周りを見る。"
+      }
+    },
+    {
+      "line": 248,
+      "jp": "私はと聞かれ、ハッと周りを見る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「え……」",
+        "after": "桐島先輩と夏帆はそれぞれ真剣な顔をして、私が答えるのを待っている。"
+      }
+    },
+    {
+      "line": 249,
+      "jp": "桐島先輩と夏帆はそれぞれ真剣な顔をして、私が答えるのを待っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はと聞かれ、ハッと周りを見る。",
+        "after": "今の所、私と夏帆と桐島先輩に一票ずつ票が入っている。"
+      }
+    },
+    {
+      "line": 250,
+      "jp": "今の所、私と夏帆と桐島先輩に一票ずつ票が入っている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩と夏帆はそれぞれ真剣な顔をして、私が答えるのを待っている。",
+        "after": "ということは、私次第で二人のどちらか（または私自身を）を勝たすことが出来るのだ。"
+      }
+    },
+    {
+      "line": 251,
+      "jp": "ということは、私次第で二人のどちらか（または私自身を）を勝たすことが出来るのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今の所、私と夏帆と桐島先輩に一票ずつ票が入っている。",
+        "after": "私はちらと日生先輩の方を見た。"
+      }
+    },
+    {
+      "line": 252,
+      "jp": "私はちらと日生先輩の方を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ということは、私次第で二人のどちらか（または私自身を）を勝たすことが出来るのだ。",
+        "after": "遠野　紗夜「……では、私は日生先輩に一票を」"
+      }
+    },
+    {
+      "line": 253,
+      "jp": "遠野　紗夜「……では、私は日生先輩に一票を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私はちらと日生先輩の方を見た。",
+        "after": "宮沢　夏帆「ええ～！！」"
+      }
+    },
+    {
+      "line": 254,
+      "jp": "宮沢　夏帆「ええ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……では、私は日生先輩に一票を」",
+        "after": "日生　光「これで、全員に一票ずつ入ったのか」"
+      }
+    },
+    {
+      "line": 255,
+      "jp": "日生　光「これで、全員に一票ずつ入ったのか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ええ～！！」",
+        "after": "遠野　紗夜「ええ、勝負は引き分けですね」"
+      }
+    },
+    {
+      "line": 256,
+      "jp": "遠野　紗夜「ええ、勝負は引き分けですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「これで、全員に一票ずつ入ったのか」",
+        "after": "私と日生先輩は顔を見合わせ、笑った。"
+      }
+    },
+    {
+      "line": 257,
+      "jp": "私と日生先輩は顔を見合わせ、笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ええ、勝負は引き分けですね」",
+        "after": "宮沢　夏帆「納得いかな～い！」"
+      }
+    },
+    {
+      "line": 258,
+      "jp": "宮沢　夏帆「納得いかな～い！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "私と日生先輩は顔を見合わせ、笑った。",
+        "after": "夏帆が声高に叫ぶ。"
+      }
+    },
+    {
+      "line": 259,
+      "jp": "夏帆が声高に叫ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「納得いかな～い！」",
+        "after": "桐島先輩は桐島先輩で私達を軽く睨みながら、"
+      }
+    },
+    {
+      "line": 260,
+      "jp": "桐島先輩は桐島先輩で私達を軽く睨みながら、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏帆が声高に叫ぶ。",
+        "after": "桐島　七葵「お前達、仕組んだな」"
+      }
+    },
+    {
+      "line": 261,
+      "jp": "桐島　七葵「お前達、仕組んだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は桐島先輩で私達を軽く睨みながら、",
+        "after": "と低い声で言うのだった。"
+      }
+    },
+    {
+      "line": 262,
+      "jp": "と低い声で言うのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「お前達、仕組んだな」",
+        "after": "日生　光「でも、ねえ」"
+      }
+    },
+    {
+      "line": 263,
+      "jp": "日生　光「でも、ねえ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "と低い声で言うのだった。",
+        "after": "日生先輩は後に手をつき、体を斜めにした。"
+      }
+    },
+    {
+      "line": 264,
+      "jp": "日生先輩は後に手をつき、体を斜めにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「でも、ねえ」",
+        "after": "日生　光「こうして互いにお弁当を作って、誰の物が一番か判断するということだけど、僕らは四人全員誰が何を作ってきたのかは知っているわけだよね」"
+      }
+    },
+    {
+      "line": 265,
+      "jp": "日生　光「こうして互いにお弁当を作って、誰の物が一番か判断するということだけど、僕らは四人全員誰が何を作ってきたのかは知っているわけだよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生先輩は後に手をつき、体を斜めにした。",
+        "after": "日生　光「それって、考えてみれば公平な判断が出来るわけがないよね。だって、僕達は互いを知っているし、特にルールを敷いてもいない。その時点で私情が入りこんだ結果になることは明白だ」"
+      }
+    },
+    {
+      "line": 266,
+      "jp": "日生　光「それって、考えてみれば公平な判断が出来るわけがないよね。だって、僕達は互いを知っているし、特にルールを敷いてもいない。その時点で私情が入りこんだ結果になることは明白だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「こうして互いにお弁当を作って、誰の物が一番か判断するということだけど、僕らは四人全員誰が何を作ってきたのかは知っているわけだよね」",
+        "after": "日生　光「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」"
+      }
+    },
+    {
+      "line": 267,
+      "jp": "日生　光「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それって、考えてみれば公平な判断が出来るわけがないよね。だって、僕達は互いを知っているし、特にルールを敷いてもいない。その時点で私情が入りこんだ結果になることは明白だ」",
+        "after": "日生　光「勿論、ルールを敷くのも良いけれど、それにしたって今と同じ様な状況にならないとは言えない」"
+      }
+    },
+    {
+      "line": 268,
+      "jp": "日生　光「勿論、ルールを敷くのも良いけれど、それにしたって今と同じ様な状況にならないとは言えない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」",
+        "after": "日生　光「本当に誰が一番か決めたいのなら、誰がどのお弁当を作ったのか知らない、全く関係ない第三者を立てるべきじゃないかな？」"
+      }
+    },
+    {
+      "line": 269,
+      "jp": "日生　光「本当に誰が一番か決めたいのなら、誰がどのお弁当を作ったのか知らない、全く関係ない第三者を立てるべきじゃないかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「勿論、ルールを敷くのも良いけれど、それにしたって今と同じ様な状況にならないとは言えない」",
+        "after": "桐島　七葵「……ふむ。まあ、正論には聞こえるな」"
+      }
+    },
+    {
+      "line": 270,
+      "jp": "桐島　七葵「……ふむ。まあ、正論には聞こえるな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「本当に誰が一番か決めたいのなら、誰がどのお弁当を作ったのか知らない、全く関係ない第三者を立てるべきじゃないかな？」",
+        "after": "桐島先輩は日生先輩の言葉を受けて、一応納得したかのように頷いてみせる。"
+      }
+    },
+    {
+      "line": 271,
+      "jp": "桐島先輩は日生先輩の言葉を受けて、一応納得したかのように頷いてみせる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……ふむ。まあ、正論には聞こえるな」",
+        "after": "そして、顔を上げた桐島先輩はこちらの背筋がぞくりとするような笑みを浮かべて言った。"
+      }
+    },
+    {
+      "line": 272,
+      "jp": "そして、顔を上げた桐島先輩はこちらの背筋がぞくりとするような笑みを浮かべて言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は日生先輩の言葉を受けて、一応納得したかのように頷いてみせる。",
+        "after": "桐島　七葵「敢えて聞くが、この企画を立てたのは誰だ？」"
+      }
+    },
+    {
+      "line": 273,
+      "jp": "桐島　七葵「敢えて聞くが、この企画を立てたのは誰だ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "そして、顔を上げた桐島先輩はこちらの背筋がぞくりとするような笑みを浮かべて言った。",
+        "after": "日生　光「あはっ。僕だね」"
+      }
+    },
+    {
+      "line": 274,
+      "jp": "日生　光「あはっ。僕だね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「敢えて聞くが、この企画を立てたのは誰だ？」",
+        "after": "桐島　七葵「なら、今すぐ誰か連れてこい！」"
+      }
+    },
+    {
+      "line": 275,
+      "jp": "桐島　七葵「なら、今すぐ誰か連れてこい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あはっ。僕だね」",
+        "after": "日生　光「ええっ。それは面倒だなぁ……」"
+      }
+    },
+    {
+      "line": 276,
+      "jp": "日生　光「ええっ。それは面倒だなぁ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「なら、今すぐ誰か連れてこい！」",
+        "after": "日生先輩がそう言って、顔を上向けた時だった。"
+      }
+    },
+    {
+      "line": 277,
+      "jp": "日生先輩がそう言って、顔を上向けた時だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「ええっ。それは面倒だなぁ……」",
+        "after": "がさりと茂みが揺れ、そこからクラスメイトの夏目悠希君が現れた。"
+      }
+    },
+    {
+      "line": 278,
+      "jp": "がさりと茂みが揺れ、そこからクラスメイトの夏目悠希君が現れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩がそう言って、顔を上向けた時だった。",
+        "after": "夏目　悠希「あ」"
+      }
+    },
+    {
+      "line": 279,
+      "jp": "夏目　悠希「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "がさりと茂みが揺れ、そこからクラスメイトの夏目悠希君が現れた。",
+        "after": "日生　光「あ」"
+      }
+    },
+    {
+      "line": 280,
+      "jp": "日生　光「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「あ」",
+        "after": "夏目　悠希「失礼します！」"
+      }
+    },
+    {
+      "line": 281,
+      "jp": "夏目　悠希「失礼します！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あ」",
+        "after": "日生　光「はいはい、ちょっと待ってねー」"
+      }
+    },
+    {
+      "line": 282,
+      "jp": "日生　光「はいはい、ちょっと待ってねー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「失礼します！」",
+        "after": "夏目君はすぐさま体を旋回させたが、時既に遅し、日生先輩に腕を取られてしまった。"
+      }
+    },
+    {
+      "line": 283,
+      "jp": "夏目君はすぐさま体を旋回させたが、時既に遅し、日生先輩に腕を取られてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はいはい、ちょっと待ってねー」",
+        "after": "夏目　悠希「……何ですか」"
+      }
+    },
+    {
+      "line": 284,
+      "jp": "夏目　悠希「……何ですか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目君はすぐさま体を旋回させたが、時既に遅し、日生先輩に腕を取られてしまった。",
+        "after": "ぶすりと不機嫌そのままの表情を隠すことなく、夏目君は振り返った。"
+      }
+    },
+    {
+      "line": 285,
+      "jp": "ぶすりと不機嫌そのままの表情を隠すことなく、夏目君は振り返った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「……何ですか」",
+        "after": "日生　光「いやさ、丁度通りかかった君に是非判定をお願いしたいと思いまして」"
+      }
+    },
+    {
+      "line": 286,
+      "jp": "日生　光「いやさ、丁度通りかかった君に是非判定をお願いしたいと思いまして」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ぶすりと不機嫌そのままの表情を隠すことなく、夏目君は振り返った。",
+        "after": "夏目　悠希「判定？」"
+      }
+    },
+    {
+      "line": 287,
+      "jp": "夏目　悠希「判定？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「いやさ、丁度通りかかった君に是非判定をお願いしたいと思いまして」",
+        "after": "夏目君は怪訝顔で聞き返した。"
+      }
+    },
+    {
+      "line": 288,
+      "jp": "夏目君は怪訝顔で聞き返した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「判定？」",
+        "after": "日生　光「そう。君にこの四つのお弁当をそれぞれ食べてもらって、どれが一番美味しいか決めてもらいたいな」"
+      }
+    },
+    {
+      "line": 289,
+      "jp": "日生　光「そう。君にこの四つのお弁当をそれぞれ食べてもらって、どれが一番美味しいか決めてもらいたいな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目君は怪訝顔で聞き返した。",
+        "after": "夏目　悠希「何で僕が！　他の人に頼んで下さい！」"
+      }
+    },
+    {
+      "line": 290,
+      "jp": "夏目　悠希「何で僕が！　他の人に頼んで下さい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そう。君にこの四つのお弁当をそれぞれ食べてもらって、どれが一番美味しいか決めてもらいたいな」",
+        "after": "そう言って、振り払おうとしたのだろう。"
+      }
+    },
+    {
+      "line": 291,
+      "jp": "そう言って、振り払おうとしたのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「何で僕が！　他の人に頼んで下さい！」",
+        "after": "夏目君はぶんと手を大きく振ったが、日生先輩は離さず、二人の手は繋がったまま不格好に上下に揺れた。"
+      }
+    },
+    {
+      "line": 292,
+      "jp": "夏目君はぶんと手を大きく振ったが、日生先輩は離さず、二人の手は繋がったまま不格好に上下に揺れた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って、振り払おうとしたのだろう。",
+        "after": "夏目　悠希「は·な·し·て·く·だ·さ·い！！」"
+      }
+    },
+    {
+      "line": 293,
+      "jp": "夏目　悠希「は·な·し·て·く·だ·さ·い！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏目君はぶんと手を大きく振ったが、日生先輩は離さず、二人の手は繋がったまま不格好に上下に揺れた。",
+        "after": "それでも、なおも抵抗する夏目君に日生先輩は突然ばっと手を離した。"
+      }
+    },
+    {
+      "line": 294,
+      "jp": "それでも、なおも抵抗する夏目君に日生先輩は突然ばっと手を離した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「は·な·し·て·く·だ·さ·い！！」",
+        "after": "反動で少しよろけた夏目君だったけれど、すぐに体勢を整え、転倒は免れる。"
+      }
+    },
+    {
+      "line": 295,
+      "jp": "反動で少しよろけた夏目君だったけれど、すぐに体勢を整え、転倒は免れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それでも、なおも抵抗する夏目君に日生先輩は突然ばっと手を離した。",
+        "after": "ようやく開放され、ほっと息を吐いている夏目君に向かって、日生先輩はやけに意味深なことを言ってのけた。"
+      }
+    },
+    {
+      "line": 296,
+      "jp": "ようやく開放され、ほっと息を吐いている夏目君に向かって、日生先輩はやけに意味深なことを言ってのけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "反動で少しよろけた夏目君だったけれど、すぐに体勢を整え、転倒は免れる。",
+        "after": "日生　光「うーん。夏目君。僕、一応元生徒会長なんだよね」"
+      }
+    },
+    {
+      "line": 297,
+      "jp": "日生　光「うーん。夏目君。僕、一応元生徒会長なんだよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "ようやく開放され、ほっと息を吐いている夏目君に向かって、日生先輩はやけに意味深なことを言ってのけた。",
+        "after": "夏目　悠希「それがどうしたんですか！」"
+      }
+    },
+    {
+      "line": 298,
+      "jp": "夏目　悠希「それがどうしたんですか！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うーん。夏目君。僕、一応元生徒会長なんだよね」",
+        "after": "日生　光「別にどうもしないさ。ただ、生徒会長って生徒が何か違反していた場合にはそれを見過ごすわけにはいかないんだよね」"
+      }
+    },
+    {
+      "line": 299,
+      "jp": "日生　光「別にどうもしないさ。ただ、生徒会長って生徒が何か違反していた場合にはそれを見過ごすわけにはいかないんだよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「それがどうしたんですか！」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 300,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「別にどうもしないさ。ただ、生徒会長って生徒が何か違反していた場合にはそれを見過ごすわけにはいかないんだよね」",
+        "after": "日生　光「夏目君。君は真面目な生徒だよね？」"
+      }
+    },
+    {
+      "line": 301,
+      "jp": "日生　光「夏目君。君は真面目な生徒だよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "するとどうだろう。"
+      }
+    },
+    {
+      "line": 302,
+      "jp": "するとどうだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「夏目君。君は真面目な生徒だよね？」",
+        "after": "先程まであれほど嫌がっていた夏目君は、やはりぶすりとしたままだったけれど、大人しく日生先輩の横についたのだった。"
+      }
+    },
+    {
+      "line": 303,
+      "jp": "先程まであれほど嫌がっていた夏目君は、やはりぶすりとしたままだったけれど、大人しく日生先輩の横についたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "するとどうだろう。",
+        "after": "夏目　悠希「箸は」"
+      }
+    },
+    {
+      "line": 304,
+      "jp": "夏目　悠希「箸は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "先程まであれほど嫌がっていた夏目君は、やはりぶすりとしたままだったけれど、大人しく日生先輩の横についたのだった。",
+        "after": "遠野　紗夜「あ、どうぞ」"
+      }
+    },
+    {
+      "line": 305,
+      "jp": "遠野　紗夜「あ、どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「箸は」",
+        "after": "どうやら、心苦しいことがあるらしい。"
+      }
+    },
+    {
+      "line": 306,
+      "jp": "どうやら、心苦しいことがあるらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、どうぞ」",
+        "after": "宮沢　夏帆「…………」"
+      }
+    },
+    {
+      "line": 307,
+      "jp": "宮沢　夏帆「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "どうやら、心苦しいことがあるらしい。",
+        "after": "宮沢　夏帆「……何か、日生先輩ってすごく性格悪い気がする。よく分かんないけど」"
+      }
+    },
+    {
+      "line": 308,
+      "jp": "宮沢　夏帆「……何か、日生先輩ってすごく性格悪い気がする。よく分かんないけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「…………」",
+        "after": "桐島　七葵「気がするじゃなくて、悪いだろう。どう考えても」"
+      }
+    },
+    {
+      "line": 309,
+      "jp": "桐島　七葵「気がするじゃなくて、悪いだろう。どう考えても」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……何か、日生先輩ってすごく性格悪い気がする。よく分かんないけど」",
+        "after": "私は思わず苦笑した。"
+      }
+    },
+    {
+      "line": 310,
+      "jp": "私は思わず苦笑した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「気がするじゃなくて、悪いだろう。どう考えても」",
+        "after": "料理判定　～判定人　夏目悠希～"
+      }
+    },
+    {
+      "line": 311,
+      "jp": "料理判定　～判定人　夏目悠希～",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は思わず苦笑した。",
+        "after": "夏目　悠希「それで、これを食べれば良いんですか？」"
+      }
+    },
+    {
+      "line": 312,
+      "jp": "夏目　悠希「それで、これを食べれば良いんですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "料理判定　～判定人　夏目悠希～",
+        "after": "日生　光「そうそう」"
+      }
+    },
+    {
+      "line": 313,
+      "jp": "日生　光「そうそう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「それで、これを食べれば良いんですか？」",
+        "after": "夏目　悠希「やけに豪勢な弁当だな……」"
+      }
+    },
+    {
+      "line": 314,
+      "jp": "夏目　悠希「やけに豪勢な弁当だな……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうそう」",
+        "after": "日生　光「はい。まずは、これから」"
+      }
+    },
+    {
+      "line": 315,
+      "jp": "日生　光「はい。まずは、これから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「やけに豪勢な弁当だな……」",
+        "after": "そう言って日生先輩が夏目君に勧めたのは自分の作ったお弁当だった。"
+      }
+    },
+    {
+      "line": 316,
+      "jp": "そう言って日生先輩が夏目君に勧めたのは自分の作ったお弁当だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はい。まずは、これから」",
+        "after": "私はおやっと思った。夏目君はそれを見た瞬間、不審そうな表情を浮かべたのだ。"
+      }
+    },
+    {
+      "line": 317,
+      "jp": "私はおやっと思った。夏目君はそれを見た瞬間、不審そうな表情を浮かべたのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そう言って日生先輩が夏目君に勧めたのは自分の作ったお弁当だった。",
+        "after": "夏目　悠希「これ、コンビニの弁当詰め替えただけですね」"
+      }
+    },
+    {
+      "line": 318,
+      "jp": "夏目　悠希「これ、コンビニの弁当詰め替えただけですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私はおやっと思った。夏目君はそれを見た瞬間、不審そうな表情を浮かべたのだ。",
+        "after": "一口口にした夏目君は、そう言い放った。"
+      }
+    },
+    {
+      "line": 319,
+      "jp": "一口口にした夏目君は、そう言い放った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「これ、コンビニの弁当詰め替えただけですね」",
+        "after": "日生　光「あ、ばれた？」"
+      }
+    },
+    {
+      "line": 320,
+      "jp": "日生　光「あ、ばれた？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "一口口にした夏目君は、そう言い放った。",
+        "after": "遠野　紗夜「そうなのですか？」"
+      }
+    },
+    {
+      "line": 321,
+      "jp": "遠野　紗夜「そうなのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あ、ばれた？」",
+        "after": "桐島　七葵「日生……？」"
+      }
+    },
+    {
+      "line": 322,
+      "jp": "桐島　七葵「日生……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか？」",
+        "after": "宮沢　夏帆「ちょっとぉ～！！　何、ズルしてるのぉ～！！　最ッ低！！」"
+      }
+    },
+    {
+      "line": 323,
+      "jp": "宮沢　夏帆「ちょっとぉ～！！　何、ズルしてるのぉ～！！　最ッ低！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「日生……？」",
+        "after": "日生　光「あはっ。ごめんごめん。だって、僕、料理作れないし」"
+      }
+    },
+    {
+      "line": 324,
+      "jp": "日生　光「あはっ。ごめんごめん。だって、僕、料理作れないし」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちょっとぉ～！！　何、ズルしてるのぉ～！！　最ッ低！！」",
+        "after": "桐島　七葵「だったら最初からこんな計画立ち上げるな！！」"
+      }
+    },
+    {
+      "line": 325,
+      "jp": "桐島　七葵「だったら最初からこんな計画立ち上げるな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あはっ。ごめんごめん。だって、僕、料理作れないし」",
+        "after": "日生　光「良いじゃないか。何だか面白そうだなと思ったんだよ」"
+      }
+    },
+    {
+      "line": 326,
+      "jp": "日生　光「良いじゃないか。何だか面白そうだなと思ったんだよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「だったら最初からこんな計画立ち上げるな！！」",
+        "after": "これには、もう呆れるばかりだった。"
+      }
+    },
+    {
+      "line": 327,
+      "jp": "これには、もう呆れるばかりだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「良いじゃないか。何だか面白そうだなと思ったんだよ」",
+        "after": "あんなに凄いと皆感心していたのにそれが嘘だったとは思わなかった。"
+      }
+    },
+    {
+      "line": 328,
+      "jp": "あんなに凄いと皆感心していたのにそれが嘘だったとは思わなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これには、もう呆れるばかりだった。",
+        "after": "けれど、それよりも何よりも凄いのは夏目君だ。"
+      }
+    },
+    {
+      "line": 329,
+      "jp": "けれど、それよりも何よりも凄いのは夏目君だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "あんなに凄いと皆感心していたのにそれが嘘だったとは思わなかった。",
+        "after": "遠野　紗夜「……夏目君もよくお分かりになりましたね」"
+      }
+    },
+    {
+      "line": 330,
+      "jp": "遠野　紗夜「……夏目君もよくお分かりになりましたね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "けれど、それよりも何よりも凄いのは夏目君だ。",
+        "after": "私がそう言うと彼はチラとこちらに目を向け、すぐに背けた。"
+      }
+    },
+    {
+      "line": 331,
+      "jp": "私がそう言うと彼はチラとこちらに目を向け、すぐに背けた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……夏目君もよくお分かりになりましたね」",
+        "after": "夏目　悠希「ふん。当たり前だ。これくらい見抜けないで料理好きを名乗る資格なんてないと思うよ」"
+      }
+    },
+    {
+      "line": 332,
+      "jp": "夏目　悠希「ふん。当たり前だ。これくらい見抜けないで料理好きを名乗る資格なんてないと思うよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "私がそう言うと彼はチラとこちらに目を向け、すぐに背けた。",
+        "after": "宮沢　夏帆「うっ！」"
+      }
+    },
+    {
+      "line": 333,
+      "jp": "宮沢　夏帆「うっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「ふん。当たり前だ。これくらい見抜けないで料理好きを名乗る資格なんてないと思うよ」",
+        "after": "桐島　七葵「精進が足りなかったか……」"
+      }
+    },
+    {
+      "line": 334,
+      "jp": "桐島　七葵「精進が足りなかったか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「うっ！」",
+        "after": "宮沢　夏帆「じゃ、じゃあ次はこれ～！」"
+      }
+    },
+    {
+      "line": 335,
+      "jp": "宮沢　夏帆「じゃ、じゃあ次はこれ～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「精進が足りなかったか……」",
+        "after": "夏帆はさり気なく桐島先輩のお弁当を差し出す。"
+      }
+    },
+    {
+      "line": 336,
+      "jp": "夏帆はさり気なく桐島先輩のお弁当を差し出す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「じゃ、じゃあ次はこれ～！」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 337,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "夏帆はさり気なく桐島先輩のお弁当を差し出す。",
+        "after": "宮沢　夏帆「……どうっ！？」"
+      }
+    },
+    {
+      "line": 338,
+      "jp": "宮沢　夏帆「……どうっ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "夏目　悠希「美味い」"
+      }
+    },
+    {
+      "line": 339,
+      "jp": "夏目　悠希「美味い」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……どうっ！？」",
+        "after": "宮沢　夏帆「じゃあ、これは！？」"
+      }
+    },
+    {
+      "line": 340,
+      "jp": "宮沢　夏帆「じゃあ、これは！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「美味い」",
+        "after": "今度は自分の分。"
+      }
+    },
+    {
+      "line": 341,
+      "jp": "今度は自分の分。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「じゃあ、これは！？」",
+        "after": "夏目　悠希「これも美味いな」"
+      }
+    },
+    {
+      "line": 342,
+      "jp": "夏目　悠希「これも美味いな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "今度は自分の分。",
+        "after": "夏帆の顔が分かりやすいほどに、ぱあっと輝いた。"
+      }
+    },
+    {
+      "line": 343,
+      "jp": "夏帆の顔が分かりやすいほどに、ぱあっと輝いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「これも美味いな」",
+        "after": "千代「ははっ。夏帆さんはとても素直な方なんですね」"
+      }
+    },
+    {
+      "line": 344,
+      "jp": "千代「ははっ。夏帆さんはとても素直な方なんですね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "夏帆の顔が分かりやすいほどに、ぱあっと輝いた。",
+        "after": "桐島　七葵「じゃあ、最後にこれだ」"
+      }
+    },
+    {
+      "line": 345,
+      "jp": "桐島　七葵「じゃあ、最後にこれだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「ははっ。夏帆さんはとても素直な方なんですね」",
+        "after": "夏目　悠希「…………」"
+      }
+    },
+    {
+      "line": 346,
+      "jp": "夏目　悠希「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「じゃあ、最後にこれだ」",
+        "after": "夏目君は言われるがまま、私の作ったお弁当に手をつける。"
+      }
+    },
+    {
+      "line": 347,
+      "jp": "夏目君は言われるがまま、私の作ったお弁当に手をつける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「…………」",
+        "after": "日生　光「で、夏目君はどれが一番だと思った？」"
+      }
+    },
+    {
+      "line": 348,
+      "jp": "日生　光「で、夏目君はどれが一番だと思った？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目君は言われるがまま、私の作ったお弁当に手をつける。",
+        "after": "夏目　悠希「これだな」"
+      }
+    },
+    {
+      "line": 349,
+      "jp": "夏目　悠希「これだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「で、夏目君はどれが一番だと思った？」",
+        "after": "そう言って、夏目君が迷うことなく箸で指したのは夏帆のお弁当だった。"
+      }
+    },
+    {
+      "line": 350,
+      "jp": "そう言って、夏目君が迷うことなく箸で指したのは夏帆のお弁当だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夏目　悠希「これだな」",
+        "after": "宮沢　夏帆「やったぁ！！」"
+      }
+    },
+    {
+      "line": 351,
+      "jp": "宮沢　夏帆「やったぁ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、夏目君が迷うことなく箸で指したのは夏帆のお弁当だった。",
+        "after": "桐島　七葵「……理由は？」"
+      }
+    },
+    {
+      "line": 352,
+      "jp": "桐島　七葵「……理由は？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「やったぁ！！」",
+        "after": "桐島先輩に聞かれ、夏目君はお弁当に入っていたあるものを指した。"
+      }
+    },
+    {
+      "line": 353,
+      "jp": "桐島先輩に聞かれ、夏目君はお弁当に入っていたあるものを指した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「……理由は？」",
+        "after": "夏目　悠希「これ」"
+      }
+    },
+    {
+      "line": 354,
+      "jp": "夏目　悠希「これ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩に聞かれ、夏目君はお弁当に入っていたあるものを指した。",
+        "after": "桐島　七葵「からあげか？」"
+      }
+    },
+    {
+      "line": 355,
+      "jp": "桐島　七葵「からあげか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「これ」",
+        "after": "夏目　悠希「はい。鶏肉料理好きなんで」"
+      }
+    },
+    {
+      "line": 356,
+      "jp": "夏目　悠希「はい。鶏肉料理好きなんで」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「からあげか？」",
+        "after": "日生　光「選考理由それだけ？」"
+      }
+    },
+    {
+      "line": 357,
+      "jp": "日生　光「選考理由それだけ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はい。鶏肉料理好きなんで」",
+        "after": "夏目　悠希「はい」"
+      }
+    },
+    {
+      "line": 358,
+      "jp": "夏目　悠希「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「選考理由それだけ？」",
+        "after": "桐島　七葵「ちょっと待て。なら、俺が鶏肉料理を作っていれば結果は違ったかもしれないということか？」"
+      }
+    },
+    {
+      "line": 359,
+      "jp": "桐島　七葵「ちょっと待て。なら、俺が鶏肉料理を作っていれば結果は違ったかもしれないということか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「はい」",
+        "after": "夏目　悠希「そうかもしれませんね」"
+      }
+    },
+    {
+      "line": 360,
+      "jp": "夏目　悠希「そうかもしれませんね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ちょっと待て。なら、俺が鶏肉料理を作っていれば結果は違ったかもしれないということか？」",
+        "after": "桐島　七葵「なっ！」"
+      }
+    },
+    {
+      "line": 361,
+      "jp": "桐島　七葵「なっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「そうかもしれませんね」",
+        "after": "夏目　悠希「じゃあ、そういうことなんで。もういいですよね？」"
+      }
+    },
+    {
+      "line": 362,
+      "jp": "夏目　悠希「じゃあ、そういうことなんで。もういいですよね？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「なっ！」",
+        "after": "桐島　七葵「…………っ」"
+      }
+    },
+    {
+      "line": 363,
+      "jp": "桐島　七葵「…………っ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「じゃあ、そういうことなんで。もういいですよね？」",
+        "after": "そう言って、夏目君が迷いなく箸で指したのは私のお弁当だった。"
+      }
+    },
+    {
+      "line": 364,
+      "jp": "そう言って、夏目君が迷いなく箸で指したのは私のお弁当だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………っ」",
+        "after": "千代「お嬢さん！　やりましたね！　お嬢さんのお弁当が選ばれましたよ！！」"
+      }
+    },
+    {
+      "line": 365,
+      "jp": "千代「お嬢さん！　やりましたね！　お嬢さんのお弁当が選ばれましたよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、夏目君が迷いなく箸で指したのは私のお弁当だった。",
+        "after": "遠野　紗夜「ど、どうしてですか？　こんなに地味なのに……」"
+      }
+    },
+    {
+      "line": 366,
+      "jp": "遠野　紗夜「ど、どうしてですか？　こんなに地味なのに……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お嬢さん！　やりましたね！　お嬢さんのお弁当が選ばれましたよ！！」",
+        "after": "夏目　悠希「地味も何も、どれが一番良いか聞かれたからそれに答えただけだ。好きなんだよ、照り焼きが」"
+      }
+    },
+    {
+      "line": 367,
+      "jp": "夏目　悠希「地味も何も、どれが一番良いか聞かれたからそれに答えただけだ。好きなんだよ、照り焼きが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ど、どうしてですか？　こんなに地味なのに……」",
+        "after": "日生　光「まあ、うん。美味しいよね」"
+      }
+    },
+    {
+      "line": 368,
+      "jp": "日生　光「まあ、うん。美味しいよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「地味も何も、どれが一番良いか聞かれたからそれに答えただけだ。好きなんだよ、照り焼きが」",
+        "after": "夏目　悠希「じゃあ、そういうことなんで、僕行きます」"
+      }
+    },
+    {
+      "line": 369,
+      "jp": "夏目　悠希「じゃあ、そういうことなんで、僕行きます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "夏目　悠希",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあ、うん。美味しいよね」",
+        "after": "日生　光「はいはーい。ありがとうねー」"
+      }
+    },
+    {
+      "line": 370,
+      "jp": "日生　光「はいはーい。ありがとうねー」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "夏目　悠希「じゃあ、そういうことなんで、僕行きます」",
+        "after": "夏目君は立ち上がり、さっさと行ってしまった。"
+      }
+    },
+    {
+      "line": 371,
+      "jp": "夏目君は立ち上がり、さっさと行ってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「はいはーい。ありがとうねー」",
+        "after": "遠野　紗夜「やはり、呼び止めたのは迷惑だったでしょうか……」"
+      }
+    },
+    {
+      "line": 372,
+      "jp": "遠野　紗夜「やはり、呼び止めたのは迷惑だったでしょうか……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "夏目君は立ち上がり、さっさと行ってしまった。",
+        "after": "気のせいかもしれないけれど、今日の彼はやけに苛々としていたように見えた。"
+      }
+    },
+    {
+      "line": 373,
+      "jp": "気のせいかもしれないけれど、今日の彼はやけに苛々としていたように見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「やはり、呼び止めたのは迷惑だったでしょうか……」",
+        "after": "日生　光「でも、嫌なら無視すれば良いだけのことだよね」"
+      }
+    },
+    {
+      "line": 374,
+      "jp": "日生　光「でも、嫌なら無視すれば良いだけのことだよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "気のせいかもしれないけれど、今日の彼はやけに苛々としていたように見えた。",
+        "after": "遠野　紗夜「……あの雰囲気で無視出来るでしょうか？」"
+      }
+    },
+    {
+      "line": 375,
+      "jp": "遠野　紗夜「……あの雰囲気で無視出来るでしょうか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「でも、嫌なら無視すれば良いだけのことだよね」",
+        "after": "日生　光「出来る人は出来るさ」"
+      }
+    },
+    {
+      "line": 376,
+      "jp": "日生　光「出来る人は出来るさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……あの雰囲気で無視出来るでしょうか？」",
+        "after": "遠野　紗夜「先輩は出来ると？」"
+      }
+    },
+    {
+      "line": 377,
+      "jp": "遠野　紗夜「先輩は出来ると？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「出来る人は出来るさ」",
+        "after": "日生　光「まあね」"
+      }
+    },
+    {
+      "line": 378,
+      "jp": "日生　光「まあね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「先輩は出来ると？」",
+        "after": "日生　光「それにしても、彼は相変わらず女の子みたいだなぁ。顔だけは」"
+      }
+    },
+    {
+      "line": 379,
+      "jp": "日生　光「それにしても、彼は相変わらず女の子みたいだなぁ。顔だけは」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まあね」",
+        "after": "遠野　紗夜「彼、聞いたら怒りますよ」"
+      }
+    },
+    {
+      "line": 380,
+      "jp": "遠野　紗夜「彼、聞いたら怒りますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「それにしても、彼は相変わらず女の子みたいだなぁ。顔だけは」",
+        "after": "日生　光「ははっ。でも、彼のおかげでようやく決着がついたわけだ」"
+      }
+    },
+    {
+      "line": 381,
+      "jp": "日生　光「ははっ。でも、彼のおかげでようやく決着がついたわけだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「彼、聞いたら怒りますよ」",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 382,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「ははっ。でも、彼のおかげでようやく決着がついたわけだ」",
+        "after": "私と日生先輩は同時に前を向く。"
+      }
+    },
+    {
+      "line": 383,
+      "jp": "私と日生先輩は同時に前を向く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "日生　光「二人して納得いかないって顔してるよね」"
+      }
+    },
+    {
+      "line": 384,
+      "jp": "日生　光「二人して納得いかないって顔してるよね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "私と日生先輩は同時に前を向く。",
+        "after": "桐島　七葵「……別にそんなことはない」"
+      }
+    },
+    {
+      "line": 385,
+      "jp": "桐島　七葵「……別にそんなことはない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「二人して納得いかないって顔してるよね」",
+        "after": "宮沢　夏帆「……う～。まあ、いいやぁ。紗夜ちゃんに負けるならぁ……」"
+      }
+    },
+    {
+      "line": 386,
+      "jp": "宮沢　夏帆「……う～。まあ、いいやぁ。紗夜ちゃんに負けるならぁ……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……別にそんなことはない」",
+        "after": "予想外の結果に私は申し訳なくなる。"
+      }
+    },
+    {
+      "line": 387,
+      "jp": "予想外の結果に私は申し訳なくなる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……う～。まあ、いいやぁ。紗夜ちゃんに負けるならぁ……」",
+        "after": "本来ならば、きっと二人のどちらかに軍配が上がっただろうに、何故か私が勝利してしまったのだから。"
+      }
+    },
+    {
+      "line": 388,
+      "jp": "本来ならば、きっと二人のどちらかに軍配が上がっただろうに、何故か私が勝利してしまったのだから。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "予想外の結果に私は申し訳なくなる。",
+        "after": "遠野　紗夜「……何だか、すみません」"
+      }
+    },
+    {
+      "line": 389,
+      "jp": "遠野　紗夜「……何だか、すみません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "本来ならば、きっと二人のどちらかに軍配が上がっただろうに、何故か私が勝利してしまったのだから。",
+        "after": "桐島　七葵「いや、別に気にするな。確かにお前の弁当は美味しかったと思うぞ」"
+      }
+    },
+    {
+      "line": 390,
+      "jp": "桐島　七葵「いや、別に気にするな。確かにお前の弁当は美味しかったと思うぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何だか、すみません」",
+        "after": "宮沢　夏帆「……うん。私もそう思う～」"
+      }
+    },
+    {
+      "line": 391,
+      "jp": "宮沢　夏帆「……うん。私もそう思う～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや、別に気にするな。確かにお前の弁当は美味しかったと思うぞ」",
+        "after": "遠野　紗夜「あ、ありがとうございます」"
+      }
+    },
+    {
+      "line": 392,
+      "jp": "遠野　紗夜「あ、ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……うん。私もそう思う～」",
+        "after": "日生　光「うん。良かった良かった。お嬢が一位なら二人とも文句ないでしょ」"
+      }
+    },
+    {
+      "line": 393,
+      "jp": "日生　光「うん。良かった良かった。お嬢が一位なら二人とも文句ないでしょ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、ありがとうございます」",
+        "after": "桐島　七葵「何が良かっただ！　元はといえば、お前が仕掛けたことだろうが！！」"
+      }
+    },
+    {
+      "line": 394,
+      "jp": "桐島　七葵「何が良かっただ！　元はといえば、お前が仕掛けたことだろうが！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「うん。良かった良かった。お嬢が一位なら二人とも文句ないでしょ」",
+        "after": "宮沢　夏帆「そーだよ！！」"
+      }
+    },
+    {
+      "line": 395,
+      "jp": "宮沢　夏帆「そーだよ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「何が良かっただ！　元はといえば、お前が仕掛けたことだろうが！！」",
+        "after": "宮沢　夏帆「しかも、自分だけはちゃっかりコンビニ弁当移し替えで楽してさぁ～！！　あり得ない！！　こっちは真剣に作ったのにぃ～！！」"
+      }
+    },
+    {
+      "line": 396,
+      "jp": "宮沢　夏帆「しかも、自分だけはちゃっかりコンビニ弁当移し替えで楽してさぁ～！！　あり得ない！！　こっちは真剣に作ったのにぃ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「そーだよ！！」",
+        "after": "日生　光「あはは。いや、僕としてはお嬢の手作り弁当が食べてみたかったからで、本音を言えば、他はどうでも良かったんだけどね」"
+      }
+    },
+    {
+      "line": 397,
+      "jp": "日生　光「あはは。いや、僕としてはお嬢の手作り弁当が食べてみたかったからで、本音を言えば、他はどうでも良かったんだけどね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「しかも、自分だけはちゃっかりコンビニ弁当移し替えで楽してさぁ～！！　あり得ない！！　こっちは真剣に作ったのにぃ～！！」",
+        "after": "桐島　七葵「俺達をだしに使うな！！」"
+      }
+    },
+    {
+      "line": 398,
+      "jp": "桐島　七葵「俺達をだしに使うな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「あはは。いや、僕としてはお嬢の手作り弁当が食べてみたかったからで、本音を言えば、他はどうでも良かったんだけどね」",
+        "after": "桐島　七葵「遠野！！　絶対にこいつにだけはお前の弁当はやるな！！」"
+      }
+    },
+    {
+      "line": 399,
+      "jp": "桐島　七葵「遠野！！　絶対にこいつにだけはお前の弁当はやるな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「俺達をだしに使うな！！」",
+        "after": "宮沢　夏帆「そうだよ！！　こんな人に紗夜ちゃんの手作りなんて食べさせてやる価値ないんだからぁ～！！」"
+      }
+    },
+    {
+      "line": 400,
+      "jp": "宮沢　夏帆「そうだよ！！　こんな人に紗夜ちゃんの手作りなんて食べさせてやる価値ないんだからぁ～！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「遠野！！　絶対にこいつにだけはお前の弁当はやるな！！」",
+        "after": "二人はもの凄い勢いで日生先輩に詰め寄り、私にそんなことを言った。"
+      }
+    },
+    {
+      "line": 401,
+      "jp": "二人はもの凄い勢いで日生先輩に詰め寄り、私にそんなことを言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「そうだよ！！　こんな人に紗夜ちゃんの手作りなんて食べさせてやる価値ないんだからぁ～！！」",
+        "after": "千代「ははっ！　お嬢さん、良かったですね！」"
+      }
+    },
+    {
+      "line": 402,
+      "jp": "千代「ははっ！　お嬢さん、良かったですね！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "二人はもの凄い勢いで日生先輩に詰め寄り、私にそんなことを言った。",
+        "after": "遠野　紗夜「ふふっ」"
+      }
+    },
+    {
+      "line": 403,
+      "jp": "遠野　紗夜「ふふっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「ははっ！　お嬢さん、良かったですね！」",
+        "after": "こうして、私の初めてのお弁当作りは見事成功を収めたのだった。"
+      }
+    },
+    {
+      "line": 404,
+      "jp": "こうして、私の初めてのお弁当作りは見事成功を収めたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ふふっ」",
+        "after": "宮沢　夏帆「ふふん！　やーっぱり、私のお弁当の方が美味しいってことだったでしょ～！」"
+      }
+    },
+    {
+      "line": 405,
+      "jp": "宮沢　夏帆「ふふん！　やーっぱり、私のお弁当の方が美味しいってことだったでしょ～！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "こうして、私の初めてのお弁当作りは見事成功を収めたのだった。",
+        "after": "胸を張り、得意げに言う夏帆。"
+      }
+    },
+    {
+      "line": 406,
+      "jp": "胸を張り、得意げに言う夏帆。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「ふふん！　やーっぱり、私のお弁当の方が美味しいってことだったでしょ～！」",
+        "after": "どうやら、夏目君の『鶏肉料理が好物』発言はなかったことにしたらしい。"
+      }
+    },
+    {
+      "line": 407,
+      "jp": "どうやら、夏目君の『鶏肉料理が好物』発言はなかったことにしたらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "胸を張り、得意げに言う夏帆。",
+        "after": "それに対し、桐島先輩は突っかかるわけでもなく、至極落ち着いた風に答えた。"
+      }
+    },
+    {
+      "line": 408,
+      "jp": "それに対し、桐島先輩は突っかかるわけでもなく、至極落ち着いた風に答えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうやら、夏目君の『鶏肉料理が好物』発言はなかったことにしたらしい。",
+        "after": "桐島　七葵「ああ、そうだな。良かったな」"
+      }
+    },
+    {
+      "line": 409,
+      "jp": "桐島　七葵「ああ、そうだな。良かったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "それに対し、桐島先輩は突っかかるわけでもなく、至極落ち着いた風に答えた。",
+        "after": "宮沢　夏帆「……む～。何それ！　初めはもっと突っかかってきたのにぃ」"
+      }
+    },
+    {
+      "line": 410,
+      "jp": "宮沢　夏帆「……む～。何それ！　初めはもっと突っかかってきたのにぃ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「ああ、そうだな。良かったな」",
+        "after": "桐島　七葵「夏目の言葉を聞いているうちに冷静になってな。そうしたら、何故こんなことをしてるのか急に馬鹿らしくなった」"
+      }
+    },
+    {
+      "line": 411,
+      "jp": "桐島　七葵「夏目の言葉を聞いているうちに冷静になってな。そうしたら、何故こんなことをしてるのか急に馬鹿らしくなった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……む～。何それ！　初めはもっと突っかかってきたのにぃ」",
+        "after": "宮沢　夏帆「その言い方ムカツク」"
+      }
+    },
+    {
+      "line": 412,
+      "jp": "宮沢　夏帆「その言い方ムカツク」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「夏目の言葉を聞いているうちに冷静になってな。そうしたら、何故こんなことをしてるのか急に馬鹿らしくなった」",
+        "after": "桐島　七葵「どうとでも言え」"
+      }
+    },
+    {
+      "line": 413,
+      "jp": "桐島　七葵「どうとでも言え」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「その言い方ムカツク」",
+        "after": "私は二人のやり取りにほっと息を吐いた。"
+      }
+    },
+    {
+      "line": 414,
+      "jp": "私は二人のやり取りにほっと息を吐いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「どうとでも言え」",
+        "after": "結果はどうであれ、これ以上二人が言い争うことはなくなった。"
+      }
+    },
+    {
+      "line": 415,
+      "jp": "結果はどうであれ、これ以上二人が言い争うことはなくなった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は二人のやり取りにほっと息を吐いた。",
+        "after": "日生　光「良かった良かった」"
+      }
+    },
+    {
+      "line": 416,
+      "jp": "日生　光「良かった良かった」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "結果はどうであれ、これ以上二人が言い争うことはなくなった。",
+        "after": "隣で人ごとのように感想を述べる彼を秘かに睨む。"
+      }
+    },
+    {
+      "line": 417,
+      "jp": "隣で人ごとのように感想を述べる彼を秘かに睨む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「良かった良かった」",
+        "after": "遠野　紗夜「……元はと言えば、日生先輩が料理勝負を仕掛けたことがこのような事態に発展していったわけですが？」"
+      }
+    },
+    {
+      "line": 418,
+      "jp": "遠野　紗夜「……元はと言えば、日生先輩が料理勝負を仕掛けたことがこのような事態に発展していったわけですが？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "隣で人ごとのように感想を述べる彼を秘かに睨む。",
+        "after": "日生　光「だって、一度お嬢の手作りって食べてみたかったから」"
+      }
+    },
+    {
+      "line": 419,
+      "jp": "日生　光「だって、一度お嬢の手作りって食べてみたかったから」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……元はと言えば、日生先輩が料理勝負を仕掛けたことがこのような事態に発展していったわけですが？」",
+        "after": "兄の言葉が思い浮かんだ。"
+      }
+    },
+    {
+      "line": 420,
+      "jp": "兄の言葉が思い浮かんだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「だって、一度お嬢の手作りって食べてみたかったから」",
+        "after": "分かっていることだけれど、日生先輩は中々の策士だ。"
+      }
+    },
+    {
+      "line": 421,
+      "jp": "分かっていることだけれど、日生先輩は中々の策士だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の言葉が思い浮かんだ。",
+        "after": "こう言われては、これ以上怒る気も萎えてしまった。"
+      }
+    },
+    {
+      "line": 422,
+      "jp": "こう言われては、これ以上怒る気も萎えてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "分かっていることだけれど、日生先輩は中々の策士だ。",
+        "after": "遠野　紗夜「……ごめんなさい。期待に添えるような物が作れなくて」"
+      }
+    },
+    {
+      "line": 423,
+      "jp": "遠野　紗夜「……ごめんなさい。期待に添えるような物が作れなくて」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "こう言われては、これ以上怒る気も萎えてしまった。",
+        "after": "日生　光「そんなことない。僕はお嬢のお弁当が一番美味しかったって思ってるよ」"
+      }
+    },
+    {
+      "line": 424,
+      "jp": "日生　光「そんなことない。僕はお嬢のお弁当が一番美味しかったって思ってるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ごめんなさい。期待に添えるような物が作れなくて」",
+        "after": "遠野　紗夜「あら、気を遣って下さらなくても大丈夫ですよ」"
+      }
+    },
+    {
+      "line": 425,
+      "jp": "遠野　紗夜「あら、気を遣って下さらなくても大丈夫ですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そんなことない。僕はお嬢のお弁当が一番美味しかったって思ってるよ」",
+        "after": "日生　光「まさか！　本心だよ」"
+      }
+    },
+    {
+      "line": 426,
+      "jp": "日生　光「まさか！　本心だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あら、気を遣って下さらなくても大丈夫ですよ」",
+        "after": "遠野　紗夜「なら、日生先輩は変わった人です」"
+      }
+    },
+    {
+      "line": 427,
+      "jp": "遠野　紗夜「なら、日生先輩は変わった人です」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「まさか！　本心だよ」",
+        "after": "日生　光「そうだね。自分でもそう思うよ」"
+      }
+    },
+    {
+      "line": 428,
+      "jp": "日生　光「そうだね。自分でもそう思うよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「なら、日生先輩は変わった人です」",
+        "after": "遠野　紗夜「……ふふっ。ありがとうございます。例え、嘘でもそう言われると嬉しいです」"
+      }
+    },
+    {
+      "line": 429,
+      "jp": "遠野　紗夜「……ふふっ。ありがとうございます。例え、嘘でもそう言われると嬉しいです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「そうだね。自分でもそう思うよ」",
+        "after": "日生　光「だから嘘じゃないって。疑うなら、僕のお弁当と交換しない？僕のコンビニ弁当だけど」"
+      }
+    },
+    {
+      "line": 430,
+      "jp": "日生　光「だから嘘じゃないって。疑うなら、僕のお弁当と交換しない？僕のコンビニ弁当だけど」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ふふっ。ありがとうございます。例え、嘘でもそう言われると嬉しいです」",
+        "after": "遠野　紗夜「え？　い、いえ！　駄目です！　無理などしないで下さい！」"
+      }
+    },
+    {
+      "line": 431,
+      "jp": "遠野　紗夜「え？　い、いえ！　駄目です！　無理などしないで下さい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「だから嘘じゃないって。疑うなら、僕のお弁当と交換しない？僕のコンビニ弁当だけど」",
+        "after": "日生　光「無理じゃないよ。ほら交換」"
+      }
+    },
+    {
+      "line": 432,
+      "jp": "日生　光「無理じゃないよ。ほら交換」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？　い、いえ！　駄目です！　無理などしないで下さい！」",
+        "after": "日生先輩は私の手からお弁当を奪う。"
+      }
+    },
+    {
+      "line": 433,
+      "jp": "日生先輩は私の手からお弁当を奪う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「無理じゃないよ。ほら交換」",
+        "after": "そして、私が作ったおかずを次々と口に運ぶ。"
+      }
+    },
+    {
+      "line": 434,
+      "jp": "そして、私が作ったおかずを次々と口に運ぶ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生先輩は私の手からお弁当を奪う。",
+        "after": "日生　光「うん。美味しい」"
+      }
+    },
+    {
+      "line": 435,
+      "jp": "日生　光「うん。美味しい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "そして、私が作ったおかずを次々と口に運ぶ。",
+        "after": "見ていて、こちらの方が呆気に取られるくらい、皆が、いや、私自身でさえ美味しいとは思えないお弁当をいかにも美味しそうに食べる。"
+      }
+    },
+    {
+      "line": 436,
+      "jp": "見ていて、こちらの方が呆気に取られるくらい、皆が、いや、私自身でさえ美味しいとは思えないお弁当をいかにも美味しそうに食べる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「うん。美味しい」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 437,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "見ていて、こちらの方が呆気に取られるくらい、皆が、いや、私自身でさえ美味しいとは思えないお弁当をいかにも美味しそうに食べる。",
+        "after": "遠野　紗夜「…………次は」"
+      }
+    },
+    {
+      "line": 438,
+      "jp": "遠野　紗夜「…………次は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "日生　光「？」"
+      }
+    },
+    {
+      "line": 439,
+      "jp": "日生　光「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………次は」",
+        "after": "遠野　紗夜「もし、次がある時は本当に美味しいって言わせます」"
+      }
+    },
+    {
+      "line": 440,
+      "jp": "遠野　紗夜「もし、次がある時は本当に美味しいって言わせます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「？」",
+        "after": "日生　光「期待してるよ」"
+      }
+    },
+    {
+      "line": 441,
+      "jp": "日生　光「期待してるよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「もし、次がある時は本当に美味しいって言わせます」",
+        "after": "そう言って、笑って私の頭を撫でた。"
+      }
+    },
+    {
+      "line": 442,
+      "jp": "そう言って、笑って私の頭を撫でた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「期待してるよ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 443,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "そう言って、笑って私の頭を撫でた。",
+        "after": "私は赤くなった顔を見られたくなくて、顔を俯かせた。"
+      }
+    },
+    {
+      "line": 444,
+      "jp": "私は赤くなった顔を見られたくなくて、顔を俯かせた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "こうして、突如始まったお弁当作り大会は幕を閉じたのだった。"
+      }
+    },
+    {
+      "line": 445,
+      "jp": "こうして、突如始まったお弁当作り大会は幕を閉じたのだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は赤くなった顔を見られたくなくて、顔を俯かせた。",
+        "after": "昼休みも終わりに近づき、チャイムが鳴る前にとお弁当を片づける。"
+      }
+    },
+    {
+      "line": 446,
+      "jp": "昼休みも終わりに近づき、チャイムが鳴る前にとお弁当を片づける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こうして、突如始まったお弁当作り大会は幕を閉じたのだった。",
+        "after": "遠野　紗夜「あ、私がゴミをまとめて捨ててきますよ」"
+      }
+    },
+    {
+      "line": 447,
+      "jp": "遠野　紗夜「あ、私がゴミをまとめて捨ててきますよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "昼休みも終わりに近づき、チャイムが鳴る前にとお弁当を片づける。",
+        "after": "日生　光「そう？　じゃあ、宜しく」"
+      }
+    },
+    {
+      "line": 448,
+      "jp": "日生　光「そう？　じゃあ、宜しく」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ、私がゴミをまとめて捨ててきますよ」",
+        "after": "私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。"
+      }
+    },
+    {
+      "line": 449,
+      "jp": "私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「そう？　じゃあ、宜しく」",
+        "after": "遠野　紗夜「千代さん」"
+      }
+    },
+    {
+      "line": 450,
+      "jp": "遠野　紗夜「千代さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。",
+        "after": "千代「何ですか？　お嬢さん」"
+      }
+    },
+    {
+      "line": 451,
+      "jp": "千代「何ですか？　お嬢さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「千代さん」",
+        "after": "遠野　紗夜「昨日と今日はありがとうございました。お陰様で助かりました」"
+      }
+    },
+    {
+      "line": 452,
+      "jp": "遠野　紗夜「昨日と今日はありがとうございました。お陰様で助かりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「何ですか？　お嬢さん」",
+        "after": "千代「いえ、俺は何もしてないですから！　頑張ったのはお嬢さんです！」"
+      }
+    },
+    {
+      "line": 453,
+      "jp": "千代「いえ、俺は何もしてないですから！　頑張ったのはお嬢さんです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「昨日と今日はありがとうございました。お陰様で助かりました」",
+        "after": "遠野　紗夜「いいえ、貴方がいたから私は頑張れたのです」"
+      }
+    },
+    {
+      "line": 454,
+      "jp": "遠野　紗夜「いいえ、貴方がいたから私は頑張れたのです」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「いえ、俺は何もしてないですから！　頑張ったのはお嬢さんです！」",
+        "after": "千代「そんな！　滅相もありません！」"
+      }
+    },
+    {
+      "line": 455,
+      "jp": "千代「そんな！　滅相もありません！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「いいえ、貴方がいたから私は頑張れたのです」",
+        "after": "ぶんぶんと両手で手を振る千代さん。"
+      }
+    },
+    {
+      "line": 456,
+      "jp": "ぶんぶんと両手で手を振る千代さん。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「そんな！　滅相もありません！」",
+        "after": "私が微笑むと、彼も穏やかに微笑んだ。"
+      }
+    },
+    {
+      "line": 457,
+      "jp": "私が微笑むと、彼も穏やかに微笑んだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ぶんぶんと両手で手を振る千代さん。",
+        "after": "千代「……今日は楽しかったです。俺もお嬢さんのお弁当食べたかったな」"
+      }
+    },
+    {
+      "line": 458,
+      "jp": "千代「……今日は楽しかったです。俺もお嬢さんのお弁当食べたかったな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "私が微笑むと、彼も穏やかに微笑んだ。",
+        "after": "桐島　七葵「おい。何をやってるんだ」"
+      }
+    },
+    {
+      "line": 459,
+      "jp": "桐島　七葵「おい。何をやってるんだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "千代「……今日は楽しかったです。俺もお嬢さんのお弁当食べたかったな」",
+        "after": "千代「あ、七葵君」"
+      }
+    },
+    {
+      "line": 460,
+      "jp": "千代「あ、七葵君」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「おい。何をやってるんだ」",
+        "after": "桐島先輩は声を潜め、目で合図する。"
+      }
+    },
+    {
+      "line": 461,
+      "jp": "桐島先輩は声を潜め、目で合図する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「あ、七葵君」",
+        "after": "視線の先には日生先輩や夏帆がいる。"
+      }
+    },
+    {
+      "line": 462,
+      "jp": "視線の先には日生先輩や夏帆がいる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島先輩は声を潜め、目で合図する。",
+        "after": "桐島　七葵「……あまり、人前でべらべら喋るなと言ってるだろうが」"
+      }
+    },
+    {
+      "line": 463,
+      "jp": "桐島　七葵「……あまり、人前でべらべら喋るなと言ってるだろうが」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "視線の先には日生先輩や夏帆がいる。",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 464,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「……あまり、人前でべらべら喋るなと言ってるだろうが」",
+        "after": "千代「はーい……」"
+      }
+    },
+    {
+      "line": 465,
+      "jp": "千代「はーい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": "桐島先輩は軽く息を吐くと、私が持っていたゴミを奪う。"
+      }
+    },
+    {
+      "line": 466,
+      "jp": "桐島先輩は軽く息を吐くと、私が持っていたゴミを奪う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「はーい……」",
+        "after": "遠野　紗夜「え、あの……」"
+      }
+    },
+    {
+      "line": 467,
+      "jp": "遠野　紗夜「え、あの……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は軽く息を吐くと、私が持っていたゴミを奪う。",
+        "after": "桐島　七葵「話は聞いた。昨日、千代がやっかいになったみたいだな」"
+      }
+    },
+    {
+      "line": 468,
+      "jp": "桐島　七葵「話は聞いた。昨日、千代がやっかいになったみたいだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え、あの……」",
+        "after": "遠野　紗夜「とんでもない！　私が千代さんに手伝って頂いたのです！」"
+      }
+    },
+    {
+      "line": 469,
+      "jp": "遠野　紗夜「とんでもない！　私が千代さんに手伝って頂いたのです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「話は聞いた。昨日、千代がやっかいになったみたいだな」",
+        "after": "桐島　七葵「俺が捨ててくる。お前らは先に帰ってて良いぞ」"
+      }
+    },
+    {
+      "line": 470,
+      "jp": "桐島　七葵「俺が捨ててくる。お前らは先に帰ってて良いぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「とんでもない！　私が千代さんに手伝って頂いたのです！」",
+        "after": "遠野　紗夜「あっ」"
+      }
+    },
+    {
+      "line": 471,
+      "jp": "遠野　紗夜「あっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「俺が捨ててくる。お前らは先に帰ってて良いぞ」",
+        "after": "桐島先輩は止める暇もなく、すたすたと歩いてしまった。"
+      }
+    },
+    {
+      "line": 472,
+      "jp": "桐島先輩は止める暇もなく、すたすたと歩いてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あっ」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 473,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩は止める暇もなく、すたすたと歩いてしまった。",
+        "after": null
+      }
+    }
+  ]
+}

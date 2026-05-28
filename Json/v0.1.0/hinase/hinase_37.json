@@ -1,0 +1,868 @@
+{
+  "meta": {
+    "file": "hinase/hinase_37.txt",
+    "chapter": "hinase",
+    "total_lines": 49,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "既に日が沈み切った夜。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "私は薔薇の花を手に、ただただ歩く。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "私は薔薇の花を手に、ただただ歩く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "既に日が沈み切った夜。",
+        "after": "今が何時なのか、ここはどこなのか、何故私は薔薇の花を持っているのか分からなかった。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "今が何時なのか、ここはどこなのか、何故私は薔薇の花を持っているのか分からなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は薔薇の花を手に、ただただ歩く。",
+        "after": "ただ、手の平がじんじんと痛むような気がしたけれど、私にそれを確認する余裕はない。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "ただ、手の平がじんじんと痛むような気がしたけれど、私にそれを確認する余裕はない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今が何時なのか、ここはどこなのか、何故私は薔薇の花を持っているのか分からなかった。",
+        "after": "いや、痛みなどどうでも良かったのだ。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "いや、痛みなどどうでも良かったのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ、手の平がじんじんと痛むような気がしたけれど、私にそれを確認する余裕はない。",
+        "after": "そして、宛てなどどこにもない。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "そして、宛てなどどこにもない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "いや、痛みなどどうでも良かったのだ。",
+        "after": "どこに行ったらいいのかも分からない。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "どこに行ったらいいのかも分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そして、宛てなどどこにもない。",
+        "after": "だって、あの人はいなくなってしまった。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "だって、あの人はいなくなってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どこに行ったらいいのかも分からない。",
+        "after": "結局、どれが嘘でどれが真実だったのだろう。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "結局、どれが嘘でどれが真実だったのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だって、あの人はいなくなってしまった。",
+        "after": "全て嘘だった？"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "全て嘘だった？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "結局、どれが嘘でどれが真実だったのだろう。",
+        "after": "それとも、ほんの一握りの真実はあったのだろうか？"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "それとも、ほんの一握りの真実はあったのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全て嘘だった？",
+        "after": "それは私には分からない。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "それは私には分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それとも、ほんの一握りの真実はあったのだろうか？",
+        "after": "きっと、これからも。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "きっと、これからも。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "それは私には分からない。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "きっと、これからも。",
+        "after": "手にした薔薇。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "手にした薔薇。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "この薔薇を好きだったということも嘘だった？"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "この薔薇を好きだったということも嘘だった？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手にした薔薇。",
+        "after": "夜の闇の中でも深紅は完全には黒には染まらない。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "夜の闇の中でも深紅は完全には黒には染まらない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "この薔薇を好きだったということも嘘だった？",
+        "after": "私はその花びらを一枚、また一枚と摘み取っていく。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "私はその花びらを一枚、また一枚と摘み取っていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夜の闇の中でも深紅は完全には黒には染まらない。",
+        "after": "まるでこの花を殺しているよう。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "まるでこの花を殺しているよう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私はその花びらを一枚、また一枚と摘み取っていく。",
+        "after": "足下には血だまりが広がっていく。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "足下には血だまりが広がっていく。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まるでこの花を殺しているよう。",
+        "after": "遠野　紗夜「……っ！！」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「……っ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "足下には血だまりが広がっていく。",
+        "after": "花ごと地面に叩きつけた。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "花ごと地面に叩きつけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……っ！！」",
+        "after": "しばらくして、私も地面へとへたり込み、散り散りになった花びらを手のひらでかき集めた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "しばらくして、私も地面へとへたり込み、散り散りになった花びらを手のひらでかき集めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "花ごと地面に叩きつけた。",
+        "after": "何だか酷く悪いことをしている様だ。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "何だか酷く悪いことをしている様だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "しばらくして、私も地面へとへたり込み、散り散りになった花びらを手のひらでかき集めた。",
+        "after": "こんなことに何の意味もない。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "こんなことに何の意味もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか酷く悪いことをしている様だ。",
+        "after": "分かっているのに、もうどうしたらいいのか分からない。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "分かっているのに、もうどうしたらいいのか分からない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "こんなことに何の意味もない。",
+        "after": "頭がぼうっとする。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "頭がぼうっとする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "分かっているのに、もうどうしたらいいのか分からない。",
+        "after": "もう何も考えたくない。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "もう何も考えたくない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "頭がぼうっとする。",
+        "after": "この物語はここでお終い？"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "この物語はここでお終い？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "もう何も考えたくない。",
+        "after": "？？？「こんにちは、お嬢さん」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "？？？「こんにちは、お嬢さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "？？？",
+      "special_char": true,
+      "context": {
+        "before": "この物語はここでお終い？",
+        "after": "座り込む私の前に誰かの足下が見えた。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "座り込む私の前に誰かの足下が見えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "？？？「こんにちは、お嬢さん」",
+        "after": "それと同時に香る匂い。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "それと同時に香る匂い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "座り込む私の前に誰かの足下が見えた。",
+        "after": "遠野　紗夜「…………貴方は」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「…………貴方は」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "それと同時に香る匂い。",
+        "after": "何度か見かけたことがある。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "何度か見かけたことがある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………貴方は」",
+        "after": "いつも、光さんと一緒にいた女の人。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "いつも、光さんと一緒にいた女の人。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何度か見かけたことがある。",
+        "after": "女子生徒「何してんの？　あーあ、折角綺麗な花なのに可哀想」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "女子生徒「何してんの？　あーあ、折角綺麗な花なのに可哀想」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "いつも、光さんと一緒にいた女の人。",
+        "after": "遠野　紗夜「ごめんなさい…………」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「ごめんなさい…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒「何してんの？　あーあ、折角綺麗な花なのに可哀想」",
+        "after": "女子生徒「私に謝られても」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "女子生徒「私に謝られても」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ごめんなさい…………」",
+        "after": "彼女は鼻で笑うと、面白可笑しそうに私の顔をのぞき込む。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "彼女は鼻で笑うと、面白可笑しそうに私の顔をのぞき込む。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒「私に謝られても」",
+        "after": "女子生徒「今日は光っちゃんが一緒じゃないんだね。喧嘩？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "女子生徒「今日は光っちゃんが一緒じゃないんだね。喧嘩？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "彼女は鼻で笑うと、面白可笑しそうに私の顔をのぞき込む。",
+        "after": "……この人も彼に騙されていたのだろうか？"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "……この人も彼に騙されていたのだろうか？",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒「今日は光っちゃんが一緒じゃないんだね。喧嘩？」",
+        "after": "かろうじて残されていた思考回路で考えた。"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "かろうじて残されていた思考回路で考えた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "……この人も彼に騙されていたのだろうか？",
+        "after": "遠野　紗夜「……いえ、そういうわけではありません」"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "遠野　紗夜「……いえ、そういうわけではありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "かろうじて残されていた思考回路で考えた。",
+        "after": "女子生徒「ふーん、そう。そういえば、光っちゃんを見かけたんだけど、一人でどこに行くつもりなのかな？」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "女子生徒「ふーん、そう。そういえば、光っちゃんを見かけたんだけど、一人でどこに行くつもりなのかな？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……いえ、そういうわけではありません」",
+        "after": "遠野　紗夜「どこで見たのですかっ！？」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「どこで見たのですかっ！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "女子生徒「ふーん、そう。そういえば、光っちゃんを見かけたんだけど、一人でどこに行くつもりなのかな？」",
+        "after": "私は彼女の足元に縋り付き、勢いよく訊ねた。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "私は彼女の足元に縋り付き、勢いよく訊ねた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「どこで見たのですかっ！？」",
+        "after": "女子生徒「港だよ」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "女子生徒「港だよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "女子生徒",
+      "special_char": false,
+      "context": {
+        "before": "私は彼女の足元に縋り付き、勢いよく訊ねた。",
+        "after": "その言葉を聞くや否や、私は礼も言わずに駆けだした。"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "その言葉を聞くや否や、私は礼も言わずに駆けだした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "女子生徒「港だよ」",
+        "after": "薔薇は置き去りに。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "薔薇は置き去りに。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その言葉を聞くや否や、私は礼も言わずに駆けだした。",
+        "after": null
+      }
+    }
+  ]
+}

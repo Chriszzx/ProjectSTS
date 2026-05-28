@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_18.txt",
+    "chapter": "chapter5",
+    "total_lines": 39,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "俺は淡紅の夢を見た。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "夢の中で俺は何故か俺ではない姿になっているようだった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "夢の中で俺は何故か俺ではない姿になっているようだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺は淡紅の夢を見た。",
+        "after": "手も足も自由にきかないどころか、言葉一つすら発することも叶わない。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "手も足も自由にきかないどころか、言葉一つすら発することも叶わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "夢の中で俺は何故か俺ではない姿になっているようだった。",
+        "after": "最初こそは抵抗を試みたものだが、早々に諦めた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "最初こそは抵抗を試みたものだが、早々に諦めた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "手も足も自由にきかないどころか、言葉一つすら発することも叶わない。",
+        "after": "これは夢なのだ。夢ならばいつか覚めるだろう。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "これは夢なのだ。夢ならばいつか覚めるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "最初こそは抵抗を試みたものだが、早々に諦めた。",
+        "after": "そんな風に自分に言い聞かせ、"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "そんな風に自分に言い聞かせ、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "これは夢なのだ。夢ならばいつか覚めるだろう。",
+        "after": "俺はしばらく時の流るるまま身を任せることにした。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "俺はしばらく時の流るるまま身を任せることにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そんな風に自分に言い聞かせ、",
+        "after": "不思議なことに俺は夢の中でこれは夢だと確信していた。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "不思議なことに俺は夢の中でこれは夢だと確信していた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺はしばらく時の流るるまま身を任せることにした。",
+        "after": "だのに、一切の体の自由は利かず、"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "だのに、一切の体の自由は利かず、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "不思議なことに俺は夢の中でこれは夢だと確信していた。",
+        "after": "ただ一つ心のみが囚われることなく、"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "ただ一つ心のみが囚われることなく、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "だのに、一切の体の自由は利かず、",
+        "after": "俺はいずれ来るだろう夢の終わりを待ち続けていた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "俺はいずれ来るだろう夢の終わりを待ち続けていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ただ一つ心のみが囚われることなく、",
+        "after": "延々と、まるで永遠とも思えるほど同じ景色を眺め続けていた。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "延々と、まるで永遠とも思えるほど同じ景色を眺め続けていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺はいずれ来るだろう夢の終わりを待ち続けていた。",
+        "after": "目前にはそびえ立つ一本の大樹が立っていた。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "目前にはそびえ立つ一本の大樹が立っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "延々と、まるで永遠とも思えるほど同じ景色を眺め続けていた。",
+        "after": "桜だった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "桜だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目前にはそびえ立つ一本の大樹が立っていた。",
+        "after": "枝にはつぼみはおろか葉すら一枚もつけていない。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "枝にはつぼみはおろか葉すら一枚もつけていない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜だった。",
+        "after": "淋しいものだと思った。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "淋しいものだと思った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "枝にはつぼみはおろか葉すら一枚もつけていない。",
+        "after": "桜は花を咲かすその瞬間こそが最も美しい。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "桜は花を咲かすその瞬間こそが最も美しい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "淋しいものだと思った。",
+        "after": "けれど、今の姿はどうだ。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "けれど、今の姿はどうだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桜は花を咲かすその瞬間こそが最も美しい。",
+        "after": "全身に纏うはずの淡紅の花冠はあらず、"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "全身に纏うはずの淡紅の花冠はあらず、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "けれど、今の姿はどうだ。",
+        "after": "太い幹についた枝から更に細い枝を伸ばし、"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "太い幹についた枝から更に細い枝を伸ばし、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "全身に纏うはずの淡紅の花冠はあらず、",
+        "after": "色も黒ずんだ非常に面白味のない色をしていて、"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "色も黒ずんだ非常に面白味のない色をしていて、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "太い幹についた枝から更に細い枝を伸ばし、",
+        "after": "華やかさなど見る影もない。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "華やかさなど見る影もない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "色も黒ずんだ非常に面白味のない色をしていて、",
+        "after": "ふいに俺の意識に誰かの思いが流れ込んできた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "ふいに俺の意識に誰かの思いが流れ込んできた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "華やかさなど見る影もない。",
+        "after": "俺ではない誰かは云う。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "俺ではない誰かは云う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ふいに俺の意識に誰かの思いが流れ込んできた。",
+        "after": "ああ、ああ、桜が見たい。桜の花が。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "ああ、ああ、桜が見たい。桜の花が。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "俺ではない誰かは云う。",
+        "after": "その身を艶やかな色に染め上げ、"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "その身を艶やかな色に染め上げ、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、ああ、桜が見たい。桜の花が。",
+        "after": "可憐な花をつけた貴方はさぞや美しいのだろう。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "可憐な花をつけた貴方はさぞや美しいのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その身を艶やかな色に染め上げ、",
+        "after": "淡紅、淡紅。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "淡紅、淡紅。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "可憐な花をつけた貴方はさぞや美しいのだろう。",
+        "after": "お願いだ。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "お願いだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "淡紅、淡紅。",
+        "after": "どうか、願いを叶えておくれ。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "どうか、願いを叶えておくれ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お願いだ。",
+        "after": "一目、見るだけでいい。"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "一目、見るだけでいい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうか、願いを叶えておくれ。",
+        "after": "もしも願いが叶うのならば、消えてしまっても構わない。"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "もしも願いが叶うのならば、消えてしまっても構わない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一目、見るだけでいい。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "もしも願いが叶うのならば、消えてしまっても構わない。",
+        "after": "遠野　紗夜「ん……」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "遠野　紗夜「ん……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "まだ重い瞼をこすり、鳴り響く目覚ましを止める。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "まだ重い瞼をこすり、鳴り響く目覚ましを止める。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ん……」",
+        "after": "何だか変な夢を見た気がする。"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "何だか変な夢を見た気がする。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "まだ重い瞼をこすり、鳴り響く目覚ましを止める。",
+        "after": "昨日、読んだ本のせいだろうか。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "昨日、読んだ本のせいだろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だか変な夢を見た気がする。",
+        "after": "ベッドから降り、光を取り入れる。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "ベッドから降り、光を取り入れる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "昨日、読んだ本のせいだろうか。",
+        "after": "さあ、今日の始まりだ。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "さあ、今日の始まりだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ベッドから降り、光を取り入れる。",
+        "after": null
+      }
+    }
+  ]
+}

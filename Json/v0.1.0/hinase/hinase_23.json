@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "file": "hinase/hinase_23.txt",
+    "chapter": "hinase",
+    "total_lines": 27,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "すう、と息を吸って吐き出した。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "すう、と息を吸って吐き出した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「…………緊張しますね」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "遠野　紗夜「…………緊張しますね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "すう、と息を吸って吐き出した。",
+        "after": "約束の日。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "約束の日。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………緊張しますね」",
+        "after": "私は今、日生家の目の前まで来ている。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "私は今、日生家の目の前まで来ている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "約束の日。",
+        "after": "今日の四時に私は彼のお祖母様に会うのだ。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "今日の四時に私は彼のお祖母様に会うのだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は今、日生家の目の前まで来ている。",
+        "after": "時刻は二十分を越えたあたり、あと三十分以上もある。"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "時刻は二十分を越えたあたり、あと三十分以上もある。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "今日の四時に私は彼のお祖母様に会うのだ。",
+        "after": "少し早く来すぎただろうか。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "少し早く来すぎただろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "時刻は二十分を越えたあたり、あと三十分以上もある。",
+        "after": "あまり早く訪ねても迷惑だろうしと、今更呼び鈴を押す手が躊躇う。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "あまり早く訪ねても迷惑だろうしと、今更呼び鈴を押す手が躊躇う。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "少し早く来すぎただろうか。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "あまり早く訪ねても迷惑だろうしと、今更呼び鈴を押す手が躊躇う。",
+        "after": "その時、一つの人影に気付く。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "その時、一つの人影に気付く。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "目深にかぶった帽子。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "目深にかぶった帽子。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "その時、一つの人影に気付く。",
+        "after": "すらりとした体ではあるけれど、多分男の人だ。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "すらりとした体ではあるけれど、多分男の人だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目深にかぶった帽子。",
+        "after": "私と目が合うと、彼はどこかへ消えてしまった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私と目が合うと、彼はどこかへ消えてしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "すらりとした体ではあるけれど、多分男の人だ。",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私と目が合うと、彼はどこかへ消えてしまった。",
+        "after": "この家の使用人なのだろうかと思って首を傾げていると、突如扉が開いた。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "この家の使用人なのだろうかと思って首を傾げていると、突如扉が開いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "日生　光「！」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "日生　光「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "この家の使用人なのだろうかと思って首を傾げていると、突如扉が開いた。",
+        "after": "遠野　紗夜「あ……光さん」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "遠野　紗夜「あ……光さん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「！」",
+        "after": "日生　光「早いね」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "日生　光「早いね」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「あ……光さん」",
+        "after": "遠野　紗夜「あ、はい……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「あ、はい……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「早いね」",
+        "after": "呼び鈴を押す前に現れたので、動揺していると"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "呼び鈴を押す前に現れたので、動揺していると",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ、はい……」",
+        "after": "日生　光「さっき、窓の外を覗いたら紗夜がいたからさ」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "日生　光「さっき、窓の外を覗いたら紗夜がいたからさ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "呼び鈴を押す前に現れたので、動揺していると",
+        "after": "と説き明かしてくれた。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "と説き明かしてくれた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "日生　光「さっき、窓の外を覗いたら紗夜がいたからさ」",
+        "after": "遠野　紗夜「そうなのですか？　すみません……何だか早く着きすぎてしまって……」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「そうなのですか？　すみません……何だか早く着きすぎてしまって……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "と説き明かしてくれた。",
+        "after": "日生　光「いいよ。さあ、どうぞ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "日生　光「いいよ。さあ、どうぞ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "日生　光",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「そうなのですか？　すみません……何だか早く着きすぎてしまって……」",
+        "after": "遠野　紗夜「はい」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "遠野　紗夜「はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "日生　光「いいよ。さあ、どうぞ」",
+        "after": "さあ、今から魔女との対決だ。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "さあ、今から魔女との対決だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「はい」",
+        "after": null
+      }
+    }
+  ]
+}

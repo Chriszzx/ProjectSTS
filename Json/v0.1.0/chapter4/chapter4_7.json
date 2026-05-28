@@ -1,0 +1,1007 @@
+{
+  "meta": {
+    "file": "chapter4/chapter4_7.txt",
+    "chapter": "chapter4",
+    "total_lines": 54,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "昨日、日生先輩と訪れた喫茶店。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "あの時はあんなにも楽しかったというのに、今は空気が重苦しいばかりでちっとも楽しくない。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "あの時はあんなにも楽しかったというのに、今は空気が重苦しいばかりでちっとも楽しくない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "昨日、日生先輩と訪れた喫茶店。",
+        "after": "父「……全く。何故、私がわざわざこんな所に」"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "父「……全く。何故、私がわざわざこんな所に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "あの時はあんなにも楽しかったというのに、今は空気が重苦しいばかりでちっとも楽しくない。",
+        "after": "遠野　紗夜「お嫌なら今すぐにでも帰られても宜しいのですよ、"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "遠野　紗夜「お嫌なら今すぐにでも帰られても宜しいのですよ、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「……全く。何故、私がわざわざこんな所に」",
+        "after": "お父様"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "お父様",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お嫌なら今すぐにでも帰られても宜しいのですよ、",
+        "after": "？」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "？」",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "お父様",
+        "after": "父「…………」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "父「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "？」",
+        "after": "父「ふん。相変わらず、その捻くれた性格は健在のようだな」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "父「ふん。相変わらず、その捻くれた性格は健在のようだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "父「…………」",
+        "after": "遠野　紗夜「あんな風に人を唐突に呼び出そうとすれば誰でも反発します」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「あんな風に人を唐突に呼び出そうとすれば誰でも反発します」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「ふん。相変わらず、その捻くれた性格は健在のようだな」",
+        "after": "父「今時、手持ちの連絡手段の一つも持たないから、わざわざ使いをやる羽目になる」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "父「今時、手持ちの連絡手段の一つも持たないから、わざわざ使いをやる羽目になる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「あんな風に人を唐突に呼び出そうとすれば誰でも反発します」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「今時、手持ちの連絡手段の一つも持たないから、わざわざ使いをやる羽目になる」",
+        "after": "遠野　紗夜「……それで、用件はなんでしょうか、お父様」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "遠野　紗夜「……それで、用件はなんでしょうか、お父様」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "父「これだ」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "父「これだ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……それで、用件はなんでしょうか、お父様」",
+        "after": "そう言って、投げ捨てるように置かれた大きな封筒。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "そう言って、投げ捨てるように置かれた大きな封筒。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「これだ」",
+        "after": "父「開けてみなさい」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "父「開けてみなさい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "そう言って、投げ捨てるように置かれた大きな封筒。",
+        "after": "遠野　紗夜「……？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "遠野　紗夜「……？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「開けてみなさい」",
+        "after": "言われるがまま封を開けると、中には一冊の冊子が入っていた。"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "言われるがまま封を開けると、中には一冊の冊子が入っていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……？」",
+        "after": "外装は真白く、固く艶々としている。見たところ、ページ数はなく開けばすぐに中身が見えるようだ。"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "外装は真白く、固く艶々としている。見たところ、ページ数はなく開けばすぐに中身が見えるようだ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "言われるがまま封を開けると、中には一冊の冊子が入っていた。",
+        "after": "例えるのなら、写真のような……。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "例えるのなら、写真のような……。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "外装は真白く、固く艶々としている。見たところ、ページ数はなく開けばすぐに中身が見えるようだ。",
+        "after": "遠野　紗夜「これは……」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "遠野　紗夜「これは……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "例えるのなら、写真のような……。",
+        "after": "父「縁談の話がある」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "父「縁談の話がある」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「これは……」",
+        "after": "遠野　紗夜「お断りします」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「お断りします」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「縁談の話がある」",
+        "after": "私は中身も確認せず、元に戻す。"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "私は中身も確認せず、元に戻す。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お断りします」",
+        "after": "父「無駄だ」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "父「無駄だ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "私は中身も確認せず、元に戻す。",
+        "after": "遠野　紗夜「何故です？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「何故です？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「無駄だ」",
+        "after": "父「相手方が大層お前を気に入っているようでな。お前との釣り合いを比べてもそう悪くない」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "父「相手方が大層お前を気に入っているようでな。お前との釣り合いを比べてもそう悪くない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「何故です？」",
+        "after": "遠野　紗夜「……もしかして、勝手に決めてしまったのですか？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「……もしかして、勝手に決めてしまったのですか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「相手方が大層お前を気に入っているようでな。お前との釣り合いを比べてもそう悪くない」",
+        "after": "父「ああ」"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "父「ああ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「……もしかして、勝手に決めてしまったのですか？」",
+        "after": "遠野　紗夜「絶対に嫌です！！　私は貴方の人形ではありません！！」"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "遠野　紗夜「絶対に嫌です！！　私は貴方の人形ではありません！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「ああ」",
+        "after": "父「この縁談を断ったら、お前には今住んでいるあの場所からも出て行ってもらう」"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "父「この縁談を断ったら、お前には今住んでいるあの場所からも出て行ってもらう」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「絶対に嫌です！！　私は貴方の人形ではありません！！」",
+        "after": "遠野　紗夜「！」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「この縁談を断ったら、お前には今住んでいるあの場所からも出て行ってもらう」",
+        "after": "父「誰に食わせてもらってると思ってるんだ？」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "父「誰に食わせてもらってると思ってるんだ？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「！」",
+        "after": "遠野　紗夜「それは……そうですが…………」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "遠野　紗夜「それは……そうですが…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「誰に食わせてもらってると思ってるんだ？」",
+        "after": "図星をつかれ、躊躇する。"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "図星をつかれ、躊躇する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「それは……そうですが…………」",
+        "after": "先程までの威勢が嘘のように消えてなくなってしまった。"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "先程までの威勢が嘘のように消えてなくなってしまった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "図星をつかれ、躊躇する。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "先程までの威勢が嘘のように消えてなくなってしまった。",
+        "after": "遠野　紗夜「……ここまで育ててもらったことには感謝しています」"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "遠野　紗夜「……ここまで育ててもらったことには感謝しています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "遠野　紗夜「ですが、私も十七になりました」"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "遠野　紗夜「ですが、私も十七になりました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……ここまで育ててもらったことには感謝しています」",
+        "after": "父「自分だけの力で生きていけると？　思い上がりも甚だしいな」"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "父「自分だけの力で生きていけると？　思い上がりも甚だしいな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「ですが、私も十七になりました」",
+        "after": "遠野　紗夜「私だけではありません」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「私だけではありません」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「自分だけの力で生きていけると？　思い上がりも甚だしいな」",
+        "after": "遠野　紗夜「十夜兄さんも一緒にいます」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　紗夜「十夜兄さんも一緒にいます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「私だけではありません」",
+        "after": "父「また、あいつかっ！！」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "父「また、あいつかっ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「十夜兄さんも一緒にいます」",
+        "after": "兄の名前を聞くなり、父は机の上を叩いた。"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "兄の名前を聞くなり、父は机の上を叩いた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "父「また、あいつかっ！！」",
+        "after": "グラスの中の飲み物が波立つ。"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "グラスの中の飲み物が波立つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄の名前を聞くなり、父は机の上を叩いた。",
+        "after": "遠野　紗夜「っ！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「っ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "グラスの中の飲み物が波立つ。",
+        "after": "父「もうそいつの話はうんざりだ！！」"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "父「もうそいつの話はうんざりだ！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "遠野　紗夜「っ！」",
+        "after": "父「いいか！？　二度とその名前を口に出すな！！」"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "父「いいか！？　二度とその名前を口に出すな！！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "父「もうそいつの話はうんざりだ！！」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "父「いいか！？　二度とその名前を口に出すな！！」",
+        "after": "私は目の前が暗くなっていくのを感じた。"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "私は目の前が暗くなっていくのを感じた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "父「紗夜」"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "父「紗夜」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "私は目の前が暗くなっていくのを感じた。",
+        "after": "父「……縁談の日取りが決まり次第、お前を迎えに行かせる。それまでに覚悟でも決めておくんだな」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "父「……縁談の日取りが決まり次第、お前を迎えに行かせる。それまでに覚悟でも決めておくんだな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "父「紗夜」",
+        "after": "父「会計を」"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "父「会計を」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "父",
+      "special_char": false,
+      "context": {
+        "before": "父「……縁談の日取りが決まり次第、お前を迎えに行かせる。それまでに覚悟でも決めておくんだな」",
+        "after": "ウエイトレス「あ……は、はい」"
+      }
+    },
+    {
+      "line": 53,
+      "jp": "ウエイトレス「あ……は、はい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "ウエイトレス",
+      "special_char": false,
+      "context": {
+        "before": "父「会計を」",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 54,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "ウエイトレス「あ……は、はい」",
+        "after": null
+      }
+    }
+  ]
+}

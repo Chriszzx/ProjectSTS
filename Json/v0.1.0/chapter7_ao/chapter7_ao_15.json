@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_15.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 28,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「…………はあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "何とか咳は治まった。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "何とか咳は治まった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「…………はあ」",
+        "after": "深く深呼吸をする。早く、皆の所に戻らなければ。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "深く深呼吸をする。早く、皆の所に戻らなければ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何とか咳は治まった。",
+        "after": "中庭へと急ぐ中、私は自分のことを考えていた。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "中庭へと急ぐ中、私は自分のことを考えていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "深く深呼吸をする。早く、皆の所に戻らなければ。",
+        "after": "何だかここの所、急に身体が弱くなった気がする。確かに、ここ数日は部屋に閉じ籠もっていたけれど、それにしては体力が低下し過ぎている。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "何だかここの所、急に身体が弱くなった気がする。確かに、ここ数日は部屋に閉じ籠もっていたけれど、それにしては体力が低下し過ぎている。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "中庭へと急ぐ中、私は自分のことを考えていた。",
+        "after": "何故だろう。以前にもこんなことがあった気がした。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "何故だろう。以前にもこんなことがあった気がした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何だかここの所、急に身体が弱くなった気がする。確かに、ここ数日は部屋に閉じ籠もっていたけれど、それにしては体力が低下し過ぎている。",
+        "after": "喉が痛くて、息が出来なくて苦しくて、胸が痛くなって……"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "喉が痛くて、息が出来なくて苦しくて、胸が痛くなって……",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故だろう。以前にもこんなことがあった気がした。",
+        "after": "ああ、そうだ。昔の私だ。"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "ああ、そうだ。昔の私だ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "喉が痛くて、息が出来なくて苦しくて、胸が痛くなって……",
+        "after": "私は生まれつき身体が弱かった。"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "私は生まれつき身体が弱かった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "ああ、そうだ。昔の私だ。",
+        "after": "遠野　紗夜「ごほごほっ！」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「ごほごほっ！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "私は生まれつき身体が弱かった。",
+        "after": "咳をする度に、母はとても心配そうな顔をしていた。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "咳をする度に、母はとても心配そうな顔をしていた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「ごほごほっ！」",
+        "after": "一度咳が出始めたらしばらくは止まらず、息が上手く出来なくてとても苦しかった。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "一度咳が出始めたらしばらくは止まらず、息が上手く出来なくてとても苦しかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "咳をする度に、母はとても心配そうな顔をしていた。",
+        "after": "病院は何度通っても嫌いだった。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "病院は何度通っても嫌いだった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "一度咳が出始めたらしばらくは止まらず、息が上手く出来なくてとても苦しかった。",
+        "after": "私を担当する院長先生は少し怖かったし、薬を飲むのも苦手だった。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "私を担当する院長先生は少し怖かったし、薬を飲むのも苦手だった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "病院は何度通っても嫌いだった。",
+        "after": "私の身体は人より弱くて、そのせいであまり外へは出られなかった。"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "私の身体は人より弱くて、そのせいであまり外へは出られなかった。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私を担当する院長先生は少し怖かったし、薬を飲むのも苦手だった。",
+        "after": "……何故、忘れていたのだろう。"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "……何故、忘れていたのだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の身体は人より弱くて、そのせいであまり外へは出られなかった。",
+        "after": "遠野　紗夜「すみません、お待たせしました」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「すみません、お待たせしました」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "……何故、忘れていたのだろう。",
+        "after": "宮沢　夏帆「ちゃん！　大丈夫紗夜だった！？」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "宮沢　夏帆「ちゃん！　大丈夫紗夜だった！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「すみません、お待たせしました」",
+        "after": "遠野　紗夜「ええ」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「ええ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ちゃん！　大丈夫紗夜だった！？」",
+        "after": "宮沢　夏帆「ごめん……。やっぱり、ついていった方が良かった？」"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "宮沢　夏帆「ごめん……。やっぱり、ついていった方が良かった？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ」",
+        "after": "遠野　紗夜「少し喉を詰まらせただけですので、そんなに心配しないで下さい」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "遠野　紗夜「少し喉を詰まらせただけですので、そんなに心配しないで下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「ごめん……。やっぱり、ついていった方が良かった？」",
+        "after": "心配する夏帆をなだめ、私は元いた場所に座る。"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "心配する夏帆をなだめ、私は元いた場所に座る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「少し喉を詰まらせただけですので、そんなに心配しないで下さい」",
+        "after": "桐島　七葵「…………」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "桐島　七葵「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "心配する夏帆をなだめ、私は元いた場所に座る。",
+        "after": "桐島先輩と目が合うと、彼は何か言いたそうに口を開きかけた。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "桐島先輩と目が合うと、彼は何か言いたそうに口を開きかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "桐島　七葵「…………」",
+        "after": "遠野　紗夜「……何でしょう？」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「……何でしょう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島先輩と目が合うと、彼は何か言いたそうに口を開きかけた。",
+        "after": "桐島　七葵「いや……何でもない」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "桐島　七葵「いや……何でもない」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "桐島　七葵",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……何でしょう？」",
+        "after": "遠野　紗夜「？」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "桐島　七葵「いや……何でもない」",
+        "after": "何故か目を逸らされた。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "何故か目を逸らされた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「？」",
+        "after": null
+      }
+    }
+  ]
+}

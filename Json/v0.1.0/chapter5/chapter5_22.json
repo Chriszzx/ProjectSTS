@@ -1,0 +1,955 @@
+{
+  "meta": {
+    "file": "chapter5/chapter5_22.txt",
+    "chapter": "chapter5",
+    "total_lines": 52,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "遠野　紗夜「お二人とも、往来で喧嘩はしないで下さい。……ほら、先程から人に注目されています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": null,
+        "after": "目線で促すと、状況を把握したのか二人は押し黙る。"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "目線で促すと、状況を把握したのか二人は押し黙る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お二人とも、往来で喧嘩はしないで下さい。……ほら、先程から人に注目されています」",
+        "after": "何故だろうか。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "何故だろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目線で促すと、状況を把握したのか二人は押し黙る。",
+        "after": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故だろうか。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。",
+        "after": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」",
+        "after": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」",
+        "after": "遠野　十夜「。行きたい場所は決まったかい？」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　十夜「。行きたい場所は決まったかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」",
+        "after": "遠野　紗夜「あ」"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "遠野　紗夜「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「。行きたい場所は決まったかい？」",
+        "after": "そうだ、まずは予定を決めないといけない。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "そうだ、まずは予定を決めないといけない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ」",
+        "after": "兄と蒼と千代さん。"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "兄と蒼と千代さん。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうだ、まずは予定を決めないといけない。",
+        "after": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄と蒼と千代さん。",
+        "after": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。",
+        "after": "遠野　十夜「俺は紗夜の好きな所に」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　十夜「俺は紗夜の好きな所に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」",
+        "after": "千代「俺もどこでも良いですよ」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "千代「俺もどこでも良いですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「俺は紗夜の好きな所に」",
+        "after": "ほぼ、予想通りの答えの中、"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "ほぼ、予想通りの答えの中、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「俺もどこでも良いですよ」",
+        "after": "蒼「静かで人が少ない場所を希望する」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "蒼「静かで人が少ない場所を希望する」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ほぼ、予想通りの答えの中、",
+        "after": "遠野　紗夜「……そうですね！　私もそれが良いです！」"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "遠野　紗夜「……そうですね！　私もそれが良いです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「静かで人が少ない場所を希望する」",
+        "after": "私は彼の意見に同意する。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "私は彼の意見に同意する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……そうですね！　私もそれが良いです！」",
+        "after": "それならば、千代さんとも気兼ねなく話せるだろう。"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "それならば、千代さんとも気兼ねなく話せるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼の意見に同意する。",
+        "after": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "それならば、千代さんとも気兼ねなく話せるだろう。",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」",
+        "after": "頭の中で場所の候補を巡らす。"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "頭の中で場所の候補を巡らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "遠野　紗夜「あ」"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "遠野　紗夜「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "頭の中で場所の候補を巡らす。",
+        "after": "思い浮かんだ場所がただ一つ。"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "思い浮かんだ場所がただ一つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ」",
+        "after": "遠野　紗夜「お二人とも、往来で喧嘩はしないで下さい。……ほら、先程から人に注目されています」"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "遠野　紗夜「お二人とも、往来で喧嘩はしないで下さい。……ほら、先程から人に注目されています」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "思い浮かんだ場所がただ一つ。",
+        "after": "目線で促すと、状況を把握したのか二人は押し黙る。"
+      }
+    },
+    {
+      "line": 28,
+      "jp": "目線で促すと、状況を把握したのか二人は押し黙る。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「お二人とも、往来で喧嘩はしないで下さい。……ほら、先程から人に注目されています」",
+        "after": "何故だろうか。"
+      }
+    },
+    {
+      "line": 29,
+      "jp": "何故だろうか。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "目線で促すと、状況を把握したのか二人は押し黙る。",
+        "after": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。"
+      }
+    },
+    {
+      "line": 30,
+      "jp": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "何故だろうか。",
+        "after": "遠野　紗夜「…………」"
+      }
+    },
+    {
+      "line": 31,
+      "jp": "遠野　紗夜「…………」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "元より二人の仲は良いとは言えなかったけれど、今は特に雰囲気が悪い。",
+        "after": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」"
+      }
+    },
+    {
+      "line": 32,
+      "jp": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「…………」",
+        "after": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」"
+      }
+    },
+    {
+      "line": 33,
+      "jp": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「はあ、しかし本当に三人揃うと更に華やかだなぁ」",
+        "after": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」"
+      }
+    },
+    {
+      "line": 34,
+      "jp": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "千代「あ、何も話さなくとも大丈夫です。俺の独り言として流して下さい」",
+        "after": "遠野　十夜「。行きたい場所は決まったかい？」"
+      }
+    },
+    {
+      "line": 35,
+      "jp": "遠野　十夜「。行きたい場所は決まったかい？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "千代「お兄さんと蒼さんは、あまり仲が良くないんですね。何故なんだろう？」",
+        "after": "遠野　紗夜「あ」"
+      }
+    },
+    {
+      "line": 36,
+      "jp": "遠野　紗夜「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「。行きたい場所は決まったかい？」",
+        "after": "そうだ、まずは予定を決めないといけない。"
+      }
+    },
+    {
+      "line": 37,
+      "jp": "そうだ、まずは予定を決めないといけない。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ」",
+        "after": "兄と蒼と千代さん。"
+      }
+    },
+    {
+      "line": 38,
+      "jp": "兄と蒼と千代さん。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "そうだ、まずは予定を決めないといけない。",
+        "after": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。"
+      }
+    },
+    {
+      "line": 39,
+      "jp": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "兄と蒼と千代さん。",
+        "after": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」"
+      }
+    },
+    {
+      "line": 40,
+      "jp": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "この不思議な面子でどこに行くのが相応しいだろうかと、悶々と考える。",
+        "after": "遠野　十夜「俺は紗夜の好きな所に」"
+      }
+    },
+    {
+      "line": 41,
+      "jp": "遠野　十夜「俺は紗夜の好きな所に」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「……皆さんは、どこか行きたい場所はありますか？」",
+        "after": "千代「俺もどこでも良いですよ」"
+      }
+    },
+    {
+      "line": 42,
+      "jp": "千代「俺もどこでも良いですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "千代",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「俺は紗夜の好きな所に」",
+        "after": "ほぼ、予想通りの答えの中、"
+      }
+    },
+    {
+      "line": 43,
+      "jp": "ほぼ、予想通りの答えの中、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "千代「俺もどこでも良いですよ」",
+        "after": "蒼「静かで人が少ない場所を希望する」"
+      }
+    },
+    {
+      "line": 44,
+      "jp": "蒼「静かで人が少ない場所を希望する」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "蒼",
+      "special_char": true,
+      "context": {
+        "before": "ほぼ、予想通りの答えの中、",
+        "after": "遠野　紗夜「……そうですね！　私もそれが良いです！」"
+      }
+    },
+    {
+      "line": 45,
+      "jp": "遠野　紗夜「……そうですね！　私もそれが良いです！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "蒼「静かで人が少ない場所を希望する」",
+        "after": "私は彼の意見に同意する。"
+      }
+    },
+    {
+      "line": 46,
+      "jp": "私は彼の意見に同意する。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「……そうですね！　私もそれが良いです！」",
+        "after": "それならば、千代さんとも気兼ねなく話せるだろう。"
+      }
+    },
+    {
+      "line": 47,
+      "jp": "それならば、千代さんとも気兼ねなく話せるだろう。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は彼の意見に同意する。",
+        "after": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」"
+      }
+    },
+    {
+      "line": 48,
+      "jp": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　十夜",
+      "special_char": true,
+      "context": {
+        "before": "それならば、千代さんとも気兼ねなく話せるだろう。",
+        "after": "遠野　紗夜「そうですね……」"
+      }
+    },
+    {
+      "line": 49,
+      "jp": "遠野　紗夜「そうですね……」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "遠野　十夜「静かで人が少ない場所か。なら、公園は除外だな」",
+        "after": "頭の中で場所の候補を巡らす。"
+      }
+    },
+    {
+      "line": 50,
+      "jp": "頭の中で場所の候補を巡らす。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「そうですね……」",
+        "after": "遠野　紗夜「あ」"
+      }
+    },
+    {
+      "line": 51,
+      "jp": "遠野　紗夜「あ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "頭の中で場所の候補を巡らす。",
+        "after": "思い浮かんだ場所がただ一つ。"
+      }
+    },
+    {
+      "line": 52,
+      "jp": "思い浮かんだ場所がただ一つ。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「あ」",
+        "after": null
+      }
+    }
+  ]
+}

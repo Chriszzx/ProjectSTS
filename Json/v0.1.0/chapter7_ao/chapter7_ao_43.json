@@ -1,0 +1,502 @@
+{
+  "meta": {
+    "file": "chapter7_ao/chapter7_ao_43.txt",
+    "chapter": "chapter7_ao",
+    "total_lines": 27,
+    "generated_at": "2026-04-23",
+    "version": "v0.1.0"
+  },
+  "entries": [
+    {
+      "line": 1,
+      "jp": "教室へと戻る間際、",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": null,
+        "after": "宮沢　夏帆「紗夜ちゃん」"
+      }
+    },
+    {
+      "line": 2,
+      "jp": "宮沢　夏帆「紗夜ちゃん」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "教室へと戻る間際、",
+        "after": "夏帆は私の傍に寄ると、前方にいる桐島先輩に聞こえぬ様、小声で話しかけた。"
+      }
+    },
+    {
+      "line": 3,
+      "jp": "夏帆は私の傍に寄ると、前方にいる桐島先輩に聞こえぬ様、小声で話しかけた。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「紗夜ちゃん」",
+        "after": "宮沢　夏帆「七葵先輩と何の話をしてたの～？」"
+      }
+    },
+    {
+      "line": 4,
+      "jp": "宮沢　夏帆「七葵先輩と何の話をしてたの～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "夏帆は私の傍に寄ると、前方にいる桐島先輩に聞こえぬ様、小声で話しかけた。",
+        "after": "どうやら先程の話を気にしていたらしい。"
+      }
+    },
+    {
+      "line": 5,
+      "jp": "どうやら先程の話を気にしていたらしい。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「七葵先輩と何の話をしてたの～？」",
+        "after": "特に秘密にすることでもなかったので、私は正直に言うことにした。"
+      }
+    },
+    {
+      "line": 6,
+      "jp": "特に秘密にすることでもなかったので、私は正直に言うことにした。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "どうやら先程の話を気にしていたらしい。",
+        "after": "遠野　紗夜「何でも、私にお話があるそうで放課後に予定は空いているかと聞かれたのですよ」"
+      }
+    },
+    {
+      "line": 7,
+      "jp": "遠野　紗夜「何でも、私にお話があるそうで放課後に予定は空いているかと聞かれたのですよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "特に秘密にすることでもなかったので、私は正直に言うことにした。",
+        "after": "宮沢　夏帆「え！？　まさか、本当に告白！？」"
+      }
+    },
+    {
+      "line": 8,
+      "jp": "宮沢　夏帆「え！？　まさか、本当に告白！？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「何でも、私にお話があるそうで放課後に予定は空いているかと聞かれたのですよ」",
+        "after": "遠野　紗夜「まさか」"
+      }
+    },
+    {
+      "line": 9,
+      "jp": "遠野　紗夜「まさか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「え！？　まさか、本当に告白！？」",
+        "after": "私は笑って言った。"
+      }
+    },
+    {
+      "line": 10,
+      "jp": "私は笑って言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「まさか」",
+        "after": "すると、夏帆もつられるよう笑った。"
+      }
+    },
+    {
+      "line": 11,
+      "jp": "すると、夏帆もつられるよう笑った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私は笑って言った。",
+        "after": "宮沢　夏帆「……だよねぇ～」"
+      }
+    },
+    {
+      "line": 12,
+      "jp": "宮沢　夏帆「……だよねぇ～」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "すると、夏帆もつられるよう笑った。",
+        "after": "宮沢　夏帆「でも、それなら何の用なんだろう～？」"
+      }
+    },
+    {
+      "line": 13,
+      "jp": "宮沢　夏帆「でも、それなら何の用なんだろう～？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「……だよねぇ～」",
+        "after": "細い顎に人差し指をあて、可愛らしく彼女は小首を傾げる。"
+      }
+    },
+    {
+      "line": 14,
+      "jp": "細い顎に人差し指をあて、可愛らしく彼女は小首を傾げる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「でも、それなら何の用なんだろう～？」",
+        "after": "遠野　紗夜「さあ」"
+      }
+    },
+    {
+      "line": 15,
+      "jp": "遠野　紗夜「さあ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "細い顎に人差し指をあて、可愛らしく彼女は小首を傾げる。",
+        "after": "宮沢　夏帆「あれ、行かないの？」"
+      }
+    },
+    {
+      "line": 16,
+      "jp": "宮沢　夏帆「あれ、行かないの？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「さあ」",
+        "after": "遠野　紗夜「ええ。今日は夏帆と一緒に帰る予定だったではありませんか」"
+      }
+    },
+    {
+      "line": 17,
+      "jp": "遠野　紗夜「ええ。今日は夏帆と一緒に帰る予定だったではありませんか」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「あれ、行かないの？」",
+        "after": "宮沢　夏帆「……えへへっ」"
+      }
+    },
+    {
+      "line": 18,
+      "jp": "宮沢　夏帆「……えへへっ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「ええ。今日は夏帆と一緒に帰る予定だったではありませんか」",
+        "after": "私の腕に手を絡ませ、頭をくっつけ甘えてくる。"
+      }
+    },
+    {
+      "line": 19,
+      "jp": "私の腕に手を絡ませ、頭をくっつけ甘えてくる。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「……えへへっ」",
+        "after": "そして、彼女は私を見上げると意外な言葉を言った。"
+      }
+    },
+    {
+      "line": 20,
+      "jp": "そして、彼女は私を見上げると意外な言葉を言った。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "私の腕に手を絡ませ、頭をくっつけ甘えてくる。",
+        "after": "宮沢　夏帆「まあ、でも良いよ。今日は七葵先輩に譲ってあげる」"
+      }
+    },
+    {
+      "line": 21,
+      "jp": "宮沢　夏帆「まあ、でも良いよ。今日は七葵先輩に譲ってあげる」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "そして、彼女は私を見上げると意外な言葉を言った。",
+        "after": "遠野　紗夜「え？」"
+      }
+    },
+    {
+      "line": 22,
+      "jp": "遠野　紗夜「え？」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「まあ、でも良いよ。今日は七葵先輩に譲ってあげる」",
+        "after": "宮沢　夏帆「話したいことがあるんでしょ～？　なら、私は良いから先輩の話聞いてあげなよ」"
+      }
+    },
+    {
+      "line": 23,
+      "jp": "宮沢　夏帆「話したいことがあるんでしょ～？　なら、私は良いから先輩の話聞いてあげなよ」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "遠野　紗夜「え？」",
+        "after": "遠野　紗夜「夏帆……ありがとうございます」"
+      }
+    },
+    {
+      "line": 24,
+      "jp": "遠野　紗夜「夏帆……ありがとうございます」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "遠野　紗夜",
+      "special_char": true,
+      "context": {
+        "before": "宮沢　夏帆「話したいことがあるんでしょ～？　なら、私は良いから先輩の話聞いてあげなよ」",
+        "after": "すると、夏帆は満足そうに頷いてから、私の腕を放した。"
+      }
+    },
+    {
+      "line": 25,
+      "jp": "すると、夏帆は満足そうに頷いてから、私の腕を放した。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "遠野　紗夜「夏帆……ありがとうございます」",
+        "after": "宮沢　夏帆「せーんぱーい！」"
+      }
+    },
+    {
+      "line": 26,
+      "jp": "宮沢　夏帆「せーんぱーい！」",
+      "cn": "",
+      "type": "dialogue",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "speaker": "宮沢　夏帆",
+      "special_char": true,
+      "context": {
+        "before": "すると、夏帆は満足そうに頷いてから、私の腕を放した。",
+        "after": "前を行く桐島先輩に声をかける。"
+      }
+    },
+    {
+      "line": 27,
+      "jp": "前を行く桐島先輩に声をかける。",
+      "cn": "",
+      "type": "narration",
+      "translations": {
+        "v1": "",
+        "v2": "",
+        "v3": "",
+        "final": ""
+      },
+      "verified": false,
+      "context": {
+        "before": "宮沢　夏帆「せーんぱーい！」",
+        "after": null
+      }
+    }
+  ]
+}
