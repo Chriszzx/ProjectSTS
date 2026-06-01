@@ -1,0 +1,18 @@
+[
+  {
+    "from": "aono35.scr",
+    "to": "aono35bad.scr",
+    "line": 145,
+    "choice_text": "いいえ",
+    "target": "bad",
+    "conditions": [
+      "选择「いいえ」"
+    ],
+    "conditions_humanized": [
+      "选择「いいえ」"
+    ],
+    "source": "missing_choice_target_inference",
+    "confidence": "medium",
+    "note": "Choice target label is absent in the source scene; inferred to the next archive scene because it is a bad/end script."
+  }
+]

@@ -1,0 +1,64 @@
+body {
+  font-family: serif;
+  line-height: 1.75;
+  margin: 5%;
+}
+h1, h2, h3 {
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+p {
+  margin: 0 0 0.65em 0;
+}
+blockquote {
+  border-left: 0.25em solid #777;
+  margin: 1em 0;
+  padding: 0.2em 0 0.2em 1em;
+}
+blockquote.choice {
+  border-left-color: #444;
+  font-weight: bold;
+}
+blockquote.note, p.meta {
+  color: #555;
+}
+blockquote.navigation {
+  border-left-color: #888;
+  color: #333;
+  page-break-inside: avoid;
+}
+blockquote.navigation a {
+  font-weight: 700;
+}
+hr.scene-break {
+  border: 0;
+  border-top: 1px solid #aaa;
+  margin: 1.6em 0;
+}
+strong {
+  font-weight: 700;
+}
+code {
+  font-family: monospace;
+}
+.cover {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.cover img {
+  max-width: 100%;
+  max-height: 100vh;
+}
+.divider-page {
+  display: flex;
+  min-height: 80vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.divider-page h1 {
+  margin-top: 35vh;
+  font-size: 1.8em;
+  font-weight: 400;
+}

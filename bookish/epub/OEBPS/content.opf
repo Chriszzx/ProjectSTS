@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="book-id">urn:sha256:7244f1047d4f58f6960926d0c83b3d8397edfbafe9e3984ea073f26cd86ac680:bookish-complete</dc:identifier>
+    <dc:title>死神と少女 Bookish Complete Script</dc:title>
+    <dc:language>ja</dc:language>
+    <dc:creator>ProjectSTS</dc:creator>
+    <meta property="dcterms:modified">2026-06-01T07:51:30Z</meta>
+  </metadata>
+  <manifest>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="toc" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="style" href="styles/bookish.css" media-type="text/css" />
+    <item id="chapter-1" href="text/reading_order_00_hajimari.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-2" href="text/reading_order_01_prologue.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-3" href="text/reading_order_02_chapter1.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-4" href="text/reading_order_03_chapter2.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-5" href="text/reading_order_04_chapter3.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-6" href="text/reading_order_05_natsuko.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-7" href="text/reading_order_06_chapter4_to_hinase_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-8" href="text/reading_order_07_hinase_chapter4_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-9" href="text/reading_order_08_hinase.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-10" href="text/reading_order_09_chapter4_after_hinase_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-11" href="text/reading_order_10_chapter5_to_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-12" href="text/reading_order_11_kirishima_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-13" href="text/reading_order_12_kirishima.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-14" href="text/reading_order_13_chiyo_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-15" href="text/reading_order_14_chiyo_kirishima_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-16" href="text/reading_order_15_chiyo.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-17" href="text/reading_order_16_chapter5_after_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-18" href="text/reading_order_17_chapter6.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-19" href="text/reading_order_18_kuro.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-20" href="text/reading_order_19_ao.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-21" href="text/reading_order_20_atogaki.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-22" href="text/appendix_endings_and_recovery.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-23" href="text/appendix_internal_stories.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="chapter-1" />
+    <itemref idref="chapter-2" />
+    <itemref idref="chapter-3" />
+    <itemref idref="chapter-4" />
+    <itemref idref="chapter-5" />
+    <itemref idref="chapter-6" />
+    <itemref idref="chapter-7" />
+    <itemref idref="chapter-8" />
+    <itemref idref="chapter-9" />
+    <itemref idref="chapter-10" />
+    <itemref idref="chapter-11" />
+    <itemref idref="chapter-12" />
+    <itemref idref="chapter-13" />
+    <itemref idref="chapter-14" />
+    <itemref idref="chapter-15" />
+    <itemref idref="chapter-16" />
+    <itemref idref="chapter-17" />
+    <itemref idref="chapter-18" />
+    <itemref idref="chapter-19" />
+    <itemref idref="chapter-20" />
+    <itemref idref="chapter-21" />
+    <itemref idref="chapter-22" />
+    <itemref idref="chapter-23" />
+  </spine>
+</package>

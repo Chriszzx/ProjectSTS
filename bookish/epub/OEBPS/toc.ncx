@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:sha256:7244f1047d4f58f6960926d0c83b3d8397edfbafe9e3984ea073f26cd86ac680:bookish-complete" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle><text>死神と少女 Bookish Complete Script</text></docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel><text>名前</text></navLabel>
+      <content src="text/reading_order_00_hajimari.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel><text>序章</text></navLabel>
+      <content src="text/reading_order_01_prologue.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel><text>一章</text></navLabel>
+      <content src="text/reading_order_02_chapter1.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel><text>二章</text></navLabel>
+      <content src="text/reading_order_03_chapter2.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel><text>三章</text></navLabel>
+      <content src="text/reading_order_04_chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel><text>夏帆</text></navLabel>
+      <content src="text/reading_order_05_natsuko.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel><text>四章（日生分岐まで）</text></navLabel>
+      <content src="text/reading_order_06_chapter4_to_hinase_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel><text>日生（四章分岐）</text></navLabel>
+      <content src="text/reading_order_07_hinase_chapter4_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel><text>日生</text></navLabel>
+      <content src="text/reading_order_08_hinase.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel><text>四章（日生分岐後）</text></navLabel>
+      <content src="text/reading_order_09_chapter4_after_hinase_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel><text>五章（桐島・千代分岐まで）</text></navLabel>
+      <content src="text/reading_order_10_chapter5_to_kirichiyo_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel><text>桐島（五章分岐）</text></navLabel>
+      <content src="text/reading_order_11_kirishima_chapter5_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel><text>桐島</text></navLabel>
+      <content src="text/reading_order_12_kirishima.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel><text>千代（五章分岐）</text></navLabel>
+      <content src="text/reading_order_13_chiyo_chapter5_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel><text>千代（桐島分岐）</text></navLabel>
+      <content src="text/reading_order_14_chiyo_kirishima_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel><text>千代</text></navLabel>
+      <content src="text/reading_order_15_chiyo.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel><text>五章（桐島・千代分岐後）</text></navLabel>
+      <content src="text/reading_order_16_chapter5_after_kirichiyo_branch.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel><text>六章</text></navLabel>
+      <content src="text/reading_order_17_chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel><text>黒の章</text></navLabel>
+      <content src="text/reading_order_18_kuro.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel><text>蒼の章</text></navLabel>
+      <content src="text/reading_order_19_ao.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel><text>あとがき</text></navLabel>
+      <content src="text/reading_order_20_atogaki.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel><text>附录：结局与回收</text></navLabel>
+      <content src="text/appendix_endings_and_recovery.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel><text>附录：内部故事</text></navLabel>
+      <content src="text/appendix_internal_stories.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
