@@ -4,8 +4,6 @@
 
 ## 死神と少女
 
-_Source:_ `shinigami_pic.scr` / section 442
-
 陽が沈み、夜が来るまでの一瞬の空の色。
 それは深く、深く、蒼色の空。
 その下で佇む死神の姿があった。
@@ -684,8 +682,6 @@ _Source:_ `shinigami_pic.scr` / section 442
 
 ## 籠の鳥
 
-_Source:_ `ehon01.scr` / section 443
-
 ここに、一羽の籠の鳥がおりました。
 何の変哲もない鳥でした。
 他と比べて特別美しいわけでも、鳴き声が声高いわけでもない
@@ -754,8 +750,6 @@ _Source:_ `ehon01.scr` / section 443
 『籠の外に出たい』
 
 ## 西の村の猟師
-
-_Source:_ `ehon02.scr` / section 444
 
 昔々、西の何処かにある村でのお話。
 森の外れにあるその村に、夢見がちな
@@ -1059,13 +1053,9 @@ _Source:_ `ehon02.scr` / section 444
 
 ## ehon03
 
-_Source:_ `ehon03.scr` / section 445
-
 _这个内部资料没有可抽取的正文文本。_
 
 ## 塔の魔女と盗賊
-
-_Source:_ `ehon04.scr` / section 446
 
 むかしむかしあるところに、鬱蒼とした森の奥に入り口のない
 高い高い塔が立っていました。
@@ -1144,8 +1134,6 @@ _Source:_ `ehon04.scr` / section 446
 めでたしめでたし。
 
 ## 淡紅
-
-_Source:_ `ehon05.scr` / section 447
 
 俺は淡紅の夢を見た。
 夢の中で俺は何故か俺ではない姿になっているようだった。

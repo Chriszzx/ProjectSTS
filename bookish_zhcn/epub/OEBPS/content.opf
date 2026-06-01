@@ -5,7 +5,7 @@
     <dc:title>死神与少女 Bookish 中文完整剧本</dc:title>
     <dc:language>zh-CN</dc:language>
     <dc:creator>ProjectSTS</dc:creator>
-    <meta property="dcterms:modified">2026-06-01T07:51:30Z</meta>
+    <meta property="dcterms:modified">2026-06-01T08:58:29Z</meta>
     <meta name="cover" content="cover-image" />
   </metadata>
   <manifest>
@@ -17,44 +17,46 @@
     <item id="chapter-1" href="text/book_toc.xhtml" media-type="application/xhtml+xml" />
     <item id="chapter-2" href="text/reader_manual.xhtml" media-type="application/xhtml+xml" />
     <item id="chapter-3" href="text/dividers_00_story.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-4" href="text/reading_order_00_hajimari.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-5" href="text/dividers_01_prologue.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-6" href="text/reading_order_01_prologue.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-7" href="text/dividers_02_chapter1.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-8" href="text/reading_order_02_chapter1.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-9" href="text/dividers_03_chapter2.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-10" href="text/reading_order_03_chapter2.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-11" href="text/dividers_04_chapter3.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-12" href="text/reading_order_04_chapter3.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-13" href="text/dividers_05_natsuko.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-14" href="text/reading_order_05_natsuko.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-15" href="text/dividers_06_chapter4.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-16" href="text/reading_order_06_chapter4_to_hinase_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-17" href="text/dividers_07_hinase.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-18" href="text/reading_order_07_hinase_chapter4_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-19" href="text/reading_order_08_hinase.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-20" href="text/reading_order_09_chapter4_after_hinase_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-21" href="text/dividers_08_chapter5.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-22" href="text/reading_order_10_chapter5_to_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-23" href="text/dividers_09_kirishima.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-24" href="text/reading_order_11_kirishima_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-25" href="text/reading_order_12_kirishima.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-26" href="text/dividers_10_chiyo.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-27" href="text/reading_order_13_chiyo_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-28" href="text/reading_order_14_chiyo_kirishima_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-29" href="text/reading_order_15_chiyo.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-30" href="text/reading_order_16_chapter5_after_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-31" href="text/dividers_11_chapter6.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-32" href="text/reading_order_17_chapter6.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-33" href="text/dividers_12_kuro.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-34" href="text/reading_order_18_kuro.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-35" href="text/dividers_13_ao.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-36" href="text/reading_order_19_ao.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-37" href="text/dividers_14_atogaki.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-38" href="text/reading_order_20_atogaki.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-39" href="text/dividers_15_appendix.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-40" href="text/appendix_endings_and_recovery.xhtml" media-type="application/xhtml+xml" />
-    <item id="chapter-41" href="text/appendix_internal_stories.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-4" href="text/reading_order_00_name.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-5" href="text/reading_order_00_hajimari_gate.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-6" href="text/reading_order_00_hajimari.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-7" href="text/dividers_01_prologue.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-8" href="text/reading_order_01_prologue.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-9" href="text/dividers_02_chapter1.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-10" href="text/reading_order_02_chapter1.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-11" href="text/dividers_03_chapter2.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-12" href="text/reading_order_03_chapter2.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-13" href="text/dividers_04_chapter3.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-14" href="text/reading_order_04_chapter3.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-15" href="text/dividers_05_natsuko.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-16" href="text/reading_order_05_natsuko.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-17" href="text/dividers_06_chapter4.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-18" href="text/reading_order_06_chapter4_to_hinase_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-19" href="text/dividers_07_hinase.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-20" href="text/reading_order_07_hinase_chapter4_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-21" href="text/reading_order_08_hinase.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-22" href="text/reading_order_09_chapter4_after_hinase_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-23" href="text/dividers_08_chapter5.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-24" href="text/reading_order_10_chapter5_to_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-25" href="text/dividers_09_kirishima.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-26" href="text/reading_order_11_kirishima_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-27" href="text/reading_order_12_kirishima.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-28" href="text/dividers_10_chiyo.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-29" href="text/reading_order_13_chiyo_chapter5_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-30" href="text/reading_order_14_chiyo_kirishima_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-31" href="text/reading_order_15_chiyo.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-32" href="text/reading_order_16_chapter5_after_kirichiyo_branch.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-33" href="text/dividers_11_chapter6.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-34" href="text/reading_order_17_chapter6.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-35" href="text/dividers_12_kuro.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-36" href="text/reading_order_18_kuro.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-37" href="text/dividers_13_ao.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-38" href="text/reading_order_19_ao.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-39" href="text/dividers_14_atogaki.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-40" href="text/reading_order_20_atogaki.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-41" href="text/dividers_15_appendix.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-42" href="text/appendix_endings_and_recovery.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter-43" href="text/appendix_internal_stories.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="toc">
     <itemref idref="cover-page" />
@@ -99,5 +101,7 @@
     <itemref idref="chapter-39" />
     <itemref idref="chapter-40" />
     <itemref idref="chapter-41" />
+    <itemref idref="chapter-42" />
+    <itemref idref="chapter-43" />
   </spine>
 </package>

@@ -1,6 +1,7 @@
 # 目录
 
-- [名字与开端](reading_order_00_hajimari.xhtml)
+- [名字](reading_order_00_name.xhtml)
+- [开端](reading_order_00_hajimari_gate.xhtml)
 - [序章](reading_order_01_prologue.xhtml)
 - [一章](reading_order_02_chapter1.xhtml)
 - [二章](reading_order_03_chapter2.xhtml)

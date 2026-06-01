@@ -3,17 +3,15 @@
 This is a mechanical locator for likely translation alignment problems.
 It does not prove every listed line is wrong; it narrows the review queue.
 
-- Compared files: 38
-- Compared lines: 107891
-- Issues: 719
+- Compared files: 17
+- Compared lines: 55601
+- Issues: 371
 
 ## Issue Counts
 
 | Kind | Count |
 |---|---:|
-| `line_count_mismatch` | 21 |
-| `speaker_shape_mismatch` | 653 |
-| `structure_mismatch` | 45 |
+| `speaker_shape_mismatch` | 371 |
 
 ## First Issues
 
@@ -240,7 +238,7 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `03_chapter2.md:3677` `speaker_shape_mismatch`
 
 - JP: あはは、とあっけらんかんと笑う。
-- ZH: 他无忧无虑地笑着说: 「"啊哈哈。"」
+- ZH: 他无忧无虑地笑着说: 「啊哈哈。」
 
 ### `04_chapter3.md:382` `speaker_shape_mismatch`
 
@@ -1277,242 +1275,242 @@ It does not prove every listed line is wrong; it narrows the review queue.
 - JP: 『Depth（深層ニ在ル言の葉）』画面にて有効となる組み合わせ。１つ目を『蒼』、２つ目を『愛』にすると、蒼に対する攻略必須要素が全て満たされた状態になります。
 - ZH: 在『Depth（深层的言叶）』画面中有效的组合。将第一个设为『苍』，第二个设为『爱』，即可达成针对苍的攻略必需要素全部满足的状态。
 
-### `appendix/internal_stories.md:82` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:80` `speaker_shape_mismatch`
 
 - JP: 少女は前を行く死神の背中に語りかけた。
 - ZH: 少女对着走在前面的死神的背影搭话道：
 
-### `appendix/internal_stories.md:86` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:84` `speaker_shape_mismatch`
 
 - JP: それでも、少女は気にせず言葉を続ける。
 - ZH: 尽管如此，少女并不在意，继续说道：
 
-### `appendix/internal_stories.md:104` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:102` `speaker_shape_mismatch`
 
 - JP: その様子はまるで空飛ぶ鳥を思わせた。
 - ZH: 少女向飞鱼问道：
 
-### `appendix/internal_stories.md:108` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:106` `speaker_shape_mismatch`
 
 - JP: すると、一匹の空飛ぶ魚が二人の目線の高さまでゆらゆらと舞い降りて
 - ZH: 像唱歌般地回答道：
 
-### `appendix/internal_stories.md:113` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:111` `speaker_shape_mismatch`
 
 - JP: 出ればいいわ」
 - ZH: 在前往门的途中，死神说道：
 
-### `appendix/internal_stories.md:120` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:118` `speaker_shape_mismatch`
 
 - JP: 「それが自由のない籠の中でも構わないというのか」
 - ZH: 至今为止从未执着于任何事物的死神心想：
 
-### `appendix/internal_stories.md:174` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:172` `speaker_shape_mismatch`
 
 - JP: 彼らは、死神と少女を見ると、目を輝かせて口々に言った。
 - ZH: 他们看到死神和少女，眼睛闪闪发光，异口同声地说：
 
-### `appendix/internal_stories.md:183` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:181` `speaker_shape_mismatch`
 
 - JP: 催された宴を冷たい目で見て、ふんと鼻を鳴らし言い放った。
 - ZH: 冷冷地看着这场宴会，哼了一声，说道：
 
-### `appendix/internal_stories.md:520` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:518` `speaker_shape_mismatch`
 
 - JP: けれど、少女は言った。
 - ZH: 然而，少女说道：
 
-### `appendix/internal_stories.md:607` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:605` `speaker_shape_mismatch`
 
 - JP: 私には言える。『それは違う』と。
 - ZH: 我可以肯定地说: 「不是的。」
 
-### `appendix/internal_stories.md:702` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:698` `speaker_shape_mismatch`
 
 - JP: 鳥は自分と同じ鳥にこう言いました。
 - ZH: 这只鸟对和自己相同的鸟这样说道：
 
-### `appendix/internal_stories.md:918` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:912` `speaker_shape_mismatch`
 
 - JP: すると、ウィリアム卿はこんな歌を歌いました。
 - ZH: 于是，威廉卿唱了这样一首歌：
 
-### `appendix/internal_stories.md:1084` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1074` `speaker_shape_mismatch`
 
 - JP: お姫様はやって来た盗賊に言いました。
 - ZH: 公主对前来的盗贼说道：
 
-### `appendix/internal_stories.md:1086` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1076` `speaker_shape_mismatch`
 
 - JP: 盗賊はお姫様に言いました。
 - ZH: 盗贼对公主说道：
 
-### `appendix/internal_stories.md:1093` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1083` `speaker_shape_mismatch`
 
 - JP: すぐに恋に落ちた二人でしたが、お姫様は王子様がいつまで経っても
 - ZH: 两人很快坠入爱河，但公主感到奇怪: 「为什么王子一直」
 
-### `appendix/internal_stories.md:1095` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1085` `speaker_shape_mismatch`
 
 - JP: そして、とうとうお姫様の方から王子様に言いました。
 - ZH: 于是，公主终于主动对王子说道：
 
-### `appendix/internal_stories.md:1116` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1106` `speaker_shape_mismatch`
 
 - JP: お姫様は、前と同じ言葉を盗賊に言いました。
 - ZH: 公主对盗贼说了和以前一样的话：
 
-### `appendix/internal_stories.md:1120` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1110` `speaker_shape_mismatch`
 
 - JP: 盗賊はお姫様に言いました。
 - ZH: 盗贼对公主说道：
 
-### `appendix/internal_stories.md:1123` `speaker_shape_mismatch`
+### `appendix/internal_stories.md:1113` `speaker_shape_mismatch`
 
 - JP: お姫様は盗賊に言いました。
 - ZH: 公主对盗贼说道：
 
-### `appendix/endings_and_recovery.md:211` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:205` `speaker_shape_mismatch`
 
 - JP: 何だか知ったような口ぶりだったので、思わず訊ねてしまった。
 - ZH: 他的口气像是很了解那个人，我不禁问道：
 
-### `appendix/endings_and_recovery.md:441` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:431` `speaker_shape_mismatch`
 
 - JP: お客さん、と言われ少し罪悪感めいた感情を覚える。
 - ZH: 被称作「客人」，我心里感到一丝愧疚。
 
-### `appendix/endings_and_recovery.md:645` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:635` `speaker_shape_mismatch`
 
 - JP: 本来ならば、『記憶がない』ということを質すべきだったのに、その中途半端な年数の方が気になってしまったのだ。
 - ZH: 本来我该追问『没有记忆』这件事的，结果却被那半吊子的年数吸引了注意力。
 
-### `appendix/endings_and_recovery.md:1010` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:992` `speaker_shape_mismatch`
 
 - JP: 怪しいといわれ、確かに彼はまだあの不思議な衣装を着ていたままだったので、そのせいかと思い、
 - ZH: 听到「可疑」，确实他还穿着那件奇特的服装，我想大概是因为这个，
 
-### `appendix/endings_and_recovery.md:1135` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1113` `speaker_shape_mismatch`
 
 - JP: 鳥は口癖のように「籠の外に出たい」といつもなく。
 - ZH: 鸟儿像口头禅一样，总是啼叫着「想飞出笼子」。
 
-### `appendix/endings_and_recovery.md:1246` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1224` `speaker_shape_mismatch`
 
 - JP: 私は楽しくなってきて、口元に笑みを浮かべながら言った。
 - ZH: 我心情好了起来，嘴角浮起微笑说道：
 
-### `appendix/endings_and_recovery.md:1276` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1254` `speaker_shape_mismatch`
 
 - JP: 私は気を取り直すように言った。
 - ZH: 我打起精神说道：
 
-### `appendix/endings_and_recovery.md:1338` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1314` `speaker_shape_mismatch`
 
 - JP: 教室には友人と楽しそうに会話をしている者や忙しそうに出て行く者といった風に、様々な人の様子が見て取れた。
 - ZH: 教室里能看到各式各样的人: 「有和朋友愉快聊天的，有急匆匆走出去的。」
 
-### `appendix/endings_and_recovery.md:1606` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1578` `speaker_shape_mismatch`
 
 - JP: ある日、彼はとうとう私に告げました。
 - ZH: 有一天，他终于向我坦白：
 
-### `appendix/endings_and_recovery.md:1919` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:1885` `speaker_shape_mismatch`
 
 - JP: 現れた立派なお重に『おおっ』とどよめきが走る。
 - ZH: 出现的精美双层便当盒引起了『哦哦』的骚动。
 
-### `appendix/endings_and_recovery.md:2412` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2374` `speaker_shape_mismatch`
 
 - JP: 例の留学生というのは、多分先日の騒動の時の嘘だろう。
 - ZH: 他说的「那个留学生」，大概指的是前几天那场骚动时撒的谎吧。
 
-### `appendix/endings_and_recovery.md:2427` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2389` `speaker_shape_mismatch`
 
 - JP: そう言って、蒼の背中をばんばんと叩く。
 - ZH: 桐岛七葵: 「远野是苍的朋友。」
 
-### `appendix/endings_and_recovery.md:2432` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2394` `speaker_shape_mismatch`
 
 - JP: こちらが口出す間もなく答えられた。
 - ZH: 语文老师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
 
-### `appendix/endings_and_recovery.md:2437` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2399` `speaker_shape_mismatch`
 
 - JP: 桐島先輩の眉間が皺寄るのを気にも留めず、国語教師は更に話し続ける。
 - ZH: 语文老师: 「哈哈！！真是认真啊，远野。留学生呢？」
 
-### `appendix/endings_and_recovery.md:2443` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2405` `speaker_shape_mismatch`
 
 - JP: そこで、国語教師はちらと桐島先輩を見て、すぐに視線を元に戻すという動作をした。
 - ZH: 远野纱夜: 「可以吗？」
 
-### `appendix/endings_and_recovery.md:2444` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2406` `speaker_shape_mismatch`
 
 - JP: 桐島先輩が何かに気付いたようにぴくりと眉を動かしたが、何かの合図だというのだろうか。
 - ZH: 桐岛七葵: 「住手。半吊子的心态做的话会后悔的。」
 
-### `appendix/endings_and_recovery.md:2454` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2416` `speaker_shape_mismatch`
 
 - JP: 剣道というのは、どうやら見た目以上に過酷なようだ。
 - ZH: 剑道部员A: 「对对！！附议！！」
 
-### `appendix/endings_and_recovery.md:2455` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2417` `speaker_shape_mismatch`
 
 - JP: と、ここで今まで静かだった部員達が一斉に騒ぎ出した。
 - ZH: 剑道部员B: 「混蛋！！你们什么都不懂！！听好了，剑道最重要的是袴！！袴！！剑道服加美少女＝这就是最强！！」
 
-### `appendix/endings_and_recovery.md:2462` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2424` `speaker_shape_mismatch`
 
 - JP: 桐島先輩は低い声で呟いた。一気に気圧されたように青ざめる部員達。
 - ZH: 剑道部员们: 「是！」
 
-### `appendix/endings_and_recovery.md:2463` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2425` `speaker_shape_mismatch`
 
 - JP: 桐島先輩は傍に立てかけてあった竹刀を手に取り、ぶんと突き出した。
 - ZH: 桐岛七葵: 「回答不够响亮！！」
 
-### `appendix/endings_and_recovery.md:2471` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2433` `speaker_shape_mismatch`
 
 - JP: 残された私達はその様子を呆気にとられたように見つめていた。
 - ZH: 语文老师: 「那，怎么样？想练剑道了吗？」
 
-### `appendix/endings_and_recovery.md:2473` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2435` `speaker_shape_mismatch`
 
 - JP: 首を縦に振りながら実に嬉しそうに笑う。
 - ZH: 语文老师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
 
-### `appendix/endings_and_recovery.md:2490` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2452` `speaker_shape_mismatch`
 
 - JP: その姿は、正に現代に生きる武士のようでもある。
 - ZH: 千代: 「真遗憾啊。」
 
-### `appendix/endings_and_recovery.md:2491` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2453` `speaker_shape_mismatch`
 
 - JP: 私達は彼らの邪魔にならぬように隅へと移動し、見学していた。
 - ZH: 千代: 「我也想看看呢。大小姐穿剑道服的样子。」
 
-### `appendix/endings_and_recovery.md:2492` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2454` `speaker_shape_mismatch`
 
 - JP: 蒼も今では本を読むのを完全に止め、目の前の光景に完全に見入っている。
 - ZH: 远野纱夜: 「呵呵。不过，我和苍突然加入的话会给各位添麻烦的。」
 
-### `appendix/endings_and_recovery.md:2500` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2462` `speaker_shape_mismatch`
 
 - JP: 千代さんはにこにことしている。
 - ZH: 远野纱夜: 「啊，是的。是这样呢。」
 
-### `appendix/endings_and_recovery.md:2504` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2466` `speaker_shape_mismatch`
 
 - JP: 私は素直に答える。
 - ZH: 千代: 「真可惜啊。社团活动明明看起来很有趣。」
 
-### `appendix/endings_and_recovery.md:2505` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2467` `speaker_shape_mismatch`
 
 - JP: 部活には過去強制的に入らされた時以外は何も所属していない。
 - ZH: 远野纱夜: 「是啊…………。硬要说的话，也许是因为不是义务吧。」
 
-### `appendix/endings_and_recovery.md:2520` `speaker_shape_mismatch`
+### `appendix/endings_and_recovery.md:2482` `speaker_shape_mismatch`
 
 - JP: すると、蒼が口を挟んだ。
 - ZH: 远野纱夜: 「…………」

@@ -24,6 +24,8 @@
     "title": "死神と少女 Bookish Complete Script",
     "language": "ja",
     "source_files": [
+      "reading_order/00_name.md",
+      "reading_order/00_hajimari_gate.md",
       "reading_order/00_hajimari.md",
       "reading_order/01_prologue.md",
       "reading_order/02_chapter1.md",
@@ -50,7 +52,7 @@
     ],
     "frontmatter_files": [],
     "cover_image": null,
-    "xhtml_items": 23,
+    "xhtml_items": 25,
     "complete_markdown": "complete_epub.md",
     "source_dir": "epub",
     "epub_file": "bookish_complete.epub"
@@ -137,6 +139,8 @@
     "14_atogaki.md"
   ],
   "reading_order_files": [
+    "reading_order/00_name.md",
+    "reading_order/00_hajimari_gate.md",
     "reading_order/00_hajimari.md",
     "reading_order/01_prologue.md",
     "reading_order/02_chapter1.md",

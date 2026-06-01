@@ -94,6 +94,8 @@
     "14_atogaki.md"
   ],
   "reading_order_files": [
+    "reading_order/00_name.md",
+    "reading_order/00_hajimari_gate.md",
     "reading_order/00_hajimari.md",
     "reading_order/01_prologue.md",
     "reading_order/02_chapter1.md",
@@ -127,6 +129,8 @@
       "book_toc.md",
       "reader_manual.md",
       "dividers/00_story.md",
+      "reading_order/00_name.md",
+      "reading_order/00_hajimari_gate.md",
       "reading_order/00_hajimari.md",
       "dividers/01_prologue.md",
       "reading_order/01_prologue.md",
@@ -171,7 +175,7 @@
       "reader_manual.md"
     ],
     "cover_image": "epub/OEBPS/images/cover.jpg",
-    "xhtml_items": 41,
+    "xhtml_items": 43,
     "complete_markdown": "complete_epub.md",
     "source_dir": "epub",
     "epub_file": "bookish_complete.zh.epub"
@@ -180,11 +184,9 @@
     "directory": "_audit",
     "json": "_audit/translation_alignment_audit.json",
     "markdown": "_audit/translation_alignment_audit.md",
-    "issue_count": 719,
+    "issue_count": 371,
     "issue_counts": {
-      "line_count_mismatch": 21,
-      "speaker_shape_mismatch": 653,
-      "structure_mismatch": 45
+      "speaker_shape_mismatch": 371
     }
   }
 }

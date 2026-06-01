@@ -16,7 +16,7 @@ import re
 import shutil
 import struct
 import zipfile
-from collections import Counter
+from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -2924,10 +2924,17 @@ def normalize_zhcn_names(text: str) -> str:
     return result
 
 
+def clean_stray_dialogue_ascii_quotes(text: str) -> str:
+    cleaned = re.sub(r"([「『])\s*\"", r"\1", text)
+    cleaned = re.sub(r"\"\s*([」』])", r"\1", cleaned)
+    return cleaned
+
+
 def sanitize_translation_text(text: str) -> str:
     cleaned = text.strip().removeprefix("###").strip()
     cleaned = strip_interactive_markers(cleaned)
     cleaned = normalize_zhcn_names(cleaned)
+    cleaned = clean_stray_dialogue_ascii_quotes(cleaned)
     return cleaned
 
 
@@ -2954,6 +2961,10 @@ def clean_dialogue_content(text: str) -> str:
     while len(content) >= 2 and content[0] in "「『" and content[-1] in "」』":
         content = content[1:-1].strip()
     content = content.strip("「『」』").strip()
+    while content.startswith("\""):
+        content = content[1:].strip()
+    while content.endswith("\""):
+        content = content[:-1].strip()
     return content
 
 
@@ -2973,7 +2984,8 @@ def translate_bookish_heading(text: str) -> str:
 
 def zhcn_reader_note(kind: str) -> str:
     notes = {
-        "hajimari_unlocked": "这段开端在原作中属于通关后解锁的场景，正文不再展开。",
+        "hajimari_unlocked": "这段开端在原作中属于通关一次后解锁的场景。",
+        "hajimari_gate": "这段开端在原作中属于通关一次后解锁的场景。你可以先阅读它，也可以直接进入序章。",
         "chapter6_bad": "六章的终局分支按坏结局处理，正文只保留主阅读流。",
         "moved_to_appendix": "本章的支线结局、坏结局与回收内容，收录于卷末附录。",
         "empty_main_text": "本章没有单独收入正文的主线段落；相关内容请见卷末附录。",
@@ -3099,6 +3111,12 @@ class BookishTranslator:
             key = normalize_translation_key(jp)
             candidate = {"text": zh, "source_file": "manual", "offset": 0, "manual": True, "speaker": None}
             self.global_content_map.setdefault(key, []).append(candidate)
+        hajimari_manual = {
+            "遠野 十夜: 「紗夜は俺の世界で一番大切な人だ。心配をするのは当たり前のことだろう」": "远野十夜: 「纱夜是我世界上最重要的人。担心你是理所当然的吧。」",
+            "遠野　紗夜: 「ありがとうございます」": "远野纱夜: 「谢谢您。」",
+        }
+        for jp, zh in hajimari_manual.items():
+            self._add_candidate(jp, zh, "prologue/hajimari.txt", 0, manual=True)
 
     def _add_candidate(self, jp_line: str, zh_line: str, rel: str, offset: int, manual: bool = False) -> None:
         key = normalize_translation_key(jp_line)
@@ -3353,6 +3371,34 @@ def render_bookish_name_setup(data: dict[str, Any]) -> list[str]:
     return body if body else [PROTAGONIST_FULL_NAME]
 
 
+def render_bookish_hajimari_body(data: dict[str, Any]) -> list[str]:
+    sections_by_index = {section["section_index"]: section for section in data["full_disasm"]}
+    lines: list[str] = []
+    scenes = [
+        scene
+        for scene in data["scene_annotations"]
+        if scene.get("chapter") == "はじまり"
+    ]
+    for scene in sorted(scenes, key=lambda item: item["scene_index"]):
+        section = sections_by_index.get(scene["section_index"])
+        if not section:
+            continue
+        body = bookish_scene_body_lines(
+            section["records"],
+            scene["scene_index"],
+            "toya",
+            {},
+            set(),
+            emit_choice_markers=False,
+        )
+        if not body:
+            continue
+        if lines:
+            lines.extend(["", "---", ""])
+        lines.extend(body)
+    return lines
+
+
 def write_bookish_internal_stories(
     path: Path,
     data: dict[str, Any],
@@ -3378,8 +3424,6 @@ def write_bookish_internal_stories(
         section = sections_by_index.get(spec["section_index"])
         title = translate_bookish_heading(spec["title"]) if translator else spec["title"]
         lines.append(f"## {title}")
-        lines.append("")
-        lines.append(f"_Source:_ `{spec['script']}` / section {spec['section_index']}")
         lines.append("")
         body = script_body_lines(section["records"], include_technical=False) if section else []
         if translator:
@@ -3446,8 +3490,6 @@ def write_bookish_endings_and_recovery(
             title = translate_bookish_heading(title)
         lines.append(f"### {scene['scene_index']:03d}. {title}")
         lines.append("")
-        lines.append(f"_Source:_ `{scene['script']}`")
-        lines.append("")
         source_file = source_file_by_scene.get(scene["scene_index"])
         if translator:
             body = translator.translate_lines(body, source_file)
@@ -3467,8 +3509,6 @@ def write_bookish_endings_and_recovery(
         route = routes_by_key.get(route_key)
         route_name = route["name"] if route else BOOKISH_ROUTE_NAMES.get(route_key, route_key)
         lines.append(f"## {translate_bookish_heading(route_name) if translator else route_name}")
-        lines.append("")
-        lines.append(f"_Source route block:_ `{route_key}`")
         lines.append("")
 
         wrote_route = False
@@ -3739,6 +3779,11 @@ def bookish_blocks_to_markdown_lines(
 
 
 BOOKISH_READER_NAVIGATION_LINKS = {
+    "reading_order/00_name.md": [("继续阅读：", "开端", "reading_order/00_hajimari_gate.md")],
+    "reading_order/00_hajimari_gate.md": [
+        ("继续阅读：", "开端内容", "reading_order/00_hajimari.md"),
+        ("跳至：", "序章", "reading_order/01_prologue.md"),
+    ],
     "reading_order/00_hajimari.md": [("继续阅读：", "序章", "reading_order/01_prologue.md")],
     "reading_order/01_prologue.md": [("继续阅读：", "一章", "reading_order/02_chapter1.md")],
     "reading_order/02_chapter1.md": [("继续阅读：", "二章", "reading_order/03_chapter2.md")],
@@ -3769,8 +3814,37 @@ BOOKISH_READER_NAVIGATION_LINKS = {
     "reading_order/20_atogaki.md": [("继续阅读：", "附录", BOOKISH_ENDINGS_AND_RECOVERY_FILE)],
 }
 
+BOOKISH_FINE_NAVIGATION_ACTIVE_ROUTES = {
+    "reading_order/02_chapter1.md": ["hinase", "kirishima", "chiyo", "toya", "ao"],
+    "reading_order/03_chapter2.md": ["hinase", "kirishima", "chiyo", "toya", "ao"],
+    "reading_order/04_chapter3.md": ["hinase", "kirishima", "chiyo", "toya", "ao"],
+    "reading_order/06_chapter4_to_hinase_branch.md": ["hinase", "kirishima", "chiyo", "toya", "ao"],
+    "reading_order/09_chapter4_after_hinase_branch.md": ["kirishima", "chiyo", "toya", "ao"],
+    "reading_order/16_chapter5_after_kirichiyo_branch.md": ["toya", "ao"],
+}
+
+BOOKISH_FINE_NAVIGATION_LABEL_TO_ROUTE = {
+    "日生光": "hinase",
+    "桐岛七葵": "kirishima",
+    "千代": "chiyo",
+    "远野十夜": "toya",
+    "苍": "ao",
+    "日生光線": "hinase",
+    "桐島七葵": "kirishima",
+    "遠野十夜": "toya",
+    "蒼": "ao",
+}
+
+BOOKISH_FINE_NAVIGATION_ROUTE_LABEL = {
+    "hinase": "日生光",
+    "kirishima": "桐岛七葵",
+    "chiyo": "千代",
+    "toya": "远野十夜",
+    "ao": "苍",
+}
+
 BOOKISH_ZHCN_DIVIDER_SPECS = [
-    {"file": "dividers/00_story.md", "title": "正文", "before": "reading_order/00_hajimari.md"},
+    {"file": "dividers/00_story.md", "title": "正文", "before": "reading_order/00_name.md"},
     {"file": "dividers/01_prologue.md", "title": "序章", "before": "reading_order/01_prologue.md"},
     {"file": "dividers/02_chapter1.md", "title": "一章", "before": "reading_order/02_chapter1.md"},
     {"file": "dividers/03_chapter2.md", "title": "二章", "before": "reading_order/03_chapter2.md"},
@@ -3791,7 +3865,9 @@ BOOKISH_ZHCN_DIVIDER_SPECS = [
 BOOKISH_ZHCN_TOC_TITLES: dict[str, str | None] = {
     BOOKISH_ZHCN_READER_MANUAL_FILE: "序言",
     BOOKISH_ZHCN_BOOK_TOC_FILE: "目录",
-    "reading_order/00_hajimari.md": "名字与开端",
+    "reading_order/00_name.md": "名字",
+    "reading_order/00_hajimari_gate.md": "开端",
+    "reading_order/00_hajimari.md": None,
     "reading_order/01_prologue.md": "序章",
     "reading_order/02_chapter1.md": "一章",
     "reading_order/03_chapter2.md": "二章",
@@ -3817,7 +3893,8 @@ BOOKISH_ZHCN_TOC_TITLES: dict[str, str | None] = {
 }
 
 BOOKISH_ZHCN_BOOK_TOC_ITEMS = [
-    ("名字与开端", "reading_order/00_hajimari.md"),
+    ("名字", "reading_order/00_name.md"),
+    ("开端", "reading_order/00_hajimari_gate.md"),
     ("序章", "reading_order/01_prologue.md"),
     ("一章", "reading_order/02_chapter1.md"),
     ("二章", "reading_order/03_chapter2.md"),
@@ -3844,6 +3921,126 @@ def bookish_navigation_lines(source_file: str) -> list[str]:
         href = bookish_xhtml_filename(target).removeprefix("text/")
         lines.append(f"> {prefix}[{label}]({href})")
     return lines
+
+
+def bookish_fine_navigation_route_keys(label: str | None, active_route_keys: list[str]) -> set[str]:
+    if not label or label in {"全员共通", "全員共通"}:
+        return set(active_route_keys)
+    keys: set[str] = set()
+    for part in label.split("・"):
+        key = BOOKISH_FINE_NAVIGATION_LABEL_TO_ROUTE.get(part.strip())
+        if key and key in active_route_keys:
+            keys.add(key)
+    return keys
+
+
+def bookish_fine_navigation_label(route_keys: list[str]) -> str:
+    labels = [BOOKISH_FINE_NAVIGATION_ROUTE_LABEL.get(route_key, route_key) for route_key in route_keys]
+    return "・".join(labels)
+
+
+def split_markdown_segments(lines: list[str]) -> list[list[str]]:
+    segments: list[list[str]] = [[]]
+    for line in lines:
+        if line.strip() == "---":
+            segments.append([])
+        else:
+            segments[-1].append(line)
+    return segments
+
+
+def markdown_segment_heading_label(segment: list[str]) -> str | None:
+    for line in segment:
+        if line.startswith("## "):
+            return line[3:].strip()
+    return None
+
+
+def insert_markdown_anchor(segment: list[str], anchor: str) -> None:
+    anchor_line = f"<!-- anchor: {anchor} -->"
+    if anchor_line in segment:
+        return
+    insert_at = 0
+    if segment and segment[0].startswith("# "):
+        insert_at = 1
+        if len(segment) > insert_at and not segment[insert_at].strip():
+            insert_at += 1
+    segment.insert(insert_at, anchor_line)
+    if len(segment) > insert_at + 1 and segment[insert_at + 1].strip():
+        segment.insert(insert_at + 1, "")
+
+
+def apply_bookish_fine_navigation(path: Path, source_file: str) -> None:
+    active_route_keys = BOOKISH_FINE_NAVIGATION_ACTIVE_ROUTES.get(source_file)
+    if not active_route_keys:
+        return
+
+    original_lines = path.read_text(encoding="utf-8").splitlines()
+    segments = split_markdown_segments(original_lines)
+    block_infos: list[dict[str, Any]] = []
+
+    for segment_index, segment in enumerate(segments):
+        if not any(line.strip() for line in segment):
+            continue
+        label = markdown_segment_heading_label(segment)
+        route_keys = bookish_fine_navigation_route_keys(label, active_route_keys)
+        if not route_keys:
+            continue
+        block_infos.append(
+            {
+                "segment_index": segment_index,
+                "route_keys": route_keys,
+                "anchor": f"route-block-{segment_index + 1:03d}",
+            }
+        )
+
+    if len(block_infos) < 2:
+        return
+
+    appended_by_segment: dict[int, list[str]] = defaultdict(list)
+    for block_position, block in enumerate(block_infos):
+        grouped_targets: dict[int, list[str]] = defaultdict(list)
+        for route_key in active_route_keys:
+            if route_key not in block["route_keys"]:
+                continue
+            target_position: int | None = None
+            for next_position in range(block_position + 1, len(block_infos)):
+                if route_key in block_infos[next_position]["route_keys"]:
+                    target_position = next_position
+                    break
+            if target_position is None or target_position == block_position + 1:
+                continue
+            grouped_targets[target_position].append(route_key)
+
+        for target_position, route_keys in grouped_targets.items():
+            target = block_infos[target_position]
+            label = bookish_fine_navigation_label(route_keys)
+            appended_by_segment[block["segment_index"]].append(
+                f"> 沿{label}线继续：[下一段](#{target['anchor']})"
+            )
+
+    if not appended_by_segment:
+        return
+
+    for block in block_infos:
+        insert_markdown_anchor(segments[block["segment_index"]], block["anchor"])
+
+    for segment_index, navigation_lines in appended_by_segment.items():
+        segment = segments[segment_index]
+        while segment and not segment[-1].strip():
+            segment.pop()
+        if segment:
+            segment.append("")
+        segment.extend(navigation_lines)
+
+    output_lines: list[str] = []
+    for index, segment in enumerate(segments):
+        if index:
+            while output_lines and not output_lines[-1].strip():
+                output_lines.pop()
+            output_lines.extend(["", "---", ""])
+        output_lines.extend(segment)
+    path.write_text("\n".join(output_lines).rstrip() + "\n", encoding="utf-8")
 
 
 def append_bookish_navigation(path: Path, source_file: str) -> None:
@@ -3910,21 +4107,67 @@ def write_bookish_reading_order_files(
     reading_dir = output_dir / BOOKISH_READING_ORDER_DIRNAME
     written: list[str] = []
 
+    def finalize_reading_order_file(target_name: str) -> None:
+        if translator:
+            source_file = f"{BOOKISH_READING_ORDER_DIRNAME}/{target_name}"
+            apply_bookish_fine_navigation(reading_dir / target_name, source_file)
+            append_bookish_navigation(reading_dir / target_name, source_file)
+        written.append(f"{BOOKISH_READING_ORDER_DIRNAME}/{target_name}")
+
+    def add_generated(target_file: str, lines: list[str]) -> None:
+        write_bookish_markdown_file(reading_dir / target_file, lines)
+        finalize_reading_order_file(target_file)
+
     def add_copy(source_file: str, target_file: str | None = None) -> None:
         target_name = target_file or source_file
         copy_bookish_markdown_file(output_dir / source_file, reading_dir / target_name)
-        if translator:
-            append_bookish_navigation(reading_dir / target_name, f"{BOOKISH_READING_ORDER_DIRNAME}/{target_name}")
-        written.append(f"{BOOKISH_READING_ORDER_DIRNAME}/{target_name}")
+        finalize_reading_order_file(target_name)
 
     def add_blocks(target_file: str, title: str, blocks: list[dict[str, Any]]) -> None:
         write_bookish_markdown_file(reading_dir / target_file, bookish_blocks_to_markdown_lines(title, blocks, translator))
+        finalize_reading_order_file(target_file)
+
+    def add_hajimari_split() -> None:
+        name_title = "# 名字" if translator else "# 名前"
+        name_body = render_bookish_name_setup(data)
         if translator:
-            append_bookish_navigation(reading_dir / target_file, f"{BOOKISH_READING_ORDER_DIRNAME}/{target_file}")
-        written.append(f"{BOOKISH_READING_ORDER_DIRNAME}/{target_file}")
+            name_body = translator.translate_lines(name_body, "prologue/name.txt")
+        add_generated("00_name.md", [name_title, "", *name_body])
+
+        if translator:
+            gate_lines = ["# 开端", "", f"> 注：{zhcn_reader_note('hajimari_gate')}"]
+            hajimari_lines = ["# 开端", "", f"> 注：{zhcn_reader_note('hajimari_unlocked')}", ""]
+        else:
+            gate_lines = [
+                "# はじまり",
+                "",
+                "> 注：はじまり（十夜と紗夜の外出会話）はクリア後に表示される解放場面です。このまま読むことも、序章へ進むこともできます。",
+            ]
+            hajimari_lines = [
+                "# はじまり",
+                "",
+                "> 注：はじまり（十夜と紗夜の外出会話）はクリア後に表示される解放場面です。",
+                "",
+            ]
+        add_generated("00_hajimari_gate.md", gate_lines)
+
+        hajimari_body = render_bookish_hajimari_body(data)
+        if translator:
+            hajimari_body = translator.translate_lines(hajimari_body, "prologue/hajimari.txt")
+        hajimari_lines.extend(
+            hajimari_body
+            if hajimari_body
+            else [
+                f"_{zhcn_reader_note('empty_main_text')}_"
+                if translator
+                else "_この場面には抽出できる本文がありません。_"
+            ]
+        )
+        add_generated("00_hajimari.md", hajimari_lines)
+
+    add_hajimari_split()
 
     for source_file in [
-        "00_hajimari.md",
         "01_prologue.md",
         "02_chapter1.md",
         "03_chapter2.md",
@@ -4142,8 +4385,20 @@ def write_bookish_chapter_files(
             if translator:
                 lines.append(f"> 注：{zhcn_reader_note('hajimari_unlocked')}")
             else:
-                lines.append("> 注：はじまり（十夜と紗夜の外出会話）は二周目以降に表示される解放場面のため、bookish 本文からは外しています。")
+                lines.append("> 注：はじまり（十夜と紗夜の外出会話）はクリア後に表示される解放場面です。")
             lines.append("")
+            hajimari_body = render_bookish_hajimari_body(data)
+            if translator:
+                hajimari_body = translator.translate_lines(hajimari_body, "prologue/hajimari.txt")
+            lines.extend(
+                hajimari_body
+                if hajimari_body
+                else [
+                    f"_{zhcn_reader_note('empty_main_text')}_"
+                    if translator
+                    else "_この場面には抽出できる本文がありません。_"
+                ]
+            )
         else:
             title = translate_bookish_heading(spec["title"]) if translator else spec["title"]
             lines.extend([f"# {title}", ""])
@@ -4245,7 +4500,7 @@ def markdown_inline_to_xhtml(text: str) -> str:
 def epub_blockquote_class(text: str) -> str:
     if text.startswith("選択："):
         return "choice"
-    if text.startswith(("继续阅读：", "返回主线：", "跳至：", "也可跳至：")):
+    if text.startswith(("继续阅读：", "返回主线：", "跳至：", "也可跳至：", "沿")):
         return "navigation"
     return "note"
 
@@ -4259,6 +4514,7 @@ def markdown_to_epub_xhtml(
     body: list[str] = []
     heading_counts: Counter[str] = Counter()
     in_unordered_list = False
+    last_visible_block_was_navigation = False
 
     def close_unordered_list() -> None:
         nonlocal in_unordered_list
@@ -4281,7 +4537,16 @@ def markdown_to_epub_xhtml(
             continue
         if stripped == "---":
             close_unordered_list()
-            body.append('<hr class="scene-break" />')
+            if last_visible_block_was_navigation:
+                body.append('<hr class="scene-break scene-page-break" />')
+            else:
+                body.append('<hr class="scene-break" />')
+            last_visible_block_was_navigation = False
+            continue
+        anchor_match = re.fullmatch(r"<!--\s*anchor:\s*([0-9A-Za-z_-]+)\s*-->", stripped)
+        if anchor_match:
+            close_unordered_list()
+            body.append(f'<span id="{epub_escape(anchor_match.group(1))}" class="route-anchor"></span>')
             continue
         heading_match = re.match(r"^(#{1,6})\s+(.+)$", line)
         if heading_match:
@@ -4292,25 +4557,30 @@ def markdown_to_epub_xhtml(
                 f'<h{level} id="{heading_id(strip_interactive_markers(text))}">'
                 f"{markdown_inline_to_xhtml(text)}</h{level}>"
             )
+            last_visible_block_was_navigation = False
             continue
         if stripped.startswith("- "):
             if not in_unordered_list:
                 body.append("<ul>")
                 in_unordered_list = True
             body.append(f"<li>{markdown_inline_to_xhtml(stripped[2:].strip())}</li>")
+            last_visible_block_was_navigation = False
             continue
         if line.startswith("> "):
             close_unordered_list()
             text = line[2:].strip()
             block_class = epub_blockquote_class(text)
             body.append(f'<blockquote class="{block_class}"><p>{markdown_inline_to_xhtml(text)}</p></blockquote>')
+            last_visible_block_was_navigation = block_class == "navigation"
             continue
         if stripped.startswith("_") and stripped.endswith("_") and len(stripped) > 2:
             close_unordered_list()
             body.append(f'<p class="meta"><em>{markdown_inline_to_xhtml(stripped[1:-1])}</em></p>')
+            last_visible_block_was_navigation = False
             continue
         close_unordered_list()
         body.append(f"<p>{markdown_inline_to_xhtml(line)}</p>")
+        last_visible_block_was_navigation = False
     close_unordered_list()
 
     return "\n".join(
@@ -4418,6 +4688,13 @@ def write_epub_styles(epub_dir: Path) -> None:
                 "  border: 0;",
                 "  border-top: 1px solid #aaa;",
                 "  margin: 1.6em 0;",
+                "}",
+                "hr.scene-page-break {",
+                "  border: 0;",
+                "  height: 0;",
+                "  margin: 0;",
+                "  page-break-after: always;",
+                "  break-after: page;",
                 "}",
                 "strong {",
                 "  font-weight: 700;",
@@ -4949,7 +5226,6 @@ def write_bookish_outputs(data: dict[str, Any]) -> None:
         [
             *chapter_files,
             *appendix_files,
-            *reading_order_files,
         ]
     )
     translation_audit = write_translation_alignment_audit(BOOKISH_DIR, BOOKISH_ZHCN_DIR, audit_relative_files)

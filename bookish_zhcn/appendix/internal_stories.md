@@ -4,8 +4,6 @@
 
 ## 死神与少女
 
-_Source:_ `shinigami_pic.scr` / section 442
-
 夕阳西沉，夜幕降临前那一瞬间的天空颜色。
 那是深沉的、深沉的、苍蓝的天空。
 在那之下，伫立着一个死神的身影。
@@ -684,8 +682,6 @@ _Source:_ `shinigami_pic.scr` / section 442
 
 ## 笼中鸟
 
-_Source:_ `ehon01.scr` / section 443
-
 此处，有一只笼中鸟。
 是一只平淡无奇的鸟。
 既不比别的鸟特别美丽，也不比它们声音嘹亮
@@ -754,8 +750,6 @@ _Source:_ `ehon01.scr` / section 443
 『我想出笼』
 
 ## 西边村子的猎人
-
-_Source:_ `ehon02.scr` / section 444
 
 很久很久以前，发生在西方某个村庄的故事。
 在那座森林边缘的村庄里，一个爱做梦的
@@ -1059,13 +1053,9 @@ _Source:_ `ehon02.scr` / section 444
 
 ## ehon03
 
-_Source:_ `ehon03.scr` / section 445
-
 _这个内部资料没有可抽取的正文文本。_
 
 ## 塔中的魔女与盗贼
-
-_Source:_ `ehon04.scr` / section 446
 
 很久很久以前，在幽暗森林的深处，有一座没有入口的
 高耸入云的塔。
@@ -1144,8 +1134,6 @@ _Source:_ `ehon04.scr` / section 446
 故事结束，皆大欢喜。
 
 ## 淡紅
-
-_Source:_ `ehon05.scr` / section 447
 
 我梦见了淡红。
 梦中我不知为何变成了不是我自己的样子。
