@@ -353,12 +353,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5113` `speaker_shape_mismatch`
 
 - JP: こちらが口出す間もなく答えられた。
-- ZH: 语文老师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
+- ZH: 国语教师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
 
 ### `04_chapter3.md:5118` `speaker_shape_mismatch`
 
 - JP: 桐島先輩の眉間が皺寄るのを気にも留めず、国語教師は更に話し続ける。
-- ZH: 语文老师: 「哈哈！！真是认真啊，远野。留学生呢？」
+- ZH: 国语教师: 「哈哈！！真是认真啊，远野。留学生呢？」
 
 ### `04_chapter3.md:5124` `speaker_shape_mismatch`
 
@@ -398,12 +398,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5154` `speaker_shape_mismatch`
 
 - JP: 残された私達はその様子を呆気にとられたように見つめていた。
-- ZH: 语文老师: 「那，怎么样？想练剑道了吗？」
+- ZH: 国语教师: 「那，怎么样？想练剑道了吗？」
 
 ### `04_chapter3.md:5156` `speaker_shape_mismatch`
 
 - JP: 首を縦に振りながら実に嬉しそうに笑う。
-- ZH: 语文老师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
+- ZH: 国语教师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
 
 ### `04_chapter3.md:5173` `speaker_shape_mismatch`
 
@@ -478,12 +478,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5319` `speaker_shape_mismatch`
 
 - JP: こちらが口出す間もなく答えられた。
-- ZH: 语文老师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
+- ZH: 国语教师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
 
 ### `04_chapter3.md:5324` `speaker_shape_mismatch`
 
 - JP: 桐島先輩の眉間が皺寄るのを気にも留めず、国語教師は更に話し続ける。
-- ZH: 语文老师: 「哈哈！！真是认真啊，远野。留学生呢？」
+- ZH: 国语教师: 「哈哈！！真是认真啊，远野。留学生呢？」
 
 ### `04_chapter3.md:5330` `speaker_shape_mismatch`
 
@@ -518,12 +518,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5358` `speaker_shape_mismatch`
 
 - JP: 残された私達はその様子を呆気にとられたように見つめていた。
-- ZH: 语文老师: 「那，怎么样？想练剑道了吗？」
+- ZH: 国语教师: 「那，怎么样？想练剑道了吗？」
 
 ### `04_chapter3.md:5360` `speaker_shape_mismatch`
 
 - JP: 首を縦に振りながら実に嬉しそうに笑う。
-- ZH: 语文老师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
+- ZH: 国语教师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
 
 ### `04_chapter3.md:5377` `speaker_shape_mismatch`
 
@@ -598,12 +598,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5526` `speaker_shape_mismatch`
 
 - JP: こちらが口出す間もなく答えられた。
-- ZH: 语文老师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
+- ZH: 国语教师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
 
 ### `04_chapter3.md:5531` `speaker_shape_mismatch`
 
 - JP: 桐島先輩の眉間が皺寄るのを気にも留めず、国語教師は更に話し続ける。
-- ZH: 语文老师: 「哈哈！！真是认真啊，远野。留学生呢？」
+- ZH: 国语教师: 「哈哈！！真是认真啊，远野。留学生呢？」
 
 ### `04_chapter3.md:5537` `speaker_shape_mismatch`
 
@@ -638,12 +638,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `04_chapter3.md:5565` `speaker_shape_mismatch`
 
 - JP: 残された私達はその様子を呆気にとられたように見つめていた。
-- ZH: 语文老师: 「那，怎么样？想练剑道了吗？」
+- ZH: 国语教师: 「那，怎么样？想练剑道了吗？」
 
 ### `04_chapter3.md:5567` `speaker_shape_mismatch`
 
 - JP: 首を縦に振りながら実に嬉しそうに笑う。
-- ZH: 语文老师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
+- ZH: 国语教师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
 
 ### `04_chapter3.md:5584` `speaker_shape_mismatch`
 
@@ -1433,12 +1433,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `appendix/endings_and_recovery.md:2394` `speaker_shape_mismatch`
 
 - JP: こちらが口出す間もなく答えられた。
-- ZH: 语文老师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
+- ZH: 国语教师: 「别那么瞪着我嘛。开个玩笑，哈哈哈！」
 
 ### `appendix/endings_and_recovery.md:2399` `speaker_shape_mismatch`
 
 - JP: 桐島先輩の眉間が皺寄るのを気にも留めず、国語教師は更に話し続ける。
-- ZH: 语文老师: 「哈哈！！真是认真啊，远野。留学生呢？」
+- ZH: 国语教师: 「哈哈！！真是认真啊，远野。留学生呢？」
 
 ### `appendix/endings_and_recovery.md:2405` `speaker_shape_mismatch`
 
@@ -1473,12 +1473,12 @@ It does not prove every listed line is wrong; it narrows the review queue.
 ### `appendix/endings_and_recovery.md:2433` `speaker_shape_mismatch`
 
 - JP: 残された私達はその様子を呆気にとられたように見つめていた。
-- ZH: 语文老师: 「那，怎么样？想练剑道了吗？」
+- ZH: 国语教师: 「那，怎么样？想练剑道了吗？」
 
 ### `appendix/endings_and_recovery.md:2435` `speaker_shape_mismatch`
 
 - JP: 首を縦に振りながら実に嬉しそうに笑う。
-- ZH: 语文老师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
+- ZH: 国语教师: 「嗯，远野毕竟是女孩子嘛。留学生呢？」
 
 ### `appendix/endings_and_recovery.md:2452` `speaker_shape_mismatch`
 
