@@ -1,0 +1,713 @@
+# 中文译文显然错误修正记录：zhcn_cleanup_round_001_pre_scan
+
+> 生成时间：2026-06-05 17:45:07
+> 范围：`bookish_zhcn/reading_order/*.md`
+> 原则：先记录，后修正；只自动应用高置信硬错误；称呼、术语、语体进入人工审核。
+
+## 本轮状态
+
+- 扫描命中：1344
+- 自动修正：0
+- 待人工审核：1337
+
+## 自动修正规则
+
+### hard-misread-naniga
+
+- 说明：明显误读：何が？
+- 严重度：high
+- LLM 初判：日文 `何が？` 是追问对象的 '什么？/你指什么？'，现译 '什么够不够？' 属明显误读。
+- 本轮应用：0
+
+### hard-translator-note-shingai
+
+- 说明：译者犹豫痕迹：心外だという顔
+- 严重度：high
+- LLM 初判：括号内容是译者不确定痕迹；`心外だという顔` 可确定为不服气/受冤枉的神情。
+- 本轮应用：0
+
+### hard-prologue-duplicate-sashiagemashou
+
+- 说明：脚本换行误合并：差しあげましょう
+- 严重度：high
+- LLM 初判：日文 `差しあげましょう` 被脚本断行，中文不应重复成两个 '实现'。
+- 本轮应用：0
+
+### hard-prologue-stray-inner-quote
+
+- 说明：内嵌引用缺开引号：笼中鸟口头禅
+- 严重度：high
+- LLM 初判：内层 `我想出笼去` 只有闭引号，缺开引号，属于排版/引用错误。
+- 本轮应用：0
+
+## 待人工审核规则
+
+### term-clocktower-variant
+
+- 说明：术语混用：時計塔
+- 严重度：medium
+- LLM 初判：`時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- 本轮命中：198
+- 人工状态：pending
+
+### honorific-hikari-sensei
+
+- 说明：称呼疑点：光先生
+- 严重度：medium
+- LLM 初判：可能误把 `光先輩` 或恋人后的 `光さん` 处理为 '先生'；需对照日文判断。
+- 本轮命中：179
+- 人工状态：pending
+
+### honorific-hinase-senpai-mix
+
+- 说明：称呼混用：日生学长/光前辈
+- 严重度：medium
+- LLM 初判：`日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- 本轮命中：122
+- 人工状态：pending
+
+### honorific-chiyo-title-mix
+
+- 说明：称呼混用：千代先生/千代小姐/纱夜小姐
+- 严重度：medium
+- LLM 初判：`千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- 本轮命中：532
+- 人工状态：pending
+
+### honorific-ojousama-risk
+
+- 说明：称呼疑点：大小姐
+- 严重度：medium
+- LLM 初判：可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- 本轮命中：241
+- 人工状态：pending
+
+### suspicious-plural-thanks
+
+- 说明：复数疑点：谢谢你们
+- 严重度：low
+- LLM 初判：`ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- 本轮命中：61
+- 人工状态：pending
+
+### translator-trace-generic
+
+- 说明：译者痕迹疑点
+- 严重度：high
+- LLM 初判：正文中不应保留译者犹豫或 TODO 痕迹；除已知 auto 规则外先记录审核。
+- 本轮命中：4
+- 人工状态：pending
+
+## 自动修正明细
+
+- 本轮没有自动修正。
+
+## 待审核样例
+
+- `bookish_zhcn/reading_order/00_hajimari.md:24` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:362` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:374` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:375` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:386` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:389` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:436` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:437` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:465` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/01_prologue.md:467` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:505` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:513` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:604` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/01_prologue.md:759` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/01_prologue.md:841` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:877` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:907` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:918` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:920` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:931` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:1142` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/01_prologue.md:1153` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:198` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:288` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:479` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:481` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:498` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:729` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:730` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:741` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:759` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:761` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:768` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:779` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:788` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:801` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:856` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:916` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:935` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:941` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/02_chapter1.md:963` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:965` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:971` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1022` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1030` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:1043` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1047` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1055` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1081` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1091` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:1175` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1177` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1235` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1429` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1430` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1456` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1462` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1467` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1469` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:1550` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2106` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2191` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:2344` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2488` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2727` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2780` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:2871` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:2924` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:3117` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3144` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3163` `honorific-chiyo-title-mix`
+  - text: 纱夜小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3164` `honorific-chiyo-title-mix`
+  - text: 纱夜小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3171` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3173` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3175` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3177` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3203` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3217` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3318` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3520` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3526` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3531` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3533` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3534` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3571` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3572` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3587` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3609` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3610` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3613` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3614` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3615` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3618` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3630` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3631` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3633` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3705` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3793` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:3828` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3835` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:3838` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3845` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:3909` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:3968` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:4003` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4010` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4013` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4020` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4284` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4287` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4291` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4296` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4303` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4307` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4324` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4335` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4352` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4355` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4361` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4406` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4407` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4544` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:4787` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4791` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4792` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4793` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4811` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:4837` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:4838` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4882` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/02_chapter1.md:4926` `term-clocktower-variant`
+  - text: 时钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4927` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4947` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4972` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4973` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:4980` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5031` `term-clocktower-variant`
+  - text: 钟楼
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5194` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5201` `suspicious-plural-thanks`
+  - text: 谢谢你们
+  - judgment: `ありがとうございます` 很多场景只面对单人；'你们' 需按对象数量人工确认。
+- `bookish_zhcn/reading_order/02_chapter1.md:5438` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5443` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5445` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5447` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5456` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5460` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5462` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5465` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5467` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5471` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5472` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5478` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5490` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5493` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5494` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5730` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5731` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/02_chapter1.md:5776` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5781` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5782` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5817` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5818` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5818` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5821` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5828` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5836` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5845` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5845` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5846` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5853` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5862` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5863` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5863` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5865` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5869` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5872` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5878` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5879` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5882` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5883` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5902` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5907` `honorific-chiyo-title-mix`
+  - text: 千代先生
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5917` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5926` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5959` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5968` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/02_chapter1.md:5971` `honorific-chiyo-title-mix`
+  - text: 千代小姐
+  - judgment: `千代さん` 与 `紗夜さん` 的中文称呼需要按关系转换判断；本轮只记录。
+- `bookish_zhcn/reading_order/03_chapter2.md:36` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/03_chapter2.md:37` `term-clocktower-variant`
+  - text: 时计塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/03_chapter2.md:210` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:216` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:220` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:222` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:273` `term-clocktower-variant`
+  - text: 钟塔
+  - judgment: `時計塔` 当前存在多译名；需要人工确认项目术语后统一，不在本轮自动替换。
+- `bookish_zhcn/reading_order/03_chapter2.md:597` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/03_chapter2.md:598` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:603` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:607` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:611` `honorific-ojousama-risk`
+  - text: 大小姐
+  - judgment: 可能来自 `お嬢様`，也可能误译 `お嬢/お嬢さん`；需对照日文。
+- `bookish_zhcn/reading_order/03_chapter2.md:613` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- `bookish_zhcn/reading_order/03_chapter2.md:621` `honorific-hinase-senpai-mix`
+  - text: 日生学长
+  - judgment: `日生先輩/光先輩` 与当前 '前辈/学长' 混用相关；需按关系阶段统一。
+- 其余 1137 条见 JSONL 全量记录。
+
+## 人工审核说明
+
+- `*.findings.jsonl`：扫描全量记录。
+- `*.operations.jsonl`：已自动应用的修正记录。
+- 审核时建议逐条标注 `accepted/rejected/needs-context`，再进入下一轮自动回填。

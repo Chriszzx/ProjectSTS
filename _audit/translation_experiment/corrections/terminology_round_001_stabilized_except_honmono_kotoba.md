@@ -1,0 +1,277 @@
+# 术语版本落实：terminology_round_001_stabilized_except_honmono_kotoba
+
+> 生成时间：2026-06-08 11:32:48
+> 范围：`bookish_zhcn/reading_order/*.md`
+> 目的：保留已经确认的术语回填，暂撤 `本物/偽物` 与 `言葉` 两组自动回填，待后续语境化审校。
+
+## 本轮状态
+
+- 已回退行数：319
+- 跳过行数：1
+
+## 回退规则统计
+
+- `honmono-nisemono`：127
+- `honmono-nisemono-context`：62
+- `kotoba-theme`：147
+
+## 跳过统计
+
+- `already-at-desired-text`：1
+
+## 已保留的确认项
+
+- `時計塔`：时钟塔
+- `司書`：图书管理员
+- `幻想物語`：幻想物语
+- `籠の鳥` 标题：《笼中鸟》
+- `秋桜/コスモス/桜`：秋樱/波斯菊/樱花
+
+## 后续待审
+
+- `本物/偽物`：区分修饰语、独立名词、谓语和童话/亲缘语境。
+- `言葉`：区分主题词、普通话语、单个词、语言系统、花语和故事台词。
+
+## 样例
+
+- `bookish_zhcn/reading_order/01_prologue.md:15` `kotoba-theme`
+  - before: 「我在寻找世界上最美的言语。」
+  - after: 「我在寻找世界上最美的话语。」
+- `bookish_zhcn/reading_order/01_prologue.md:16` `kotoba-theme`
+  - before: 「美丽的言语，是指诗吗？」
+  - after: 「美丽的话语，是指诗吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:25` `kotoba-theme`
+  - before: 并且能够共同拥有的美丽言语。」
+  - after: 并且能够共同拥有的美丽话语。」
+- `bookish_zhcn/reading_order/01_prologue.md:232` `kotoba-theme`
+  - before: 远野十夜: 「然后，旅人少女对死神说道：‘我在寻找世界上最美的言语’」
+  - after: 远野十夜: 「然后，旅人少女对死神说道：‘我在寻找世界上最美的话语’」
+- `bookish_zhcn/reading_order/01_prologue.md:233` `kotoba-theme`
+  - before: 远野纱夜: 「世界上最美的言语吗」
+  - after: 远野纱夜: 「世界上最美的话语吗」
+- `bookish_zhcn/reading_order/02_chapter1.md:2788` `kotoba-theme`
+  - before: 连我自己都觉得不可思议，言语自然而然地就说了出来。
+  - after: 连我自己都觉得不可思议，话语自然而然地就说了出来。
+- `bookish_zhcn/reading_order/02_chapter1.md:2805` `kotoba-theme`
+  - before: 远野纱夜: 「我想知道。那些美丽的言语」
+  - after: 远野纱夜: 「我想知道。那些美丽的语言」
+- `bookish_zhcn/reading_order/02_chapter1.md:2932` `kotoba-theme`
+  - before: 连我自己都觉得不可思议，言语自然而然地就说了出来。
+  - after: 连我自己都觉得不可思议，话语自然而然地就说了出来。
+- `bookish_zhcn/reading_order/02_chapter1.md:2949` `kotoba-theme`
+  - before: 远野纱夜: 「我想知道。那些美丽的言语」
+  - after: 远野纱夜: 「我想知道。那些美丽的语言」
+- `bookish_zhcn/reading_order/02_chapter1.md:3537` `kotoba-theme`
+  - before: 果然，我还是不明白这个人言语中的含义，也不明白她为什么这么执着地触碰我。
+  - after: 果然，我还是不明白这个人话语中的含义，也不明白她为什么这么执着地触碰我。
+- `bookish_zhcn/reading_order/02_chapter1.md:3558` `kotoba-theme`
+  - before: 太宰女士偏过头，像要将言语唾弃般低语道：
+  - after: 太宰女士偏过头，像要将话语唾弃般低语道：
+- `bookish_zhcn/reading_order/02_chapter1.md:4770` `kotoba-theme`
+  - before: 来自爱人的甜蜜言语。
+  - after: 来自爱人的甜蜜话语。
+- `bookish_zhcn/reading_order/02_chapter1.md:4808` `kotoba-theme`
+  - before: 一起寻找言语的约定。他认认真真地想要遵守它。
+  - after: 一起寻找话语的约定。他认认真真地想要遵守它。
+- `bookish_zhcn/reading_order/02_chapter1.md:4811` `kotoba-theme`
+  - before: 既不是为了她的事，也不是为了千代的事，而是为了这部故事中隐藏的言语。
+  - after: 既不是为了她的事，也不是为了千代的事，而是为了这部故事中隐藏的话语。
+- `bookish_zhcn/reading_order/02_chapter1.md:5512` `kotoba-theme`
+  - before: 我觉得她的言语支离破碎，完全不像清醒的人说的。
+  - after: 我觉得她的话语支离破碎，完全不像清醒的人说的。
+- `bookish_zhcn/reading_order/02_chapter1.md:5625` `kotoba-theme`
+  - before: 太宰友惠: 「言语……？」
+  - after: 太宰友惠: 「话语……？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5640` `kotoba-theme`
+  - before: 桐岛七葵: 「你总是牵着沉默不语的我的手，代替寡言少语的我编织言语，我既觉得那是可爱的，同时也感到不安」
+  - after: 桐岛七葵: 「你总是牵着沉默不语的我的手，代替寡言少语的我编织话语，我既觉得那是可爱的，同时也感到不安」
+- `bookish_zhcn/reading_order/02_chapter1.md:5645` `kotoba-theme`
+  - before: 桐岛七葵: 「所以，我现在，在此赠予你言语」
+  - after: 桐岛七葵: 「所以，我现在，在此赠予你话语」
+- `bookish_zhcn/reading_order/02_chapter1.md:5812` `kotoba-theme`
+  - before: 桐岛七葵: 「思念也好，言语也好，都会直接灌入脑海。」
+  - after: 桐岛七葵: 「思念也好，话语也好，都会直接灌入脑海。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5880` `kotoba-theme`
+  - before: 那句话是: 「希望你能理解我言语的含义。」
+  - after: 那句话是: 「希望你能理解我话语的含义。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5900` `kotoba-theme`
+  - before: 远野纱夜: 「那就是你言语的真相吗？」
+  - after: 远野纱夜: 「那就是你话语的真相吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:317` `kotoba-theme`
+  - before: 他所说的『约定』，是指以前在山丘上说的『寻找美丽的言语』那件事。
+  - after: 他所说的『约定』，是指以前在山丘上说的『寻找美丽的语言』那件事。
+- `bookish_zhcn/reading_order/03_chapter2.md:321` `kotoba-theme`
+  - before: 言语停住了。
+  - after: 话语停住了。
+- `bookish_zhcn/reading_order/03_chapter2.md:4296` `kotoba-theme`
+  - before: 我一边沉浸于那些言语中，一边走着。
+  - after: 我一边沉浸于那些话语中，一边走着。
+- `bookish_zhcn/reading_order/04_chapter3.md:3435` `kotoba-theme`
+  - before: 刺人的言语和强烈的视线。
+  - after: 刺人的话语和强烈的视线。
+- `bookish_zhcn/reading_order/04_chapter3.md:3473` `kotoba-theme`
+  - before: 他的言语在我耳边挥之不去。
+  - after: 他的话语在我耳边挥之不去。
+- `bookish_zhcn/reading_order/04_chapter3.md:3568` `kotoba-theme`
+  - before: 未能说完的言语。
+  - after: 未能说完的话语。
+- `bookish_zhcn/reading_order/04_chapter3.md:3580` `kotoba-theme`
+  - before: 然后，像是要把心底所有的污秽都吐出来一样，化成了言语一股脑地倾泻出来。
+  - after: 然后，像是要把心底所有的污秽都吐出来一样，化成了话语一股脑地倾泻出来。
+- `bookish_zhcn/reading_order/04_chapter3.md:3691` `kotoba-theme`
+  - before: 苍的言语，仿佛刚刚才说过一样，清晰地留在耳边。
+  - after: 苍的话语，仿佛刚刚才说过一样，清晰地留在耳边。
+- `bookish_zhcn/reading_order/04_chapter3.md:4177` `kotoba-theme`
+  - before: 我尽量用冷静、礼貌的言语对她们说。
+  - after: 我尽量用冷静、礼貌的话语对她们说。
+- `bookish_zhcn/reading_order/04_chapter3.md:6539` `honmono-nisemono`
+  - before: ？？？: 「终于，正牌日生光出现了」
+  - after: ？？？: 「终于，真正的日生光出现了」
+- `bookish_zhcn/reading_order/04_chapter3.md:6556` `honmono-nisemono`
+  - before: 日生光: 「他害怕的是，万一真正的自己被当成冒牌了怎么办」
+  - after: 日生光: 「他害怕的是，万一真正的自己被当成冒牌货了怎么办」
+- `bookish_zhcn/reading_order/04_chapter3.md:6709` `honmono-nisemono`
+  - before: ？？？: 「终于，正牌日生光出现了」
+  - after: ？？？: 「终于，真正的日生光出现了」
+- `bookish_zhcn/reading_order/04_chapter3.md:6726` `honmono-nisemono`
+  - before: 日生光: 「他害怕的是，万一真正的自己被当成冒牌了怎么办」
+  - after: 日生光: 「他害怕的是，万一真正的自己被当成冒牌货了怎么办」
+- `bookish_zhcn/reading_order/04_chapter3.md:7485` `kotoba-theme`
+  - before: 他低声吐出了反省的言语。
+  - after: 他低声吐出了反省的话语。
+- `bookish_zhcn/reading_order/04_chapter3.md:7809` `kotoba-theme`
+  - before: 他低声吐出了反省的言语。
+  - after: 他低声吐出了反省的话语。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:122` `kotoba-theme`
+  - before: 不由自主地去揣测言语背后的含义，这是我的坏习惯吧。
+  - after: 不由自主地去揣测话语背后的含义，这是我的坏习惯吧。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:265` `kotoba-theme`
+  - before: 不由自主地去揣测言语背后的含义，这是我的坏习惯吧。
+  - after: 不由自主地去揣测话语背后的含义，这是我的坏习惯吧。
+- `bookish_zhcn/reading_order/08_hinase.md:362` `kotoba-theme`
+  - before: 远野纱夜: 「日生前辈会给我我想要的言语。他向我伸出了援手……大概是因为这个吧」
+  - after: 远野纱夜: 「日生前辈会给我我想要的话语。他向我伸出了援手……大概是因为这个吧」
+- `bookish_zhcn/reading_order/08_hinase.md:1919` `honmono-nisemono`
+  - before: 日生光: 「正牌和冒牌的区别。」
+  - after: 日生光: 「真货和假货的区别。」
+- `bookish_zhcn/reading_order/08_hinase.md:1922` `honmono-nisemono`
+  - before: 女学生: 「光看是看不出来的。在我看来，你看起来很像正牌。」
+  - after: 女学生: 「光看是看不出来的。在我看来，你看起来很像真货。」
+- `bookish_zhcn/reading_order/08_hinase.md:1931` `honmono-nisemono`
+  - before: 日生光: 「除非杀掉正牌日生光，彻底销毁证据。」
+  - after: 日生光: 「除非杀掉真正的日生光，彻底销毁证据。」
+- `bookish_zhcn/reading_order/08_hinase.md:1937` `honmono-nisemono`
+  - before: 日生光: 「确实。正牌日生光虽然迟了，但发现了自己和我的区别，对自己是正牌有了自信。」
+  - after: 日生光: 「确实。真正的日生光虽然迟了，但发现了自己和我的区别，对自己是真货有了自信。」
+- `bookish_zhcn/reading_order/08_hinase.md:1938` `honmono-nisemono`
+  - before: 女学生: 「然后，作为冒牌的你会离开这个小镇。」
+  - after: 女学生: 「然后，作为假货的你会离开这个小镇。」
+- `bookish_zhcn/reading_order/08_hinase.md:2201` `kotoba-theme`
+  - before: 更多更多温柔的言语。
+  - after: 更多更多温柔的话语。
+- `bookish_zhcn/reading_order/08_hinase.md:2478` `honmono-nisemono`
+  - before: 日生紫: 「至今为止和我们在一起的「日生光」是冒牌」
+  - after: 日生紫: 「至今为止和我们在一起的「日生光」是冒牌货」
+- `bookish_zhcn/reading_order/08_hinase.md:2490` `honmono-nisemono`
+  - before: 日生光: 「刚才这位祖母也说了，你认为是『日生光』的那个是『冒牌」
+  - after: 日生光: 「刚才这位祖母也说了，你认为是『日生光』的那个是『冒牌货」
+- `bookish_zhcn/reading_order/08_hinase.md:2512` `honmono-nisemono`
+  - before: 日生光: 「要怎样才能让你相信呢。那个冒牌昨天就已经不知道跑到哪里去了」
+  - after: 日生光: 「要怎样才能让你相信呢。那个冒牌货昨天就已经不知道跑到哪里去了」
+- `bookish_zhcn/reading_order/08_hinase.md:2522` `kotoba-theme`
+  - before: 但是，我之所以没能那么说，并不是因为他抛出的言语把我打倒了。
+  - after: 但是，我之所以没能那么说，并不是因为他抛出的话语把我打倒了。
+- `bookish_zhcn/reading_order/08_hinase.md:2550` `honmono-nisemono-context`
+  - before: 远野纱夜: 「……就算你的话是真的，又怎么能分清哪个是正牌哪个是冒牌呢……？」
+  - after: 远野纱夜: 「……就算你的话是真的，又怎么能分清哪个是真哪个是假呢……？」
+- `bookish_zhcn/reading_order/08_hinase.md:2558` `honmono-nisemono-context`
+  - before: 日生光: 「那样子我就永远地不再是‘我’了。那家伙成了正牌，我倒成了冒牌。」
+  - after: 日生光: 「那样子我就永远地不再是‘我’了。那家伙成了真的，我倒成了假的。」
+- `bookish_zhcn/reading_order/08_hinase.md:2568` `honmono-nisemono-context`
+  - before: 日生光: 「朋友、家里人，连亲奶奶都深信那家伙才是正牌的我！！」
+  - after: 日生光: 「朋友、家里人，连亲奶奶都深信那家伙是真正的我！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2569` `honmono-nisemono-context`
+  - before: 日生光: 「再看看我！？我只能躲着那家伙，偷偷摸摸地到处调查……搞得好像我才是冒牌一样！！」
+  - after: 日生光: 「再看看我！？我只能躲着那家伙，偷偷摸摸地到处调查……搞得好像我才是假的一样！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2578` `honmono-nisemono-context`
+  - before: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是冒牌、哪个是正牌，那又有什么意义呢？」
+  - after: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是假的、哪个是真的，那又有什么意义呢？」
+- `bookish_zhcn/reading_order/08_hinase.md:2579` `honmono-nisemono`
+  - before: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌，那岂不得憋屈死。」
+  - after: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌货，那岂不得憋屈死。」
+- `bookish_zhcn/reading_order/08_hinase.md:2582` `honmono-nisemono,honmono-nisemono-context`
+  - before: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为我才是正牌！」
+  - after: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为真正的我才是本物！」
+- `bookish_zhcn/reading_order/08_hinase.md:2583` `honmono-nisemono`
+  - before: 日生光: 「我一直在找。能分辨冒牌和正牌的证据。」
+  - after: 日生光: 「我一直在找。能分辨假货和真货的证据。」
+- `bookish_zhcn/reading_order/08_hinase.md:2586` `honmono-nisemono`
+  - before: 日生光: 「真是蠢到家了！！居然被冒牌的谎言耍得团团转！！」
+  - after: 日生光: 「真是蠢到家了！！居然被冒牌货的谎言耍得团团转！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2629` `honmono-nisemono`
+  - before: 是吗。原来正牌会这样发怒啊，我像站在旁观者立场一样冷静地想道。
+  - after: 是吗。原来真货会这样发怒啊，我像站在旁观者立场一样冷静地想道。
+- `bookish_zhcn/reading_order/08_hinase.md:2672` `honmono-nisemono`
+  - before: 如果我认识的那个人是冒牌的话，
+  - after: 如果我认识的那个人是冒牌货的话，
+- `bookish_zhcn/reading_order/08_hinase.md:2770` `honmono-nisemono`
+  - before: 日生光: 「为了接近正牌，我把容貌、兴趣爱好全部改了。」
+  - after: 日生光: 「为了接近真货，我把容貌、兴趣爱好全部改了。」
+- `bookish_zhcn/reading_order/08_hinase.md:2771` `honmono-nisemono`
+  - before: 日生光: 「连这说话方式，也和正牌一样吧？」
+  - after: 日生光: 「连这说话方式，也和真货一样吧？」
+- `bookish_zhcn/reading_order/08_hinase.md:2773` `honmono-nisemono`
+  - before: 和正牌一样。
+  - after: 和真货一样。
+- `bookish_zhcn/reading_order/08_hinase.md:2775` `honmono-nisemono`
+  - before: 远野纱夜: 「……我并不怎么了解正牌‘日生光’。」
+  - after: 远野纱夜: 「……我并不怎么了解真正的‘日生光’。」
+- `bookish_zhcn/reading_order/08_hinase.md:2776` `honmono-nisemono-context`
+  - before: 日生光: 「啊，那倒是。因为一直和你在一起的是冒牌那方。」
+  - after: 日生光: 「啊，那倒是。因为一直和你在一起的是假的那个。」
+- `bookish_zhcn/reading_order/08_hinase.md:2777` `honmono-nisemono`
+  - before: 是的。对我来说，那才是『正牌』。
+  - after: 是的。对我来说，那才是『真货』。
+- `bookish_zhcn/reading_order/08_hinase.md:2799` `honmono-nisemono-context`
+  - before: 日生光: 「但是『日生光』是假的。既不是『我』，更不是正牌『日生光』」
+  - after: 日生光: 「但是『日生光』是假的。既不是『我』，更不是真正的『日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2777` `kotoba-theme`
+  - before: 苍: 「我之前也说过，我和你都在寻找美丽的言语。你身边有我，这是必然的」
+  - after: 苍: 「我之前也说过，我和你都在寻找美丽的语言。你身边有我，这是必然的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2877` `kotoba-theme`
+  - before: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的言语里包含着喜欢对方的心情，那就算是爱的告白吧」
+  - after: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的话语里包含着喜欢对方的心情，那就算是爱的告白吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2977` `kotoba-theme`
+  - before: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的言语里包含着喜欢对方的心情，那就算是爱的告白吧」
+  - after: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的话语里包含着喜欢对方的心情，那就算是爱的告白吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3693` `honmono-nisemono-context`
+  - before: 日生光: 「初次见面和不是初次见面的人，晚上好。我才是正牌『日生光』」
+  - after: 日生光: 「初次见面和不是初次见面的人，晚上好。我才是真正的『日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3705` `honmono-nisemono`
+  - before: 桐岛七葵: 「正牌『日生光』？那你说我们一直见到的是谁？」
+  - after: 桐岛七葵: 「真正的『日生光』？那你说我们一直见到的是谁？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3706` `honmono-nisemono,honmono-nisemono-context`
+  - before: 日生光: 「冒牌的『日生光』」
+  - after: 日生光: 「冒牌货『日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3707` `honmono-nisemono-context`
+  - before: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是正牌的『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+  - after: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是『真正的』『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3714` `honmono-nisemono`
+  - before: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+  - after: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌货的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3716` `honmono-nisemono`
+  - before: 桐岛七葵: 「可你说自己是正牌『日生光』吧？」
+  - after: 桐岛七葵: 「可你说自己是真正的『日生光』吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3717` `honmono-nisemono,honmono-nisemono-context`
+  - before: 日生光: 「正因为我是正牌，才不知道啊。冒牌反而知道更多真相」
+  - after: 日生光: 「正因为是真的，才不知道啊。冒牌货反而知道更多真相」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3722` `honmono-nisemono,honmono-nisemono-context`
+  - before: 远野纱夜: 「那，正牌的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+  - after: 远野纱夜: 「那，真正的您和冒牌货『日生光』穿着相同的服装，这是什么原因？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3731` `honmono-nisemono`
+  - before: 日生光: 「我回到这个镇上，从发现我的冒牌那天起，就一直在监视『日生光』。当然，也监视了你们」
+  - after: 日生光: 「我回到这个镇上，从发现我的冒牌货那天起，就一直在监视『日生光』。当然，也监视了你们」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3734` `honmono-nisemono`
+  - before: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌」
+  - after: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌货」
+- 其余 239 条见 `terminology_round_001_stabilized_except_honmono_kotoba.operations.jsonl`。

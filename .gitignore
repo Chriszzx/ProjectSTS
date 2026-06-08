@@ -2,3 +2,65 @@ after.txt.sqlite
 .DS_Store
 __pycache__/
 *.py[cod]
+
+# EPUB 构建产物
+bookish/epub/
+bookish_zhcn/epub/
+*.epub
+bookish/complete_epub.md
+bookish_zhcn/complete_epub.md
+
+# parse_arc 生成的大文件
+branch_explore_arc/disasm.json
+branch_explore_arc/variable_semantics.json
+
+# 文本提取 / 导出
+after.txt
+luna_after.txt
+after-zh-CN-dual.txt
+SCRDATA.ARC.txt
+STS.json
+OG/
+Qwen/
+
+# 日文原文（版权）
+bookish/
+
+# 版权敏感 — 原始游戏数据 / 反编译
+SCRDATA.ARC
+branch_explore_arc/*
+!branch_explore_arc/parse_arc.py
+branch_explore/
+bookish_zhcn/cover.jpg
+
+# 旧版翻译输出
+processed_output_v1/
+processed_output_v2/
+processed_output_v3/
+processed_output_v3_1/
+translated_processed_output_v2/
+translated_processed_output_v2_backup/
+
+# LLM agent / skill 配置
+.claude/
+.agents/
+scripts/vn_script_process/SKILL.md
+
+# DeepSeek 翻译输出
+DeepSeek/
+
+# Modified 目录
+Modified/
+
+# Json 中间数据
+Json/
+
+# 根目录零散文件
+choices.txt
+choices_map.md
+choices_map_v3_1.md
+special_character.txt
+
+# AI agent 产物
+docs/
+.reasonix/

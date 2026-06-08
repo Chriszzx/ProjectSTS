@@ -3,15 +3,34 @@
   "sha256": "7244f1047d4f58f6960926d0c83b3d8397edfbafe9e3984ea073f26cd86ac680",
   "structure_source": "bookish",
   "translation_source": {
+    "mode": "authoritative_epub_with_readonly_apple_books_reference_markdown",
     "authoritative_epub": "bookish/bookish_complete.ja.zh.epub",
     "authoritative_epub_pairs": 53017,
-    "processed": "processed_output_v2",
-    "translated": "translated_processed_output_v2",
-    "modified_ja_zh": "Modified/ja_zh",
-    "json": "Json/v0.1.0",
-    "loaded_source_files": 442,
-    "loaded_line_pairs": 44846,
-    "missing_translated_files": 0
+    "legacy_fallbacks_enabled": false,
+    "legacy_sources": {
+      "processed": "processed_output_v2",
+      "translated": "translated_processed_output_v2",
+      "modified_ja_zh": "Modified/ja_zh",
+      "json": "Json/v0.1.0"
+    },
+    "legacy_loaded_source_files": 0,
+    "legacy_loaded_line_pairs": 0,
+    "legacy_missing_translated_files": 0,
+    "readonly_books_reference": {
+      "kind": "Apple Books EPUB directory package",
+      "path": "/Users/chris/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents/死神与少女 Bookish 中文完整剧本.epub",
+      "package_digest": "c4a4abd8a2e57efd60814b9d18354e64848b4b91d0de1cf4815661c69c289131",
+      "file_count": 53,
+      "byte_total": 3659562,
+      "policy": "Read-only reference. Markdown is reconstructed from OEBPS XHTML; the Apple Books package is not modified. The frozen root reference EPUB is recorded in reference_epub.",
+      "ignored_complete_markdown": "bookish_zhcn/complete_epub.md",
+      "direct_reference_markdown_files": 41,
+      "source_structured_markdown_files": 17,
+      "source_structured_files": {
+        "chapters": 15,
+        "appendices": 2
+      }
+    }
   },
   "file_structure": "original_chapter_count",
   "chapter_files": [
@@ -123,8 +142,9 @@
     "appendix/endings_and_recovery.md"
   ],
   "epub": {
-    "title": "死神与少女 Bookish 中文完整剧本",
+    "title": "死神与少女 中文完整剧本",
     "language": "zh-CN",
+    "author": "藤文/takuyo",
     "source_files": [
       "book_toc.md",
       "reader_manual.md",
@@ -178,7 +198,13 @@
     "xhtml_items": 43,
     "complete_markdown": "complete_epub.md",
     "source_dir": "epub",
-    "epub_file": "bookish_complete.zh.epub"
+    "epub_file": "死神与少女_中文完整剧本.epub"
+  },
+  "reference_epub": {
+    "path": "bookish_complete.zh.epub",
+    "role": "Frozen reviewed reference EPUB packaged from the Apple Books-reconciled bookish_zhcn Markdown.",
+    "policy": "Keep as reference. New zh-CN generation writes epub.epub_file instead.",
+    "apple_books_reference_normalized_digest": "128458dbb0944cdd908b3dff49e50219fde1ca29b7858a12960e9547a81ee0b3"
   },
   "audit": {
     "directory": "_audit",

@@ -1,0 +1,23 @@
+{
+  "schema_version": "parallel-translation-review/v0.1",
+  "id": "ro01-prologue-0001",
+  "review_set_id": "ro01-prologue-opening",
+  "candidate_id": "model-prompt-pass",
+  "run_id": "ro01-prologue-opening--model-prompt-pass",
+  "unit_index": 1,
+  "source_file": "bookish/reading_order/01_prologue.md",
+  "current_file": "bookish_zhcn/reading_order/01_prologue.md",
+  "draft_source": "_audit/translation_experiment/parallel/prologue-opening.model-prompt-pass.jsonl",
+  "status": "candidate",
+  "segment_kind": "narration",
+  "speaker": null,
+  "route_context": null,
+  "ja": "Japanese source text",
+  "current_zh": "Current authoritative zh-CN text",
+  "draft_zh": "Candidate optimized zh-CN text",
+  "note": "Why this candidate differs or what reviewers should inspect.",
+  "tags": ["tone"],
+  "scores": {},
+  "reviewer": null,
+  "review_note": ""
+}

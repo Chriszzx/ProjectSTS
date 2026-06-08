@@ -1,0 +1,29 @@
+{
+  "schema_version": "parallel-translation-review/v0.1",
+  "run_id": "ro01-prologue-opening--model-prompt-pass",
+  "review_set_id": "ro01-prologue-opening",
+  "candidate_id": "model-prompt-pass",
+  "source_file": "bookish/reading_order/01_prologue.md",
+  "current_file": "bookish_zhcn/reading_order/01_prologue.md",
+  "human_view": "_audit/translation_experiment/parallel/prologue-opening.model-prompt-pass.md",
+  "jsonl": "_audit/translation_experiment/parallel/prologue-opening.model-prompt-pass.jsonl",
+  "model": {
+    "provider": null,
+    "name": null,
+    "version": null,
+    "notes": ""
+  },
+  "prompt": {
+    "id": null,
+    "source": null,
+    "notes": ""
+  },
+  "decoding": {
+    "temperature": null,
+    "top_p": null,
+    "max_output_tokens": null
+  },
+  "status": "candidate",
+  "created_at": null,
+  "notes": ""
+}

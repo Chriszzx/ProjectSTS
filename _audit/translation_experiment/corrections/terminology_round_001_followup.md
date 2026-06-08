@@ -1,0 +1,604 @@
+# 术语准则回填记录：terminology_round_001_followup
+
+> 生成时间：2026-06-08 11:10:48
+> 范围：`bookish_zhcn/reading_order/*.md`
+> 原则：只自动回填用户已确认且无需上下文判断的术语；语义敏感项仅列入人工候选。
+
+## 本轮状态
+
+- 自动回填：62
+- 人工候选：602
+
+## 自动规则统计
+
+### clock-tower
+
+- 说明：時計塔：时钟塔
+- 初判：用户确认 `時計塔` 统一译为“时钟塔”。
+- 本轮应用：0
+
+### librarian
+
+- 说明：司書：图书管理员
+- 初判：用户确认 `司書` 固定译为“图书管理员”，不混用“司书”。
+- 本轮应用：0
+
+### kotoba-theme
+
+- 说明：言葉：言语
+- 初判：用户确认主题词 `言葉` 固定为“言语”；实际外语/语言系统语境保留“语言”。
+- 本轮应用：0
+
+### fantasy-monogatari
+
+- 说明：幻想物語：幻想物语
+- 初判：按用户确认的字面策略，`物語` 在术语性表达中保留“物语”。
+- 本轮应用：0
+
+### kago-no-tori-title
+
+- 说明：籠の鳥：笼中鸟
+- 初判：用户确认只固定 `籠の鳥` 标题为《笼中鸟》。
+- 本轮应用：0
+
+### chiyo-flower-terms
+
+- 说明：秋桜/コスモス/桜：秋樱/波斯菊/樱花
+- 初判：用户确认按揭示层级处理：`コスモス` 为“波斯菊”，`秋桜` 为“秋樱”，`桜` 为“樱花”。
+- 本轮应用：0
+
+### honmono-nisemono
+
+- 说明：本物/偽物：正牌/冒牌
+- 初判：用户要求尝试非直译对照；本轮采用“正牌/冒牌”统一 `本物/偽物` 身份轴。
+- 本轮应用：0
+
+### honmono-nisemono-context
+
+- 说明：本物/偽物：日生身份轴上下文补正
+- 初判：日生光身份轴的残留表达，经上下文可判定为 `本物/偽物`，补正为“正牌/冒牌”；同时修复一次“真正主人”误伤。
+- 本轮应用：62
+
+## 人工候选统计
+
+### monogatari-review
+
+- 说明：物語：故事/物语人工判断
+- 初判：剩余“故事”需对照原文判断：`物語` 术语性用“物语”，普通 `話/お話` 可保留“故事/话”。
+- 本轮候选：200
+
+### kotoba-language-review
+
+- 说明：言葉：语言/言语人工判断
+- 初判：剩余“语言”需判断是否为实际语言系统；若是主题 `言葉`，应改为“言语”。
+- 本轮候选：81
+
+### ao-color-review
+
+- 说明：蒼色/青：苍色母题人工判断
+- 初判：`蒼色/青` 需结合苍、天空、眼睛、书脊、夜色母题检查，不自动替换。
+- 本轮候选：121
+
+### honmono-review
+
+- 说明：本物/偽物：真假身份轴人工判断
+- 初判：剩余真假表达需判断是否属于 `本物/偽物` 身份轴；若是，优先“正牌/冒牌”。`本尊/正主` 不裸替换，避免误伤普通词。
+- 本轮候选：200
+
+## 自动回填明细
+
+- `bookish_zhcn/reading_order/03_chapter2.md:3765` `honmono-nisemono-context`
+  - before: 路易斯: 「哦！那么，您就是那家书店的真正牌人了！」
+  - after: 路易斯: 「哦！那么，您就是那家书店的真正主人了！」
+- `bookish_zhcn/reading_order/08_hinase.md:2550` `honmono-nisemono-context`
+  - before: 远野纱夜: 「……就算你的话是真的，又怎么能分清哪个是真哪个是假呢……？」
+  - after: 远野纱夜: 「……就算你的话是真的，又怎么能分清哪个是正牌哪个是冒牌呢……？」
+- `bookish_zhcn/reading_order/08_hinase.md:2558` `honmono-nisemono-context`
+  - before: 日生光: 「那样子我就永远地不再是‘我’了。那家伙成了真的，我倒成了假的。」
+  - after: 日生光: 「那样子我就永远地不再是‘我’了。那家伙成了正牌，我倒成了冒牌。」
+- `bookish_zhcn/reading_order/08_hinase.md:2568` `honmono-nisemono-context`
+  - before: 日生光: 「朋友、家里人，连亲奶奶都深信那家伙是真正的我！！」
+  - after: 日生光: 「朋友、家里人，连亲奶奶都深信那家伙才是正牌的我！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2569` `honmono-nisemono-context`
+  - before: 日生光: 「再看看我！？我只能躲着那家伙，偷偷摸摸地到处调查……搞得好像我才是假的一样！！」
+  - after: 日生光: 「再看看我！？我只能躲着那家伙，偷偷摸摸地到处调查……搞得好像我才是冒牌一样！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2578` `honmono-nisemono-context`
+  - before: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是假的、哪个是真的，那又有什么意义呢？」
+  - after: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是冒牌、哪个是正牌，那又有什么意义呢？」
+- `bookish_zhcn/reading_order/08_hinase.md:2582` `honmono-nisemono-context`
+  - before: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为真正的我才是正牌！」
+  - after: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为我才是正牌！」
+- `bookish_zhcn/reading_order/08_hinase.md:2776` `honmono-nisemono-context`
+  - before: 日生光: 「啊，那倒是。因为一直和你在一起的是假的那个。」
+  - after: 日生光: 「啊，那倒是。因为一直和你在一起的是冒牌那方。」
+- `bookish_zhcn/reading_order/08_hinase.md:2799` `honmono-nisemono-context`
+  - before: 日生光: 「但是『日生光』是假的。既不是『我』，更不是真正的『日生光」
+  - after: 日生光: 「但是『日生光』是假的。既不是『我』，更不是正牌『日生光』」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3693` `honmono-nisemono-context`
+  - before: 日生光: 「初次见面和不是初次见面的人，晚上好。我才是真正的『日生光」
+  - after: 日生光: 「初次见面和不是初次见面的人，晚上好。我才是正牌『日生光』」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3706` `honmono-nisemono-context`
+  - before: 日生光: 「冒牌『日生光」
+  - after: 日生光: 「冒牌的『日生光』」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3707` `honmono-nisemono-context`
+  - before: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是『真正的』『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+  - after: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是正牌的『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3717` `honmono-nisemono-context`
+  - before: 日生光: 「正因为是真的，才不知道啊。冒牌反而知道更多真相」
+  - after: 日生光: 「正因为我是正牌，才不知道啊。冒牌反而知道更多真相」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3722` `honmono-nisemono-context`
+  - before: 远野纱夜: 「那，真正的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+  - after: 远野纱夜: 「那，正牌的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3736` `honmono-nisemono-context`
+  - before: 桐岛七葵: 「……我的脸姑且不论，为什么不想被人看到？你不是真的吗？那没必要躲躲藏藏吧」
+  - after: 桐岛七葵: 「……我的脸姑且不论，为什么不想被人看到？你不是正牌吗？那没必要躲躲藏藏吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3740` `honmono-nisemono-context`
+  - before: 远野纱夜: 「可您不是真的吗？」
+  - after: 远野纱夜: 「可您不是正牌吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3743` `honmono-nisemono-context`
+  - before: 日生光: 「明明我才是真的，还这样偷偷摸摸的，我自己也很不服气啊」
+  - after: 日生光: 「明明我才是正牌，还这样偷偷摸摸的，我自己也很不服气啊」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3746` `honmono-nisemono-context`
+  - before: 日生光: 「不过难办啊。我是真的的证据一个都没有。要怎么样才能让你们相信呢？」
+  - after: 日生光: 「不过难办啊。我是正牌的证据一个都没有。要怎么样才能让你们相信呢？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3747` `honmono-nisemono-context`
+  - before: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+  - after: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是正牌了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3753` `honmono-nisemono-context`
+  - before: 日生光: 「冒牌知道真的存在」
+  - after: 日生光: 「冒牌知道正牌存在」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3755` `honmono-nisemono-context`
+  - before: 日生光: 「可是，那家伙看到我的时候说了句『终于能变成真的了』。然后突然就向我发动袭击」
+  - after: 日生光: 「可是，那家伙看到我的时候说了句『终于能变成正牌了』。然后突然就向我发动袭击」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3756` `honmono-nisemono-context`
+  - before: 日生光: 「那家伙，想杀了我。想杀了我然后自己变成真的。证据就是连衣服都模仿了」
+  - after: 日生光: 「那家伙，想杀了我。想杀了我然后自己变成正牌。证据就是连衣服都模仿了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3770` `honmono-nisemono-context`
+  - before: 日生光: 「但是，我是真的。正牌『日生光』。那家伙，不是我」
+  - after: 日生光: 「但是，我是正牌『日生光』。那家伙，不是我」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3773` `honmono-nisemono-context`
+  - before: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是真的嘛」
+  - after: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是正牌嘛」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3853` `honmono-nisemono-context`
+  - before: 日生光: 「冒牌『日生光」
+  - after: 日生光: 「冒牌的『日生光』」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3854` `honmono-nisemono-context`
+  - before: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是『真正的』『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+  - after: 日生光: 「也就是说，是这样一回事。你们一直以为是『日生光』并与之接触的那个人，不是正牌的『日生光』。有人假扮成我在骗大家。我说过的吧？那家伙是个骗子」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3864` `honmono-nisemono-context`
+  - before: 日生光: 「正因为是真的，才不知道啊。冒牌反而知道更多真相」
+  - after: 日生光: 「正因为我是正牌，才不知道啊。冒牌反而知道更多真相」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3869` `honmono-nisemono-context`
+  - before: 远野纱夜: 「那，真正的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+  - after: 远野纱夜: 「那，正牌的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3883` `honmono-nisemono-context`
+  - before: 桐岛七葵: 「……我的脸姑且不论，为什么不想被人看到？你不是真的吗？那没必要躲躲藏藏吧」
+  - after: 桐岛七葵: 「……我的脸姑且不论，为什么不想被人看到？你不是正牌吗？那没必要躲躲藏藏吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3887` `honmono-nisemono-context`
+  - before: 远野纱夜: 「可您不是真的吗？」
+  - after: 远野纱夜: 「可您不是正牌吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3890` `honmono-nisemono-context`
+  - before: 日生光: 「明明我才是真的，还这样偷偷摸摸的，我自己也很不服气啊」
+  - after: 日生光: 「明明我才是正牌，还这样偷偷摸摸的，我自己也很不服气啊」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3893` `honmono-nisemono-context`
+  - before: 日生光: 「不过难办啊。我是真的的证据一个都没有。要怎么样才能让你们相信呢？」
+  - after: 日生光: 「不过难办啊。我是正牌的证据一个都没有。要怎么样才能让你们相信呢？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3894` `honmono-nisemono-context`
+  - before: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+  - after: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是正牌了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3900` `honmono-nisemono-context`
+  - before: 日生光: 「冒牌知道真的存在」
+  - after: 日生光: 「冒牌知道正牌存在」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3902` `honmono-nisemono-context`
+  - before: 日生光: 「可是，那家伙看到我的时候说了句『终于能变成真的了』。然后突然就向我发动袭击」
+  - after: 日生光: 「可是，那家伙看到我的时候说了句『终于能变成正牌了』。然后突然就向我发动袭击」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3903` `honmono-nisemono-context`
+  - before: 日生光: 「那家伙，想杀了我。想杀了我然后自己变成真的。证据就是连衣服都模仿了」
+  - after: 日生光: 「那家伙，想杀了我。想杀了我然后自己变成正牌。证据就是连衣服都模仿了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3917` `honmono-nisemono-context`
+  - before: 日生光: 「但是，我是真的。正牌『日生光』。那家伙，不是我」
+  - after: 日生光: 「但是，我是正牌『日生光』。那家伙，不是我」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3920` `honmono-nisemono-context`
+  - before: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是真的嘛」
+  - after: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是正牌嘛」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4181` `honmono-nisemono-context`
+  - before: 远野纱夜: 「关于日生前辈的事。就是找出那个真品和冒牌的区别。我们在学校会和日生前辈碰面，但你不一样」
+  - after: 远野纱夜: 「关于日生前辈的事。就是找出那个正牌和冒牌的区别。我们在学校会和日生前辈碰面，但你不一样」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4413` `honmono-nisemono-context`
+  - before: 但这样根本分不清哪个是真品哪个是赝品，
+  - after: 但这样根本分不清哪个是正牌哪个是冒牌，
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4498` `honmono-nisemono-context`
+  - before: 日生光: 「称呼起来不方便吧？真品也好赝品也好，都叫日生光的话」
+  - after: 日生光: 「称呼起来不方便吧？正牌也好冒牌也好，都叫日生光的话」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4520` `honmono-nisemono-context`
+  - before: 仿佛『赝品的日生光』从一开始
+  - after: 仿佛『冒牌的日生光』从一开始
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4521` `honmono-nisemono-context`
+  - before: 就不存在一样，他就是『真品的日生光』。
+  - after: 就不存在一样，他就是『正牌的日生光』。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4523` `honmono-nisemono-context`
+  - before: 我们也从一开始就不知道『真品的日生光』是什么样子。
+  - after: 我们也从一开始就不知道『正牌的日生光』是什么样子。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4525` `honmono-nisemono-context`
+  - before: 分辨出『真品』和『赝品』呢？
+  - after: 分辨出『正牌』和『冒牌』呢？
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4618` `honmono-nisemono-context`
+  - before: 仿佛『赝品的日生光』从一开始
+  - after: 仿佛『冒牌的日生光』从一开始
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4619` `honmono-nisemono-context`
+  - before: 就不存在一样，他就是『真品的日生光』。
+  - after: 就不存在一样，他就是『正牌的日生光』。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4621` `honmono-nisemono-context`
+  - before: 我们也从一开始就不知道『真品的日生光』是什么样子。
+  - after: 我们也从一开始就不知道『正牌的日生光』是什么样子。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4623` `honmono-nisemono-context`
+  - before: 分辨出『真品』和『赝品』呢？
+  - after: 分辨出『正牌』和『冒牌』呢？
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4799` `honmono-nisemono-context`
+  - before: 如果存在两个『日生光』，那为什么真正的他却不在假的那个面前现身呢？
+  - after: 如果存在两个『日生光』，那为什么正牌的他却不在冒牌的他面前现身呢？
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4861` `honmono-nisemono-context`
+  - before: 日生光: 「正牌『日生光』、假的『日生光』，还有理想的『日生光』。」
+  - after: 日生光: 「正牌『日生光』、冒牌『日生光』，还有理想的『日生光』。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4869` `honmono-nisemono-context`
+  - before: 日生光: 「但是，那不是我。那是假的、冒牌的我。」
+  - after: 日生光: 「但是，那不是我。那是冒牌的我。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4895` `honmono-nisemono-context`
+  - before: 远野纱夜: 「现在站在我们面前的您，是『真正的您』吗？」
+  - after: 远野纱夜: 「现在站在我们面前的您，是『正牌』吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6044` `honmono-nisemono-context`
+  - before: 远野纱夜: 「我一直在寻找，你所说的，真品和赝品的区别到底在哪里。」
+  - after: 远野纱夜: 「我一直在寻找，你所说的，正牌和冒牌的区别到底在哪里。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6088` `honmono-nisemono-context`
+  - before: 远野纱夜: 「现在在这里的日生光，是假的。」
+  - after: 远野纱夜: 「现在在这里的日生光，是冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6098` `honmono-nisemono-context`
+  - before: 苍: 「也就是说，之前出现在我们面前的日生光，和你们在学校里见到的那个日生光，全都是假的日生光。」
+  - after: 苍: 「也就是说，之前出现在我们面前的日生光，和你们在学校里见到的那个日生光，全都是冒牌的日生光。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6135` `honmono-nisemono-context`
+  - before: 日生光: 「其他的人也都一样。没有任何人发现我是假的。」
+  - after: 日生光: 「其他的人也都一样。没有任何人发现我是冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6166` `honmono-nisemono-context`
+  - before: 日生祖母: 「既然你说你是假的，那真的又在哪里！！」
+  - after: 日生祖母: 「既然你说你是冒牌，那正牌又在哪里！！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6264` `honmono-nisemono-context`
+  - before: 日生光: 「放心吧。就算我不在了，『日生光』依然存在——这次不是假的，是真的」
+  - after: 日生光: 「放心吧。就算我不在了，『日生光』依然存在——这次不是冒牌，是正牌」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6454` `honmono-nisemono-context`
+  - before: 日生光: 「放心吧。就算我不在了，『日生光』依然存在——这次不是假的，是真的」
+  - after: 日生光: 「放心吧。就算我不在了，『日生光』依然存在——这次不是冒牌，是正牌」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6720` `honmono-nisemono-context`
+  - before: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是假的、哪个是真的，那又有什么意义呢？」
+  - after: 日生光: 「但问题是，就算我出现了，可要是分不清哪个是冒牌、哪个是正牌，那又有什么意义呢？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6724` `honmono-nisemono-context`
+  - before: 日生光: 「所以，我打消了现身的念头，决定先观望一阵子机会。那家伙，也不可能真的完美无缺。毕竟，我才是货真价实的那个啊。」
+  - after: 日生光: 「所以，我打消了现身的念头，决定先观望一阵子机会。那家伙，也不可能真的完美无缺。毕竟，我才是正牌啊。」
+
+## 人工候选样例
+
+- `bookish_zhcn/reading_order/01_prologue.md:5` `ao-color-review`
+  - text: 苍蓝色的天空。
+- `bookish_zhcn/reading_order/01_prologue.md:46` `ao-color-review`
+  - text: 远野十夜: 「‘嗯……我上次去的地方是一片无边无际的蓝色大海。越过那片大海，还有另一片土地，那里有和我们不同的鸟儿。」
+- `bookish_zhcn/reading_order/01_prologue.md:103` `ao-color-review`
+  - text: 远野十夜: 「嗯……我上次去的地方是一片无边无际的蓝色大海。」
+- `bookish_zhcn/reading_order/01_prologue.md:835` `ao-color-review`
+  - text: 既不是蓝色也不是红色，是染上黑暗的瞬间的苍。
+- `bookish_zhcn/reading_order/01_prologue.md:960` `ao-color-review`
+  - text: 苍蓝色的天空。
+- `bookish_zhcn/reading_order/01_prologue.md:961` `ao-color-review`
+  - text: 染上苍蓝色的世界。
+- `bookish_zhcn/reading_order/01_prologue.md:964` `ao-color-review`
+  - text: 如同映照出这片天空一般的苍蓝色眼眸。
+- `bookish_zhcn/reading_order/01_prologue.md:1147` `ao-color-review`
+  - text: 远野纱夜: 「一片苍色的天空」
+- `bookish_zhcn/reading_order/02_chapter1.md:284` `ao-color-review`
+  - text: 淡蓝色的天空中，挂着同样淡薄的云彩。
+- `bookish_zhcn/reading_order/02_chapter1.md:502` `ao-color-review`
+  - text: 那金色的头发、雪白的肌肤、蓝色的眼眸。
+- `bookish_zhcn/reading_order/02_chapter1.md:713` `ao-color-review`
+  - text: 他先垂下眼睛低语了一句，然后再次用那双苍蓝色的眼睛直视着我说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:1379` `ao-color-review`
+  - text: 蓝色的眼眸低垂，长长的睫毛投下阴影。
+- `bookish_zhcn/reading_order/02_chapter1.md:1477` `ao-color-review`
+  - text: 蓝色的眼眸微微睁大。
+- `bookish_zhcn/reading_order/02_chapter1.md:2121` `ao-color-review`
+  - text: 我用手掩住嘴，看着他那双苍蓝色的眼眸说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:2125` `ao-color-review`
+  - text: 他的眼睛眯了起来，那双蓝色的眼眸似乎变得更加深邃了。
+- `bookish_zhcn/reading_order/02_chapter1.md:2642` `ao-color-review`
+  - text: 他那双苍蓝色的眼眸映着同样蓝色的海。
+- `bookish_zhcn/reading_order/02_chapter1.md:3297` `ao-color-review`
+  - text: 我抬眼看向他那苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/02_chapter1.md:4414` `ao-color-review`
+  - text: 看到那本特征鲜明的青色封面的书，
+- `bookish_zhcn/reading_order/02_chapter1.md:4433` `ao-color-review`
+  - text: 蓝色的眼眸低垂，长长的睫毛落下阴影。
+- `bookish_zhcn/reading_order/02_chapter1.md:4560` `ao-color-review`
+  - text: 那双苍蓝色的眼眸映照着我们的身影。
+- `bookish_zhcn/reading_order/02_chapter1.md:5105` `ao-color-review`
+  - text: 蓝色封面的书。远野十夜的书。《笼中鸟》。
+- `bookish_zhcn/reading_order/02_chapter1.md:6005` `ao-color-review`
+  - text: 苍合上书，把蓝色封面对着我。
+- `bookish_zhcn/reading_order/03_chapter2.md:500` `ao-color-review`
+  - text: 说着，哥哥从书架上抽出一本蓝色封面的书。
+- `bookish_zhcn/reading_order/03_chapter2.md:3862` `ao-color-review`
+  - text: 途中看到的天空，从清澈的蓝色
+- `bookish_zhcn/reading_order/03_chapter2.md:3875` `ao-color-review`
+  - text: 我也同样仰起头，原本淡蓝色的天空变得深沉，那些离太阳近的云朵等事物被染成了橙色，稍远一些的则染上了暗色。
+- `bookish_zhcn/reading_order/04_chapter3.md:568` `ao-color-review`
+  - text: 依旧是那双苍色的眼眸。
+- `bookish_zhcn/reading_order/04_chapter3.md:573` `ao-color-review`
+  - text: 当那双冰冷的苍色眼眸眯起来时，
+- `bookish_zhcn/reading_order/04_chapter3.md:756` `ao-color-review`
+  - text: 说着，他把一本蓝色封面的书展示给我。
+- `bookish_zhcn/reading_order/04_chapter3.md:5048` `ao-color-review`
+  - text: 苍终于将那双苍色的眼眸转向我。
+- `bookish_zhcn/reading_order/04_chapter3.md:8307` `ao-color-review`
+  - text: 高大的身躯上系着得体的深蓝色蝴蝶结。
+- `bookish_zhcn/reading_order/08_hinase.md:723` `ao-color-review`
+  - text: 日生光: 「彩带的颜色不一样。蓝色的就是雷，红色的就是普通的吧。真有你的啊。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3075` `ao-color-review`
+  - text: 窗外的景色逐渐从淡蓝色变成深红色。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4162` `ao-color-review`
+  - text: 我注意到其中有一本眼熟的蓝色封面的书。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4469` `ao-color-review`
+  - text: 那熟悉的苍色封面。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5483` `ao-color-review`
+  - text: 他解开蓝色丝带，拿起一块碎屑。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5634` `ao-color-review`
+  - text: 哥哥解开蓝色丝带，把一颗星形饼干放进我嘴里。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5698` `ao-color-review`
+  - text: 哥哥解开蓝色丝带，把一颗星形饼干放进我嘴里。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:7` `ao-color-review`
+  - text: 天空很高，淡蓝色的背景上漂浮着被拉长的白云。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:66` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:66` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:77` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1055` `ao-color-review`
+  - text: 在他蓝色的眼眸中，清晰地映出了我的身影。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1098` `ao-color-review`
+  - text: 然后向上望去，对上了蓝色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1195` `ao-color-review`
+  - text: 在他蓝色的眼眸中，清晰地映出了我的身影。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1244` `ao-color-review`
+  - text: 然后向上望去，对上了蓝色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1314` `ao-color-review`
+  - text: 稍微有点难为情，我游移的视线撞上了那双蓝色的眼睛。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1466` `ao-color-review`
+  - text: 蓝色——让人想起某人的眼眸的颜色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1493` `ao-color-review`
+  - text: 蓝色的眼眸和黑色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1565` `ao-color-review`
+  - text: 蓝色——让人想起某人的眼眸的颜色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1592` `ao-color-review`
+  - text: 蓝色的眼眸和黑色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1619` `ao-color-review`
+  - text: 这么近的距离，我能看到他苍蓝色的眼眸里映出我的样子。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1625` `ao-color-review`
+  - text: 啊，好像要被那苍蓝色的眼眸吸进去了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2167` `ao-color-review`
+  - text: 双脚站在地面上，环顾四周，整个世界都融入了苍蓝色之中。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2185` `ao-color-review`
+  - text: 他的一切颜色都很淡，但却是这里所有人中唯一没有融入苍蓝色的。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2224` `ao-color-review`
+  - text: 苍蓝色的天空很快就消失了，现在已完全变成漆黑的夜晚。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2358` `ao-color-review`
+  - text: 苍蓝色的天空很快就消失了，现在已完全变成漆黑的夜晚。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2692` `ao-color-review`
+  - text: 淡淡的蓝色天空，感觉有些寒冷萧瑟。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3015` `ao-color-review`
+  - text: 苍蓝色的眼眸一眨不眨地凝视着我。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3236` `ao-color-review`
+  - text: 听我这样说，那双蓝色的眼睛微微眯了起来。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3822` `ao-color-review`
+  - text: 映照出此世夹缝的苍蓝色眼眸。
+- `bookish_zhcn/reading_order/18_kuro.md:190` `ao-color-review`
+  - text: 我和他的距离缩短了，近到能清楚看见他那双苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/18_kuro.md:201` `ao-color-review`
+  - text: 那双苍蓝色的眼眸变得更深邃了。
+- `bookish_zhcn/reading_order/18_kuro.md:243` `ao-color-review`
+  - text: 『那家伙』，大概是指那个有着苍蓝色眼眸的人吧。
+- `bookish_zhcn/reading_order/18_kuro.md:785` `ao-color-review`
+  - text: 那是本暗蓝色的封面书。
+- `bookish_zhcn/reading_order/18_kuro.md:860` `ao-color-review`
+  - text: 早上醒来时，我身在青黑色的海底。
+- `bookish_zhcn/reading_order/18_kuro.md:867` `ao-color-review`
+  - text: 头顶也是同样的蓝色，但也许因为更接近太阳，比在地上看到的更苍白，阳光照射到的地方颜色尤其淡薄。
+- `bookish_zhcn/reading_order/18_kuro.md:1026` `ao-color-review`
+  - text: 我也自然地放慢了脚步，和周围保持同样的步调，抬头望着淡蓝色的天空，想着心事。
+- `bookish_zhcn/reading_order/18_kuro.md:1062` `ao-color-review`
+  - text: 回头一看，那里没有人影，取而代之的是两只猫——一黑一白——蹲在墙头一动不动，用蓝色的眼睛盯着我。
+- `bookish_zhcn/reading_order/18_kuro.md:1709` `ao-color-review`
+  - text: 在众多书籍中，有一本散发着异彩的青色书脊。
+- `bookish_zhcn/reading_order/18_kuro.md:1713` `ao-color-review`
+  - text: 那本青色的书上，既没有标题，也没有任何文字记录。
+- `bookish_zhcn/reading_order/18_kuro.md:1722` `ao-color-review`
+  - text: 那是深邃、深邃的青色天空。
+- `bookish_zhcn/reading_order/18_kuro.md:2090` `ao-color-review`
+  - text: 从时钟塔表盘透进的微弱的蓝色光芒。
+- `bookish_zhcn/reading_order/18_kuro.md:2344` `ao-color-review`
+  - text: 午后淡蓝色的天空。
+- `bookish_zhcn/reading_order/18_kuro.md:2345` `ao-color-review`
+  - text: 不久，随着高升的太阳落下，影子染上浓重，天空从淡蓝变成苍色。
+- `bookish_zhcn/reading_order/18_kuro.md:2346` `ao-color-review`
+  - text: 苍色，介于之间的颜色。那只是短暂的一瞬。
+- `bookish_zhcn/reading_order/18_kuro.md:2348` `ao-color-review`
+  - text: 随后，苍色变得更加深沉，世界进入了夜晚。
+- `bookish_zhcn/reading_order/18_kuro.md:2356` `ao-color-review`
+  - text: 远野十夜: 「苍色」
+- `bookish_zhcn/reading_order/18_kuro.md:2358` `ao-color-review`
+  - text: 远野十夜: 「纱夜以前说过苍色是间隙的颜色，但对我来说，苍色看起来是夜的颜色啊」
+- `bookish_zhcn/reading_order/18_kuro.md:2359` `ao-color-review`
+  - text: 远野十夜: 「以前纱夜说过苍色是间隙的颜色，但对我来说，苍色看起来是夜的颜色啊」
+- `bookish_zhcn/reading_order/18_kuro.md:2371` `ao-color-review`
+  - text: 远野纱夜: 「那么，苍色是终结的颜色吗？」
+- `bookish_zhcn/reading_order/18_kuro.md:2578` `ao-color-review`
+  - text: 身披白色长袍、拥有金色头发和苍色眼眸的死神，伫立在夜的黑暗中。
+- `bookish_zhcn/reading_order/18_kuro.md:2717` `ao-color-review`
+  - text: 远野纱夜: 「太阳沉落，夜晚到来前那一刻的天空的颜色。深邃，深邃。苍色的天空。在那之下，伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:72` `ao-color-review`
+  - text: 听他这么一说，我才注意到。书脊的颜色是蓝色的。
+- `bookish_zhcn/reading_order/19_ao.md:206` `ao-color-review`
+  - text: 凝视着那双苍蓝色的眼睛，我意识到: 「啊，原来如此，我是想要被帮助啊」
+- `bookish_zhcn/reading_order/19_ao.md:227` `ao-color-review`
+  - text: 他站在那里，并不打算坐下。他用那双苍蓝色的眼睛俯视着坐着的我。
+- `bookish_zhcn/reading_order/19_ao.md:304` `ao-color-review`
+  - text: 他的手指碰到了我的眼下。苍蓝色的眸子里映出了我的身影。
+- `bookish_zhcn/reading_order/19_ao.md:716` `ao-color-review`
+  - text: 他啪地合上书，终于用那双苍蓝色的眼睛看向我。
+- `bookish_zhcn/reading_order/19_ao.md:1272` `ao-color-review`
+  - text: 我凝视着他那苍蓝色的眼眸片刻，嘴角浮现出笑意。
+- `bookish_zhcn/reading_order/19_ao.md:1432` `ao-color-review`
+  - text: 在众多书籍中，有一本苍蓝色的书脊格外显眼。
+- `bookish_zhcn/reading_order/19_ao.md:1435` `ao-color-review`
+  - text: 苍蓝色的封面上没有写任何标题。
+- `bookish_zhcn/reading_order/19_ao.md:1444` `ao-color-review`
+  - text: 那是深邃、深邃的青色天空。
+- `bookish_zhcn/reading_order/19_ao.md:2312` `ao-color-review`
+  - text: 似曾相识的苍色装帧让我瞬间认出那是《远野十夜》的书。
+- `bookish_zhcn/reading_order/19_ao.md:2397` `ao-color-review`
+  - text: 他有着浅金色头发和苍蓝色眼睛，
+- `bookish_zhcn/reading_order/19_ao.md:2446` `ao-color-review`
+  - text: 魔法师: 「在苍蓝色的天空下，一直等待着夜晚来临。」
+- `bookish_zhcn/reading_order/19_ao.md:2456` `ao-color-review`
+  - text: 在苍蓝色的天空下，等待着夜晚。
+- `bookish_zhcn/reading_order/19_ao.md:2604` `ao-color-review`
+  - text: 大海是一片寒凉萧瑟的蓝色，配合着刺骨的寒风和周围的寂静，让人莫名感到忧郁。
+- `bookish_zhcn/reading_order/19_ao.md:2677` `ao-color-review`
+  - text: 我和他的距离缩短了，近到能清楚看见他那双苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/19_ao.md:2690` `ao-color-review`
+  - text: 我抬头看向他，在他那双深邃如透明的苍色眼眸中，清晰地映出了自己的身影。
+- `bookish_zhcn/reading_order/19_ao.md:2938` `ao-color-review`
+  - text: 苍蓝色的封面，仅镶着淡淡的金边，装订朴素，没有名字的书。
+- `bookish_zhcn/reading_order/19_ao.md:3081` `ao-color-review`
+  - text: 苍色的封面在黑暗中看来，黑得几乎分不清那是不是苍色。
+- `bookish_zhcn/reading_order/19_ao.md:3110` `ao-color-review`
+  - text: 浅金色的头发，苍蓝色的眼眸，他的一切都与我不同。
+- `bookish_zhcn/reading_order/19_ao.md:3188` `ao-color-review`
+  - text: 周围是一片灰蒙蒙的蓝色。
+- `bookish_zhcn/reading_order/19_ao.md:3203` `ao-color-review`
+  - text: 然后，我望向苍蓝色的天空。
+- `bookish_zhcn/reading_order/19_ao.md:3365` `ao-color-review`
+  - text: 我第一次见到远野纱夜，并非是在那片苍色的天空之下。
+- `bookish_zhcn/reading_order/19_ao.md:3379` `ao-color-review`
+  - text: 那本《死神与少女》，我已经反反复复读过不知几千遍，苍色封面上金色的装饰部分已多处磨损，内页也因长年累月而晒得泛黄，褪成了橙色。
+- `bookish_zhcn/reading_order/19_ao.md:3491` `ao-color-review`
+  - text: 男人的视线落在我手中那本苍蓝色的书上。
+- `bookish_zhcn/reading_order/19_ao.md:3919` `ao-color-review`
+  - text: 远野纱夜: 「太阳沉落，夜晚到来前那一刻的天空的颜色。深邃，深邃。苍色的天空。在那之下，伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:4118` `ao-color-review`
+  - text: 远野十夜: 「……太阳西沉，夜晚到来之前那一瞬间的天空颜色。那是一片深邃、深邃的苍色天空。其下伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:4267` `ao-color-review`
+  - text: 从这里能看到的，只有他蓝色的眼眸、流泻的金发，还有锐利的刀尖。
+- `bookish_zhcn/reading_order/19_ao.md:4334` `ao-color-review`
+  - text: 他只是将那蓝色的眼眸面向我，将那刀刃对准我，纹丝不动地听着我的话。
+- `bookish_zhcn/reading_order/19_ao.md:4416` `ao-color-review`
+  - text: 睁开眼睛，他那蓝色的眼眸中满是惊讶。
+- `bookish_zhcn/reading_order/19_ao.md:4432` `ao-color-review`
+  - text: 从他蓝色的眼眸中落下了水滴，打在我的脸颊上。
+- `bookish_zhcn/reading_order/19_ao.md:4501` `ao-color-review`
+  - text: 我恍惚想道，天空如此明亮，难道连夜晚也是蓝色的吗？
+- `bookish_zhcn/reading_order/19_ao.md:4577` `ao-color-review`
+  - text: 天空是蓝色的。
+- `bookish_zhcn/reading_order/19_ao.md:4579` `ao-color-review`
+  - text: 对我来说，蓝色不是夹缝的颜色，而是终焉的颜色。
+- `bookish_zhcn/reading_order/19_ao.md:4580` `ao-color-review`
+  - text: 来到这个国家，知道天空的颜色不是蓝色而是黑色时，我感觉仿佛知道了另一个夜晚。
+- `bookish_zhcn/reading_order/19_ao.md:4596` `ao-color-review`
+  - text: 他有着淡金色的头发和蓝色的眼睛，
+- `bookish_zhcn/reading_order/19_ao.md:4647` `ao-color-review`
+  - text: 少女凝视着那双蓝色的眼睛。
+- `bookish_zhcn/reading_order/19_ao.md:4666` `ao-color-review`
+  - text: 蓝色装帧的书。死神心想，这颜色和自己的眼睛颜色很像。
+- `bookish_zhcn/reading_order/19_ao.md:4711` `ao-color-review`
+  - text: 死神感受着从少女那里得到的蓝色《死神与少女》。
+- `bookish_zhcn/reading_order/19_ao.md:4880` `ao-color-review`
+  - text: 他苍蓝色的眼眸捕捉到她黑色的眼眸。
+- `bookish_zhcn/reading_order/01_prologue.md:26` `honmono-review`
+  - text: 「这世上真的存在那种东西吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:265` `honmono-review`
+  - text: 远野纱夜: 「……那样的东西，真的存在吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:276` `honmono-review`
+  - text: 远野十夜: 「哦，真的吗！！」
+- `bookish_zhcn/reading_order/01_prologue.md:392` `honmono-review`
+  - text: 宫泽夏帆: 「真的吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:472` `honmono-review`
+  - text: 女学生A: 「夏目……真的耶！已经到时间了！糟了！」
+- `bookish_zhcn/reading_order/01_prologue.md:599` `honmono-review`
+  - text: 图书管理员: 「你也是真的喜欢书呢」
+- `bookish_zhcn/reading_order/01_prologue.md:671` `honmono-review`
+  - text: 然后，他用认真的眼神看着我。
+- `bookish_zhcn/reading_order/01_prologue.md:767` `honmono-review`
+  - text: 仅看那个眼神，就能明白这个人真的很喜欢书。
+- `bookish_zhcn/reading_order/01_prologue.md:1030` `honmono-review`
+  - text: 如果，真的……
+- `bookish_zhcn/reading_order/02_chapter1.md:130` `honmono-review`
+  - text: 医生: 「真的说过啊。我还记得那时候的你总是很开心。」
+- `bookish_zhcn/reading_order/02_chapter1.md:197` `honmono-review`
+  - text: 远野纱夜: 「你也这么觉得吧？但这是真的。」
+- `bookish_zhcn/reading_order/02_chapter1.md:387` `honmono-review`
+  - text: 远野纱夜: 「……真的没关系吗？中途交给了那个人。」
+- `bookish_zhcn/reading_order/02_chapter1.md:841` `honmono-review`
+  - text: ？？？: 「我想向你道谢。真的非常感谢你。」
+- `bookish_zhcn/reading_order/02_chapter1.md:856` `honmono-review`
+  - text: 日生前辈反问道，她噗嗤一笑，然后突然露出认真的表情。
+- `bookish_zhcn/reading_order/02_chapter1.md:906` `honmono-review`
+  - text: ？？？: 「昨天真的非常感谢。……那么，再见。」
+- `bookish_zhcn/reading_order/02_chapter1.md:1027` `honmono-review`
+  - text: 远野纱夜: 「哎……这样真的好吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1048` `honmono-review`
+  - text: 远野纱夜: 「哎呀，真的吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1069` `honmono-review`
+  - text: 远野纱夜: 「今天，真的非常感谢您」
+- `bookish_zhcn/reading_order/02_chapter1.md:1210` `honmono-review`
+  - text: 太宰友惠: 「呵呵。真的很可爱呢。和纱夜酱是不同的感觉」
+- `bookish_zhcn/reading_order/02_chapter1.md:1900` `honmono-review`
+  - text: 胜负真的只在一瞬间。
+- `bookish_zhcn/reading_order/02_chapter1.md:2238` `honmono-review`
+  - text: 远野纱夜: 「不过，哥哥……您说只要喊您的名字您就会立刻赶到，这是真的吗？哥哥明天还要上班吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:2668` `honmono-review`
+  - text: 远野纱夜: 「我喜欢大海。真的，感觉它无边无际地延伸着」
+- `bookish_zhcn/reading_order/02_chapter1.md:3302` `honmono-review`
+  - text: 远野纱夜: 「我确实在意您的事，这是真的。但我也确实有些在意的事」
+- `bookish_zhcn/reading_order/02_chapter1.md:3316` `honmono-review`
+  - text: 毕竟我和巴女士真的只是前几天才见过面，没有任何关系。
+- `bookish_zhcn/reading_order/02_chapter1.md:3324` `honmono-review`
+  - text: 苍: 「这个地方，真的很吵啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:3349` `honmono-review`
+  - text: 远野纱夜: 「您真的很温柔呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:3431` `honmono-review`
+  - text: 护士C: 「真的吗？如果身体不舒服，要不要检查一下？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3432` `honmono-review`
+  - text: 远野纱夜: 「对不起。真的没什么。只是被吓到了，太害怕了……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3519` `honmono-review`
+  - text: 那副样子看起来非常悲伤，让我觉得，她真的很在乎巴女士。
+- `bookish_zhcn/reading_order/02_chapter1.md:3629` `honmono-review`
+  - text: 远野纱夜: 「巴女士，当时真的很拼命啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:3632` `honmono-review`
+  - text: 就算她精神真的出了问题，那种执念般的眼神，光是现在回想起来，都让我脊背发凉。
+- `bookish_zhcn/reading_order/02_chapter1.md:3654` `honmono-review`
+  - text: 苍: 「如果巴真的想想起来，总有一天她会想起来的吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:3762` `honmono-review`
+  - text: 桐岛七葵: 「……我真的没有在意。不过，我觉得你确实应该注意前方」
+- `bookish_zhcn/reading_order/02_chapter1.md:3763` `honmono-review`
+  - text: 远野纱夜: 「真的很对不起……！」
+- `bookish_zhcn/reading_order/02_chapter1.md:3813` `honmono-review`
+  - text: 远野纱夜: 「关于便当的事，真的很对不起」
+- `bookish_zhcn/reading_order/02_chapter1.md:3923` `honmono-review`
+  - text: 宫泽夏帆: 「这你可能不信，但这是真的……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3925` `honmono-review`
+  - text: 日生光: 「真的假的」
+- `bookish_zhcn/reading_order/02_chapter1.md:3988` `honmono-review`
+  - text: 远野纱夜: 「关于便当的事，真的很对不起」
+- `bookish_zhcn/reading_order/02_chapter1.md:4104` `honmono-review`
+  - text: 远野纱夜: 「那么，真正的爱好是？」
+- 其余 442 条见 `*.review.jsonl`。
+
+## 人工审核说明
+
+- `*.operations.jsonl` 是自动回填记录。
+- `*.review.jsonl` 是需要人工或 LLM 精判的候选项，特别是“物语/故事”“语言/言语”“苍色/青色”“正牌/冒牌”。

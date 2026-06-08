@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "review_block.schema.json",
+  "title": "Parallel Translation Review Block",
+  "type": "object",
+  "required": [
+    "id",
+    "source_file",
+    "current_file",
+    "draft_source",
+    "status",
+    "ja",
+    "current_zh",
+    "draft_zh",
+    "note"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "parallel-translation-review/v0.1"
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "review_set_id": {
+      "type": "string"
+    },
+    "candidate_id": {
+      "type": "string"
+    },
+    "run_id": {
+      "type": "string"
+    },
+    "unit_index": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "source_file": {
+      "type": "string",
+      "minLength": 1
+    },
+    "current_file": {
+      "type": "string",
+      "minLength": 1
+    },
+    "draft_source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": ["candidate", "accepted", "rejected", "needs_review"]
+    },
+    "segment_kind": {
+      "type": "string",
+      "enum": ["narration", "dialogue", "choice", "mixed", "metadata", "other"]
+    },
+    "speaker": {
+      "type": ["string", "null"]
+    },
+    "route_context": {
+      "type": ["string", "null"]
+    },
+    "ja": {
+      "type": "string",
+      "minLength": 1
+    },
+    "current_zh": {
+      "type": "string",
+      "minLength": 1
+    },
+    "draft_zh": {
+      "type": "string",
+      "minLength": 1
+    },
+    "note": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "scores": {
+      "type": "object",
+      "additionalProperties": {
+        "type": ["number", "integer", "null"]
+      }
+    },
+    "reviewer": {
+      "type": ["string", "null"]
+    },
+    "review_note": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,3492 @@
+# 敬语称呼准则回填记录：honorific_guideline_round_001
+
+> 生成时间：2026-06-08 10:30:27
+> 范围：`bookish/reading_order/*.md` 与 `bookish_zhcn/reading_order/*.md`
+> 原则：按敬语准则策略表回填；只在日文对应行证明称呼关系时自动改；每条操作保留日文依据。
+
+## 本轮状态
+
+- 自动回填：848
+- 非空行数量不一致的文件：23
+
+## 规则统计
+
+### hikari-senpai
+
+- 说明：纱夜 → 光先輩：光前辈
+- LLM 初判：`光先輩` 仍是前后辈称呼，不应译成“先生”；保留名呼作“光前辈”。
+- 本轮应用：27
+
+### hinase-senpai
+
+- 说明：纱夜 → 日生：日生先輩 = 日生前辈
+- LLM 初判：策略表规定 `日生先輩` 统一译为“日生前辈”，避免“学长/前辈”摇摆。
+- 本轮应用：80
+
+### kirishima-senpai
+
+- 说明：纱夜 → 桐岛：桐島先輩 = 桐岛前辈
+- LLM 初判：策略表规定 `桐島先輩` 统一译为“桐岛前辈”。
+- 本轮应用：0
+
+### hikari-san-private
+
+- 说明：纱夜/叙述 → 光：光さん = 光
+- LLM 初判：策略表规定恋人后私下 `光さん` 译为“光”，正式场合才可用“光先生”。
+- 本轮应用：62
+
+### hikari-ojo
+
+- 说明：光 → 纱夜：お嬢 = 小姐
+- LLM 初判：策略表规定 `お嬢` 译为“小姐”，`お嬢様` 才译“大小姐”。
+- 本轮应用：121
+
+### chiyo-ojousan
+
+- 说明：千代 → 纱夜：お嬢さん = 小姐
+- LLM 初判：策略表规定千代的 `お嬢さん` 译为“小姐”，不译“大小姐”。
+- 本轮应用：85
+
+### sayo-to-chiyo-san
+
+- 说明：纱夜/叙述 → 千代：千代さん = 千代
+- LLM 初判：策略表规定 `千代さん` 默认译“千代”，用句式和“您/请”保留敬度。
+- 本轮应用：461
+
+### chiyo-sayo-san
+
+- 说明：千代 → 纱夜：紗夜さん = 纱夜
+- LLM 初判：策略表规定千代关键转换 `紗夜さん` 译为“纱夜”，保留从“小姐”到名字的转换。
+- 本轮应用：9
+
+### gashomachi-to-sayo-chan
+
+- 说明：卧待 → 纱夜：紗夜ちゃん = 小纱夜
+- LLM 初判：用户修正策略表：卧待对纱夜的 `紗夜ちゃん` 固定译“小纱夜”，与夏帆的“纱夜酱”分开。
+- 本轮应用：3
+
+## 自动回填明细
+
+- `bookish_zhcn/reading_order/02_chapter1.md:741` `hinase-senpai`
+  - ja `725`: 丁度良く、日生先輩が自分の腕時計を見て
+  - before: 正好，日生学长看了看自己的手表。
+  - after: 正好，日生前辈看了看自己的手表。
+- `bookish_zhcn/reading_order/02_chapter1.md:759` `hikari-ojo`
+  - ja `743`: 日生 光: 「真面目すぎだよ、お嬢」
+  - before: 日生光: 「你太认真啦，大小姐。」
+  - after: 日生光: 「你太认真啦，小姐。」
+- `bookish_zhcn/reading_order/02_chapter1.md:761` `hinase-senpai`
+  - ja `745`: 確かに、日生先輩が言った通り、病院側から彼について話は通っているとは思う。
+  - before: 确实，就像日生学长说的，医院那边应该已经通报过他的情况了。
+  - after: 确实，就像日生前辈说的，医院那边应该已经通报过他的情况了。
+- `bookish_zhcn/reading_order/02_chapter1.md:768` `hinase-senpai`
+  - ja `752`: けれど、日生先輩の言葉は尤もで、私と蒼は何も関係性はなく、私が彼に強要するのも間違いだとも思った。
+  - before: 但日生学长说得也有道理，我和苍之间没有任何关系，我强迫他做什么反而不对。
+  - after: 但日生前辈说得也有道理，我和苍之间没有任何关系，我强迫他做什么反而不对。
+- `bookish_zhcn/reading_order/02_chapter1.md:779` `hinase-senpai`
+  - ja `763`: 日生先輩は後ろに両手をついて、上半身を斜めにさせた。
+  - before: 日生学长双手撑在身后，上半身向后倾斜。
+  - after: 日生前辈双手撑在身后，上半身向后倾斜。
+- `bookish_zhcn/reading_order/02_chapter1.md:788` `hikari-ojo`
+  - ja `772`: 日生 光: 「本当に、お嬢は本が好きだねぇ」
+  - before: 日生光: 「大小姐还真是喜欢书啊。」
+  - after: 日生光: 「小姐还真是喜欢书啊。」
+- `bookish_zhcn/reading_order/02_chapter1.md:801` `hinase-senpai`
+  - ja `785`: 日生先輩が机の上の本を指す。
+  - before: 日生学长指了指桌上的书。
+  - after: 日生前辈指了指桌上的书。
+- `bookish_zhcn/reading_order/02_chapter1.md:856` `hinase-senpai`
+  - ja `840`: 日生先輩が聞き返すと、彼女はふふっと笑い、急に真面目な顔をした。
+  - before: 日生学长反问道，她噗嗤一笑，然后突然露出认真的表情。
+  - after: 日生前辈反问道，她噗嗤一笑，然后突然露出认真的表情。
+- `bookish_zhcn/reading_order/02_chapter1.md:916` `hinase-senpai`
+  - ja `900`: すると、日生先輩が言った。
+  - before: 这时，日生学长说道。
+  - after: 这时，日生前辈说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:935` `hinase-senpai`
+  - ja `919`: 日生先輩は私の言葉に短く笑う。
+  - before: 日生学长听了我的话，轻声笑了笑。
+  - after: 日生前辈听了我的话，轻声笑了笑。
+- `bookish_zhcn/reading_order/02_chapter1.md:941` `hinase-senpai`
+  - ja `925`: 日生先輩が立ち上がるのを見て、私も立ち上がった。
+  - before: 看到日生学长站起来，我也站起来了。
+  - after: 看到日生前辈站起来，我也站起来了。
+- `bookish_zhcn/reading_order/02_chapter1.md:963` `hikari-ojo`
+  - ja `947`: 日生 光: 「あれ、お嬢。お兄さんなんていたんだ」
+  - before: 日生光: 「哎呀，大小姐，你居然有个哥哥啊」
+  - after: 日生光: 「哎呀，小姐，你居然有个哥哥啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:965` `hikari-ojo`
+  - ja `949`: 日生 光: 「へえ、てっきり、お嬢は一人っ子だと思ってた」
+  - before: 日生光: 「嘿，我一直以为大小姐是独生女呢」
+  - after: 日生光: 「嘿，我一直以为小姐是独生女呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:971` `hikari-ojo`
+  - ja `955`: 日生 光: 「へえー。でもまあ、お嬢のお兄さんっていったら、きっとさぞかし美形なお兄さんなんだろうね」
+  - before: 日生光: 「嘿——。不过嘛，既然是大小姐的哥哥，那一定是个超级大帅哥吧」
+  - after: 日生光: 「嘿——。不过嘛，既然是小姐的哥哥，那一定是个超级大帅哥吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:977` `gashomachi-to-sayo-chan`
+  - ja `961`: 臥待 春夫: 「紗夜ちゃんは、お兄さんのことが大好きなんだよねぇ」
+  - before: 卧待春夫: 「纱夜酱啊，可是最喜欢哥哥了。」
+  - after: 卧待春夫: 「小纱夜啊，可是最喜欢哥哥了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:1022` `hikari-ojo`
+  - ja `1003`: 日生 光: 「お嬢、家どこ？　送ってくよ」
+  - before: 日生光: 「大小姐，你家在哪儿？我送你吧」
+  - after: 日生光: 「小姐，你家在哪儿？我送你吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:1043` `hikari-ojo`
+  - ja `1023`: 日生 光: 「……お嬢が望むのなら、毎日でもお送りするけど？」
+  - before: 日生光: 「……只要大小姐愿意，我每天都可以送你哦？」
+  - after: 日生光: 「……只要小姐愿意，我每天都可以送你哦？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1047` `hikari-ojo`
+  - ja `1027`: 日生 光: 「愛しきお嬢の為ならば、僕はどこでもどこまででも馳せ参じますよ」
+  - before: 日生光: 「为了心爱的大小姐，无论天涯海角我都会飞奔而至哦」
+  - after: 日生光: 「为了心爱的小姐，无论天涯海角我都会飞奔而至哦」
+- `bookish_zhcn/reading_order/02_chapter1.md:1055` `hikari-ojo`
+  - ja `1035`: 日生 光: 「……で、どうですか？　お嬢」
+  - before: 日生光: 「……那么，大小姐觉得怎么样？」
+  - after: 日生光: 「……那么，小姐觉得怎么样？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1081` `hikari-ojo`
+  - ja `1061`: 日生 光: 「綺麗だよね、お嬢の髪。あの人も言ってたけどさ」
+  - before: 日生光: 「大小姐的头发真漂亮啊。那个人也这么说来着」
+  - after: 日生光: 「小姐的头发真漂亮啊。那个人也这么说来着」
+- `bookish_zhcn/reading_order/02_chapter1.md:1091` `hikari-ojo`
+  - ja `1071`: 日生 光: 「今日は色々楽しかったよ。こうしてお嬢と一緒に帰ることもできたし、『死神』にも会えたしね」
+  - before: 日生光: 「今天很开心哦。能这样和大小姐一起回家，还见到了『死神」
+  - after: 日生光: 「今天很开心哦。能这样和小姐一起回家，还见到了『死神」
+- `bookish_zhcn/reading_order/02_chapter1.md:3171` `sayo-to-chiyo-san`
+  - ja `3072`: 千代さんは真面目な顔をして、私を見る。
+  - before: 千代先生一脸认真地看着我。
+  - after: 千代一脸认真地看着我。
+- `bookish_zhcn/reading_order/02_chapter1.md:3203` `sayo-to-chiyo-san`
+  - ja `3104`: 千代さんが何か言いたげにしているのを感じ、顔を上げると、彼はとても静かな声で言った。
+  - before: 我感觉千代先生似乎欲言又止，抬起头时，他用非常平静的声音说道。
+  - after: 我感觉千代似乎欲言又止，抬起头时，他用非常平静的声音说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:3217` `sayo-to-chiyo-san`
+  - ja `3118`: 遠野　紗夜: 「千代さん、貴方は……」
+  - before: 远野纱夜: 「千代先生，您……」
+  - after: 远野纱夜: 「千代，您……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3318` `sayo-to-chiyo-san`
+  - ja `3215`: 昨日の桐島先輩や千代さんの言葉のせいか、それとも……。
+  - before: 是因为昨天桐岛前辈和千代先生的话吗，还是……
+  - after: 是因为昨天桐岛前辈和千代的话吗，还是……
+- `bookish_zhcn/reading_order/02_chapter1.md:3793` `hikari-ojo`
+  - ja `3677`: 日生 光: 「へえ、桐島君のお弁当をお嬢がねえ」
+  - before: 日生光: 「哦～大小姐把桐岛的便当给……」
+  - after: 日生光: 「哦～小姐把桐岛的便当给……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3828` `sayo-to-chiyo-san`
+  - ja `3712`: 遠野　紗夜: 「千代さんですか？」
+  - before: 远野纱夜: 「是千代小姐吗？」
+  - after: 远野纱夜: 「是千代吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3838` `sayo-to-chiyo-san`
+  - ja `3722`: 千代さんと何かあったのだろうか。
+  - before: 他和千代小姐之间发生了什么事吗？
+  - after: 他和千代之间发生了什么事吗？
+- `bookish_zhcn/reading_order/02_chapter1.md:3845` `sayo-to-chiyo-san`
+  - ja `3729`: 遠野　紗夜: 「千代さんはこの学校の人ではないのですよね？」
+  - before: 远野纱夜: 「千代小姐不是这所学校的人对吧？」
+  - after: 远野纱夜: 「千代不是这所学校的人对吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3909` `hikari-ojo`
+  - ja `3792`: 日生 光: 「では最後に。お嬢は何が好きなの？」
+  - before: 日生光: 「那最后。大小姐你喜欢什么？」
+  - after: 日生光: 「那最后。小姐你喜欢什么？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3968` `hikari-ojo`
+  - ja `3845`: 日生 光: 「へえ、桐島君のお弁当をお嬢がねえ」
+  - before: 日生光: 「哦～大小姐把桐岛的便当给……」
+  - after: 日生光: 「哦～小姐把桐岛的便当给……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4003` `sayo-to-chiyo-san`
+  - ja `3880`: 遠野　紗夜: 「千代さんですか？」
+  - before: 远野纱夜: 「是千代小姐吗？」
+  - after: 远野纱夜: 「是千代吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4013` `sayo-to-chiyo-san`
+  - ja `3890`: 千代さんと何かあったのだろうか。
+  - before: 他和千代小姐之间发生了什么事吗？
+  - after: 他和千代之间发生了什么事吗？
+- `bookish_zhcn/reading_order/02_chapter1.md:4020` `sayo-to-chiyo-san`
+  - ja `3897`: 遠野　紗夜: 「千代さんはこの学校の人ではないのですよね？」
+  - before: 远野纱夜: 「千代小姐不是这所学校的人对吧？」
+  - after: 远野纱夜: 「千代不是这所学校的人对吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4284` `sayo-to-chiyo-san`
+  - ja `4150`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4287` `sayo-to-chiyo-san`
+  - ja `4153`: 遠野　紗夜: 「……千代さん、どうしてこんな処に？　桐島先輩なら、先程カウンターの方にいましたけれど」
+  - before: 远野纱夜: 「……千代小姐，您怎么会在这里？桐岛前辈刚才在服务台那边哦」
+  - after: 远野纱夜: 「……千代，您怎么会在这里？桐岛前辈刚才在服务台那边哦」
+- `bookish_zhcn/reading_order/02_chapter1.md:4291` `sayo-to-chiyo-san`
+  - ja `4157`: そう言うと、千代さんは私に一歩近づいた。
+  - before: 说着，千代小姐向我走近了一步。
+  - after: 说着，千代向我走近了一步。
+- `bookish_zhcn/reading_order/02_chapter1.md:4307` `sayo-to-chiyo-san`
+  - ja `4173`: 遠野　紗夜: 「……ですが、千代さんは私に気づいて欲しいと仰るし、私には何が何だか……」
+  - before: 远野纱夜: 「……但是，千代小姐您却又希望我察觉到什么，我完全搞不懂……」
+  - after: 远野纱夜: 「……但是，千代，您却又希望我察觉到什么，我完全搞不懂……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4324` `sayo-to-chiyo-san`
+  - ja `4190`: 彼の落ち込んだ姿にどう声をかけていいものか迷っていると、千代さんは机の上に置かれた一冊の本を私の方に寄せた。
+  - before: 我正犹豫该如何对他沮丧的样子开口时，千代小姐把桌上放着的一本书推到我面前。
+  - after: 我正犹豫该如何对他沮丧的样子开口时，千代把桌上放着的一本书推到我面前。
+- `bookish_zhcn/reading_order/02_chapter1.md:4335` `sayo-to-chiyo-san`
+  - ja `4201`: 千代さんは、とても穏やかな目で私を見た。
+  - before: 千代小姐用非常温柔的目光看着我。
+  - after: 千代用非常温柔的目光看着我。
+- `bookish_zhcn/reading_order/02_chapter1.md:4352` `sayo-to-chiyo-san`
+  - ja `4216`: 千代さんの言葉の意味は全く分からなかった。
+  - before: 千代小姐话里的意思我完全不明白。
+  - after: 千代话里的意思我完全不明白。
+- `bookish_zhcn/reading_order/02_chapter1.md:4361` `sayo-to-chiyo-san`
+  - ja `4225`: 千代さんの言葉、私に知って欲しいと言っていた。
+  - before: 千代小姐的话，说希望我知道。
+  - after: 千代的话，说希望我知道。
+- `bookish_zhcn/reading_order/02_chapter1.md:4787` `sayo-to-chiyo-san`
+  - ja `4642`: 千代さんに言われるがまま、アルバムを借りてはみたものの、何をどうしたらいいのかさっぱり分からない。
+  - before: 虽然听从千代小姐的话借来了相册，但完全不知道该怎么办才好。
+  - after: 虽然听从千代的话借来了相册，但完全不知道该怎么办才好。
+- `bookish_zhcn/reading_order/02_chapter1.md:4791` `sayo-to-chiyo-san`
+  - ja `4646`: 千代さんはあれから私の前に姿を現さなかった。
+  - before: 自那以后，千代小姐再也没在我面前出现过。
+  - after: 自那以后，千代再也没在我面前出现过。
+- `bookish_zhcn/reading_order/02_chapter1.md:4792` `sayo-to-chiyo-san`
+  - ja `4647`: また、桐島先輩とも会うこともなく、千代さんやともゑさんのことに関して私から訊ねることもなかった。
+  - before: 也没有再遇到桐岛前辈，我也没主动去问过关于千代小姐或巴小姐的事。
+  - after: 也没有再遇到桐岛前辈，我也没主动去问过关于千代或巴小姐的事。
+- `bookish_zhcn/reading_order/02_chapter1.md:4793` `sayo-to-chiyo-san`
+  - ja `4648`: このように考えていることが、既に千代さんの思うつぼだったのかもしれない。
+  - before: 说不定我这么想，已经正中千代小姐的下怀了。
+  - after: 说不定我这么想，已经正中千代的下怀了。
+- `bookish_zhcn/reading_order/02_chapter1.md:4811` `sayo-to-chiyo-san`
+  - ja `4665`: 彼女のことでもなく、千代さんのことでもなく、この物語に隠された言葉を。
+  - before: 既不是为了她的事，也不是为了千代小姐的事，而是为了这部故事中隐藏的话语。
+  - after: 既不是为了她的事，也不是为了千代的事，而是为了这部故事中隐藏的话语。
+- `bookish_zhcn/reading_order/02_chapter1.md:5447` `sayo-to-chiyo-san`
+  - ja `5283`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/02_chapter1.md:5456` `sayo-to-chiyo-san`
+  - ja `5292`: 少し冷たく聞こえてしまったのだろうか、千代さんは目に見えてしゅんとした。
+  - before: 可能是我的语气听起来有点冷淡，千代先生明显蔫了下来。
+  - after: 可能是我的语气听起来有点冷淡，千代明显蔫了下来。
+- `bookish_zhcn/reading_order/02_chapter1.md:5460` `sayo-to-chiyo-san`
+  - ja `5296`: 私には千代さんに対して幾つか疑問がある。
+  - before: 我对千代先生有几个疑问。
+  - after: 我对千代有几个疑问。
+- `bookish_zhcn/reading_order/02_chapter1.md:5462` `sayo-to-chiyo-san`
+  - ja `5298`: 最初はともゑさんのことかと思ったけれど、それにしては千代さんがともゑさんに関して知らなさすぎる。
+  - before: 一开始以为是关于巴女士的事，但千代先生对巴女士了解得太少了。
+  - after: 一开始以为是关于巴女士的事，但千代对巴女士了解得太少了。
+- `bookish_zhcn/reading_order/02_chapter1.md:5465` `sayo-to-chiyo-san`
+  - ja `5301`: もう一つは私の前に姿を現す千代さんがいつも突然だということ。
+  - before: 另一个是，千代先生出现在我面前时总是很突然。
+  - after: 另一个是，千代出现在我面前时总是很突然。
+- `bookish_zhcn/reading_order/02_chapter1.md:5467` `sayo-to-chiyo-san`
+  - ja `5303`: それなのに、千代さん自身はとても目立つ容姿をしている。
+  - before: 尽管如此，千代先生自己却长得很显眼。
+  - after: 尽管如此，千代自己却长得很显眼。
+- `bookish_zhcn/reading_order/02_chapter1.md:5471` `sayo-to-chiyo-san`
+  - ja `5307`: 私は千代さんが何を言っているのか分からず、顔を顰めた。
+  - before: 我不明白千代先生在说什么，皱起眉头。
+  - after: 我不明白千代在说什么，皱起眉头。
+- `bookish_zhcn/reading_order/02_chapter1.md:5472` `sayo-to-chiyo-san`
+  - ja `5308`: 千代さんは口を噤み、私を真っ直ぐに見つめている。
+  - before: 千代先生闭口不言，直直地盯着我。
+  - after: 千代闭口不言，直直地盯着我。
+- `bookish_zhcn/reading_order/02_chapter1.md:5490` `sayo-to-chiyo-san`
+  - ja `5326`: 私が千代さんに説明しようとすると、ともゑさんは私を憎々しげに睨んだ。
+  - before: 我正要向千代先生解释，巴女士憎恶地瞪着我。
+  - after: 我正要向千代解释，巴女士憎恶地瞪着我。
+- `bookish_zhcn/reading_order/02_chapter1.md:5493` `sayo-to-chiyo-san`
+  - ja `5329`: 遠野　紗夜: 「誰とって……ここにいる千代さんと……」
+  - before: 远野纱夜: 「和谁……和在这里的千代先生……」
+  - after: 远野纱夜: 「和谁……和在这里的千代……」
+- `bookish_zhcn/reading_order/02_chapter1.md:5494` `sayo-to-chiyo-san`
+  - ja `5330`: そう言って、千代さんの方を向く。
+  - before: 说着，我转向千代先生的方向。
+  - after: 说着，我转向千代的方向。
+- `bookish_zhcn/reading_order/02_chapter1.md:5776` `sayo-to-chiyo-san`
+  - ja `5610`: 正直、私は千代さんの言葉の意味があまり理解出来ないでいた。
+  - before: 老实说，我根本没怎么理解千代小姐话里的意思。
+  - after: 老实说，我根本没怎么理解千代话里的意思。
+- `bookish_zhcn/reading_order/02_chapter1.md:5781` `sayo-to-chiyo-san`
+  - ja `5615`: 遠野　紗夜: 「けれど、私はあの場で他に千代さんのような存在を見かけなかった」
+  - before: 远野纱夜: 「但是，我当时并没有在那个地方看到其他像千代小姐这样的存在。」
+  - after: 远野纱夜: 「但是，我当时并没有在那个地方看到其他像千代这样的存在。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5782` `sayo-to-chiyo-san`
+  - ja `5616`: 遠野　紗夜: 「というより、そもそも、私は千代さん以外にそういった存在を知らなかったわけなのですが……それは、一体どういうことなのでしょう？」
+  - before: 远野纱夜: 「不如说，我本来除了千代小姐之外，就不知道有那样的存在……这到底是怎么回事呢？」
+  - after: 远野纱夜: 「不如说，我本来除了千代之外，就不知道有那样的存在……这到底是怎么回事呢？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5817` `sayo-to-chiyo-san`
+  - ja `5651`: 遠野　紗夜: 「……それだと、千代さんが『幽霊』といった存在ではないということになりますけど」
+  - before: 远野纱夜: 「……但如果是这样，那千代小姐就不是那种‘幽灵’了吧。」
+  - after: 远野纱夜: 「……但如果是这样，那千代就不是那种‘幽灵’了吧。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5818` `sayo-to-chiyo-san`
+  - ja `5652`: 遠野　紗夜: 「千代さんは千代さんですよね？　桐島先輩の言うような、希薄な存在でも記憶でもない」
+  - before: 远野纱夜: 「千代小姐就是千代小姐吧？不是桐岛前辈说的那种稀薄的存在，也不是记忆。」
+  - after: 远野纱夜: 「千代就是千代吧？不是桐岛前辈说的那种稀薄的存在，也不是记忆。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5821` `sayo-to-chiyo-san`
+  - ja `5655`: 遠野　紗夜: 「千代さん自身の記憶……というものはあるのですか？」
+  - before: 远野纱夜: 「千代小姐有自己的记忆……吗？」
+  - after: 远野纱夜: 「千代有自己的记忆……吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5828` `sayo-to-chiyo-san`
+  - ja `5662`: 遠野　紗夜: 「はい。……蒼も千代さん達のように不思議な存在を認識出来ますし、それに……」
+  - before: 远野纱夜: 「嗯。……苍也能像千代小姐你们那样认知不可思议的存在，而且……」
+  - after: 远野纱夜: 「嗯。……苍也能像千代你们那样认知不可思议的存在，而且……」
+- `bookish_zhcn/reading_order/02_chapter1.md:5836` `sayo-to-chiyo-san`
+  - ja `5670`: 遠野　紗夜: 「ですから、もしかして蒼も千代さんと同じような存在なのではないかと思ったのですが……」
+  - before: 远野纱夜: 「所以我才想，或许苍和千代小姐是同样的存在……」
+  - after: 远野纱夜: 「所以我才想，或许苍和千代是同样的存在……」
+- `bookish_zhcn/reading_order/02_chapter1.md:5845` `sayo-to-chiyo-san`
+  - ja `5679`: 私は視線を元に戻し、もう一度千代さんを見た。私と目が合うと、千代さんはにっこりと微笑んだ。
+  - before: 我把视线转回原处，再次看向千代小姐。与我目光相遇，千代小姐露出了灿烂的微笑。
+  - after: 我把视线转回原处，再次看向千代。与我目光相遇，千代露出了灿烂的微笑。
+- `bookish_zhcn/reading_order/02_chapter1.md:5846` `sayo-to-chiyo-san`
+  - ja `5680`: 遠野　紗夜: 「不思議ですね。私達の目にはこんなにも千代さんの姿がはっきりと映るのに」
+  - before: 远野纱夜: 「真不可思议啊。明明在我们眼里，千代小姐的身影如此清晰。」
+  - after: 远野纱夜: 「真不可思议啊。明明在我们眼里，千代的身影如此清晰。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5853` `sayo-to-chiyo-san`
+  - ja `5687`: 千代さんはコップを持ち上げた。
+  - before: 千代小姐拿起了杯子。
+  - after: 千代拿起了杯子。
+- `bookish_zhcn/reading_order/02_chapter1.md:5862` `sayo-to-chiyo-san`
+  - ja `5696`: と、千代さんは突然立ち上がり、近くに座っていた見知らぬ男性の体に触れた。
+  - before: 话音刚落，千代小姐突然站起来，碰了附近坐着的一位陌生男性的身体。
+  - after: 话音刚落，千代突然站起来，碰了附近坐着的一位陌生男性的身体。
+- `bookish_zhcn/reading_order/02_chapter1.md:5863` `sayo-to-chiyo-san`
+  - ja `5697`: 彼が言った通り、千代さんの手は男性の肩を突き抜け、端から見れば男性の肩に千代さんの手が半分ほど飲み込まれているように見えた。
+  - before: 正如他所说，千代小姐的手穿过了那个男性的肩膀，从旁边看起来，就像千代小姐的手有一半埋进了那个男性的肩膀里。
+  - after: 正如他所说，千代的手穿过了那个男性的肩膀，从旁边看起来，就像千代的手有一半埋进了那个男性的肩膀里。
+- `bookish_zhcn/reading_order/02_chapter1.md:5865` `sayo-to-chiyo-san`
+  - ja `5699`: 千代さんは明るく笑う。
+  - before: 千代小姐爽朗地笑了。
+  - after: 千代爽朗地笑了。
+- `bookish_zhcn/reading_order/02_chapter1.md:5869` `sayo-to-chiyo-san`
+  - ja `5703`: 千代さんが人ならざる者だということは分かっているし、疑う気もない。
+  - before: 我知道千代小姐不是常人，也没有怀疑。
+  - after: 我知道千代不是常人，也没有怀疑。
+- `bookish_zhcn/reading_order/02_chapter1.md:5872` `sayo-to-chiyo-san`
+  - ja `5706`: カップを置き、再び顔を上げるといつの間にか席に戻っていた千代さんと目があった。
+  - before: 放下杯子，再次抬起头时，与不知什么时候已经回到座位上的千代小姐对上了目光。
+  - after: 放下杯子，再次抬起头时，与不知什么时候已经回到座位上的千代对上了目光。
+- `bookish_zhcn/reading_order/02_chapter1.md:5878` `sayo-to-chiyo-san`
+  - ja `5712`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/02_chapter1.md:5879` `sayo-to-chiyo-san`
+  - ja `5713`: 私はすっかり忘れていた千代さんの言葉を思い出した。
+  - before: 我想起了早已忘记的千代小姐的话。
+  - after: 我想起了早已忘记的千代的话。
+- `bookish_zhcn/reading_order/02_chapter1.md:5882` `sayo-to-chiyo-san`
+  - ja `5716`: 遠野　紗夜: 「一つ、質問させて下さい。何故、千代さんは私を今回のことに関わらせようとしたのですか？」
+  - before: 远野纱夜: 「请允许我问一个问题。为什么千代小姐要让我卷入这次的事件呢？」
+  - after: 远野纱夜: 「请允许我问一个问题。为什么千代要让我卷入这次的事件呢？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5883` `sayo-to-chiyo-san`
+  - ja `5717`: 遠野　紗夜: 「千代さんは、ともゑさんの知り合いだったわけでもないのですよね？」
+  - before: 远野纱夜: 「千代小姐和巴女士也并非熟识，对吧？」
+  - after: 远野纱夜: 「千代和巴女士也并非熟识，对吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5902` `sayo-to-chiyo-san`
+  - ja `5736`: 千代さんは目を僅かに潤ませ、声を震わせ、私に深々と頭を下げた。
+  - before: 千代小姐眼眶微微泛红，声音颤抖，深深地低下了头。
+  - after: 千代眼眶微微泛红，声音颤抖，深深地低下了头。
+- `bookish_zhcn/reading_order/02_chapter1.md:5907` `sayo-to-chiyo-san`
+  - ja `5741`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/02_chapter1.md:5917` `sayo-to-chiyo-san`
+  - ja `5751`: 千代さんの顔がばっと明るくなった。
+  - before: 千代小姐的脸一下子亮了起来。
+  - after: 千代的脸一下子亮了起来。
+- `bookish_zhcn/reading_order/02_chapter1.md:5926` `sayo-to-chiyo-san`
+  - ja `5760`: 遠野　紗夜: 「……千代さんも言ったでしょう？　私は好奇心が旺盛だと」
+  - before: 远野纱夜: 「……千代小姐你也说过吧？说我好奇心旺盛。」
+  - after: 远野纱夜: 「……千代你也说过吧？说我好奇心旺盛。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5959` `sayo-to-chiyo-san`
+  - ja `5793`: 遠野　紗夜: 「今度、また、宜しければお昼をご一緒しませんか？　千代さんも一緒に」
+  - before: 远野纱夜: 「下次，如果你方便的话，要不要再一起吃午饭？千代小姐也一起。」
+  - after: 远野纱夜: 「下次，如果你方便的话，要不要再一起吃午饭？千代也一起。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5968` `sayo-to-chiyo-san`
+  - ja `5802`: 遠野　紗夜: 「私と先輩と、貴方にしか見えないという千代さんという存在」
+  - before: 远野纱夜: 「我、前辈，以及那个只有您们才能看到的千代小姐。」
+  - after: 远野纱夜: 「我、前辈，以及那个只有您们才能看到的千代。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5971` `sayo-to-chiyo-san`
+  - ja `5805`: 遠野　紗夜: 「結局、千代さんの言葉の意味に、私は最後まで気付けませんでした」
+  - before: 远野纱夜: 「到头来，我直到最后也没能明白千代小姐那句话的含义。」
+  - after: 远野纱夜: 「到头来，我直到最后也没能明白千代那句话的含义。」
+- `bookish_zhcn/reading_order/03_chapter2.md:210` `hinase-senpai`
+  - ja `206`: 宮沢 夏帆: 「あれって、日生先輩じゃん？」
+  - before: 宫泽夏帆: 「那不是日生学长吗？」
+  - after: 宫泽夏帆: 「那不是日生前辈吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:216` `hinase-senpai`
+  - ja `212`: 制服こそ着てはいないが、その青年は確かに夏帆が言うように日生先輩本人だった。
+  - before: 虽然没穿校服，但那个青年确实如夏帆所说，正是日生学长本人。
+  - after: 虽然没穿校服，但那个青年确实如夏帆所说，正是日生前辈本人。
+- `bookish_zhcn/reading_order/03_chapter2.md:220` `hinase-senpai`
+  - ja `215`: 遠野　紗夜: 「日生先輩！！」
+  - before: 远野纱夜: 「日生学长！！」
+  - after: 远野纱夜: 「日生前辈！！」
+- `bookish_zhcn/reading_order/03_chapter2.md:222` `hinase-senpai`
+  - ja `217`: 遠くから声をかけるけれど、日生先輩には届かなかった様で、薔薇の花束を受け取るとさっと歩き出してしまった。
+  - before: 虽然远远地打了招呼，但似乎没有传到日生学长那边，他接过玫瑰花束后快步离开了。
+  - after: 虽然远远地打了招呼，但似乎没有传到日生前辈那边，他接过玫瑰花束后快步离开了。
+- `bookish_zhcn/reading_order/03_chapter2.md:597` `hikari-ojo`
+  - ja `576`: 日生 光: 「こんにちは、お嬢」
+  - before: 日生光: 「你好，大小姐」
+  - after: 日生光: 「你好，小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:598` `hinase-senpai`
+  - ja `577`: 日生先輩はすぐ近くの窓にもたれかかり、こちらに向かって手を振っていた。
+  - before: 日生学长倚在附近的窗边，朝我挥了挥手。
+  - after: 日生前辈倚在附近的窗边，朝我挥了挥手。
+- `bookish_zhcn/reading_order/03_chapter2.md:603` `hinase-senpai`
+  - ja `582`: 何となく気まずく思い、目を伏せると、日生先輩は意外な言葉を投げた。
+  - before: 我有点尴尬地垂下眼，日生学长却抛出一句意想不到的话。
+  - after: 我有点尴尬地垂下眼，日生前辈却抛出一句意想不到的话。
+- `bookish_zhcn/reading_order/03_chapter2.md:607` `hinase-senpai`
+  - ja `586`: 遠野　紗夜: 「日生先輩ならばそうすると？」
+  - before: 远野纱夜: 「如果是日生学长的话会这么做吗？」
+  - after: 远野纱夜: 「如果是日生前辈的话会这么做吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:611` `hikari-ojo`
+  - ja `590`: 日生 光: 「いやあ、流石お嬢。随分とおモテになりますね？」
+  - before: 日生光: 「哎呀，不愧是大小姐，真的很受欢迎呢？」
+  - after: 日生光: 「哎呀，不愧是小姐，真的很受欢迎呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:613` `hinase-senpai`
+  - ja `592`: 遠野　紗夜: 「……ご冗談を。私は日生先輩が言うような存在ではありません」
+  - before: 远野纱夜: 「……您说笑了。我可不像日生学长说的那样」
+  - after: 远野纱夜: 「……您说笑了。我可不像日生前辈说的那样」
+- `bookish_zhcn/reading_order/03_chapter2.md:621` `hinase-senpai`
+  - ja `600`: 私は日生先輩がするように少しだけ挑発的に言ってみせた。
+  - before: 我学着日生学长的样子，略带挑衅地说道。
+  - after: 我学着日生前辈的样子，略带挑衅地说道。
+- `bookish_zhcn/reading_order/03_chapter2.md:625` `hikari-ojo`
+  - ja `604`: 日生 光: 「いや、僕が誰かに花をプレゼントすることがお嬢は気になるのかなって」
+  - before: 日生光: 「不，我在想大小姐是不是在意我把花送给谁」
+  - after: 日生光: 「不，我在想小姐是不是在意我把花送给谁」
+- `bookish_zhcn/reading_order/03_chapter2.md:638` `hikari-ojo`
+  - ja `616`: 日生 光: 「おっと、時間か。お嬢も急がなきゃいけないんじゃないの？」
+  - before: 日生光: 「哎呀，到时间了。大小姐你是不是也该抓紧了？」
+  - after: 日生光: 「哎呀，到时间了。小姐你是不是也该抓紧了？」
+- `bookish_zhcn/reading_order/03_chapter2.md:640` `hinase-senpai`
+  - ja `618`: 教室に戻らなければと急ぐ私を日生先輩は呼び止める。
+  - before: 我正急着回教室，日生学长叫住了我。
+  - after: 我正急着回教室，日生前辈叫住了我。
+- `bookish_zhcn/reading_order/03_chapter2.md:641` `hikari-ojo`
+  - ja `619`: 日生 光: 「……お嬢！」
+  - before: 日生光: 「……大小姐！」
+  - after: 日生光: 「……小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:646` `hinase-senpai`
+  - ja `624`: 口元に指をやり、笑いを隠す日生先輩。
+  - before: 日生学长用手指掩住嘴角，藏着笑意。
+  - after: 日生前辈用手指掩住嘴角，藏着笑意。
+- `bookish_zhcn/reading_order/03_chapter2.md:735` `hikari-ojo`
+  - ja `707`: 日生 光: 「こんにちは、お嬢」
+  - before: 日生光: 「你好，大小姐」
+  - after: 日生光: 「你好，小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:736` `hinase-senpai`
+  - ja `708`: 日生先輩はすぐ近くの窓にもたれかかり、こちらに向かって手を振っていた。
+  - before: 日生学长倚在附近的窗边，朝我挥了挥手。
+  - after: 日生前辈倚在附近的窗边，朝我挥了挥手。
+- `bookish_zhcn/reading_order/03_chapter2.md:741` `hinase-senpai`
+  - ja `713`: 何となく気まずく思い、目を伏せると、日生先輩は意外な言葉を投げた。
+  - before: 我有点尴尬地垂下眼，日生学长却抛出一句意想不到的话。
+  - after: 我有点尴尬地垂下眼，日生前辈却抛出一句意想不到的话。
+- `bookish_zhcn/reading_order/03_chapter2.md:745` `hinase-senpai`
+  - ja `717`: 遠野　紗夜: 「日生先輩ならばそうすると？」
+  - before: 远野纱夜: 「如果是日生学长的话会这么做吗？」
+  - after: 远野纱夜: 「如果是日生前辈的话会这么做吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:749` `hikari-ojo`
+  - ja `721`: 日生 光: 「いやあ、流石お嬢。随分とおモテになりますね？」
+  - before: 日生光: 「哎呀，不愧是大小姐，真的很受欢迎呢？」
+  - after: 日生光: 「哎呀，不愧是小姐，真的很受欢迎呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:751` `hinase-senpai`
+  - ja `723`: 遠野　紗夜: 「……ご冗談を。私は日生先輩が言うような存在ではありません」
+  - before: 远野纱夜: 「……您说笑了。我可不像日生学长说的那样」
+  - after: 远野纱夜: 「……您说笑了。我可不像日生前辈说的那样」
+- `bookish_zhcn/reading_order/03_chapter2.md:759` `hinase-senpai`
+  - ja `731`: 私は日生先輩がするように少しだけ挑発的に言ってみせた。
+  - before: 我学着日生学长的样子，略带挑衅地说道。
+  - after: 我学着日生前辈的样子，略带挑衅地说道。
+- `bookish_zhcn/reading_order/03_chapter2.md:763` `hikari-ojo`
+  - ja `735`: 日生 光: 「いや、僕が誰かに花をプレゼントすることがお嬢は気になるのかなって」
+  - before: 日生光: 「不，我在想大小姐是不是在意我把花送给谁」
+  - after: 日生光: 「不，我在想小姐是不是在意我把花送给谁」
+- `bookish_zhcn/reading_order/03_chapter2.md:776` `hikari-ojo`
+  - ja `747`: 日生 光: 「おっと、時間か。お嬢も急がなきゃいけないんじゃないの？」
+  - before: 日生光: 「哎呀，到时间了。大小姐你是不是也该抓紧了？」
+  - after: 日生光: 「哎呀，到时间了。小姐你是不是也该抓紧了？」
+- `bookish_zhcn/reading_order/03_chapter2.md:778` `hinase-senpai`
+  - ja `749`: 教室に戻らなければと急ぐ私を日生先輩は呼び止める。
+  - before: 我正急着回教室，日生学长叫住了我。
+  - after: 我正急着回教室，日生前辈叫住了我。
+- `bookish_zhcn/reading_order/03_chapter2.md:779` `hikari-ojo`
+  - ja `750`: 日生 光: 「……お嬢！」
+  - before: 日生光: 「……大小姐！」
+  - after: 日生光: 「……小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:784` `hinase-senpai`
+  - ja `755`: 口元に指をやり、笑いを隠す日生先輩。
+  - before: 日生学长用手指掩住嘴角，藏着笑意。
+  - after: 日生前辈用手指掩住嘴角，藏着笑意。
+- `bookish_zhcn/reading_order/03_chapter2.md:873` `hikari-ojo`
+  - ja `838`: 日生 光: 「こんにちは、お嬢」
+  - before: 日生光: 「你好，大小姐」
+  - after: 日生光: 「你好，小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:874` `hinase-senpai`
+  - ja `839`: 日生先輩はすぐ近くの窓にもたれかかり、こちらに向かって手を振っていた。
+  - before: 日生学长倚在附近的窗边，朝我挥了挥手。
+  - after: 日生前辈倚在附近的窗边，朝我挥了挥手。
+- `bookish_zhcn/reading_order/03_chapter2.md:879` `hinase-senpai`
+  - ja `844`: 何となく気まずく思い、目を伏せると、日生先輩は意外な言葉を投げた。
+  - before: 我有点尴尬地垂下眼，日生学长却抛出一句意想不到的话。
+  - after: 我有点尴尬地垂下眼，日生前辈却抛出一句意想不到的话。
+- `bookish_zhcn/reading_order/03_chapter2.md:883` `hinase-senpai`
+  - ja `848`: 遠野　紗夜: 「日生先輩ならばそうすると？」
+  - before: 远野纱夜: 「如果是日生学长的话会这么做吗？」
+  - after: 远野纱夜: 「如果是日生前辈的话会这么做吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:887` `hikari-ojo`
+  - ja `852`: 日生 光: 「いやあ、流石お嬢。随分とおモテになりますね？」
+  - before: 日生光: 「哎呀，不愧是大小姐，真的很受欢迎呢？」
+  - after: 日生光: 「哎呀，不愧是小姐，真的很受欢迎呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:889` `hinase-senpai`
+  - ja `854`: 遠野　紗夜: 「……ご冗談を。私は日生先輩が言うような存在ではありません」
+  - before: 远野纱夜: 「……您说笑了。我可不像日生学长说的那样」
+  - after: 远野纱夜: 「……您说笑了。我可不像日生前辈说的那样」
+- `bookish_zhcn/reading_order/03_chapter2.md:897` `hinase-senpai`
+  - ja `862`: 私は日生先輩がするように少しだけ挑発的に言ってみせた。
+  - before: 我学着日生学长的样子，略带挑衅地说道。
+  - after: 我学着日生前辈的样子，略带挑衅地说道。
+- `bookish_zhcn/reading_order/03_chapter2.md:901` `hikari-ojo`
+  - ja `866`: 日生 光: 「いや、僕が誰かに花をプレゼントすることがお嬢は気になるのかなって」
+  - before: 日生光: 「不，我在想大小姐是不是在意我把花送给谁」
+  - after: 日生光: 「不，我在想小姐是不是在意我把花送给谁」
+- `bookish_zhcn/reading_order/03_chapter2.md:914` `hikari-ojo`
+  - ja `878`: 日生 光: 「おっと、時間か。お嬢も急がなきゃいけないんじゃないの？」
+  - before: 日生光: 「哎呀，到时间了。大小姐你是不是也该抓紧了？」
+  - after: 日生光: 「哎呀，到时间了。小姐你是不是也该抓紧了？」
+- `bookish_zhcn/reading_order/03_chapter2.md:916` `hinase-senpai`
+  - ja `880`: 教室に戻らなければと急ぐ私を日生先輩は呼び止める。
+  - before: 我正急着回教室，日生学长叫住了我。
+  - after: 我正急着回教室，日生前辈叫住了我。
+- `bookish_zhcn/reading_order/03_chapter2.md:917` `hikari-ojo`
+  - ja `881`: 日生 光: 「……お嬢！」
+  - before: 日生光: 「……大小姐！」
+  - after: 日生光: 「……小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:922` `hinase-senpai`
+  - ja `886`: 口元に指をやり、笑いを隠す日生先輩。
+  - before: 日生学长用手指掩住嘴角，藏着笑意。
+  - after: 日生前辈用手指掩住嘴角，藏着笑意。
+- `bookish_zhcn/reading_order/03_chapter2.md:946` `hikari-ojo`
+  - ja `908`: 日生 光: 「……お嬢！」
+  - before: 日生光: 「……大小姐！」
+  - after: 日生光: 「……小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:965` `hikari-ojo`
+  - ja `927`: 日生 光: 「いや、でもお嬢が欲しいっていうなら、あげてもいいんだけど？」
+  - before: 日生光: 「不过，如果大小姐想要的话，给你也不是不行哦？」
+  - after: 日生光: 「不过，如果小姐想要的话，给你也不是不行哦？」
+- `bookish_zhcn/reading_order/03_chapter2.md:968` `hikari-ojo`
+  - ja `930`: 日生 光: 「お嬢は特別な相手じゃないの？」
+  - before: 日生光: 「大小姐不是特别的对象吗？」
+  - after: 日生光: 「小姐不是特别的对象吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:994` `hikari-ojo`
+  - ja `956`: 日生 光: 「僕の会いたい人はね、いないんだよ。お嬢」
+  - before: 日生光: 「我想见的人啊，不在了哦。大小姐」
+  - after: 日生光: 「我想见的人啊，不在了哦。小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:1053` `hinase-senpai`
+  - ja `1013`: 日生先輩も続いて私の隣に並ぶ。
+  - before: 日生学长也跟着站到了我旁边。
+  - after: 日生前辈也跟着站到了我旁边。
+- `bookish_zhcn/reading_order/03_chapter2.md:1057` `hinase-senpai`
+  - ja `1017`: 日生先輩は私が聞こうか迷っていたことをさらりと言ってのけた。
+  - before: 日生学长轻描淡写地问出了我正犹豫要不要问的事。
+  - after: 日生前辈轻描淡写地问出了我正犹豫要不要问的事。
+- `bookish_zhcn/reading_order/03_chapter2.md:1073` `hinase-senpai`
+  - ja `1033`: 日生先輩は苦い顔をして笑う。
+  - before: 日生学长苦笑着。
+  - after: 日生前辈苦笑着。
+- `bookish_zhcn/reading_order/03_chapter2.md:1163` `hinase-senpai`
+  - ja `1118`: 次にどう反論しようか、色々と思い浮かべていると、日生先輩が私に耳打ちした。
+  - before: 我正在想接下来要怎么反驳，这时日生学长凑过来对我耳语。
+  - after: 我正在想接下来要怎么反驳，这时日生前辈凑过来对我耳语。
+- `bookish_zhcn/reading_order/03_chapter2.md:1164` `hikari-ojo`
+  - ja `1119`: 日生 光: 「……お嬢のお兄さんに会わせるわけにはいかないの？」
+  - before: 日生光: 「……不能让你见见大小姐的哥哥吗？」
+  - after: 日生光: 「……不能让你见见小姐的哥哥吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1178` `hikari-ojo`
+  - ja `1133`: 日生 光: 「だって。どうする？　お嬢」
+  - before: 日生光: 「他就这么说了。怎么办？大小姐。」
+  - after: 日生光: 「他就这么说了。怎么办？小姐。」
+- `bookish_zhcn/reading_order/03_chapter2.md:1238` `hikari-ojo`
+  - ja `1188`: 日生 光: 「だって。どうする？　お嬢」
+  - before: 日生光: 「他就这么说了。怎么办？大小姐。」
+  - after: 日生光: 「他就这么说了。怎么办？小姐。」
+- `bookish_zhcn/reading_order/03_chapter2.md:1389` `hikari-ojo`
+  - ja `1335`: 日生 光: 「……お嬢？」
+  - before: 日生光: 「……大小姐？」
+  - after: 日生光: 「……小姐？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1392` `hinase-senpai`
+  - ja `1338`: 気が付くと、日生先輩が不思議そうにこちらを見ていた。
+  - before: 回过神来，发现日生学长正一脸不可思议地看着我。
+  - after: 回过神来，发现日生前辈正一脸不可思议地看着我。
+- `bookish_zhcn/reading_order/03_chapter2.md:1400` `hinase-senpai`
+  - ja `1346`: 日生先輩は私の肩を抱き、慰めの言葉をかける。
+  - before: 日生学长搂住我的肩膀，安慰了我几句。
+  - after: 日生前辈搂住我的肩膀，安慰了我几句。
+- `bookish_zhcn/reading_order/03_chapter2.md:1410` `hikari-ojo`
+  - ja `1356`: 日生 光: 「そうだね。お兄さんがいないのなら、お嬢がいう通り後日来るか、それとも帰ってくるのを待つかした方が良いんじゃない？」
+  - before: 日生光: 「是啊。既然哥哥不在，按照大小姐说的，要么改天再来，要么等他回来，这样不是更好吗？」
+  - after: 日生光: 「是啊。既然哥哥不在，按照小姐说的，要么改天再来，要么等他回来，这样不是更好吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1411` `hinase-senpai`
+  - ja `1357`: 微妙な空気を断ち切るような蒼の発言に、それに合わせる日生先輩。
+  - before: 苍的发言像是要打破这微妙的氛围，日生学长也附和着他。
+  - after: 苍的发言像是要打破这微妙的氛围，日生前辈也附和着他。
+- `bookish_zhcn/reading_order/03_chapter2.md:1478` `hikari-ojo`
+  - ja `1422`: 日生 光: 「そうだね。僕もどっちでも良いし、お嬢が決めれば良いよ」
+  - before: 日生光: 「是啊。我也无所谓，大小姐你决定就好」
+  - after: 日生光: 「是啊。我也无所谓，小姐你决定就好」
+- `bookish_zhcn/reading_order/03_chapter2.md:1665` `hikari-ojo`
+  - ja `1603`: 日生 光: 「お嬢、疲れてない？　大丈夫？」
+  - before: 日生光: 「大小姐，累了吗？还好吗？」
+  - after: 日生光: 「小姐，累了吗？还好吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1680` `hikari-ojo`
+  - ja `1618`: 日生 光: 「だって、今、お嬢と二人っきりでいれてるだろう？」
+  - before: 日生光: 「因为，现在我不是能和大小姐独处吗？」
+  - after: 日生光: 「因为，现在我不是能和小姐独处吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1698` `hikari-ojo`
+  - ja `1635`: 日生 光: 「それは、お嬢が僕を選んでくれたからじゃない？」
+  - before: 日生光: 「那不是因为大小姐选择了我吗？」
+  - after: 日生光: 「那不是因为小姐选择了我吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1724` `hikari-ojo`
+  - ja `1661`: 日生 光: 「そんなことないよ。確かに疑問は晴れないかもしれないけど、お嬢が少しでも僕のことに興味があるということが分かるわけだし」
+  - before: 日生光: 「没有这种事。虽然确实可能解不开疑问，但至少能知道大小姐对我有点兴趣啊。」
+  - after: 日生光: 「没有这种事。虽然确实可能解不开疑问，但至少能知道小姐对我有点兴趣啊。」
+- `bookish_zhcn/reading_order/03_chapter2.md:1726` `hikari-ojo`
+  - ja `1663`: 日生 光: 「大抵の交友関係ってそういうものだと思うし、僕としては、そろそろお嬢とはそういう関係になっても良いと思うんだけど？」
+  - before: 日生光: 「我觉得大部分的交往关系都是这样，作为我来说，我觉得差不多可以和大小姐发展成为那样的关系了，你觉得呢？」
+  - after: 日生光: 「我觉得大部分的交往关系都是这样，作为我来说，我觉得差不多可以和小姐发展成为那样的关系了，你觉得呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1750` `hikari-ojo`
+  - ja `1687`: 日生 光: 『僕の会いたい人はね、いないんだよ。お嬢』
+  - before: 日生光: 「我想见的人啊，不在了哦。大小姐」
+  - after: 日生光: 「我想见的人啊，不在了哦。小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:1776` `hikari-ojo`
+  - ja `1713`: 日生 光: 「ここに残ったんじゃ意味がない。何の為にお嬢についていったと思ってるの？」
+  - before: 日生光: 「留在这里没有意义。你以为我是为了什么才跟着大小姐的？」
+  - after: 日生光: 「留在这里没有意义。你以为我是为了什么才跟着小姐的？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1779` `hikari-ojo`
+  - ja `1716`: 日生 光: 「どうして、僕がお嬢についてきたのかって聞いたよね？」
+  - before: 日生光: 「你问过我为什么跟着大小姐，对吧？」
+  - after: 日生光: 「你问过我为什么跟着小姐，对吧？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1784` `hikari-ojo`
+  - ja `1721`: 日生 光: 「……お嬢は迷惑？」
+  - before: 日生光: 「……大小姐觉得麻烦吗？」
+  - after: 日生光: 「……小姐觉得麻烦吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1796` `hikari-ojo`
+  - ja `1729`: 日生 光: 「お嬢、疲れてない？　大丈夫？」
+  - before: 日生光: 「大小姐，累了吗？还好吗？」
+  - after: 日生光: 「小姐，累了吗？还好吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1811` `hikari-ojo`
+  - ja `1744`: 日生 光: 「だって、今、お嬢と二人っきりでいれてるだろう？」
+  - before: 日生光: 「因为，现在我不是能和大小姐独处吗？」
+  - after: 日生光: 「因为，现在我不是能和小姐独处吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1828` `hikari-ojo`
+  - ja `1760`: 日生 光: 「それは、お嬢が僕を選んでくれたからじゃない？」
+  - before: 日生光: 「那不是因为大小姐选择了我吗？」
+  - after: 日生光: 「那不是因为小姐选择了我吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1854` `hikari-ojo`
+  - ja `1786`: 日生 光: 「そんなことないよ。確かに疑問は晴れないかもしれないけど、お嬢が少しでも僕のことに興味があるということが分かるわけだし」
+  - before: 日生光: 「没有这种事。虽然确实可能解不开疑问，但至少能知道大小姐对我有点兴趣啊。」
+  - after: 日生光: 「没有这种事。虽然确实可能解不开疑问，但至少能知道小姐对我有点兴趣啊。」
+- `bookish_zhcn/reading_order/03_chapter2.md:1856` `hikari-ojo`
+  - ja `1788`: 日生 光: 「大抵の交友関係ってそういうものだと思うし、僕としては、そろそろお嬢とはそういう関係になっても良いと思うんだけど？」
+  - before: 日生光: 「我觉得大部分的交往关系都是这样，作为我来说，我觉得差不多可以和大小姐发展成为那样的关系了，你觉得呢？」
+  - after: 日生光: 「我觉得大部分的交往关系都是这样，作为我来说，我觉得差不多可以和小姐发展成为那样的关系了，你觉得呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1880` `hikari-ojo`
+  - ja `1812`: 日生 光: 『僕の会いたい人はね、いないんだよ。お嬢』
+  - before: 日生光: 「我想见的人啊，不在了哦。大小姐」
+  - after: 日生光: 「我想见的人啊，不在了哦。小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:1906` `hikari-ojo`
+  - ja `1838`: 日生 光: 「ここに残ったんじゃ意味がない。何の為にお嬢についていったと思ってるの？」
+  - before: 日生光: 「留在这里没有意义。你以为我是为了什么才跟着大小姐的？」
+  - after: 日生光: 「留在这里没有意义。你以为我是为了什么才跟着小姐的？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1909` `hikari-ojo`
+  - ja `1841`: 日生 光: 「どうして、僕がお嬢についてきたのかって聞いたよね？」
+  - before: 日生光: 「你问过我为什么跟着大小姐，对吧？」
+  - after: 日生光: 「你问过我为什么跟着小姐，对吧？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1914` `hikari-ojo`
+  - ja `1846`: 日生 光: 「……お嬢は迷惑？」
+  - before: 日生光: 「……大小姐觉得麻烦吗？」
+  - after: 日生光: 「……小姐觉得麻烦吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:2118` `hikari-ojo`
+  - ja `2043`: 日生 光: 「ああ、置いてきたんですよ。ね？　お嬢？」
+  - before: 日生光: 「啊，我放起来了。对吧？大小姐？」
+  - after: 日生光: 「啊，我放起来了。对吧？小姐？」
+- `bookish_zhcn/reading_order/03_chapter2.md:2162` `hikari-ojo`
+  - ja `2085`: 日生 光: 「お嬢ってさ」
+  - before: 日生光: 「大小姐你啊——」
+  - after: 日生光: 「小姐你啊——」
+- `bookish_zhcn/reading_order/03_chapter2.md:2168` `sayo-to-chiyo-san`
+  - ja `2091`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/03_chapter2.md:2173` `sayo-to-chiyo-san`
+  - ja `2096`: 千代さんの姿は普通の人には見えない。
+  - before: 千代小姐的身影，普通人看不见。
+  - after: 千代的身影，普通人看不见。
+- `bookish_zhcn/reading_order/03_chapter2.md:2180` `sayo-to-chiyo-san`
+  - ja `2103`: 千代さんが申し訳なげに謝る。
+  - before: 千代小姐抱歉地道歉。
+  - after: 千代抱歉地道歉。
+- `bookish_zhcn/reading_order/03_chapter2.md:2182` `sayo-to-chiyo-san`
+  - ja `2105`: 遠野　紗夜: 「……千代さんもいらしてたのですね」
+  - before: 远野纱夜: 「……千代小姐也来了呢」
+  - after: 远野纱夜: 「……千代也来了呢」
+- `bookish_zhcn/reading_order/03_chapter2.md:2319` `sayo-to-chiyo-san`
+  - ja `2236`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/03_chapter2.md:2324` `sayo-to-chiyo-san`
+  - ja `2241`: 千代さんの姿は普通の人には見えない。
+  - before: 千代小姐的身影，普通人看不见。
+  - after: 千代的身影，普通人看不见。
+- `bookish_zhcn/reading_order/03_chapter2.md:2331` `sayo-to-chiyo-san`
+  - ja `2248`: 千代さんが申し訳なげに謝る。
+  - before: 千代小姐抱歉地道歉。
+  - after: 千代抱歉地道歉。
+- `bookish_zhcn/reading_order/03_chapter2.md:2333` `sayo-to-chiyo-san`
+  - ja `2250`: 遠野　紗夜: 「……千代さんもいらしてたのですね」
+  - before: 远野纱夜: 「……千代小姐也来了呢」
+  - after: 远野纱夜: 「……千代也来了呢」
+- `bookish_zhcn/reading_order/03_chapter2.md:2815` `hikari-ojo`
+  - ja `2720`: 日生 光: 「そういえば、お嬢」
+  - before: 日生光: 「说起来，大小姐」
+  - after: 日生光: 「说起来，小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:2851` `hikari-ojo`
+  - ja `2752`: 日生 光: 「お嬢、大丈夫？」
+  - before: 日生光: 「大小姐，你没事吧？」
+  - after: 日生光: 「小姐，你没事吧？」
+- `bookish_zhcn/reading_order/03_chapter2.md:2952` `chiyo-ojousan`
+  - ja `2853`: 千代: 「流石、お嬢さんです！」
+  - before: 千代: 「不愧是大小姐！」
+  - after: 千代: 「不愧是小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:3140` `hikari-ojo`
+  - ja `3036`: 日生 光: 「お嬢、大丈夫？」
+  - before: 日生光: 「大小姐，你没事吧？」
+  - after: 日生光: 「小姐，你没事吧？」
+- `bookish_zhcn/reading_order/03_chapter2.md:3241` `chiyo-ojousan`
+  - ja `3137`: 千代: 「流石、お嬢さんです！」
+  - before: 千代: 「不愧是大小姐！」
+  - after: 千代: 「不愧是小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:3320` `hikari-ojo`
+  - ja `3215`: 日生 光: 「……お嬢、一応聞くけどさ。お嬢と蒼さんって本当に付き合ってないの？」
+  - before: 日生光: 「……大小姐，我姑且问一下。你跟苍同学真的没在交往吗？」
+  - after: 日生光: 「……小姐，我姑且问一下。你跟苍同学真的没在交往吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:3328` `hikari-ojo`
+  - ja `3223`: 日生 光: 「というわけで、お嬢。僕にもやって欲しいな」
+  - before: 日生光: 「……所以啊，大小姐。我也想要你帮我做。」
+  - after: 日生光: 「……所以啊，小姐。我也想要你帮我做。」
+- `bookish_zhcn/reading_order/03_chapter2.md:4058` `sayo-to-chiyo-san`
+  - ja `3938`: 私も蒼も日生先輩も千代さんも、この場にいる誰もが彼の様子を黙って見守っていた。
+  - before: 我、苍、日生前辈、千代小姐，在场的所有人都默默地看着他。
+  - after: 我、苍、日生前辈、千代，在场的所有人都默默地看着他。
+- `bookish_zhcn/reading_order/03_chapter2.md:4353` `sayo-to-chiyo-san`
+  - ja `4231`: 千代さんが桐島先輩の横に寄り添いながら、呆れた口調で言う。
+  - before: 千代小姐凑到桐岛前辈身边，用无奈的语气说道。
+  - after: 千代凑到桐岛前辈身边，用无奈的语气说道。
+- `bookish_zhcn/reading_order/03_chapter2.md:4357` `sayo-to-chiyo-san`
+  - ja `4235`: 私と蒼と桐島先輩だけになったところで、千代さんは今まで黙っていた分を晴らすように喋り捲る。
+  - before: 只剩下我、苍和桐岛前辈时，千代小姐就像要把之前憋着的话全说出来一样，不停地说着。
+  - after: 只剩下我、苍和桐岛前辈时，千代就像要把之前憋着的话全说出来一样，不停地说着。
+- `bookish_zhcn/reading_order/03_chapter2.md:4358` `chiyo-ojousan`
+  - ja `4236`: 千代: 「お嬢さん、お嬢さん」
+  - before: 千代: 「大小姐、大小姐」
+  - after: 千代: 「小姐、小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:4359` `sayo-to-chiyo-san`
+  - ja `4237`: 遠野　紗夜: 「はい、何でしょう。千代さん」
+  - before: 远野纱夜: 「嗯，怎么了？千代小姐」
+  - after: 远野纱夜: 「嗯，怎么了？千代」
+- `bookish_zhcn/reading_order/03_chapter2.md:4360` `chiyo-ojousan`
+  - ja `4238`: 千代: 「お嬢さんって普段どんなことをしているんですか？」
+  - before: 千代: 「大小姐平时都做些什么呢？」
+  - after: 千代: 「小姐平时都做些什么呢？」
+- `bookish_zhcn/reading_order/03_chapter2.md:4370` `chiyo-ojousan`
+  - ja `4248`: 千代: 「あ……すみません！　お嬢さん」
+  - before: 千代: 「啊……对不起！大小姐」
+  - after: 千代: 「啊……对不起！小姐」
+- `bookish_zhcn/reading_order/03_chapter2.md:4371` `sayo-to-chiyo-san`
+  - ja `4249`: 謝る千代さんに対し、私は微笑む。
+  - before: 我对着道歉的千代小姐微微笑了笑。
+  - after: 我对着道歉的千代微微笑了笑。
+- `bookish_zhcn/reading_order/03_chapter2.md:4376` `chiyo-ojousan`
+  - ja `4254`: 千代: 「それは楽しそうですね！　お嬢さん！」
+  - before: 千代: 「听起来真有趣呢！大小姐！」
+  - after: 千代: 「听起来真有趣呢！小姐！」
+- `bookish_zhcn/reading_order/03_chapter2.md:4466` `chiyo-ojousan`
+  - ja `4344`: 千代: 「……お嬢さんって、お兄さんの前だといつもと雰囲気が違うんですね」
+  - before: 千代: 「……大小姐在哥哥面前，气场完全不一样呢」
+  - after: 千代: 「……小姐在哥哥面前，气场完全不一样呢」
+- `bookish_zhcn/reading_order/03_chapter2.md:4578` `sayo-to-chiyo-san`
+  - ja `4456`: 桐島先輩が千代さんを見て、顔を顰める。
+  - before: 桐岛前辈看着千代小姐，皱起了眉头。
+  - after: 桐岛前辈看着千代，皱起了眉头。
+- `bookish_zhcn/reading_order/03_chapter2.md:4580` `sayo-to-chiyo-san`
+  - ja `4458`: けれど、兄には千代さんの声が聞こえてるはずはなく。
+  - before: 但，哥哥不可能听到千代小姐的声音。
+  - after: 但，哥哥不可能听到千代的声音。
+- `bookish_zhcn/reading_order/04_chapter3.md:177` `hikari-ojo`
+  - ja `171`: 日生 光: 「ねえ、お嬢いるー？」
+  - before: 日生光: 「喂，大小姐在吗——？」
+  - after: 日生光: 「喂，小姐在吗——？」
+- `bookish_zhcn/reading_order/04_chapter3.md:298` `hikari-ojo`
+  - ja `290`: 日生 光: 「お嬢はどう？」
+  - before: 日生光: 「大小姐你呢？」
+  - after: 日生光: 「小姐你呢？」
+- `bookish_zhcn/reading_order/04_chapter3.md:303` `hikari-ojo`
+  - ja `295`: 日生 光: 「と、いうことはお嬢も参加するってことか」
+  - before: 日生光: 「这么说，大小姐也要参加喽」
+  - after: 日生光: 「这么说，小姐也要参加喽」
+- `bookish_zhcn/reading_order/04_chapter3.md:305` `hikari-ojo`
+  - ja `297`: 日生 光: 「そうだっけ。じゃあ、一応もう一度聞くけど、お嬢も参加するよね？」
+  - before: 日生光: 「是吗。那我再问一遍好了，大小姐也要参加的，对吧？」
+  - after: 日生光: 「是吗。那我再问一遍好了，小姐也要参加的，对吧？」
+- `bookish_zhcn/reading_order/04_chapter3.md:320` `hikari-ojo`
+  - ja `311`: 日生 光: 「僕はお嬢の作った料理を食べたこともない。だから、お嬢が言っている通り、料理の腕前に自信がないかどうか嘘か本当か分からない」
+  - before: 日生光: 「我没有吃过大小姐做的菜。所以，就像大小姐说的，你对自己的厨艺有没有信心，是真是假，我也不知道」
+  - after: 日生光: 「我没有吃过小姐做的菜。所以，就像小姐说的，你对自己的厨艺有没有信心，是真是假，我也不知道」
+- `bookish_zhcn/reading_order/04_chapter3.md:336` `hikari-ojo`
+  - ja `327`: 日生 光: 「で、勿論お嬢も作ってきてくれるよね？」
+  - before: 日生光: 「那么，大小姐也会做的吧？」
+  - after: 日生光: 「那么，小姐也会做的吧？」
+- `bookish_zhcn/reading_order/04_chapter3.md:489` `sayo-to-chiyo-san`
+  - ja `468`: 遠野　紗夜: 「！　千代さん！」
+  - before: 远野纱夜: 「！千代小姐！」
+  - after: 远野纱夜: 「！千代！」
+- `bookish_zhcn/reading_order/04_chapter3.md:491` `sayo-to-chiyo-san`
+  - ja `470`: 千代さんは元気よく挨拶をする。
+  - before: 千代小姐精神饱满地打了个招呼。
+  - after: 千代精神饱满地打了个招呼。
+- `bookish_zhcn/reading_order/04_chapter3.md:501` `sayo-to-chiyo-san`
+  - ja `480`: きょとんとする私に、千代さんはすまなそうに頬を掻きながらわけを説明した。
+  - before: 看我一脸茫然，千代小姐有些不好意思地挠了挠脸颊，说明了缘由。
+  - after: 看我一脸茫然，千代有些不好意思地挠了挠脸颊，说明了缘由。
+- `bookish_zhcn/reading_order/04_chapter3.md:504` `sayo-to-chiyo-san`
+  - ja `483`: そういえば、昼食時、会話に参加こそしていなかったけれど千代さんもあの場にいたのだ。
+  - before: 说起来，午饭时间时，千代小姐虽然没参与对话，但她也当时在场。
+  - after: 说起来，午饭时间时，千代虽然没参与对话，但她也当时在场。
+- `bookish_zhcn/reading_order/04_chapter3.md:508` `sayo-to-chiyo-san`
+  - ja `487`: 千代さんはそう言って私に頭を下げる。
+  - before: 千代小姐说着，朝我低下了头。
+  - after: 千代说着，朝我低下了头。
+- `bookish_zhcn/reading_order/04_chapter3.md:509` `sayo-to-chiyo-san`
+  - ja `488`: 一瞬、周りの目を本気で気にしたけれど、千代さんには関係のないことだった。
+  - before: 一瞬间，我真的很在意周围人的目光，但千代小姐似乎毫不在意。
+  - after: 一瞬间，我真的很在意周围人的目光，但千代似乎毫不在意。
+- `bookish_zhcn/reading_order/04_chapter3.md:511` `sayo-to-chiyo-san`
+  - ja `490`: 千代さんはゆっくりと頭を上げ、私の顔を窺う。
+  - before: 千代小姐慢慢抬起头，窥视着我的表情。
+  - after: 千代慢慢抬起头，窥视着我的表情。
+- `bookish_zhcn/reading_order/04_chapter3.md:514` `sayo-to-chiyo-san`
+  - ja `493`: 遠野　紗夜: 「千代さん、ありがとうございます」
+  - before: 远野纱夜: 「千代小姐，谢谢你」
+  - after: 远野纱夜: 「千代，谢谢你」
+- `bookish_zhcn/reading_order/04_chapter3.md:516` `sayo-to-chiyo-san`
+  - ja `495`: 遠野　紗夜: 「助かります。ずっと、一人で悩んでいても全然答えが出せなくて。千代さんが一緒なら楽しく考えることが出来そうですね」
+  - before: 远野纱夜: 「帮大忙了。我一个人再怎么烦恼也完全想不出答案。有千代小姐在的话，感觉能愉快地思考呢」
+  - after: 远野纱夜: 「帮大忙了。我一个人再怎么烦恼也完全想不出答案。有千代在的话，感觉能愉快地思考呢」
+- `bookish_zhcn/reading_order/04_chapter3.md:525` `sayo-to-chiyo-san`
+  - ja `504`: 私は改めて自分から千代さんに頼む。
+  - before: 我重新向千代小姐请求道。
+  - after: 我重新向千代请求道。
+- `bookish_zhcn/reading_order/04_chapter3.md:630` `sayo-to-chiyo-san`
+  - ja `607`: 本を購入し、俄然意気込む私と千代さん。
+  - before: 买了书后，我和千代小姐顿时干劲十足。
+  - after: 买了书后，我和千代顿时干劲十足。
+- `bookish_zhcn/reading_order/04_chapter3.md:651` `sayo-to-chiyo-san`
+  - ja `628`: 私は千代さんに目で合図すると、蒼がいつも座っている席の真横に腰を下ろした。
+  - before: 我用眼神向千代小姐示意，然后在苍常坐的位置旁边坐了下来。
+  - after: 我用眼神向千代示意，然后在苍常坐的位置旁边坐了下来。
+- `bookish_zhcn/reading_order/04_chapter3.md:652` `sayo-to-chiyo-san`
+  - ja `629`: 蒼は私の前を通り自分の定位置へとつき、千代さんは私の隣に座った。
+  - before: 苍从我面前走过，坐到了自己的老位子，千代小姐则坐在了我旁边。
+  - after: 苍从我面前走过，坐到了自己的老位子，千代则坐在了我旁边。
+- `bookish_zhcn/reading_order/04_chapter3.md:681` `chiyo-ojousan`
+  - ja `658`: 千代: 「……あの、お嬢さん、正直に言います」
+  - before: 千代: 「……那个，大小姐，我说实话吧」
+  - after: 千代: 「……那个，小姐，我说实话吧」
+- `bookish_zhcn/reading_order/04_chapter3.md:698` `sayo-to-chiyo-san`
+  - ja `675`: うんうんと勢いよく千代さんが頷く。
+  - before: 千代小姐连连点头。
+  - after: 千代连连点头。
+- `bookish_zhcn/reading_order/04_chapter3.md:700` `chiyo-ojousan`
+  - ja `677`: 千代: 「お嬢さんもですか？」
+  - before: 千代: 「大小姐也是吗？」
+  - after: 千代: 「小姐也是吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:719` `sayo-to-chiyo-san`
+  - ja `696`: 千代さんはそもそも物を食べない。
+  - before: 千代小姐压根不吃东西。
+  - after: 千代压根不吃东西。
+- `bookish_zhcn/reading_order/04_chapter3.md:772` `sayo-to-chiyo-san`
+  - ja `749`: 私達が盛り上がる中、一人この話を知らない千代さんだけがきょとんとしていることに気付いた。
+  - before: 我注意到我们兴高采烈的时候，只有不知情的千代小姐一脸茫然。
+  - after: 我注意到我们兴高采烈的时候，只有不知情的千代一脸茫然。
+- `bookish_zhcn/reading_order/04_chapter3.md:780` `sayo-to-chiyo-san`
+  - ja `757`: 千代さんも納得してくれたようで、私は秘かに息を吐いた。
+  - before: 千代小姐也理解了，我偷偷松了口气。
+  - after: 千代也理解了，我偷偷松了口气。
+- `bookish_zhcn/reading_order/04_chapter3.md:821` `sayo-to-chiyo-san`
+  - ja `796`: 顔を輝かせる千代さんに対して、蒼はあまり関心がないのか、軽く息を吐きながら腕を組んだ。
+  - before: 千代小姐眼睛发亮，而苍似乎不太关心，轻轻叹了口气，抱起胳膊。
+  - after: 千代眼睛发亮，而苍似乎不太关心，轻轻叹了口气，抱起胳膊。
+- `bookish_zhcn/reading_order/04_chapter3.md:831` `chiyo-ojousan`
+  - ja `806`: 千代: 「あっ！　お嬢さん！」
+  - before: 千代: 「啊！大小姐！」
+  - after: 千代: 「啊！小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:838` `sayo-to-chiyo-san`
+  - ja `813`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/04_chapter3.md:849` `chiyo-ojousan`
+  - ja `824`: 千代: 「ああ、この前のお詫びですか。成る程。お嬢さんは律儀な人ですね！」
+  - before: 千代: 「啊，是对上次的事道歉啊。原来如此。大小姐您真是守规矩的人呢！」
+  - after: 千代: 「啊，是对上次的事道歉啊。原来如此。小姐您真是守规矩的人呢！」
+- `bookish_zhcn/reading_order/04_chapter3.md:857` `chiyo-ojousan`
+  - ja `832`: 千代: 「お嬢さん！！　お肉が凄く安いですよ！！　俺達も買いましょう！！」
+  - before: 千代: 「大小姐！！鸡肉超便宜！！我们也去买吧！！」
+  - after: 千代: 「小姐！！鸡肉超便宜！！我们也去买吧！！」
+- `bookish_zhcn/reading_order/04_chapter3.md:859` `sayo-to-chiyo-san`
+  - ja `834`: 千代さんにぐいぐいと腕を引っ張られ、ようやく現状を把握した私は軽く頭を下げながら、人混みの方へと向かう。
+  - before: 被千代小姐用力拽着胳膊，我终于反应过来，轻轻点头致意，朝人群那边走去。
+  - after: 被千代用力拽着胳膊，我终于反应过来，轻轻点头致意，朝人群那边走去。
+- `bookish_zhcn/reading_order/04_chapter3.md:860` `chiyo-ojousan`
+  - ja `835`: 千代: 「お嬢さん！　早く早く！！」
+  - before: 千代: 「大小姐！快点快点！！」
+  - after: 千代: 「小姐！快点快点！！」
+- `bookish_zhcn/reading_order/04_chapter3.md:892` `sayo-to-chiyo-san`
+  - ja `867`: 私は隣に並んだ千代さんを見る。
+  - before: 我看着旁边排队的千代小姐。
+  - after: 我看着旁边排队的千代。
+- `bookish_zhcn/reading_order/04_chapter3.md:894` `sayo-to-chiyo-san`
+  - ja `869`: けれど、人ではない千代さんの体は通り過ぎる人を簡単にすり抜けさせてしまう。
+  - before: 但千代小姐不是人，她的身体能让经过的人轻松穿过去。
+  - after: 但千代不是人，她的身体能让经过的人轻松穿过去。
+- `bookish_zhcn/reading_order/04_chapter3.md:909` `chiyo-ojousan`
+  - ja `884`: 千代: 「お嬢さん！　大丈夫ですか！？」
+  - before: 千代: 「大小姐！您没事吧！？」
+  - after: 千代: 「小姐！您没事吧！？」
+- `bookish_zhcn/reading_order/04_chapter3.md:1109` `sayo-to-chiyo-san`
+  - ja `1080`: 遠野　紗夜: 「……本当に気にしないで下さい。家にあげることくらい、何でもないことですから。千代さんなら尚更に」
+  - before: 远野纱夜: 「……真的别在意。请您来家里这点小事根本不算什么。尤其是千代您」
+  - after: 远野纱夜: 「……真的别在意。请您来家里这点小事根本不算什么。尤其是千代，您」
+- `bookish_zhcn/reading_order/04_chapter3.md:1138` `sayo-to-chiyo-san`
+  - ja `1109`: 遠野　紗夜: 「ふふ。私なんかより、千代さんの方がずっとお優しいと思います」
+  - before: 远野纱夜: 「呵呵。我觉得比起我，千代您要温柔得多了」
+  - after: 远野纱夜: 「呵呵。我觉得比起我，千代，您要温柔得多了」
+- `bookish_zhcn/reading_order/04_chapter3.md:1522` `hikari-ojo`
+  - ja `1455`: 日生 光: 「トリはお嬢ということで」
+  - before: 日生光: 「压轴是大小姐」
+  - after: 日生光: 「压轴是小姐」
+- `bookish_zhcn/reading_order/04_chapter3.md:1551` `hikari-ojo`
+  - ja `1484`: 日生 光: 「はい、お嬢。あーん」
+  - before: 日生光: 「来，大小姐。张嘴——啊——」
+  - after: 日生光: 「来，小姐。张嘴——啊——」
+- `bookish_zhcn/reading_order/04_chapter3.md:1592` `chiyo-ojousan`
+  - ja `1524`: 千代: 「だ、大丈夫ですよ！　お嬢さん！　お嬢さんのだって負けてません！」
+  - before: 千代: 「没、没问题的！大小姐！大小姐的也不输给她们！」
+  - after: 千代: 「没、没问题的！小姐！小姐的也不输给她们！」
+- `bookish_zhcn/reading_order/04_chapter3.md:1593` `sayo-to-chiyo-san`
+  - ja `1525`: 千代さんが苦し紛れの励ましをくれる。
+  - before: 千代小姐给我加油打气，但听起来很勉强。
+  - after: 千代给我加油打气，但听起来很勉强。
+- `bookish_zhcn/reading_order/04_chapter3.md:1647` `sayo-to-chiyo-san`
+  - ja `1578`: 自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。
+  - before: 桐岛前辈瞪了一眼比自己先回答的千代小姐，然后清了清嗓子重新回答。
+  - after: 桐岛前辈瞪了一眼比自己先回答的千代，然后清了清嗓子重新回答。
+- `bookish_zhcn/reading_order/04_chapter3.md:1657` `chiyo-ojousan`
+  - ja `1588`: 千代: 「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」
+  - before: 千代: 「没关系的，大小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+  - after: 千代: 「没关系的，小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+- `bookish_zhcn/reading_order/04_chapter3.md:1658` `sayo-to-chiyo-san`
+  - ja `1589`: 千代さんは私の耳元でそっと囁いた。
+  - before: 千代小姐在我耳边轻声低语。
+  - after: 千代在我耳边轻声低语。
+- `bookish_zhcn/reading_order/04_chapter3.md:1661` `sayo-to-chiyo-san`
+  - ja `1592`: すると、千代さんは笑顔で頷いた。
+  - before: 于是，千代小姐笑着点了点头。
+  - after: 于是，千代笑着点了点头。
+- `bookish_zhcn/reading_order/04_chapter3.md:1664` `sayo-to-chiyo-san`
+  - ja `1595`: 千代さんが意気揚々として語る。
+  - before: 千代小姐兴致勃勃地说着。
+  - after: 千代兴致勃勃地说着。
+- `bookish_zhcn/reading_order/04_chapter3.md:1682` `chiyo-ojousan`
+  - ja `1613`: 千代: 「お嬢さん！　大丈夫ですよ！」
+  - before: 千代: 「大小姐！没问题的！」
+  - after: 千代: 「小姐！没问题的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:1683` `sayo-to-chiyo-san`
+  - ja `1614`: 千代さんが拳を握り、目を輝かせる。
+  - before: 千代小姐握紧拳头，眼睛闪闪发亮。
+  - after: 千代握紧拳头，眼睛闪闪发亮。
+- `bookish_zhcn/reading_order/04_chapter3.md:1700` `chiyo-ojousan`
+  - ja `1631`: 千代: 「良かったですね！　お嬢さん！」
+  - before: 千代: 「太好了呢！大小姐！」
+  - after: 千代: 「太好了呢！小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:1716` `hikari-ojo`
+  - ja `1647`: 日生 光: 「僕はお嬢のお弁当が一番美味しかったけどな」
+  - before: 日生光: 「我倒觉得大小姐的便当最好吃呢」
+  - after: 日生光: 「我倒觉得小姐的便当最好吃呢」
+- `bookish_zhcn/reading_order/04_chapter3.md:1739` `hikari-ojo`
+  - ja `1670`: 日生 光: 「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」
+  - before: 日生光: 「事实上，你们坚信自己做的是最好的，而大小姐呢，则拒绝把任何人选为第一」
+  - after: 日生光: 「事实上，你们坚信自己做的是最好的，而小姐呢，则拒绝把任何人选为第一」
+- `bookish_zhcn/reading_order/04_chapter3.md:1866` `sayo-to-chiyo-san`
+  - ja `1797`: 私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。
+  - before: 我从大家那里收集垃圾，然后看准时机，小声对千代小姐说道。
+  - after: 我从大家那里收集垃圾，然后看准时机，小声对千代说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:1867` `sayo-to-chiyo-san`
+  - ja `1798`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/04_chapter3.md:1873` `sayo-to-chiyo-san`
+  - ja `1804`: ぶんぶんと両手で手を振る千代さん。
+  - before: 千代小姐双手在面前不停摆动。
+  - after: 千代双手在面前不停摆动。
+- `bookish_zhcn/reading_order/04_chapter3.md:1886` `sayo-to-chiyo-san`
+  - ja `1817`: 遠野　紗夜: 「とんでもない！　私が千代さんに手伝って頂いたのです！」
+  - before: 远野纱夜: 「哪里的话！是我请千代小姐帮忙的！」
+  - after: 远野纱夜: 「哪里的话！是我请千代帮忙的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:1914` `hikari-ojo`
+  - ja `1841`: 日生 光: 「トリはお嬢ということで」
+  - before: 日生光: 「压轴是大小姐」
+  - after: 日生光: 「压轴是小姐」
+- `bookish_zhcn/reading_order/04_chapter3.md:1943` `hikari-ojo`
+  - ja `1870`: 日生 光: 「はい、お嬢。あーん」
+  - before: 日生光: 「来，大小姐。张嘴——啊——」
+  - after: 日生光: 「来，小姐。张嘴——啊——」
+- `bookish_zhcn/reading_order/04_chapter3.md:2036` `sayo-to-chiyo-san`
+  - ja `1961`: 自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。
+  - before: 桐岛前辈瞪了一眼比自己先回答的千代小姐，然后清了清嗓子重新回答。
+  - after: 桐岛前辈瞪了一眼比自己先回答的千代，然后清了清嗓子重新回答。
+- `bookish_zhcn/reading_order/04_chapter3.md:2046` `chiyo-ojousan`
+  - ja `1971`: 千代: 「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」
+  - before: 千代: 「没关系的，大小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+  - after: 千代: 「没关系的，小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+- `bookish_zhcn/reading_order/04_chapter3.md:2047` `sayo-to-chiyo-san`
+  - ja `1972`: 千代さんは私の耳元でそっと囁いた。
+  - before: 千代小姐在我耳边轻声低语。
+  - after: 千代在我耳边轻声低语。
+- `bookish_zhcn/reading_order/04_chapter3.md:2050` `sayo-to-chiyo-san`
+  - ja `1975`: すると、千代さんは笑顔で頷いた。
+  - before: 于是，千代小姐笑着点了点头。
+  - after: 于是，千代笑着点了点头。
+- `bookish_zhcn/reading_order/04_chapter3.md:2053` `sayo-to-chiyo-san`
+  - ja `1978`: 千代さんが意気揚々として語る。
+  - before: 千代小姐兴致勃勃地说着。
+  - after: 千代兴致勃勃地说着。
+- `bookish_zhcn/reading_order/04_chapter3.md:2071` `chiyo-ojousan`
+  - ja `1996`: 千代: 「お嬢さん！　大丈夫ですよ！」
+  - before: 千代: 「大小姐！没问题的！」
+  - after: 千代: 「小姐！没问题的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:2072` `sayo-to-chiyo-san`
+  - ja `1997`: 千代さんが拳を握り、目を輝かせる。
+  - before: 千代小姐握紧拳头，眼睛闪闪发亮。
+  - after: 千代握紧拳头，眼睛闪闪发亮。
+- `bookish_zhcn/reading_order/04_chapter3.md:2089` `chiyo-ojousan`
+  - ja `2014`: 千代: 「良かったですね！　お嬢さん！」
+  - before: 千代: 「太好了呢！大小姐！」
+  - after: 千代: 「太好了呢！小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:2105` `hikari-ojo`
+  - ja `2030`: 日生 光: 「僕はお嬢のお弁当が一番美味しかったけどな」
+  - before: 日生光: 「我倒觉得大小姐的便当最好吃呢」
+  - after: 日生光: 「我倒觉得小姐的便当最好吃呢」
+- `bookish_zhcn/reading_order/04_chapter3.md:2128` `hikari-ojo`
+  - ja `2053`: 日生 光: 「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」
+  - before: 日生光: 「事实上，你们坚信自己做的是最好的，而大小姐呢，则拒绝把任何人选为第一」
+  - after: 日生光: 「事实上，你们坚信自己做的是最好的，而小姐呢，则拒绝把任何人选为第一」
+- `bookish_zhcn/reading_order/04_chapter3.md:2255` `sayo-to-chiyo-san`
+  - ja `2180`: 私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。
+  - before: 我从大家那里收集垃圾，然后看准时机，小声对千代小姐说道。
+  - after: 我从大家那里收集垃圾，然后看准时机，小声对千代说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:2256` `sayo-to-chiyo-san`
+  - ja `2181`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/04_chapter3.md:2262` `sayo-to-chiyo-san`
+  - ja `2187`: ぶんぶんと両手で手を振る千代さん。
+  - before: 千代小姐双手在面前不停摆动。
+  - after: 千代双手在面前不停摆动。
+- `bookish_zhcn/reading_order/04_chapter3.md:2275` `sayo-to-chiyo-san`
+  - ja `2200`: 遠野　紗夜: 「とんでもない！　私が千代さんに手伝って頂いたのです！」
+  - before: 远野纱夜: 「哪里的话！是我请千代小姐帮忙的！」
+  - after: 远野纱夜: 「哪里的话！是我请千代帮忙的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:2303` `hikari-ojo`
+  - ja `2224`: 日生 光: 「トリはお嬢ということで」
+  - before: 日生光: 「压轴是大小姐」
+  - after: 日生光: 「压轴是小姐」
+- `bookish_zhcn/reading_order/04_chapter3.md:2332` `hikari-ojo`
+  - ja `2253`: 日生 光: 「はい、お嬢。あーん」
+  - before: 日生光: 「来，大小姐。张嘴——啊——」
+  - after: 日生光: 「来，小姐。张嘴——啊——」
+- `bookish_zhcn/reading_order/04_chapter3.md:2419` `sayo-to-chiyo-san`
+  - ja `2338`: 自分より先に答えた千代さんを一睨みし、ごほんと咳払いをしながら桐島先輩は改めて答えた。
+  - before: 桐岛前辈瞪了一眼比自己先回答的千代小姐，然后清了清嗓子重新回答。
+  - after: 桐岛前辈瞪了一眼比自己先回答的千代，然后清了清嗓子重新回答。
+- `bookish_zhcn/reading_order/04_chapter3.md:2429` `chiyo-ojousan`
+  - ja `2348`: 千代: 「大丈夫ですよ。お嬢さん。七葵君だって最初からこんな凄い物が作れたわけじゃないんですよ」
+  - before: 千代: 「没关系的，大小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+  - after: 千代: 「没关系的，小姐。七葵君也不是一开始就能做出这么厉害的东西哦」
+- `bookish_zhcn/reading_order/04_chapter3.md:2430` `sayo-to-chiyo-san`
+  - ja `2349`: 千代さんは私の耳元でそっと囁いた。
+  - before: 千代小姐在我耳边轻声低语。
+  - after: 千代在我耳边轻声低语。
+- `bookish_zhcn/reading_order/04_chapter3.md:2433` `sayo-to-chiyo-san`
+  - ja `2352`: すると、千代さんは笑顔で頷いた。
+  - before: 于是，千代小姐笑着点了点头。
+  - after: 于是，千代笑着点了点头。
+- `bookish_zhcn/reading_order/04_chapter3.md:2436` `sayo-to-chiyo-san`
+  - ja `2355`: 千代さんが意気揚々として語る。
+  - before: 千代小姐兴致勃勃地说着。
+  - after: 千代兴致勃勃地说着。
+- `bookish_zhcn/reading_order/04_chapter3.md:2454` `chiyo-ojousan`
+  - ja `2373`: 千代: 「お嬢さん！　大丈夫ですよ！」
+  - before: 千代: 「大小姐！没问题的！」
+  - after: 千代: 「小姐！没问题的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:2455` `sayo-to-chiyo-san`
+  - ja `2374`: 千代さんが拳を握り、目を輝かせる。
+  - before: 千代小姐握紧拳头，眼睛闪闪发亮。
+  - after: 千代握紧拳头，眼睛闪闪发亮。
+- `bookish_zhcn/reading_order/04_chapter3.md:2472` `chiyo-ojousan`
+  - ja `2391`: 千代: 「良かったですね！　お嬢さん！」
+  - before: 千代: 「太好了呢！大小姐！」
+  - after: 千代: 「太好了呢！小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:2488` `hikari-ojo`
+  - ja `2407`: 日生 光: 「僕はお嬢のお弁当が一番美味しかったけどな」
+  - before: 日生光: 「我倒觉得大小姐的便当最好吃呢」
+  - after: 日生光: 「我倒觉得小姐的便当最好吃呢」
+- `bookish_zhcn/reading_order/04_chapter3.md:2511` `hikari-ojo`
+  - ja `2430`: 日生 光: 「現に君達は、自分の作った物が最高だと信じて疑わないし、お嬢はお嬢で誰かを一番に選ぶのを拒否した」
+  - before: 日生光: 「事实上，你们坚信自己做的是最好的，而大小姐呢，则拒绝把任何人选为第一」
+  - after: 日生光: 「事实上，你们坚信自己做的是最好的，而小姐呢，则拒绝把任何人选为第一」
+- `bookish_zhcn/reading_order/04_chapter3.md:2638` `sayo-to-chiyo-san`
+  - ja `2557`: 私は皆からゴミを集めると、タイミングを見計らって、千代さんに小声で話しかけた。
+  - before: 我从大家那里收集垃圾，然后看准时机，小声对千代小姐说道。
+  - after: 我从大家那里收集垃圾，然后看准时机，小声对千代说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:2639` `sayo-to-chiyo-san`
+  - ja `2558`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/04_chapter3.md:2645` `sayo-to-chiyo-san`
+  - ja `2564`: ぶんぶんと両手で手を振る千代さん。
+  - before: 千代小姐双手在面前不停摆动。
+  - after: 千代双手在面前不停摆动。
+- `bookish_zhcn/reading_order/04_chapter3.md:2658` `sayo-to-chiyo-san`
+  - ja `2577`: 遠野　紗夜: 「とんでもない！　私が千代さんに手伝って頂いたのです！」
+  - before: 远野纱夜: 「哪里的话！是我请千代小姐帮忙的！」
+  - after: 远野纱夜: 「哪里的话！是我请千代帮忙的！」
+- `bookish_zhcn/reading_order/04_chapter3.md:3826` `hikari-ojo`
+  - ja `3725`: 日生 光: 「あ、いたいた！　お嬢！」
+  - before: 日生光: 「啊，找到了找到了！大小姐！」
+  - after: 日生光: 「啊，找到了找到了！小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:3828` `chiyo-ojousan`
+  - ja `3727`: 千代: 「お嬢さん！　大丈夫ですか！？」
+  - before: 千代: 「大小姐！您没事吧！？」
+  - after: 千代: 「小姐！您没事吧！？」
+- `bookish_zhcn/reading_order/04_chapter3.md:3853` `hikari-ojo`
+  - ja `3752`: 日生 光: 「それにしても見たかったな、お嬢の怒る姿。珍しいよね、いつも驚くくらい落ち着いてるのに」
+  - before: 日生光: 「不过真想看看大小姐发怒的样子啊。很稀奇呢，你平时总是冷静得让人惊讶。」
+  - after: 日生光: 「不过真想看看小姐发怒的样子啊。很稀奇呢，你平时总是冷静得让人惊讶。」
+- `bookish_zhcn/reading_order/04_chapter3.md:3877` `hikari-ojo`
+  - ja `3776`: 日生 光: 「ふーん……。ということは、夏目君の方からお嬢に喧嘩を吹っ掛けたっていうのが正解？」
+  - before: 日生光: 「嗯～……也就是说，是夏目先向大小姐挑衅的，这个说法才是对的？」
+  - after: 日生光: 「嗯～……也就是说，是夏目先向小姐挑衅的，这个说法才是对的？」
+- `bookish_zhcn/reading_order/04_chapter3.md:4331` `sayo-to-chiyo-san`
+  - ja `4217`: 桐島先輩は千代さんを見るなり、片膝を立てた。
+  - before: 桐岛前辈一看到千代小姐，就单膝跪地（摆出架势）。
+  - after: 桐岛前辈一看到千代，就单膝跪地（摆出架势）。
+- `bookish_zhcn/reading_order/04_chapter3.md:4339` `sayo-to-chiyo-san`
+  - ja `4225`: 千代さんはその間にも何か言いたげにうずうずしている。
+  - before: 千代小姐在这段时间里也一副欲言又止、坐立不安的样子。
+  - after: 千代在这段时间里也一副欲言又止、坐立不安的样子。
+- `bookish_zhcn/reading_order/04_chapter3.md:4342` `sayo-to-chiyo-san`
+  - ja `4228`: ちらりと、千代さんに向かって目配せする。
+  - before: 我朝千代小姐使了个眼色。
+  - after: 我朝千代使了个眼色。
+- `bookish_zhcn/reading_order/04_chapter3.md:4343` `sayo-to-chiyo-san`
+  - ja `4229`: 千代さんはぱあっと顔を明るくさせ、そして
+  - before: 千代小姐顿时眼睛一亮，然后——
+  - after: 千代顿时眼睛一亮，然后——
+- `bookish_zhcn/reading_order/04_chapter3.md:4388` `sayo-to-chiyo-san`
+  - ja `4274`: かくして、私と桐島先輩は後のことを日生先輩に任せ、千代さんの後を追ったのだった。
+  - before: 就这样，我和桐岛前辈把后续交给日生前辈，追着千代小姐离开了。
+  - after: 就这样，我和桐岛前辈把后续交给日生前辈，追着千代离开了。
+- `bookish_zhcn/reading_order/04_chapter3.md:4466` `sayo-to-chiyo-san`
+  - ja `4347`: 桐島先輩は千代さんを見るなり、片膝を立てた。
+  - before: 桐岛前辈一看到千代小姐，就单膝跪地（摆出架势）。
+  - after: 桐岛前辈一看到千代，就单膝跪地（摆出架势）。
+- `bookish_zhcn/reading_order/04_chapter3.md:4474` `sayo-to-chiyo-san`
+  - ja `4355`: 千代さんはその間にも何か言いたげにうずうずしている。
+  - before: 千代小姐在这段时间里也一副欲言又止、坐立不安的样子。
+  - after: 千代在这段时间里也一副欲言又止、坐立不安的样子。
+- `bookish_zhcn/reading_order/04_chapter3.md:4477` `sayo-to-chiyo-san`
+  - ja `4358`: ちらりと、千代さんに向かって目配せする。
+  - before: 我朝千代小姐使了个眼色。
+  - after: 我朝千代使了个眼色。
+- `bookish_zhcn/reading_order/04_chapter3.md:4478` `sayo-to-chiyo-san`
+  - ja `4359`: 千代さんはぱあっと顔を明るくさせ、そして
+  - before: 千代小姐顿时眼睛一亮，然后——
+  - after: 千代顿时眼睛一亮，然后——
+- `bookish_zhcn/reading_order/04_chapter3.md:4523` `sayo-to-chiyo-san`
+  - ja `4404`: かくして、私と桐島先輩は後のことを日生先輩に任せ、千代さんの後を追ったのだった。
+  - before: 就这样，我和桐岛前辈把后续交给日生前辈，追着千代小姐离开了。
+  - after: 就这样，我和桐岛前辈把后续交给日生前辈，追着千代离开了。
+- `bookish_zhcn/reading_order/04_chapter3.md:5179` `sayo-to-chiyo-san`
+  - ja `5039`: やや面倒臭そうに視線を向けながら、桐島先輩と千代さんに言った。
+  - before: 他有些厌烦地看向桐岛前辈和千代小姐，说道。
+  - after: 他有些厌烦地看向桐岛前辈和千代，说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:5187` `chiyo-ojousan`
+  - ja `5047`: 千代: 「！　お嬢さん……。すみません。お見苦しいところをお見せしてしまって……」
+  - before: 千代: 「！大小姐……。抱歉。让你看到了不雅的样子……」
+  - after: 千代: 「！小姐……。抱歉。让你看到了不雅的样子……」
+- `bookish_zhcn/reading_order/04_chapter3.md:5222` `chiyo-ojousan`
+  - ja `5081`: 千代: 「ははっ。皆さん、お嬢さんのことが気になるんですよ」
+  - before: 千代: 「哈哈。大家都很在意大小姐你呢。」
+  - after: 千代: 「哈哈。大家都很在意小姐你呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5316` `chiyo-ojousan`
+  - ja `5177`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「我也想看看呢。大小姐穿剑道服的样子。」
+  - after: 千代: 「我也想看看呢。小姐穿剑道服的样子。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5319` `chiyo-ojousan`
+  - ja `5177`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「哈哈……大小姐。您果然是个很棒的人呢。」
+  - after: 千代: 「哈哈……小姐。您果然是个很棒的人呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5322` `chiyo-ojousan`
+  - ja `5180`: 千代: 「ははっ……。お嬢さん。やはり、お嬢さんは素敵な人ですね」
+  - before: 千代: 「哈哈……大小姐。果然，大小姐是个很棒的人啊。」
+  - after: 千代: 「哈哈……小姐。果然，小姐是个很棒的人啊。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5336` `chiyo-ojousan`
+  - ja `5194`: 千代: 「あ、じゃあ、お嬢さんも一年生の時は部活に所属していたんですか？」
+  - before: 千代: 「啊，那大小姐一年级时也参加过社团吗？」
+  - after: 千代: 「啊，那小姐一年级时也参加过社团吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:5339` `sayo-to-chiyo-san`
+  - ja `5183`: 千代さんはにこにことしている。
+  - before: 我这么一本正经地说完，千代先生抱起胳膊，嗯——地思考起来。
+  - after: 我这么一本正经地说完，千代抱起胳膊，嗯——地思考起来。
+- `bookish_zhcn/reading_order/04_chapter3.md:5349` `sayo-to-chiyo-san`
+  - ja `5200`: そんな尤もらしいことを言うと、千代さんは腕を組みうーんと悩んだ。
+  - before: 而且，苍姑且不论，千代先生完全不是人类。
+  - after: 而且，苍姑且不论，千代完全不是人类。
+- `bookish_zhcn/reading_order/04_chapter3.md:5394` `sayo-to-chiyo-san`
+  - ja `5248`: やや面倒臭そうに視線を向けながら、桐島先輩と千代さんに言った。
+  - before: 他有些厌烦地看向桐岛前辈和千代小姐，说道。
+  - after: 他有些厌烦地看向桐岛前辈和千代，说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:5402` `chiyo-ojousan`
+  - ja `5256`: 千代: 「！　お嬢さん……。すみません。お見苦しいところをお見せしてしまって……」
+  - before: 千代: 「！大小姐……。抱歉。让你看到了不雅的样子……」
+  - after: 千代: 「！小姐……。抱歉。让你看到了不雅的样子……」
+- `bookish_zhcn/reading_order/04_chapter3.md:5434` `chiyo-ojousan`
+  - ja `5287`: 千代: 「ははっ。皆さん、お嬢さんのことが気になるんですよ」
+  - before: 千代: 「哈哈。大家都很在意大小姐你呢。」
+  - after: 千代: 「哈哈。大家都很在意小姐你呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5526` `chiyo-ojousan`
+  - ja `5381`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「我也想看看呢。大小姐穿剑道服的样子。」
+  - after: 千代: 「我也想看看呢。小姐穿剑道服的样子。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5529` `chiyo-ojousan`
+  - ja `5381`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「哈哈……大小姐。您果然是个很棒的人呢。」
+  - after: 千代: 「哈哈……小姐。您果然是个很棒的人呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5532` `chiyo-ojousan`
+  - ja `5384`: 千代: 「ははっ……。お嬢さん。やはり、お嬢さんは素敵な人ですね」
+  - before: 千代: 「哈哈……大小姐。果然，大小姐是个很棒的人啊。」
+  - after: 千代: 「哈哈……小姐。果然，小姐是个很棒的人啊。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5546` `chiyo-ojousan`
+  - ja `5398`: 千代: 「あ、じゃあ、お嬢さんも一年生の時は部活に所属していたんですか？」
+  - before: 千代: 「啊，那大小姐一年级时也参加过社团吗？」
+  - after: 千代: 「啊，那小姐一年级时也参加过社团吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:5549` `sayo-to-chiyo-san`
+  - ja `5387`: 千代さんはにこにことしている。
+  - before: 我这么一本正经地说完，千代先生抱起胳膊，嗯——地思考起来。
+  - after: 我这么一本正经地说完，千代抱起胳膊，嗯——地思考起来。
+- `bookish_zhcn/reading_order/04_chapter3.md:5559` `sayo-to-chiyo-san`
+  - ja `5404`: そんな尤もらしいことを言うと、千代さんは腕を組みうーんと悩んだ。
+  - before: 而且，苍姑且不论，千代先生完全不是人类。
+  - after: 而且，苍姑且不论，千代完全不是人类。
+- `bookish_zhcn/reading_order/04_chapter3.md:5604` `sayo-to-chiyo-san`
+  - ja `5452`: やや面倒臭そうに視線を向けながら、桐島先輩と千代さんに言った。
+  - before: 他有些厌烦地看向桐岛前辈和千代小姐，说道。
+  - after: 他有些厌烦地看向桐岛前辈和千代，说道。
+- `bookish_zhcn/reading_order/04_chapter3.md:5612` `chiyo-ojousan`
+  - ja `5460`: 千代: 「！　お嬢さん……。すみません。お見苦しいところをお見せしてしまって……」
+  - before: 千代: 「！大小姐……。抱歉。让你看到了不雅的样子……」
+  - after: 千代: 「！小姐……。抱歉。让你看到了不雅的样子……」
+- `bookish_zhcn/reading_order/04_chapter3.md:5647` `chiyo-ojousan`
+  - ja `5494`: 千代: 「ははっ。皆さん、お嬢さんのことが気になるんですよ」
+  - before: 千代: 「哈哈。大家都很在意大小姐你呢。」
+  - after: 千代: 「哈哈。大家都很在意小姐你呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5739` `chiyo-ojousan`
+  - ja `5588`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「我也想看看呢。大小姐穿剑道服的样子。」
+  - after: 千代: 「我也想看看呢。小姐穿剑道服的样子。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5742` `chiyo-ojousan`
+  - ja `5588`: 千代: 「俺も見たかったです。お嬢さんの剣道着姿」
+  - before: 千代: 「哈哈……大小姐。您果然是个很棒的人呢。」
+  - after: 千代: 「哈哈……小姐。您果然是个很棒的人呢。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5745` `chiyo-ojousan`
+  - ja `5591`: 千代: 「ははっ……。お嬢さん。やはり、お嬢さんは素敵な人ですね」
+  - before: 千代: 「哈哈……大小姐。果然，大小姐是个很棒的人啊。」
+  - after: 千代: 「哈哈……小姐。果然，小姐是个很棒的人啊。」
+- `bookish_zhcn/reading_order/04_chapter3.md:5759` `chiyo-ojousan`
+  - ja `5605`: 千代: 「あ、じゃあ、お嬢さんも一年生の時は部活に所属していたんですか？」
+  - before: 千代: 「啊，那大小姐一年级时也参加过社团吗？」
+  - after: 千代: 「啊，那小姐一年级时也参加过社团吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:5762` `sayo-to-chiyo-san`
+  - ja `5594`: 千代さんはにこにことしている。
+  - before: 我这么一本正经地说完，千代先生抱起胳膊，嗯——地思考起来。
+  - after: 我这么一本正经地说完，千代抱起胳膊，嗯——地思考起来。
+- `bookish_zhcn/reading_order/04_chapter3.md:5772` `sayo-to-chiyo-san`
+  - ja `5611`: そんな尤もらしいことを言うと、千代さんは腕を組みうーんと悩んだ。
+  - before: 而且，苍姑且不论，千代先生完全不是人类。
+  - after: 而且，苍姑且不论，千代完全不是人类。
+- `bookish_zhcn/reading_order/04_chapter3.md:5831` `sayo-to-chiyo-san`
+  - ja `5675`: 桐島先輩は何故だか嫌そうにしながら千代さんを窘める。
+  - before: 桐岛前辈不知为何一脸不耐烦地制止了千代小姐。
+  - after: 桐岛前辈不知为何一脸不耐烦地制止了千代。
+- `bookish_zhcn/reading_order/04_chapter3.md:6488` `chiyo-ojousan`
+  - ja `6307`: 千代: 「あ、お嬢さん！」
+  - before: 千代: 「啊，大小姐！」
+  - after: 千代: 「啊，小姐！」
+- `bookish_zhcn/reading_order/04_chapter3.md:6631` `hikari-ojo`
+  - ja `6445`: 日生 光: 「ねえ、お嬢。僕はお嬢が僕のことを気にしてくれてる方が嬉しいな」
+  - before: 日生光: 「我说，大小姐。我更喜欢大小姐在意我哦」
+  - after: 日生光: 「我说，小姐。我更喜欢小姐在意我哦」
+- `bookish_zhcn/reading_order/04_chapter3.md:6633` `hikari-ojo`
+  - ja `6447`: 日生 光: 「お嬢が僕の知らない所で誰かに奪われるだなんて」
+  - before: 日生光: 「大小姐在我不知道的时候被谁夺走什么的」
+  - after: 日生光: 「小姐在我不知道的时候被谁夺走什么的」
+- `bookish_zhcn/reading_order/04_chapter3.md:6804` `hikari-ojo`
+  - ja `6610`: 日生 光: 「ねえ、お嬢。僕はお嬢が僕のことを気にしてくれてる方が嬉しいな」
+  - before: 日生光: 「我说，大小姐。我更喜欢大小姐在意我哦」
+  - after: 日生光: 「我说，小姐。我更喜欢小姐在意我哦」
+- `bookish_zhcn/reading_order/04_chapter3.md:6806` `hikari-ojo`
+  - ja `6612`: 日生 光: 「お嬢が僕の知らない所で誰かに奪われるだなんて」
+  - before: 日生光: 「大小姐在我不知道的时候被谁夺走什么的」
+  - after: 日生光: 「小姐在我不知道的时候被谁夺走什么的」
+- `bookish_zhcn/reading_order/04_chapter3.md:6860` `sayo-to-chiyo-san`
+  - ja `6662`: 桐島先輩はやはり千代さんから既に聞いていたようで、特に驚きはしなかった。
+  - before: 桐岛前辈果然已经从千代小姐那里听说了，并没有表现出特别惊讶的样子。
+  - after: 桐岛前辈果然已经从千代那里听说了，并没有表现出特别惊讶的样子。
+- `bookish_zhcn/reading_order/04_chapter3.md:6897` `sayo-to-chiyo-san`
+  - ja `6699`: その隣には千代さんが私達に向かってひらひらと手を振っている。
+  - before: 旁边，千代小姐正朝我们轻轻挥手。
+  - after: 旁边，千代正朝我们轻轻挥手。
+- `bookish_zhcn/reading_order/04_chapter3.md:6904` `sayo-to-chiyo-san`
+  - ja `6706`: 礼を言うと、千代さんは慌てて両手を振る。
+  - before: 我道了谢，千代小姐慌忙摆起双手。
+  - after: 我道了谢，千代慌忙摆起双手。
+- `bookish_zhcn/reading_order/04_chapter3.md:7263` `hikari-ojo`
+  - ja `7053`: 日生 光: 「お嬢、手を貸してごらん」
+  - before: 日生光: 「大小姐，我搭把手吧」
+  - after: 日生光: 「小姐，我搭把手吧」
+- `bookish_zhcn/reading_order/04_chapter3.md:7610` `hikari-ojo`
+  - ja `7384`: 日生 光: 「蒼さんは多分どっちでもないだろうし、お嬢と夏帆ちゃんは女の子でしょう？」
+  - before: 日生光: 「苍应该两边都不站，大小姐和夏帆是女孩子吧？」
+  - after: 日生光: 「苍应该两边都不站，小姐和夏帆是女孩子吧？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7676` `hikari-ojo`
+  - ja `7449`: 日生 光: 「あ、ようやくお嬢が笑った」
+  - before: 日生光: 「啊，大小姐终于笑了。」
+  - after: 日生光: 「啊，小姐终于笑了。」
+- `bookish_zhcn/reading_order/04_chapter3.md:7696` `hikari-ojo`
+  - ja `7469`: 日生 光: 「その通りだと思うよ。ね、お嬢？」
+  - before: 日生光: 「我也觉得是这样。对吧，大小姐？」
+  - after: 日生光: 「我也觉得是这样。对吧，小姐？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7934` `hikari-ojo`
+  - ja `7703`: 日生 光: 「蒼さんは多分どっちでもないだろうし、お嬢と夏帆ちゃんは女の子でしょう？」
+  - before: 日生光: 「苍应该两边都不站，大小姐和夏帆是女孩子吧？」
+  - after: 日生光: 「苍应该两边都不站，小姐和夏帆是女孩子吧？」
+- `bookish_zhcn/reading_order/04_chapter3.md:8003` `hikari-ojo`
+  - ja `7771`: 日生 光: 「あ、ようやくお嬢が笑った」
+  - before: 日生光: 「啊，大小姐终于笑了。」
+  - after: 日生光: 「啊，小姐终于笑了。」
+- `bookish_zhcn/reading_order/04_chapter3.md:8023` `hikari-ojo`
+  - ja `7791`: 日生 光: 「その通りだと思うよ。ね、お嬢？」
+  - before: 日生光: 「我也觉得是这样。对吧，大小姐？」
+  - after: 日生光: 「我也觉得是这样。对吧，小姐？」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:124` `hikari-ojo`
+  - ja `121`: 日生 光: 「第一、僕よりお嬢の方がよっぽど他人に干渉しないんじゃない？」
+  - before: 日生光: 「首先，大小姐你比我更不干涉别人吧？」
+  - after: 日生光: 「首先，小姐你比我更不干涉别人吧？」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:126` `hikari-ojo`
+  - ja `123`: 日生 光: 「お嬢は自分のことをほとんど他人に喋ったりしないし、喋ろうともしない」
+  - before: 日生光: 「大小姐你几乎不跟别人说起自己的事，也不打算说。」
+  - after: 日生光: 「小姐你几乎不跟别人说起自己的事，也不打算说。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:134` `hinase-senpai`
+  - ja `131`: そんな風に思っていると、日生先輩は思い出したかのように言った。
+  - before: 当我正这么想着，日生学长像是突然想起来一样说道。
+  - after: 当我正这么想着，日生前辈像是突然想起来一样说道。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:143` `hikari-ojo`
+  - ja `140`: 日生 光: 「ねえ、お嬢」
+  - before: 日生光: 「喂，大小姐。」
+  - after: 日生光: 「喂，小姐。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:267` `hikari-ojo`
+  - ja `257`: 日生 光: 「第一、僕よりお嬢の方がよっぽど他人に干渉しないんじゃない？」
+  - before: 日生光: 「首先，大小姐你比我更不干涉别人吧？」
+  - after: 日生光: 「首先，小姐你比我更不干涉别人吧？」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:269` `hikari-ojo`
+  - ja `259`: 日生 光: 「お嬢は自分のことをほとんど他人に喋ったりしないし、喋ろうともしない」
+  - before: 日生光: 「大小姐你几乎不跟别人说起自己的事，也不打算说。」
+  - after: 日生光: 「小姐你几乎不跟别人说起自己的事，也不打算说。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:277` `hinase-senpai`
+  - ja `267`: そんな風に思っていると、日生先輩は思い出したかのように言った。
+  - before: 当我正这么想着，日生学长像是突然想起来一样说道。
+  - after: 当我正这么想着，日生前辈像是突然想起来一样说道。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:286` `hikari-ojo`
+  - ja `276`: 日生 光: 「ねえ、お嬢」
+  - before: 日生光: 「喂，大小姐。」
+  - after: 日生光: 「喂，小姐。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:663` `hinase-senpai`
+  - ja `632`: そう言って、日生先輩はあるものを見せた。
+  - before: 说着，日生学长展示了一样东西。
+  - after: 说着，日生前辈展示了一样东西。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:695` `hinase-senpai`
+  - ja `664`: 私と日生先輩の二人は螺旋階段を昇っていた。
+  - before: 我和日生学长两人正沿着螺旋楼梯往上爬。
+  - after: 我和日生前辈两人正沿着螺旋楼梯往上爬。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:700` `hinase-senpai`
+  - ja `669`: 遠野　紗夜: 「……日生先輩は、大丈夫なのですか？」
+  - before: 远野纱夜: 「……日生学长，你没事吗？」
+  - after: 远野纱夜: 「……日生前辈，你没事吗？」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:703` `hinase-senpai`
+  - ja `672`: 先程から見ている限り、日生先輩は息一つ切れていない。
+  - before: 从刚才来看，日生学长连一口气都没喘。
+  - after: 从刚才来看，日生前辈连一口气都没喘。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:725` `hinase-senpai`
+  - ja `694`: すぐ近くに日生先輩がいる。先程よりも近くに。
+  - before: 日生学长就在很近的地方。比刚才更近。
+  - after: 日生前辈就在很近的地方。比刚才更近。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:753` `hikari-ojo`
+  - ja `722`: 日生 光: 「お嬢。こっちへ来てごらん」
+  - before: 日生光: 「大小姐。过来这边看看。」
+  - after: 日生光: 「小姐。过来这边看看。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:778` `hikari-ojo`
+  - ja `745`: 日生 光: 「お嬢が喜んでくれて嬉しいですよ」
+  - before: 日生光: 「大小姐能开心，我也很高兴哦。」
+  - after: 日生光: 「小姐能开心，我也很高兴哦。」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:412` `hikari-ojo`
+  - ja `407`: 日生 光: 「まるでいつも僕がまともに食べてないように言ってるけど、ちゃんと僕だって普通に昼食くらい摂るよね？　お嬢」
+  - before: 日生光: 「说得好像我一直不好好吃饭似的，但我也正常吃午饭的好吧？大小姐」
+  - after: 日生光: 「说得好像我一直不好好吃饭似的，但我也正常吃午饭的好吧？小姐」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:419` `hinase-senpai`
+  - ja `414`: 日生先輩の言う通り、確かにその時はいつものゼリー飲料ではなく、パエリアを頼んで食べていた。
+  - before: 正如日生学长所说，当时确实没有点平时的果冻饮料，而是点了西班牙海鲜饭吃了。
+  - after: 正如日生前辈所说，当时确实没有点平时的果冻饮料，而是点了西班牙海鲜饭吃了。
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:562` `hinase-senpai`
+  - ja `557`: 以前、日生先輩にキスをせがんでいた女子生徒だ。
+  - before: 是以前缠着日生学长要接吻的那个女生。
+  - after: 是以前缠着日生前辈要接吻的那个女生。
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:588` `hinase-senpai`
+  - ja `583`: 遠野　紗夜: 「……日生先輩は」
+  - before: 远野纱夜: 「……日生学长」
+  - after: 远野纱夜: 「……日生前辈」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:590` `hinase-senpai`
+  - ja `585`: 遠野　紗夜: 「日生先輩は不思議ですよね」
+  - before: 远野纱夜: 「日生学长真是个不可思议的人呢」
+  - after: 远野纱夜: 「日生前辈真是个不可思议的人呢」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:591` `hinase-senpai`
+  - ja `586`: 宮沢 夏帆: 「何で日生先輩？　あ～まあいいや～。続けて続けて～」
+  - before: 宫泽夏帆: 「为什么是日生学长？　啊——算了～。继续说继续说～」
+  - after: 宫泽夏帆: 「为什么是日生前辈？　啊——算了～。继续说继续说～」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:593` `hinase-senpai`
+  - ja `588`: 宮沢 夏帆: 「紗夜ちゃんは日生先輩の本心が知りたいの？」
+  - before: 宫泽夏帆: 「纱夜想知道日生学长的真心吗？」
+  - after: 宫泽夏帆: 「纱夜想知道日生前辈的真心吗？」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:599` `hinase-senpai`
+  - ja `594`: 宮沢 夏帆: 「日生先輩かぁ。私もよく分かんないけどな～」
+  - before: 宫泽夏帆: 「日生学长啊。我也不太明白呢～」
+  - after: 宫泽夏帆: 「日生前辈啊。我也不太明白呢～」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:630` `hinase-senpai`
+  - ja `625`: きっと、明日の今頃、私は日生先輩に告白の答えを言うだろう。
+  - before: 想必，明天的这个时候，我就会把告白的答复告诉日生学长了吧。
+  - after: 想必，明天的这个时候，我就会把告白的答复告诉日生前辈了吧。
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:667` `hikari-ojo`
+  - ja `661`: 日生 光: 「ねえ、お嬢」
+  - before: 日生光: 「喂，大小姐。」
+  - after: 日生光: 「喂，小姐。」
+- `bookish_zhcn/reading_order/08_hinase.md:416` `hinase-senpai`
+  - ja `416`: 宮沢 夏帆: 「いいけど～。あ、でも、それって日生先輩の為でしょ～？　うわ～やだぁ～」
+  - before: 宫泽夏帆: 「可以哦～。啊，不过，是为了日生学长吧～？哇～好讨厌～」
+  - after: 宫泽夏帆: 「可以哦～。啊，不过，是为了日生前辈吧～？哇～好讨厌～」
+- `bookish_zhcn/reading_order/08_hinase.md:431` `hinase-senpai`
+  - ja `431`: 噂というのは本当に早いもので、私と日生先輩が付き合っているという噂は瞬く間に広まっていった。
+  - before: 传闻真是传得快，我和日生学长在交往的传言瞬间就传开了。
+  - after: 传闻真是传得快，我和日生前辈在交往的传言瞬间就传开了。
+- `bookish_zhcn/reading_order/08_hinase.md:444` `hinase-senpai`
+  - ja `444`: あの子はきっと日生先輩のことが好きだったのだろう。
+  - before: 那孩子一定很喜欢日生学长吧。
+  - after: 那孩子一定很喜欢日生前辈吧。
+- `bookish_zhcn/reading_order/08_hinase.md:445` `hinase-senpai`
+  - ja `445`: 私が日生先輩の告白を受けていなかったら、あの子は喜んだだろうか。
+  - before: 如果我没有接受日生学长的告白，那孩子就会开心了吧。
+  - after: 如果我没有接受日生前辈的告白，那孩子就会开心了吧。
+- `bookish_zhcn/reading_order/08_hinase.md:450` `hinase-senpai`
+  - ja `450`: 遠野　紗夜: 「……日生先輩」
+  - before: 远野纱夜: 「……日生学长」
+  - after: 远野纱夜: 「……日生前辈」
+- `bookish_zhcn/reading_order/08_hinase.md:465` `hinase-senpai`
+  - ja `465`: 日生先輩は私の怒りに頓着なく、いやもしかして気付かない振りをしているのかもしれないが、そう言ってのけた。
+  - before: 日生学长丝毫不顾我的怒气——不，也许只是装作没注意到——这样说道。
+  - after: 日生前辈丝毫不顾我的怒气——不，也许只是装作没注意到——这样说道。
+- `bookish_zhcn/reading_order/08_hinase.md:475` `hinase-senpai`
+  - ja `475`: 今度は日生先輩も気付いたようで、私を不思議そうに見た。
+  - before: 这次日生学长也注意到了，他奇怪地看着我。
+  - after: 这次日生前辈也注意到了，他奇怪地看着我。
+- `bookish_zhcn/reading_order/08_hinase.md:1096` `hikari-san-private`
+  - ja `1094`: 遠野　紗夜: 「光さん……っ。光さん、光さん、光さん……っ！！」
+  - before: 远野纱夜: 「光先生……！光先生，光先生，光先生……！！」
+  - after: 远野纱夜: 「光……！光，光，光……！！」
+- `bookish_zhcn/reading_order/08_hinase.md:1135` `hikari-san-private`
+  - ja `1133`: 遠野　紗夜: 「…………光さん」
+  - before: 远野纱夜: 「…………光先生」
+  - after: 远野纱夜: 「…………光」
+- `bookish_zhcn/reading_order/08_hinase.md:1145` `hikari-san-private`
+  - ja `1143`: 遠野　紗夜: 「……光さん。昨日はありがとうございました」
+  - before: 远野纱夜: 「……光先生。昨天真是谢谢你了」
+  - after: 远野纱夜: 「……光。昨天真是谢谢你了」
+- `bookish_zhcn/reading_order/08_hinase.md:1147` `hikari-san-private`
+  - ja `1145`: 光さんは私を抱き寄せると額に口づけた。
+  - before: 光先生把我搂进怀里，在我额头上吻了一下。
+  - after: 光把我搂进怀里，在我额头上吻了一下。
+- `bookish_zhcn/reading_order/08_hinase.md:1152` `hikari-san-private`
+  - ja `1150`: 光さんの傍にいるようになった。
+  - before: 都待在光先生身边。
+  - after: 都待在光身边。
+- `bookish_zhcn/reading_order/08_hinase.md:1153` `hikari-san-private`
+  - ja `1151`: 光さんは毎朝私を迎えに来てくれて、
+  - before: 光先生每天早上都会来接我，
+  - after: 光每天早上都会来接我，
+- `bookish_zhcn/reading_order/08_hinase.md:1157` `hikari-san-private`
+  - ja `1155`: 最初、光さんに好きだと告白された
+  - before: 最初，当光先生向我告白说喜欢我时，
+  - after: 最初，当光向我告白说喜欢我时，
+- `bookish_zhcn/reading_order/08_hinase.md:1160` `hikari-san-private`
+  - ja `1158`: あの日、光さんに自分の存在を認めてもらった瞬間から、
+  - before: 但从那天光先生认可了我的存在那一刻起，
+  - after: 但从那天光认可了我的存在那一刻起，
+- `bookish_zhcn/reading_order/08_hinase.md:1162` `hikari-san-private`
+  - ja `1160`: 遠野　紗夜: 「はい、どうぞ。光さん」
+  - before: 远野纱夜: 「来，请用。光先生」
+  - after: 远野纱夜: 「来，请用。光」
+- `bookish_zhcn/reading_order/08_hinase.md:1165` `hikari-san-private`
+  - ja `1163`: 光さんはにこりと笑ってそれを受け取る。
+  - before: 光先生微微一笑，接了过去。
+  - after: 光微微一笑，接了过去。
+- `bookish_zhcn/reading_order/08_hinase.md:1183` `hikari-san-private`
+  - ja `1181`: 歩きすがら、光さんが言った。
+  - before: 走着走着，光先生问道。
+  - after: 走着走着，光问道。
+- `bookish_zhcn/reading_order/08_hinase.md:1206` `hikari-san-private`
+  - ja `1203`: どうしたのかと私が問いかけるよりも早く、光さんが言う。
+  - before: 还没等我问她怎么了，光先生就先开口了。
+  - after: 还没等我问她怎么了，光就先开口了。
+- `bookish_zhcn/reading_order/08_hinase.md:1209` `hikari-san-private`
+  - ja `1206`: 夏帆は光さんのことをじと目でにらみ付ける。
+  - before: 夏帆用死鱼眼瞪着光先生。
+  - after: 夏帆用死鱼眼瞪着光。
+- `bookish_zhcn/reading_order/08_hinase.md:1214` `hikari-san-private`
+  - ja `1211`: 何だろうと光さんと二人して彼女の言葉を待っていると、
+  - before: 我和光先生一起等着她说话，正想着这是怎么了，
+  - after: 我和光一起等着她说话，正想着这是怎么了，
+- `bookish_zhcn/reading_order/08_hinase.md:1223` `hikari-san-private`
+  - ja `1220`: 遠野　紗夜: 「……光さん？」
+  - before: 远野纱夜: 「……光先生？」
+  - after: 远野纱夜: 「……光？」
+- `bookish_zhcn/reading_order/08_hinase.md:1227` `hikari-san-private`
+  - ja `1224`: 光さんがここまで笑っている姿はあまり記憶にない。
+  - before: 我不太记得光先生笑成这样过。
+  - after: 我不太记得光笑成这样过。
+- `bookish_zhcn/reading_order/08_hinase.md:1235` `hikari-san-private`
+  - ja `1232`: 思わず呟くと光さんは私の様子に気付いたようで、
+  - before: 我不禁喃喃自语，光先生似乎注意到了我的样子，
+  - after: 我不禁喃喃自语，光似乎注意到了我的样子，
+- `bookish_zhcn/reading_order/08_hinase.md:1285` `hikari-san-private`
+  - ja `1282`: 遠野　紗夜: 「ふふ。今日は、私が光さんをエスコートするのに、遅れたら申し訳ないですからね」
+  - before: 远野纱夜: 「呵呵。今天是我要陪同光先生，要是迟到了可就麻烦了」
+  - after: 远野纱夜: 「呵呵。今天是我要陪同光，要是迟到了可就麻烦了」
+- `bookish_zhcn/reading_order/08_hinase.md:1329` `hikari-san-private`
+  - ja `1326`: 遠野　紗夜: 「光さんは、本当に何でも出来るのですね……」
+  - before: 远野纱夜: 「光先生真是无所不能呢……」
+  - after: 远野纱夜: 「光真是无所不能呢……」
+- `bookish_zhcn/reading_order/08_hinase.md:1357` `hikari-san-private`
+  - ja `1354`: 私は振り返り、後ろで見守ってくれているはずの光さんに嬉しげに報告した。
+  - before: 我转过身，开心地向应该正在身后看着我的光先生报告。
+  - after: 我转过身，开心地向应该正在身后看着我的光报告。
+- `bookish_zhcn/reading_order/08_hinase.md:1360` `hikari-san-private`
+  - ja `1357`: そう言って笑う光さんの背後には数人の人影があった。
+  - before: 这样笑着的光先生身后，有好几个人影。
+  - after: 这样笑着的光身后，有好几个人影。
+- `bookish_zhcn/reading_order/08_hinase.md:1393` `hikari-san-private`
+  - ja `1390`: 遠野　紗夜: 「光さん」
+  - before: 远野纱夜: 「光先生」
+  - after: 远野纱夜: 「光」
+- `bookish_zhcn/reading_order/08_hinase.md:1400` `hikari-san-private`
+  - ja `1397`: 暫くして、光さんはアイスクリームを片手に戻ってきた。
+  - before: 过了一会儿，光先生手拿冰淇淋回来了。
+  - after: 过了一会儿，光手拿冰淇淋回来了。
+- `bookish_zhcn/reading_order/08_hinase.md:1409` `hikari-san-private`
+  - ja `1406`: 遠野　紗夜: 「……光さんの分は？」
+  - before: 远野纱夜: 「……光先生的呢？」
+  - after: 远野纱夜: 「……光的呢？」
+- `bookish_zhcn/reading_order/08_hinase.md:1412` `hikari-san-private`
+  - ja `1409`: ……光さんがいらないなら言うべきではなかったか、と少しばかり後悔する。
+  - before: ……既然光先生不要，我是不是不该问？我有点后悔。
+  - after: ……既然光不要，我是不是不该问？我有点后悔。
+- `bookish_zhcn/reading_order/08_hinase.md:1419` `hikari-san-private`
+  - ja `1416`: 突然のことにアイスクリームを落としそうになったけれど、光さんが手を添えてくれたおかげで難を逃れた。
+  - before: 被这突如其来的举动吓了一跳，差点把冰淇淋弄掉，但光先生伸手托住了我的手，才幸免于难。
+  - after: 被这突如其来的举动吓了一跳，差点把冰淇淋弄掉，但光伸手托住了我的手，才幸免于难。
+- `bookish_zhcn/reading_order/08_hinase.md:1428` `hikari-san-private`
+  - ja `1425`: 遠野　紗夜: 「お気遣いありがとうございます。ですが、私は大丈夫です。……光さんの方こそ大丈夫ですか？」
+  - before: 远野纱夜: 「谢谢您关心。不过我没事。……倒是光先生您冷不冷？」
+  - after: 远野纱夜: 「谢谢您关心。不过我没事。……倒是光，你冷不冷？」
+- `bookish_zhcn/reading_order/08_hinase.md:1437` `hikari-san-private`
+  - ja `1434`: 遠野　紗夜: 「光さんといるととても安心します」
+  - before: 远野纱夜: 「和光先生在一起，我就很安心」
+  - after: 远野纱夜: 「和光在一起，我就很安心」
+- `bookish_zhcn/reading_order/08_hinase.md:1449` `hikari-san-private`
+  - ja `1446`: 遠野　紗夜: 「光さん……」
+  - before: 远野纱夜: 「光先生……」
+  - after: 远野纱夜: 「光……」
+- `bookish_zhcn/reading_order/08_hinase.md:1537` `hikari-san-private`
+  - ja `1533`: 私は光さんがやって来るのを待っていた。
+  - before: 我在等光先生过来。
+  - after: 我在等光过来。
+- `bookish_zhcn/reading_order/08_hinase.md:1560` `hikari-san-private`
+  - ja `1556`: 光さんはどこにいるのだろうか。
+  - before: 光先生到底在哪里呢？
+  - after: 光到底在哪里呢？
+- `bookish_zhcn/reading_order/08_hinase.md:1602` `hikari-san-private`
+  - ja `1598`: 光さんが私に好きだと言ってくれたあの日、私は彼に好きだとは言わなかった。
+  - before: 光先生对我说喜欢我的那天，我并没有对他说喜欢。
+  - after: 光对我说喜欢我的那天，我并没有对他说喜欢。
+- `bookish_zhcn/reading_order/08_hinase.md:1628` `hikari-san-private`
+  - ja `1624`: 遠野　紗夜: 「あ……光さん」
+  - before: 远野纱夜: 「啊……光先生」
+  - after: 远野纱夜: 「啊……光」
+- `bookish_zhcn/reading_order/08_hinase.md:1702` `hikari-san-private`
+  - ja `1698`: 遠野　紗夜: 「……光さんは」
+  - before: 远野纱夜: 「……光先生」
+  - after: 远野纱夜: 「……光」
+- `bookish_zhcn/reading_order/08_hinase.md:1704` `hikari-san-private`
+  - ja `1700`: 遠野　紗夜: 「……光さんは……」
+  - before: 远野纱夜: 「……光先生……」
+  - after: 远野纱夜: 「……光……」
+- `bookish_zhcn/reading_order/08_hinase.md:1723` `hikari-san-private`
+  - ja `1719`: 遠野　紗夜: 「……ですが、そうですね。光さんと一緒なら罰を受けても良いです」
+  - before: 远野纱夜: 「……不过，也是呢。如果和光先生一起的话，接受惩罚也甘愿」
+  - after: 远野纱夜: 「……不过，也是呢。如果和光一起的话，接受惩罚也甘愿」
+- `bookish_zhcn/reading_order/08_hinase.md:1738` `hikari-san-private`
+  - ja `1734`: 遠野　紗夜: 「…………光さん」
+  - before: 远野纱夜: 「…………光先生」
+  - after: 远野纱夜: 「…………光」
+- `bookish_zhcn/reading_order/08_hinase.md:1740` `hikari-san-private`
+  - ja `1736`: 遠野　紗夜: 「……光さん、ありがとうございます」
+  - before: 远野纱夜: 「……光先生，谢谢你」
+  - after: 远野纱夜: 「……光，谢谢你」
+- `bookish_zhcn/reading_order/08_hinase.md:1742` `hikari-san-private`
+  - ja `1738`: 光さんの腕の中に抱かれながら、私は夢を見る。
+  - before: 被光先生抱在怀里，我做着梦。
+  - after: 被光抱在怀里，我做着梦。
+- `bookish_zhcn/reading_order/08_hinase.md:1744` `hikari-san-private`
+  - ja `1740`: 遠野　紗夜: 「私、光さんの言った言葉が嬉しかったのです」
+  - before: 远野纱夜: 「我，很高兴听到光先生说的话。」
+  - after: 远野纱夜: 「我，很高兴听到光说的话。」
+- `bookish_zhcn/reading_order/08_hinase.md:1814` `hikari-san-private`
+  - ja `1810`: 遠野　紗夜: 「光さん！」
+  - before: 远野纱夜: 「光先生！」
+  - after: 远野纱夜: 「光！」
+- `bookish_zhcn/reading_order/08_hinase.md:1833` `hikari-san-private`
+  - ja `1829`: 最近はずっと光さんと一緒だったせいか、他のことを考える余裕などなかった。
+  - before: 也许是因为最近一直和光先生在一起，没有余暇想其他事。
+  - after: 也许是因为最近一直和光在一起，没有余暇想其他事。
+- `bookish_zhcn/reading_order/08_hinase.md:1850` `hikari-san-private`
+  - ja `1846`: こんなことをするのは、光さん以外にはいなかった為に少しばかり動揺した。
+  - before: 因为除了光先生没人会这样做，所以我有点动摇。
+  - after: 因为除了光没人会这样做，所以我有点动摇。
+- `bookish_zhcn/reading_order/08_hinase.md:1852` `hikari-san-private`
+  - ja `1848`: 遠野　紗夜: 「光さん！」
+  - before: 远野纱夜: 「光先生！」
+  - after: 远野纱夜: 「光！」
+- `bookish_zhcn/reading_order/08_hinase.md:1853` `hikari-san-private`
+  - ja `1849`: 光さんは、やあと手をあげ、私達の間に割って入った。
+  - before: 光先生「嘿」了一声，举起手插进我们中间。
+  - after: 光「嘿」了一声，举起手插进我们中间。
+- `bookish_zhcn/reading_order/08_hinase.md:1962` `hikari-san-private`
+  - ja `1958`: このところ、朝も夜も光さんが一緒にいたから。
+  - before: 因为最近早晚都有光先生陪着。
+  - after: 因为最近早晚都有光陪着。
+- `bookish_zhcn/reading_order/08_hinase.md:1983` `hikari-san-private`
+  - ja `1979`: 遠野　紗夜: 「光さん……」
+  - before: 远野纱夜: 「光先生……」
+  - after: 远野纱夜: 「光……」
+- `bookish_zhcn/reading_order/08_hinase.md:2154` `gashomachi-to-sayo-chan`
+  - ja `2149`: 臥待 春夫: 「あー、紗夜ちゃん。久しぶりだねぇ」
+  - before: 卧待春夫: 「啊——纱夜酱。好久不见啊。」
+  - after: 卧待春夫: 「啊——小纱夜。好久不见啊。」
+- `bookish_zhcn/reading_order/08_hinase.md:2160` `gashomachi-to-sayo-chan`
+  - ja `2155`: 臥待 春夫: 「紗夜ちゃんもやっぱり知らないよね？」
+  - before: 卧待春夫: 「纱夜酱也不知道吧？」
+  - after: 卧待春夫: 「小纱夜也不知道吧？」
+- `bookish_zhcn/reading_order/08_hinase.md:2213` `hikari-san-private`
+  - ja `2208`: 遠野　紗夜: 「光さん！」
+  - before: 远野纱夜: 「光先生！」
+  - after: 远野纱夜: 「光！」
+- `bookish_zhcn/reading_order/08_hinase.md:2234` `hikari-san-private`
+  - ja `2229`: 遠野　紗夜: 「……光さんは今日は何をしていたのですか？」
+  - before: 远野纱夜: 「……光先生今天做了什么？」
+  - after: 远野纱夜: 「……光今天做了什么？」
+- `bookish_zhcn/reading_order/08_hinase.md:2244` `hikari-san-private`
+  - ja `2239`: 遠野　紗夜: 「光さん？」
+  - before: 远野纱夜: 「光先生？」
+  - after: 远野纱夜: 「光？」
+- `bookish_zhcn/reading_order/08_hinase.md:2245` `hikari-san-private`
+  - ja `2240`: 名前を呼ぶと、光さんはにやりと笑う。
+  - before: 我一叫他的名字，光先生就咧嘴笑了。
+  - after: 我一叫他的名字，光就咧嘴笑了。
+- `bookish_zhcn/reading_order/08_hinase.md:2257` `hikari-san-private`
+  - ja `2252`: 遠野　紗夜: 「……光さん、何を？」
+  - before: 远野纱夜: 「……光先生，你在说什么？」
+  - after: 远野纱夜: 「……光，你在说什么？」
+- `bookish_zhcn/reading_order/08_hinase.md:2281` `hikari-san-private`
+  - ja `2275`: 私の顔のすぐ近くに光さんの顔がある。
+  - before: 光先生的脸就在我的脸附近。
+  - after: 光的脸就在我的脸附近。
+- `bookish_zhcn/reading_order/08_hinase.md:2325` `hikari-san-private`
+  - ja `2319`: 光さんの話を聞いていたら、とても胸が苦しくなって、息をするのが苦しくなって、眸から大粒の水が何度もこぼれ落ちた。
+  - before: 听着光先生的故事，胸口非常难受，呼吸变得困难，大颗的水珠一次又一次地从眼眶中滚落。
+  - after: 听着光的故事，胸口非常难受，呼吸变得困难，大颗的水珠一次又一次地从眼眶中滚落。
+- `bookish_zhcn/reading_order/08_hinase.md:2331` `hikari-san-private`
+  - ja `2325`: いつまでも泣き続ける私を、光さんはぽんぽんとまるで小さい子をあやすように撫でた。
+  - before: 看着一直哭个不停的我，光先生轻轻地抚摸着，就像哄小孩一样。
+  - after: 看着一直哭个不停的我，光轻轻地抚摸着，就像哄小孩一样。
+- `bookish_zhcn/reading_order/08_hinase.md:2364` `hikari-san-private`
+  - ja `2358`: 遠野　紗夜: 「光さんと私は何も約束はしていませんでした」
+  - before: 远野纱夜: 「我和光先生没有约定过任何事情」
+  - after: 远野纱夜: 「我和光没有约定过任何事情」
+- `bookish_zhcn/reading_order/08_hinase.md:2393` `hikari-san-private`
+  - ja `2387`: ついに光さんは姿を現さなかった。
+  - before: 最终，光先生一直没有出现。
+  - after: 最终，光一直没有出现。
+- `bookish_zhcn/reading_order/08_hinase.md:2514` `hikari-san-private`
+  - ja `2508`: 遠野　紗夜: 「昨日の夜、光さんは私の部屋に来て一緒に……」
+  - before: 远野纱夜: 「昨天晚上，光先生来到我房间，一起……」
+  - after: 远野纱夜: 「昨天晚上，光来到我房间，一起……」
+- `bookish_zhcn/reading_order/08_hinase.md:2547` `hikari-san-private`
+  - ja `2541`: この言葉が真実ならば、あの後すぐに家から光さんが出てきて…………？
+  - before: 如果这话是真的，那么之后不久光先生就从家里出来了……？
+  - after: 如果这话是真的，那么之后不久光就从家里出来了……？
+- `bookish_zhcn/reading_order/08_hinase.md:2615` `hikari-san-private`
+  - ja `2609`: 遠野　紗夜: 「光さん……っ」
+  - before: 远野纱夜: 「光先生……！」
+  - after: 远野纱夜: 「光……！」
+- `bookish_zhcn/reading_order/08_hinase.md:2617` `hikari-san-private`
+  - ja `2611`: 遠野　紗夜: 「光さん、光さん……っ」
+  - before: 远野纱夜: 「光先生，光先生……！」
+  - after: 远野纱夜: 「光，光……！」
+- `bookish_zhcn/reading_order/08_hinase.md:2728` `hikari-san-private`
+  - ja `2722`: いつも、光さんと一緒にいた女の人。
+  - before: 总是和光先生在一起的那个女人。
+  - after: 总是和光在一起的那个女人。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:647` `hikari-ojo`
+  - ja `598`: 日生 光: 「まるでいつも僕がまともに食べてないように言ってるけど、ちゃんと僕だって普通に昼食くらい摂るよね？　お嬢」
+  - before: 日生光: 「说得好像我一直不好好吃饭似的，但我也正常吃午饭的好吧？大小姐」
+  - after: 日生光: 「说得好像我一直不好好吃饭似的，但我也正常吃午饭的好吧？小姐」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:654` `hinase-senpai`
+  - ja `605`: 日生先輩の言う通り、確かにその時はいつものゼリー飲料ではなく、パエリアを頼んで食べていた。
+  - before: 正如日生学长所说，当时确实没有点平时的果冻饮料，而是点了西班牙海鲜饭吃了。
+  - after: 正如日生前辈所说，当时确实没有点平时的果冻饮料，而是点了西班牙海鲜饭吃了。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:799` `hinase-senpai`
+  - ja `748`: 以前、日生先輩にキスをせがんでいた女子生徒だ。
+  - before: 是以前缠着日生学长要接吻的那个女生。
+  - after: 是以前缠着日生前辈要接吻的那个女生。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:825` `hinase-senpai`
+  - ja `774`: 遠野　紗夜: 「……日生先輩は」
+  - before: 远野纱夜: 「……日生学长」
+  - after: 远野纱夜: 「……日生前辈」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:827` `hinase-senpai`
+  - ja `776`: 遠野　紗夜: 「日生先輩は不思議ですよね」
+  - before: 远野纱夜: 「日生学长真是个不可思议的人呢」
+  - after: 远野纱夜: 「日生前辈真是个不可思议的人呢」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:828` `hinase-senpai`
+  - ja `777`: 宮沢 夏帆: 「何で日生先輩？　あ～まあいいや～。続けて続けて～」
+  - before: 宫泽夏帆: 「为什么是日生学长？　啊——算了～。继续说继续说～」
+  - after: 宫泽夏帆: 「为什么是日生前辈？　啊——算了～。继续说继续说～」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:830` `hinase-senpai`
+  - ja `779`: 宮沢 夏帆: 「紗夜ちゃんは日生先輩の本心が知りたいの？」
+  - before: 宫泽夏帆: 「纱夜想知道日生学长的真心吗？」
+  - after: 宫泽夏帆: 「纱夜想知道日生前辈的真心吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:836` `hinase-senpai`
+  - ja `785`: 宮沢 夏帆: 「日生先輩かぁ。私もよく分かんないけどな～」
+  - before: 宫泽夏帆: 「日生学长啊。我也不太明白呢～」
+  - after: 宫泽夏帆: 「日生前辈啊。我也不太明白呢～」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:869` `hinase-senpai`
+  - ja `816`: きっと、明日の今頃、私は日生先輩に告白の答えを言うだろう。
+  - before: 想必，明天的这个时候，我就会把告白的答复告诉日生学长了吧。
+  - after: 想必，明天的这个时候，我就会把告白的答复告诉日生前辈了吧。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:912` `hikari-ojo`
+  - ja `854`: 日生 光: 「ねえ、お嬢」
+  - before: 日生光: 「喂，大小姐。」
+  - after: 日生光: 「喂，小姐。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:969` `hikari-ojo`
+  - ja `906`: 日生 光: 「いや、謝らなくてもいいよ。お嬢が僕のことを好きじゃないというのならさ」
+  - before: 日生光: 「不，你不用道歉。既然大小姐不喜欢我，那也没办法。」
+  - after: 日生光: 「不，你不用道歉。既然小姐不喜欢我，那也没办法。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1097` `sayo-to-chiyo-san`
+  - ja `1027`: 遠野　紗夜: 「あの時、千代さんが私に話しかけてくれなければ、こうしていることもなかったのかもしれないのですから」
+  - before: 远野纱夜: 「那个时候，如果不是千代先生主动跟我搭话，或许也不会有现在这样的局面呢。」
+  - after: 远野纱夜: 「那个时候，如果不是千代主动跟我搭话，或许也不会有现在这样的局面呢。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1098` `sayo-to-chiyo-san`
+  - ja `1028`: 遠野　紗夜: 「お二人に会えて、こうして知ることが出来て、本当に良かったです。ありがとうございます、千代さん」
+  - before: 远野纱夜: 「能见到您二位，能够这样了解你们，真是太好了。谢谢您，千代先生。」
+  - after: 远野纱夜: 「能见到您二位，能够这样了解你们，真是太好了。谢谢您，千代。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1179` `sayo-to-chiyo-san`
+  - ja `1102`: 遠野　紗夜: 「あの時、千代さんが私に話しかけてくれなければ、こうしていることもなかったのかもしれないのですから」
+  - before: 远野纱夜: 「那个时候，如果不是千代先生主动跟我搭话，或许也不会有现在这样的局面呢。」
+  - after: 远野纱夜: 「那个时候，如果不是千代主动跟我搭话，或许也不会有现在这样的局面呢。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1180` `sayo-to-chiyo-san`
+  - ja `1103`: 遠野　紗夜: 「お二人に会えて、こうして知ることが出来て、本当に良かったです。ありがとうございます、千代さん」
+  - before: 远野纱夜: 「能见到您二位，能够这样了解你们，真是太好了。谢谢您，千代先生。」
+  - after: 远野纱夜: 「能见到您二位，能够这样了解你们，真是太好了。谢谢您，千代。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1877` `sayo-to-chiyo-san`
+  - ja `1772`: 遠野　紗夜: 「千代さんが？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1933` `sayo-to-chiyo-san`
+  - ja `1828`: 私がぼんやりとしてると、千代さんがため息混じりに呟いた。
+  - before: 我还在发呆时，千代小姐叹了口气嘟囔道。
+  - after: 我还在发呆时，千代叹了口气嘟囔道。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1936` `sayo-to-chiyo-san`
+  - ja `1831`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:1972` `sayo-to-chiyo-san`
+  - ja `1863`: 千代さんが私の味方にまわってくれる。
+  - before: 千代小姐站在我这边。
+  - after: 千代站在我这边。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2005` `sayo-to-chiyo-san`
+  - ja `1896`: 遠野　紗夜: 「では、桐島先輩、千代さん。今度こそ本当に失礼致します」
+  - before: 远野纱夜: 「那么，桐岛前辈，千代小姐。这次我真的失陪了。」
+  - after: 远野纱夜: 「那么，桐岛前辈，千代。这次我真的失陪了。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2041` `sayo-to-chiyo-san`
+  - ja `1926`: 千代さんが私の味方にまわってくれる。
+  - before: 千代小姐站在我这边。
+  - after: 千代站在我这边。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2074` `sayo-to-chiyo-san`
+  - ja `1959`: 遠野　紗夜: 「では、桐島先輩、千代さん。今度こそ本当に失礼致します」
+  - before: 远野纱夜: 「那么，桐岛前辈，千代小姐。这次我真的失陪了。」
+  - after: 远野纱夜: 「那么，桐岛前辈，千代。这次我真的失陪了。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2159` `sayo-to-chiyo-san`
+  - ja `2035`: ああ、けれど千代さんなはずがない。
+  - before: 千代小姐？
+  - after: 千代？
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2160` `sayo-to-chiyo-san`
+  - ja `2035`: ああ、けれど千代さんなはずがない。
+  - before: 啊，但是不可能是千代小姐。
+  - after: 啊，但是不可能是千代。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2204` `hinase-senpai`
+  - ja `2077`: 女子生徒Ａ: 「日生先輩、おはようございます」
+  - before: 女学生A: 「日生学长，早上好」
+  - after: 女学生A: 「日生前辈，早上好」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2210` `hikari-ojo`
+  - ja `2083`: 日生 光: 「お嬢。おはよう」
+  - before: 日生光: 「大小姐，早上好。」
+  - after: 日生光: 「小姐，早上好。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2361` `hikari-ojo`
+  - ja `2228`: 日生 光: 「あれ、桐島君。それにお嬢も。……二人して何か僕に用事？」
+  - before: 日生光: 「哎呀，桐岛君。还有大小姐也是。……两个人一起找我有什么事吗？」
+  - after: 日生光: 「哎呀，桐岛君。还有小姐也是。……两个人一起找我有什么事吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2380` `hikari-ojo`
+  - ja `2247`: 日生 光: 「大体、僕がお嬢に話があるなんて、とっくに終わったことじゃないか」
+  - before: 日生光: 「再说了，我说有事要跟大小姐谈，那件事不是早就了结了吗？」
+  - after: 日生光: 「再说了，我说有事要跟小姐谈，那件事不是早就了结了吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2385` `hikari-ojo`
+  - ja `2252`: 日生 光: 「大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ」
+  - before: 日生光: 「没事的，大小姐。我被你甩了这件事，桐岛君也知道哦」
+  - after: 日生光: 「没事的，小姐。我被你甩了这件事，桐岛君也知道哦」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2418` `hikari-ojo`
+  - ja `2281`: 千代: 「おーい、七葵君！　お嬢さーん！！」
+  - before: 千代: 「喂——七葵君！大小姐——！！」
+  - after: 千代: 「喂——七葵君！小姐——！！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2423` `hikari-ojo`
+  - ja `2286`: 日生 光: 『大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ』
+  - before: 日生光: 「没事的，大小姐。我被你甩了这件事，桐岛君也知道哦」
+  - after: 日生光: 「没事的，小姐。我被你甩了这件事，桐岛君也知道哦」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2444` `chiyo-ojousan`
+  - ja `2307`: 千代: 「あ、あの！　お嬢さん！」
+  - before: 千代: 「啊，那个！大小姐！」
+  - after: 千代: 「啊，那个！小姐！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2476` `hikari-ojo`
+  - ja `2334`: 千代: 「おーい、七葵君！　お嬢さーん！！」
+  - before: 千代: 「喂——七葵君！大小姐——！！」
+  - after: 千代: 「喂——七葵君！小姐——！！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2481` `hikari-ojo`
+  - ja `2339`: 日生 光: 『大丈夫だよ、お嬢。僕が君に振られたことも桐島君は知ってるよ』
+  - before: 日生光: 「没事的，大小姐。我被你甩了这件事，桐岛君也知道哦」
+  - after: 日生光: 「没事的，小姐。我被你甩了这件事，桐岛君也知道哦」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2502` `chiyo-ojousan`
+  - ja `2360`: 千代: 「あ、あの！　お嬢さん！」
+  - before: 千代: 「啊，那个！大小姐！」
+  - after: 千代: 「啊，那个！小姐！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2520` `chiyo-ojousan`
+  - ja `2377`: 千代: 「気にしないで下さい、お嬢さん。ただ言ってみただけですから」
+  - before: 千代: 「别在意，大小姐。我只是说说而已」
+  - after: 千代: 「别在意，小姐。我只是说说而已」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2521` `chiyo-ojousan`
+  - ja `2378`: 千代: 「でも、困った時はいつでも言って下さいね。俺、お嬢さんの為なら頑張りますから」
+  - before: 千代: 「不过，有困难的时候随时告诉我哦。为了大小姐我会努力的」
+  - after: 千代: 「不过，有困难的时候随时告诉我哦。为了小姐我会努力的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2547` `chiyo-ojousan`
+  - ja `2402`: 千代: 「うわ、す、すみません！　お嬢さん！　って、あっ」
+  - before: 千代: 「哇，对、对不起！大小姐！啊，糟了」
+  - after: 千代: 「哇，对、对不起！小姐！啊，糟了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2556` `chiyo-ojousan`
+  - ja `2411`: 千代: 「すみません。俺は黙っているので、どうぞお嬢さんは授業を続けて下さい」
+  - before: 千代: 「对不起。我不说话了，大小姐你继续上课吧」
+  - after: 千代: 「对不起。我不说话了，小姐你继续上课吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2561` `chiyo-ojousan`
+  - ja `2416`: 千代: 「って、お嬢さん、俺と話していて大丈夫ですか？」
+  - before: 千代: 「——话说，大小姐，您跟我说话不要紧吗？」
+  - after: 千代: 「——话说，小姐，您跟我说话不要紧吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2565` `chiyo-ojousan`
+  - ja `2420`: 千代: 「あはは。それはそうだけど、そうするとお嬢さんが不良みたいだ」
+  - before: 千代: 「啊哈哈。话是这么说，但这样一来大小姐您不就像个不良少女了嘛」
+  - after: 千代: 「啊哈哈。话是这么说，但这样一来小姐您不就像个不良少女了嘛」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2573` `chiyo-ojousan`
+  - ja `2428`: 千代: 「すみません！　お嬢さん！」
+  - before: 千代: 「对不起！大小姐！」
+  - after: 千代: 「对不起！小姐！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2623` `chiyo-ojousan`
+  - ja `2473`: 千代: 「お、お嬢さん？」
+  - before: 千代: 「大、大小姐？」
+  - after: 千代: 「大、小姐？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2651` `chiyo-ojousan`
+  - ja `2501`: 千代: 「そうですか？　前にお嬢さんが来た時も皆喜んでいたじゃないですか」
+  - before: 千代: 「是吗？之前大小姐您去的时候，大家不都很高兴吗」
+  - after: 千代: 「是吗？之前小姐您去的时候，大家不都很高兴吗」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2716` `chiyo-ojousan`
+  - ja `2561`: 千代: 「そうですか？　前にお嬢さんが来た時も皆喜んでいたじゃないですか」
+  - before: 千代: 「是吗？之前大小姐您去的时候，大家不都很高兴吗」
+  - after: 千代: 「是吗？之前小姐您去的时候，大家不都很高兴吗」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2804` `chiyo-ojousan`
+  - ja `2643`: 千代: 「七葵君は部活中です。俺とお嬢さんは、七葵君を待っているんですよ」
+  - before: 千代: 「七葵君在参加社团活动。我和大小姐正在等他呢」
+  - after: 千代: 「七葵君在参加社团活动。我和小姐正在等他呢」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2828` `chiyo-ojousan`
+  - ja `2665`: 千代: 「……お嬢さんは、やっぱり……」
+  - before: 千代: 「……大小姐果然还是……」
+  - after: 千代: 「……小姐果然还是……」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2837` `chiyo-ojousan`
+  - ja `2674`: 千代: 「……お嬢さん。蒼さんにも日生さんのことを言うべきでしょうか？」
+  - before: 千代: 「……大小姐。要不要也跟苍先生说日生先生的事？」
+  - after: 千代: 「……小姐。要不要也跟苍先生说日生先生的事？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2912` `chiyo-ojousan`
+  - ja `2745`: 千代: 「七葵君は部活中です。俺とお嬢さんは、七葵君を待っているんですよ」
+  - before: 千代: 「七葵君在参加社团活动。我和大小姐正在等他呢」
+  - after: 千代: 「七葵君在参加社团活动。我和小姐正在等他呢」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2937` `chiyo-ojousan`
+  - ja `2768`: 千代: 「……お嬢さん。蒼さんにも日生さんのことを言うべきでしょうか？」
+  - before: 千代: 「……大小姐。要不要也跟苍先生说日生先生的事？」
+  - after: 千代: 「……小姐。要不要也跟苍先生说日生先生的事？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3001` `chiyo-ojousan`
+  - ja `2830`: 千代: 「お嬢さんを探しに来ました！」
+  - before: 千代: 「我们是来找大小姐的！」
+  - after: 千代: 「我们是来找小姐的！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3012` `chiyo-ojousan`
+  - ja `2841`: 千代: 「お嬢さんの安否を確認に」
+  - before: 千代: 「来确认大小姐是否平安」
+  - after: 千代: 「来确认小姐是否平安」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3079` `chiyo-ojousan`
+  - ja `2906`: 千代: 「お嬢さん、蒼さん。そろそろ、七葵君がこっちへ戻ってきますよ」
+  - before: 千代: 「大小姐，苍。七葵君差不多该回来了」
+  - after: 千代: 「小姐，苍。七葵君差不多该回来了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3084` `chiyo-ojousan`
+  - ja `2911`: 千代: 「はい！　お嬢さんは七葵君から聞いたんですか？」
+  - before: 千代: 「是的！大小姐是从七葵君那儿听说的吗？」
+  - after: 千代: 「是的！小姐是从七葵君那儿听说的吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3188` `sayo-to-chiyo-san`
+  - ja `3011`: 余計なことだったのだろうかと思った時には遅く、桐島先輩は千代さんを軽く睨んでいた。
+  - before: 当我想到是不是多嘴了的时候已经晚了，桐岛前辈正轻轻瞪着千代小姐。
+  - after: 当我想到是不是多嘴了的时候已经晚了，桐岛前辈正轻轻瞪着千代。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3365` `sayo-to-chiyo-san`
+  - ja `3183`: 余計なことだったのだろうかと思った時には遅く、桐島先輩は千代さんを軽く睨んでいた。
+  - before: 当我想到是不是多嘴了的时候已经晚了，桐岛前辈正轻轻瞪着千代小姐。
+  - after: 当我想到是不是多嘴了的时候已经晚了，桐岛前辈正轻轻瞪着千代。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4282` `hikari-ojo`
+  - ja `4071`: 日生 光: 「……僕の顔がどうかした？　お嬢」
+  - before: 日生光: 「……我脸上有什么吗？大小姐」
+  - after: 日生光: 「……我脸上有什么吗？小姐」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5093` `sayo-to-chiyo-san`
+  - ja `4846`: 遠野　紗夜: 「宜しいのですよ、千代さん。そんなに気になさらなくとも」
+  - before: 远野纱夜: 「没关系的，千代小姐。不用那么在意」
+  - after: 远野纱夜: 「没关系的，千代。不用那么在意」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5096` `sayo-to-chiyo-san`
+  - ja `4849`: 昨日の夜、光先輩の後を追った千代さんだったが、どうやら途中で撒かれてしまったらしい。
+  - before: 昨晚，千代小姐去跟踪光前辈，但似乎在途中被甩掉了。
+  - after: 昨晚，千代去跟踪光前辈，但似乎在途中被甩掉了。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5098` `sayo-to-chiyo-san`
+  - ja `4851`: 見ていて分かりやすいくらいに落ち込む千代さんをどう慰めたらいいのか分からず、桐島先輩へと目をやった。
+  - before: 看着千代小姐沮丧得一眼就能看出，我不知道该怎么安慰她，于是看向了桐岛前辈。
+  - after: 看着千代沮丧得一眼就能看出，我不知道该怎么安慰她，于是看向了桐岛前辈。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5105` `sayo-to-chiyo-san`
+  - ja `4858`: 千代さんの眸にはじんわりと涙が浮かんでいる。
+  - before: 千代小姐的眼眶里噙着泪水。
+  - after: 千代的眼眶里噙着泪水。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5111` `sayo-to-chiyo-san`
+  - ja `4864`: 千代さんが泣き止むと、破顔一笑、桐島先輩にしては珍しい種類の笑い方をする。
+  - before: 千代小姐止住哭泣后，桐岛前辈露出了难得的笑容，破颜一笑。
+  - after: 千代止住哭泣后，桐岛前辈露出了难得的笑容，破颜一笑。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5118` `sayo-to-chiyo-san`
+  - ja `4871`: 先程まで落ち込んでいたはずの千代さんだが、私の言葉を聞くなり、顔を明るくさせた。
+  - before: 刚才还沮丧得不行的千代小姐，一听到我的话立刻喜笑颜开。
+  - after: 刚才还沮丧得不行的千代，一听到我的话立刻喜笑颜开。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5123` `sayo-to-chiyo-san`
+  - ja `4876`: 千代さんは殴られた頭をさすりながら、照れくさそうに笑う。
+  - before: 千代小姐揉着被打的头，有些不好意思地笑了。
+  - after: 千代揉着被打的头，有些不好意思地笑了。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5140` `sayo-to-chiyo-san`
+  - ja `4893`: 千代さんに助けてもらえば、この物語の最大の謎が簡単に分かってしまうかもしれないのだから、そんなのはつまらない。
+  - before: 如果靠千代小姐帮忙，这个物语最大的谜团也许轻易就能解开，那就太无趣了。
+  - after: 如果靠千代帮忙，这个物语最大的谜团也许轻易就能解开，那就太无趣了。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5143` `sayo-to-chiyo-san`
+  - ja `4896`: 遠野　紗夜: 「最初から、千代さんが光先輩を見失うということに自信があったのでしょうか？」
+  - before: 远野纱夜: 「难道你从一开始就有自信千代小姐会跟丢光前辈吗？」
+  - after: 远野纱夜: 「难道你从一开始就有自信千代会跟丢光前辈吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5153` `sayo-to-chiyo-san`
+  - ja `4906`: 遠野　紗夜: 「私も運命的なものは感じます。他人の目には触れることの出来ない千代さんが、光先輩を見失ってしまうこと自体が少し不自然なような気がしますし」
+  - before: 远野纱夜: 「我也能感觉到某种宿命性。别人无法触及到的千代小姐，却跟丢了光前辈，这件事本身就显得有些不自然」
+  - after: 远野纱夜: 「我也能感觉到某种宿命性。别人无法触及到的千代，却跟丢了光前辈，这件事本身就显得有些不自然」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5154` `sayo-to-chiyo-san`
+  - ja `4907`: 遠野　紗夜: 「あ、勿論、光先輩が実は千代さんのことが見えていたなら話は変わってしまいますが」
+  - before: 远野纱夜: 「啊，当然，如果光前辈实际上能看见千代小姐的话，那就另当别论了」
+  - after: 远野纱夜: 「啊，当然，如果光前辈实际上能看见千代的话，那就另当别论了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5156` `sayo-to-chiyo-san`
+  - ja `4909`: 遠野　紗夜: 「事情がどうであれ、それを、少なくとも相手には見えないであろう千代さんに助けてもらって答えを知るなんて、フェアではないですよね」
+  - before: 远野纱夜: 「不管实际情况如何，靠至少对方看不见的千代小姐来帮忙得到答案，那就不公平了，对吧」
+  - after: 远野纱夜: 「不管实际情况如何，靠至少对方看不见的千代来帮忙得到答案，那就不公平了，对吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5168` `chiyo-ojousan`
+  - ja `4921`: 千代: 「そうですよ！　今更ですよ！！　お嬢さんがいい人なのも七葵君がお父さんなのも俺はずっと前から知ってたよ！！」
+  - before: 千代: 「就是啊！都现在才说！！大小姐人好，七葵君像老爸，我早就知道了啊！！」
+  - after: 千代: 「就是啊！都现在才说！！小姐人好，七葵君像老爸，我早就知道了啊！！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5189` `chiyo-ojousan`
+  - ja `4942`: 千代: 「あ、じゃあお嬢さん！　また後でお会いしましょうね！」
+  - before: 千代: 「啊，那大小姐！我们回头见啦！」
+  - after: 千代: 「啊，那小姐！我们回头见啦！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5418` `chiyo-ojousan`
+  - ja `5157`: 千代: 「あ！　お嬢さんが来たよ！」
+  - before: 千代: 「啊！大小姐来了！」
+  - after: 千代: 「啊！小姐来了！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5449` `sayo-to-chiyo-san`
+  - ja `5188`: けれど、名前呼びが嫌だと言っているはずなのに、千代さんだけはちゃんと『七葵』と下の名前で呼んでいるのは彼が心を許した幼馴染みという証拠なのだろうか。
+  - before: 但是，明明他说讨厌被叫名字，却只有千代小姐一直用『七葵』这个名来叫他，这大概是他肯敞开心扉的青梅竹马的证明吧？
+  - after: 但是，明明他说讨厌被叫名字，却只有千代一直用『七葵』这个名来叫他，这大概是他肯敞开心扉的青梅竹马的证明吧？
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5492` `sayo-to-chiyo-san`
+  - ja `5231`: 私は千代さんに『すみません』と目配せする。
+  - before: 我用眼神对千代小姐说了声『对不起』。
+  - after: 我用眼神对千代说了声『对不起』。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5523` `sayo-to-chiyo-san`
+  - ja `5262`: 意味深な言葉を残し光先輩が去った後、千代さんが唐突に叫んだ。
+  - before: 光前辈留下意味深长的话离去后，千代小姐突然大叫起来。
+  - after: 光前辈留下意味深长的话离去后，千代突然大叫起来。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5543` `sayo-to-chiyo-san`
+  - ja `5282`: 遠野　紗夜: 「千代さん。本当に私、気にしていないので……」
+  - before: 远野纱夜: 「千代先生。我真的不在意的……」
+  - after: 远野纱夜: 「千代。我真的不在意的……」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5547` `sayo-to-chiyo-san`
+  - ja `5286`: まさか千代さんからお叱りの言葉を受けるとは思い掛けず、つい怯んでしまった。
+  - before: 我没想到会被千代小姐这样训斥，不由得缩了一下。
+  - after: 我没想到会被千代这样训斥，不由得缩了一下。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5551` `sayo-to-chiyo-san`
+  - ja `5290`: けれど、千代さんの方はそうではないようで、眉を下げ、頭を抱えた。
+  - before: 不过千代小姐似乎不是这样，她皱着眉，抱着头。
+  - after: 不过千代似乎不是这样，她皱着眉，抱着头。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5557` `sayo-to-chiyo-san`
+  - ja `5296`: 千代さんはふらふらと外へ出て行ってしまった。
+  - before: 千代小姐晃晃悠悠地走出去了。
+  - after: 千代晃晃悠悠地走出去了。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5576` `sayo-to-chiyo-san`
+  - ja `5315`: 遠野　紗夜: 「はい。……千代さんにもあげられたら良かったのですが」
+  - before: 远野纱夜: 「嗯。……能给千代先生就好了」
+  - after: 远野纱夜: 「嗯。……能给千代就好了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5773` `hikari-senpai`
+  - ja `5496`: 夜になると、私は光先輩にも同様の内容を伝える。
+  - before: 到了晚上，我也向光先生传达了同样的内容。
+  - after: 到了晚上，我也向光前辈传达了同样的内容。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5784` `hikari-senpai`
+  - ja `5507`: 遠野　紗夜: 「私を信じて下さい、光先輩」
+  - before: 远野纱夜: 「请相信我，光先生」
+  - after: 远野纱夜: 「请相信我，光前辈」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5791` `hikari-senpai`
+  - ja `5514`: 私の発言に光先輩だけでなく、その場にいる全員が驚いたようだった。
+  - before: 我的发言似乎不只让光先生，也让在场的所有人都吃了一惊。
+  - after: 我的发言似乎不只让光前辈，也让在场的所有人都吃了一惊。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5792` `hikari-senpai`
+  - ja `5515`: 光先輩が姿を消すなり、皆が私に理由を求めた。
+  - before: 光先生一消失，大家就纷纷向我询问理由。
+  - after: 光前辈一消失，大家就纷纷向我询问理由。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5880` `sayo-to-chiyo-san`
+  - ja `5601`: 朗らかに笑う千代さん。
+  - before: 千代小姐开朗地笑了起来。
+  - after: 千代开朗地笑了起来。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6102` `hikari-ojo`
+  - ja `5823`: 日生 光: 「Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ！　よく僕が出した問題を解いたね。おめでとう。流石、お嬢だ」
+  - before: 日生光: 「Congratulations！你很好地解开我出的题了呢。恭喜你。不愧是我的大小姐。」
+  - after: 日生光: 「Congratulations！你很好地解开我出的题了呢。恭喜你。不愧是我的小姐。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6215` `sayo-to-chiyo-san`
+  - ja `5932`: 千代さんに連れられてやってきた港。
+  - before: 被千代小姐带到的这个港口。
+  - after: 被千代带到的这个港口。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6405` `sayo-to-chiyo-san`
+  - ja `6118`: 千代さんに連れられてやってきた港。
+  - before: 被千代小姐带到的这个港口。
+  - after: 被千代带到的这个港口。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6606` `sayo-to-chiyo-san`
+  - ja `6317`: 千代さんが私の背中を押した。
+  - before: 千代小姐在我背后推了一把。
+  - after: 千代在我背后推了一把。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6646` `chiyo-ojousan`
+  - ja `6357`: 千代: 「お、お嬢さん？」
+  - before: 千代: 「大、大小姐？」
+  - after: 千代: 「大、小姐？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6757` `sayo-to-chiyo-san`
+  - ja `6466`: 遠野　紗夜: 「……桐島先輩。千代さん」
+  - before: 远野纱夜: 「……桐岛前辈。千代小姐」
+  - after: 远野纱夜: 「……桐岛前辈。千代」
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:24` `hikari-senpai`
+  - ja `24`: 勿論、その場合は全教科やり直しが科せられるわけだが、数年間、この町を離れていた光先輩には人並み以上に重い試練となってのし掛かっているというわけである。
+  - before: 当然，这种情况会被要求所有科目重考，但对于离开这个城镇数年的光先生来说，这成了一道比常人更沉重的考验压在他身上。
+  - after: 当然，这种情况会被要求所有科目重考，但对于离开这个城镇数年的光前辈来说，这成了一道比常人更沉重的考验压在他身上。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:50` `chiyo-ojousan`
+  - ja `50`: 千代: 「七葵君もお嬢さんも大変ですねぇ……」
+  - before: 千代: 「七葵君和大小姐都很辛苦呢……」
+  - after: 千代: 「七葵君和小姐都很辛苦呢……」
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:51` `sayo-to-chiyo-san`
+  - ja `51`: 千代さんがしみじみと言う。
+  - before: 千代小姐感慨地说道。
+  - after: 千代感慨地说道。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:63` `hikari-senpai`
+  - ja `63`: 桐島先輩は、光先輩の首根っこを掴んで椅子から引きずり下ろす。
+  - before: 桐岛前辈一把抓住光先生的脖颈，把他从椅子上拖了下来。
+  - after: 桐岛前辈一把抓住光前辈的脖颈，把他从椅子上拖了下来。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:65` `chiyo-ojousan`
+  - ja `65`: 千代: 「あ、それじゃあ、お嬢さん、また！」
+  - before: 千代: 「啊，那么，大小姐，回头见！」
+  - after: 千代: 「啊，那么，小姐，回头见！」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:13` `hikari-senpai`
+  - ja `13`: 今日は確か光先輩と一緒にいるのではなかっただろうか。
+  - before: 今天他应该和光先生在一起才对。
+  - after: 今天他应该和光前辈在一起才对。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:18` `hikari-senpai`
+  - ja `18`: 遠野　紗夜: 「分かっています。光先輩なら見なかったですよ」
+  - before: 远野纱夜: 「我知道。光先生的话我没看到」
+  - after: 远野纱夜: 「我知道。光前辈的话我没看到」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:72` `hikari-senpai`
+  - ja `71`: 遠野　紗夜: 「光先輩と一緒にいることがです」
+  - before: 远野纱夜: 「和光先生在一起这件事」
+  - after: 远野纱夜: 「和光前辈在一起这件事」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:77` `hikari-senpai`
+  - ja `76`: 遠野　紗夜: 「……別に、光先輩が嫌いなわけではないのです。ただ、今まで知っていた彼の方が偽物だということが未だ信じられなくて」
+  - before: 远野纱夜: 「……我并不是讨厌光先生。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:115` `chiyo-ojousan`
+  - ja `114`: 千代: 「七葵くーん！！　……あ！　お嬢さん！　お嬢さん！！」
+  - before: 千代: 「七葵君——！！……啊！大小姐！大小姐！！」
+  - after: 千代: 「七葵君——！！……啊！小姐！小姐！！」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:116` `sayo-to-chiyo-san`
+  - ja `115`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:119` `chiyo-ojousan`
+  - ja `118`: 千代: 「お嬢さん！　こんにちは！！」
+  - before: 千代: 「大小姐！你好！！」
+  - after: 千代: 「小姐！你好！！」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:130` `hikari-senpai`
+  - ja `129`: 遠野　紗夜: 「桐島先輩はこの後、光先輩を迎えに行くのですか？」
+  - before: 远野纱夜: 「桐岛前辈接下来要去接光先生吗？」
+  - after: 远野纱夜: 「桐岛前辈接下来要去接光前辈吗？」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:158` `hikari-senpai`
+  - ja `157`: 遠野　紗夜: 「おはようございます。光先輩」
+  - before: 远野纱夜: 「早上好。光先生」
+  - after: 远野纱夜: 「早上好。光前辈」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:241` `hikari-senpai`
+  - ja `239`: 引きずるように光先輩を連れて行く。
+  - before: 他像拖东西一样把光先生带走了。
+  - after: 他像拖东西一样把光前辈带走了。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:244` `sayo-to-chiyo-san`
+  - ja `242`: 遠野　紗夜: 「千代さんは先輩達と一緒に行かないのですか？」
+  - before: 远野纱夜: 「千代小姐不跟前辈们一起走吗？」
+  - after: 远野纱夜: 「千代不跟前辈们一起走吗？」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:251` `sayo-to-chiyo-san`
+  - ja `249`: 私と千代さんは特に行く宛もなく歩く。
+  - before: 我和千代小姐漫无目的地走着。
+  - after: 我和千代漫无目的地走着。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:267` `sayo-to-chiyo-san`
+  - ja `265`: 千代さんは深く頭を下げ、私は慌てて手を振る。
+  - before: 千代小姐深深地低下头，我慌忙摆手。
+  - after: 千代深深地低下头，我慌忙摆手。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:268` `sayo-to-chiyo-san`
+  - ja `266`: 遠野　紗夜: 「い、いえ。千代さんが謝るようなことでは……」
+  - before: 远野纱夜: 「不、不用。这不是千代小姐该道歉的事……」
+  - after: 远野纱夜: 「不、不用。这不是千代该道歉的事……」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:271` `sayo-to-chiyo-san`
+  - ja `269`: 地団駄踏む千代さんに、
+  - before: 看着跺脚的千代小姐，
+  - after: 看着跺脚的千代，
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:288` `sayo-to-chiyo-san`
+  - ja `286`: 千代さんは少し驚いたような顔をしたかと思うと、すぐに柔らかく微笑んだ。
+  - before: 千代小姐先是露出了有些惊讶的表情，随即温柔地微笑起来。
+  - after: 千代先是露出了有些惊讶的表情，随即温柔地微笑起来。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:334` `sayo-to-chiyo-san`
+  - ja `330`: ぱあああっと花が咲いたように笑う千代さんを見て、私もほっとする。
+  - before: 看着千代小姐像花朵绽放一般笑了起来，我也松了一口气。
+  - after: 看着千代像花朵绽放一般笑了起来，我也松了一口气。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:416` `sayo-to-chiyo-san`
+  - ja `411`: 兄に千代さんのことが知れてしまったのかと思った。
+  - before: 我还以为哥哥知道千代先生的事了。
+  - after: 我还以为哥哥知道千代的事了。
+- `bookish_zhcn/reading_order/12_kirishima.md:364` `sayo-to-chiyo-san`
+  - ja `364`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/12_kirishima.md:372` `chiyo-ojousan`
+  - ja `372`: 千代: 「すみません……。お嬢さんと約束したことが、どうも楽しみで仕方がなくて」
+  - before: 千代: 「抱歉……因为跟大小姐约好的事，我实在期待得不得了。」
+  - after: 千代: 「抱歉……因为跟小姐约好的事，我实在期待得不得了。」
+- `bookish_zhcn/reading_order/12_kirishima.md:379` `sayo-to-chiyo-san`
+  - ja `379`: 苦笑する千代さんに、どうやら随分と苦労していることが窺い知れる。
+  - before: 看到千代先生苦笑，我大概能猜到他们有多辛苦了。
+  - after: 看到千代苦笑，我大概能猜到他们有多辛苦了。
+- `bookish_zhcn/reading_order/12_kirishima.md:380` `chiyo-ojousan`
+  - ja `380`: 千代: 「お嬢さんは一人ですか？」
+  - before: 千代: 「大小姐一个人吗？」
+  - after: 千代: 「小姐一个人吗？」
+- `bookish_zhcn/reading_order/12_kirishima.md:393` `sayo-to-chiyo-san`
+  - ja `393`: 遠野　紗夜: 「……千代さん。もしも、お暇でしたら私達について行きますか？」
+  - before: 远野纱夜: 「……千代先生。如果您有空的话，要不要跟我们一起走？」
+  - after: 远野纱夜: 「……千代。如果您有空的话，要不要跟我们一起走？」
+- `bookish_zhcn/reading_order/12_kirishima.md:416` `sayo-to-chiyo-san`
+  - ja `416`: 二人がメニュー表と格闘している間に、千代さんに向かって笑顔で頷く。
+  - before: 趁那两人跟菜单搏斗的时候，我朝着千代先生微笑着点了点头。
+  - after: 趁那两人跟菜单搏斗的时候，我朝着千代微笑着点了点头。
+- `bookish_zhcn/reading_order/12_kirishima.md:421` `sayo-to-chiyo-san`
+  - ja `421`: 私はやってしまったと千代さんに目配せする。
+  - before: 我对千代先生使了个眼色表示糟了。
+  - after: 我对千代使了个眼色表示糟了。
+- `bookish_zhcn/reading_order/12_kirishima.md:438` `sayo-to-chiyo-san`
+  - ja `438`: にっこりと微笑む千代さんに少し驚く。
+  - before: 看到千代先生笑眯眯的，我有点惊讶。
+  - after: 看到千代笑眯眯的，我有点惊讶。
+- `bookish_zhcn/reading_order/12_kirishima.md:467` `sayo-to-chiyo-san`
+  - ja `467`: 千代さんはしょうがないというけれど、私はそのことがとても悲しく思えてならなかった。
+  - before: 千代先生虽然说着没办法，但我却觉得这件事非常难过。
+  - after: 千代虽然说着没办法，但我却觉得这件事非常难过。
+- `bookish_zhcn/reading_order/12_kirishima.md:468` `sayo-to-chiyo-san`
+  - ja `468`: 先程の時も、私達は確かに四人でいるはずなのに、用意されたコップは三つしかなく、すぐ隣にいる千代さんの姿は他の誰の目にも映らないのだから。
+  - before: 就像刚才明明我们四个应该在一起，但桌上只准备了三个杯子，而近在咫尺的千代先生的身影在别人眼里根本看不到。
+  - after: 就像刚才明明我们四个应该在一起，但桌上只准备了三个杯子，而近在咫尺的千代的身影在别人眼里根本看不到。
+- `bookish_zhcn/reading_order/12_kirishima.md:474` `sayo-to-chiyo-san`
+  - ja `473`: 遠野　紗夜: 「……千代さんは素敵ですね」
+  - before: 远野纱夜: 「……千代先生您很优秀呢」
+  - after: 远野纱夜: 「……千代，您很优秀呢」
+- `bookish_zhcn/reading_order/12_kirishima.md:492` `sayo-to-chiyo-san`
+  - ja `491`: 千代さんに促されるまま、私は次のページを捲る。
+  - before: 在千代先生的催促下，我翻开了下一页。
+  - after: 在千代的催促下，我翻开了下一页。
+- `bookish_zhcn/reading_order/12_kirishima.md:519` `sayo-to-chiyo-san`
+  - ja `518`: 遠野　紗夜: 「あら、ですが千代さんがいるではありませんか」
+  - before: 远野纱夜: 「哎呀，可是不是有千代先生在吗？」
+  - after: 远野纱夜: 「哎呀，可是不是有千代在吗？」
+- `bookish_zhcn/reading_order/12_kirishima.md:526` `sayo-to-chiyo-san`
+  - ja `525`: 言葉だけかけても、千代さんの表情は変わらない。
+  - before: 光是用言语安慰，千代先生的表情并没有改变。
+  - after: 光是用言语安慰，千代的表情并没有改变。
+- `bookish_zhcn/reading_order/12_kirishima.md:531` `sayo-to-chiyo-san`
+  - ja `530`: 千代さんの笑顔に安心して、早速歩き出す。
+  - before: 看到千代先生的笑容我放心了，立刻迈开步子。
+  - after: 看到千代的笑容我放心了，立刻迈开步子。
+- `bookish_zhcn/reading_order/12_kirishima.md:533` `sayo-to-chiyo-san`
+  - ja `532`: しかし、すぐに千代さんは動きを止めた。
+  - before: 但千代先生很快就停下了脚步。
+  - after: 但千代很快就停下了脚步。
+- `bookish_zhcn/reading_order/12_kirishima.md:541` `sayo-to-chiyo-san`
+  - ja `540`: 千代さんは大きな声で桐島先輩の名前を呼んだ。
+  - before: 千代先生大声叫出了桐岛前辈的名字。
+  - after: 千代大声叫出了桐岛前辈的名字。
+- `bookish_zhcn/reading_order/12_kirishima.md:548` `sayo-to-chiyo-san`
+  - ja `547`: まさか、本当に現れるだなんて……と、そこまで思って、そういえば千代さんは桐島先輩の居場所が何となく分かるのだと思い出した。
+  - before: 没想到他还真出现了……想到这里，我才想起千代先生能隐约感知桐岛前辈的位置。
+  - after: 没想到他还真出现了……想到这里，我才想起千代能隐约感知桐岛前辈的位置。
+- `bookish_zhcn/reading_order/12_kirishima.md:570` `sayo-to-chiyo-san`
+  - ja `569`: 桐島先輩の言葉に、ああ！　と納得する千代さん。
+  - before: 听到桐岛前辈的话，千代先生一副恍然大悟的样子。
+  - after: 听到桐岛前辈的话，千代一副恍然大悟的样子。
+- `bookish_zhcn/reading_order/12_kirishima.md:632` `sayo-to-chiyo-san`
+  - ja `630`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/12_kirishima.md:932` `sayo-to-chiyo-san`
+  - ja `930`: 千代さんに渡したら喜んでくれるだろうか？
+  - before: 如果送给千代小姐，她会高兴吗？
+  - after: 如果送给千代，她会高兴吗？
+- `bookish_zhcn/reading_order/12_kirishima.md:1044` `sayo-to-chiyo-san`
+  - ja `1042`: けれど、それは、桐島先輩の隣に千代さんがいたからだ。
+  - before: 但是，那是因为桐岛前辈身边有千代小姐在。
+  - after: 但是，那是因为桐岛前辈身边有千代在。
+- `bookish_zhcn/reading_order/12_kirishima.md:1045` `sayo-to-chiyo-san`
+  - ja `1043`: 遠野　紗夜: 「……そういえば、千代さんはどうしたのですか？　今日のお昼にも見かけなかったし、今もいないようですが……」
+  - before: 远野纱夜: 「……说起来，千代小姐怎么了？中午也没见到她，现在好像也不在……」
+  - after: 远野纱夜: 「……说起来，千代怎么了？中午也没见到她，现在好像也不在……」
+- `bookish_zhcn/reading_order/12_kirishima.md:1183` `sayo-to-chiyo-san`
+  - ja `1181`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/12_kirishima.md:1291` `hikari-ojo`
+  - ja `1289`: 日生 光: 「……で、お嬢。このブレスレットは誰から？」
+  - before: 日生光: 「……话说回来，大小姐。这个手链是谁送的？」
+  - after: 日生光: 「……话说回来，小姐。这个手链是谁送的？」
+- `bookish_zhcn/reading_order/12_kirishima.md:1361` `sayo-to-chiyo-san`
+  - ja `1359`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/12_kirishima.md:1404` `chiyo-ojousan`
+  - ja `1402`: 千代: 「ありがとうございます！！　お嬢さん！！」
+  - before: 千代: 「谢谢你！！大小姐！！」
+  - after: 千代: 「谢谢你！！小姐！！」
+- `bookish_zhcn/reading_order/12_kirishima.md:2037` `sayo-to-chiyo-san`
+  - ja `2034`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/12_kirishima.md:2093` `sayo-to-chiyo-san`
+  - ja `2090`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/12_kirishima.md:2117` `sayo-to-chiyo-san`
+  - ja `2114`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/12_kirishima.md:2484` `sayo-to-chiyo-san`
+  - ja `2480`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/12_kirishima.md:2535` `sayo-to-chiyo-san`
+  - ja `2531`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/12_kirishima.md:2983` `sayo-to-chiyo-san`
+  - ja `2978`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3104` `chiyo-sayo-san`
+  - ja `3098`: 千代: 「紗夜、さん？」
+  - before: 千代: 「纱夜、小姐？」
+  - after: 千代: 「纱夜？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3107` `chiyo-sayo-san`
+  - ja `3101`: 千代: 「紗夜さん……。ああ、でも今までずっと『お嬢さん』と言っていたから、あまり馴れませんね」
+  - before: 千代: 「纱夜小姐……啊，不过之前一直叫『小姐』，所以有点不习惯呢」
+  - after: 千代: 「纱夜……啊，不过之前一直叫『小姐』，所以有点不习惯呢」
+- `bookish_zhcn/reading_order/12_kirishima.md:3109` `chiyo-sayo-san`
+  - ja `3103`: 千代: 「紗夜さん……」
+  - before: 千代: 「纱夜小姐……」
+  - after: 千代: 「纱夜……」
+- `bookish_zhcn/reading_order/12_kirishima.md:3116` `sayo-to-chiyo-san`
+  - ja `3110`: 遠野　紗夜: 「千代さんが言うなら、私は何でも構いません」
+  - before: 远野纱夜: 「如果千代先生这么说的话，我什么都无所谓」
+  - after: 远野纱夜: 「如果千代这么说的话，我什么都无所谓」
+- `bookish_zhcn/reading_order/12_kirishima.md:3139` `sayo-to-chiyo-san`
+  - ja `3133`: 遠野　紗夜: 「千代さんの名前は七葵先輩が考えたのですか？」
+  - before: 远野纱夜: 「千代先生的名字是七葵前辈取的吗？」
+  - after: 远野纱夜: 「千代的名字是七葵前辈取的吗？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3142` `sayo-to-chiyo-san`
+  - ja `3136`: 遠野　紗夜: 「千代さんの名前は女性的な様に思いますが、何か意味などあるのですか？」
+  - before: 远野纱夜: 「千代先生的名字我觉得看起来偏女性化，有什么含义吗？」
+  - after: 远野纱夜: 「千代的名字我觉得看起来偏女性化，有什么含义吗？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3144` `sayo-to-chiyo-san`
+  - ja `3138`: 遠野　紗夜: 「千代さんもですか？」
+  - before: 远野纱夜: 「千代先生也不知道吗？」
+  - after: 远野纱夜: 「千代也不知道吗？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3183` `sayo-to-chiyo-san`
+  - ja `3177`: とても驚いた様子の千代さん。
+  - before: 千代先生似乎非常惊讶。
+  - after: 千代似乎非常惊讶。
+- `bookish_zhcn/reading_order/12_kirishima.md:3192` `sayo-to-chiyo-san`
+  - ja `3186`: 千代さんのこと？
+  - before: 是关于千代先生的事吗？
+  - after: 是关于千代的事吗？
+- `bookish_zhcn/reading_order/12_kirishima.md:3193` `sayo-to-chiyo-san`
+  - ja `3187`: そういえば、私は千代さんがどうして色々な場所に行こうとするのか分からずにいる。
+  - before: 说起来，我一直不明白为什么千代先生总要去各种地方。
+  - after: 说起来，我一直不明白为什么千代总要去各种地方。
+- `bookish_zhcn/reading_order/12_kirishima.md:3194` `sayo-to-chiyo-san`
+  - ja `3188`: 千代さんの行きたい場所が分かるというのならば、七葵先輩にはその理由が既に分かっているのかもしれない。
+  - before: 既然七葵前辈知道千代先生想去的地方，或许他已经知道理由了。
+  - after: 既然七葵前辈知道千代想去的地方，或许他已经知道理由了。
+- `bookish_zhcn/reading_order/12_kirishima.md:3201` `sayo-to-chiyo-san`
+  - ja `3195`: そこには、いつものように笑う千代さんの姿。
+  - before: 那里是千代先生一如既往的笑脸。
+  - after: 那里是千代一如既往的笑脸。
+- `bookish_zhcn/reading_order/12_kirishima.md:3202` `sayo-to-chiyo-san`
+  - ja `3196`: 遠野　紗夜: 「七葵先輩、あちらの方で千代さんが呼んでいます」
+  - before: 远野纱夜: 「七葵前辈，千代先生在那边叫您」
+  - after: 远野纱夜: 「七葵前辈，千代在那边叫您」
+- `bookish_zhcn/reading_order/12_kirishima.md:3222` `sayo-to-chiyo-san`
+  - ja `3216`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/12_kirishima.md:3230` `sayo-to-chiyo-san`
+  - ja `3224`: 私は千代さんの手を握る。
+  - before: 我握住了千代先生的手。
+  - after: 我握住了千代的手。
+- `bookish_zhcn/reading_order/12_kirishima.md:3240` `sayo-to-chiyo-san`
+  - ja `3234`: 千代さんの眸は光の先ではなく、私と七葵先輩へと向けられていた。
+  - before: 千代先生的目光没有投向光，而是落在我和七葵前辈身上。
+  - after: 千代的目光没有投向光，而是落在我和七葵前辈身上。
+- `bookish_zhcn/reading_order/12_kirishima.md:3247` `sayo-to-chiyo-san`
+  - ja `3241`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/12_kirishima.md:3255` `sayo-to-chiyo-san`
+  - ja `3249`: 最早、私も千代さんの言葉を七葵先輩に伝えようとはしていない。
+  - before: 我已经不再试图把千代先生的话转达给七葵前辈了。
+  - after: 我已经不再试图把千代的话转达给七葵前辈了。
+- `bookish_zhcn/reading_order/12_kirishima.md:3261` `sayo-to-chiyo-san`
+  - ja `3255`: 私は千代さんの服を掴んだ。
+  - before: 我抓住了千代先生的衣服。
+  - after: 我抓住了千代的衣服。
+- `bookish_zhcn/reading_order/12_kirishima.md:3267` `sayo-to-chiyo-san`
+  - ja `3261`: 千代さんがどうして様々な場所へ私達を連れて行ったのか、その理由も。
+  - before: 为什么千代先生要带我们去各种地方，那个理由我也明白了。
+  - after: 为什么千代要带我们去各种地方，那个理由我也明白了。
+- `bookish_zhcn/reading_order/12_kirishima.md:3277` `sayo-to-chiyo-san`
+  - ja `3271`: 遠野　紗夜: 「千代さんは、七葵先輩の眸に映らなくなったことをあんなにも嘆いていたではありませんか！」
+  - before: 远野纱夜: 「千代先生，不是那么悲痛地叹息着不在七葵前辈眼眸中映出这件事吗！」
+  - after: 远野纱夜: 「千代，不是那么悲痛地叹息着不在七葵前辈眼眸中映出这件事吗！」
+- `bookish_zhcn/reading_order/12_kirishima.md:3317` `sayo-to-chiyo-san`
+  - ja `3311`: 千代さんはそのまま奥の方へと突き進んでいく。
+  - before: 千代先生直接朝深处走去。
+  - after: 千代直接朝深处走去。
+- `bookish_zhcn/reading_order/12_kirishima.md:3320` `sayo-to-chiyo-san`
+  - ja `3314`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3322` `sayo-to-chiyo-san`
+  - ja `3316`: 千代さんは、私の言葉に振り返り、微かに笑った。
+  - before: 千代先生听到我的话，回头微微一笑。
+  - after: 千代听到我的话，回头微微一笑。
+- `bookish_zhcn/reading_order/12_kirishima.md:3346` `sayo-to-chiyo-san`
+  - ja `3340`: 遠野　紗夜: 「千代さんの場所？」
+  - before: 远野纱夜: 「千代先生的地方？」
+  - after: 远野纱夜: 「千代的地方？」
+- `bookish_zhcn/reading_order/12_kirishima.md:3349` `sayo-to-chiyo-san`
+  - ja `3343`: 千代さんは、変わらず微笑みを浮かべたまま。
+  - before: 千代先生依然保持着微笑。
+  - after: 千代依然保持着微笑。
+- `bookish_zhcn/reading_order/12_kirishima.md:3352` `sayo-to-chiyo-san`
+  - ja `3346`: その視線の先には、今は映らないはずの千代さんがいる。
+  - before: 视线的前方，是现在本应无法映出的千代先生。
+  - after: 视线的前方，是现在本应无法映出的千代。
+- `bookish_zhcn/reading_order/12_kirishima.md:3369` `sayo-to-chiyo-san`
+  - ja `3363`: 千代さんの正体は『秋桜』？
+  - before: 千代先生的真面目是『秋樱』？
+  - after: 千代的真面目是『秋樱』？
+- `bookish_zhcn/reading_order/12_kirishima.md:3377` `sayo-to-chiyo-san`
+  - ja `3371`: 遠野　紗夜: 「何故、千代さんが消えなければならないのですか！」
+  - before: 远野纱夜: 「为什么，千代先生必须消失！」
+  - after: 远野纱夜: 「为什么，千代必须消失！」
+- `bookish_zhcn/reading_order/12_kirishima.md:3435` `sayo-to-chiyo-san`
+  - ja `3429`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/12_kirishima.md:3510` `sayo-to-chiyo-san`
+  - ja `3504`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:13` `hikari-senpai`
+  - ja `13`: 今日は確か光先輩と一緒にいるのではなかっただろうか。
+  - before: 今天他应该和光先生在一起才对。
+  - after: 今天他应该和光前辈在一起才对。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:18` `hikari-senpai`
+  - ja `18`: 遠野　紗夜: 「分かっています。光先輩なら見なかったですよ」
+  - before: 远野纱夜: 「我知道。光先生的话我没看到」
+  - after: 远野纱夜: 「我知道。光前辈的话我没看到」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:72` `hikari-senpai`
+  - ja `71`: 遠野　紗夜: 「光先輩と一緒にいることがです」
+  - before: 远野纱夜: 「和光先生在一起这件事」
+  - after: 远野纱夜: 「和光前辈在一起这件事」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:77` `hikari-senpai`
+  - ja `76`: 遠野　紗夜: 「……別に、光先輩が嫌いなわけではないのです。ただ、今まで知っていた彼の方が偽物だということが未だ信じられなくて」
+  - before: 远野纱夜: 「……我并不是讨厌光先生。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:115` `chiyo-ojousan`
+  - ja `114`: 千代: 「七葵くーん！！　……あ！　お嬢さん！　お嬢さん！！」
+  - before: 千代: 「七葵君——！！……啊！大小姐！大小姐！！」
+  - after: 千代: 「七葵君——！！……啊！小姐！小姐！！」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:116` `sayo-to-chiyo-san`
+  - ja `115`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:119` `chiyo-ojousan`
+  - ja `118`: 千代: 「お嬢さん！　こんにちは！！」
+  - before: 千代: 「大小姐！你好！！」
+  - after: 千代: 「小姐！你好！！」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:130` `hikari-senpai`
+  - ja `129`: 遠野　紗夜: 「桐島先輩はこの後、光先輩を迎えに行くのですか？」
+  - before: 远野纱夜: 「桐岛前辈接下来要去接光先生吗？」
+  - after: 远野纱夜: 「桐岛前辈接下来要去接光前辈吗？」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:158` `hikari-senpai`
+  - ja `157`: 遠野　紗夜: 「おはようございます。光先輩」
+  - before: 远野纱夜: 「早上好。光先生」
+  - after: 远野纱夜: 「早上好。光前辈」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:241` `hikari-senpai`
+  - ja `239`: 引きずるように光先輩を連れて行く。
+  - before: 他像拖东西一样把光先生带走了。
+  - after: 他像拖东西一样把光前辈带走了。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:244` `sayo-to-chiyo-san`
+  - ja `242`: 遠野　紗夜: 「千代さんは先輩達と一緒に行かないのですか？」
+  - before: 远野纱夜: 「千代小姐不跟前辈们一起走吗？」
+  - after: 远野纱夜: 「千代不跟前辈们一起走吗？」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:251` `sayo-to-chiyo-san`
+  - ja `249`: 私と千代さんは特に行く宛もなく歩く。
+  - before: 我和千代小姐漫无目的地走着。
+  - after: 我和千代漫无目的地走着。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:267` `sayo-to-chiyo-san`
+  - ja `265`: 千代さんは深く頭を下げ、私は慌てて手を振る。
+  - before: 千代小姐深深地低下头，我慌忙摆手。
+  - after: 千代深深地低下头，我慌忙摆手。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:268` `sayo-to-chiyo-san`
+  - ja `266`: 遠野　紗夜: 「い、いえ。千代さんが謝るようなことでは……」
+  - before: 远野纱夜: 「不、不用。这不是千代小姐该道歉的事……」
+  - after: 远野纱夜: 「不、不用。这不是千代该道歉的事……」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:271` `sayo-to-chiyo-san`
+  - ja `269`: 地団駄踏む千代さんに、
+  - before: 看着跺脚的千代小姐，
+  - after: 看着跺脚的千代，
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:288` `sayo-to-chiyo-san`
+  - ja `286`: 千代さんは少し驚いたような顔をしたかと思うと、すぐに柔らかく微笑んだ。
+  - before: 千代小姐先是露出了有些惊讶的表情，随即温柔地微笑起来。
+  - after: 千代先是露出了有些惊讶的表情，随即温柔地微笑起来。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:402` `sayo-to-chiyo-san`
+  - ja `397`: 兄に千代さんのことが知れてしまったのかと思った。
+  - before: 我还以为哥哥知道千代先生的事了。
+  - after: 我还以为哥哥知道千代的事了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:364` `sayo-to-chiyo-san`
+  - ja `364`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:372` `chiyo-ojousan`
+  - ja `372`: 千代: 「すみません……。お嬢さんと約束したことが、どうも楽しみで仕方がなくて」
+  - before: 千代: 「抱歉……因为跟大小姐约好的事，我实在期待得不得了。」
+  - after: 千代: 「抱歉……因为跟小姐约好的事，我实在期待得不得了。」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:379` `sayo-to-chiyo-san`
+  - ja `379`: 苦笑する千代さんに、どうやら随分と苦労していることが窺い知れる。
+  - before: 看到千代先生苦笑，我大概能猜到他们有多辛苦了。
+  - after: 看到千代苦笑，我大概能猜到他们有多辛苦了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:380` `chiyo-ojousan`
+  - ja `380`: 千代: 「お嬢さんは一人ですか？」
+  - before: 千代: 「大小姐一个人吗？」
+  - after: 千代: 「小姐一个人吗？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:393` `sayo-to-chiyo-san`
+  - ja `393`: 遠野　紗夜: 「……千代さん。もしも、お暇でしたら私達について行きますか？」
+  - before: 远野纱夜: 「……千代先生。如果您有空的话，要不要跟我们一起走？」
+  - after: 远野纱夜: 「……千代。如果您有空的话，要不要跟我们一起走？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:416` `sayo-to-chiyo-san`
+  - ja `416`: 二人がメニュー表と格闘している間に、千代さんに向かって笑顔で頷く。
+  - before: 趁那两人跟菜单搏斗的时候，我朝着千代先生微笑着点了点头。
+  - after: 趁那两人跟菜单搏斗的时候，我朝着千代微笑着点了点头。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:421` `sayo-to-chiyo-san`
+  - ja `421`: 私はやってしまったと千代さんに目配せする。
+  - before: 我对千代先生使了个眼色表示糟了。
+  - after: 我对千代使了个眼色表示糟了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:438` `sayo-to-chiyo-san`
+  - ja `438`: にっこりと微笑む千代さんに少し驚く。
+  - before: 看到千代先生笑眯眯的，我有点惊讶。
+  - after: 看到千代笑眯眯的，我有点惊讶。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:467` `sayo-to-chiyo-san`
+  - ja `467`: 千代さんはしょうがないというけれど、私はそのことがとても悲しく思えてならなかった。
+  - before: 千代先生虽然说着没办法，但我却觉得这件事非常难过。
+  - after: 千代虽然说着没办法，但我却觉得这件事非常难过。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:468` `sayo-to-chiyo-san`
+  - ja `468`: 先程の時も、私達は確かに四人でいるはずなのに、用意されたコップは三つしかなく、すぐ隣にいる千代さんの姿は他の誰の目にも映らないのだから。
+  - before: 就像刚才明明我们四个应该在一起，但桌上只准备了三个杯子，而近在咫尺的千代先生的身影在别人眼里根本看不到。
+  - after: 就像刚才明明我们四个应该在一起，但桌上只准备了三个杯子，而近在咫尺的千代的身影在别人眼里根本看不到。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:474` `sayo-to-chiyo-san`
+  - ja `473`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:475` `sayo-to-chiyo-san`
+  - ja `474`: 名前を呼び、千代さんの手を取った。
+  - before: 叫着名字，握住了千代先生的手。
+  - after: 叫着名字，握住了千代的手。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:477` `sayo-to-chiyo-san`
+  - ja `476`: 戸惑う千代さんに微笑みかけ、歩きましょうと合図を送る。
+  - before: 对困惑的千代先生微笑着，示意他一起走。
+  - after: 对困惑的千代微笑着，示意他一起走。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:485` `sayo-to-chiyo-san`
+  - ja `484`: 無言でしばらく歩いた後、千代さんが言った。
+  - before: 沉默着走了一会儿后，千代先生说道。
+  - after: 沉默着走了一会儿后，千代说道。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:487` `sayo-to-chiyo-san`
+  - ja `486`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:504` `sayo-to-chiyo-san`
+  - ja `503`: 千代さんに促されるまま、私は次のページを捲る。
+  - before: 在千代先生的催促下，我翻开了下一页。
+  - after: 在千代的催促下，我翻开了下一页。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:531` `sayo-to-chiyo-san`
+  - ja `530`: 遠野　紗夜: 「あら、ですが千代さんがいるではありませんか」
+  - before: 远野纱夜: 「哎呀，可是不是有千代先生在吗？」
+  - after: 远野纱夜: 「哎呀，可是不是有千代在吗？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:536` `sayo-to-chiyo-san`
+  - ja `535`: 千代さんの頬にそっと手を伸ばす。
+  - before: 轻轻伸出手触碰千代先生的脸颊。
+  - after: 轻轻伸出手触碰千代的脸颊。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:537` `sayo-to-chiyo-san`
+  - ja `536`: そして、もう片方の手で千代さんの手を取り、自分の頬へと持って行く。
+  - before: 然后，用另一只手握住千代先生的手，引到自己脸颊上。
+  - after: 然后，用另一只手握住千代的手，引到自己脸颊上。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:539` `sayo-to-chiyo-san`
+  - ja `538`: 遠野　紗夜: 「私がもしも危ない目に遭ったなら、千代さんは私の手を引いて助けてくれる。先程のように」
+  - before: 远野纱夜: 「如果我遇到危险，千代先生会拉着我的手来救我。就像刚才那样」
+  - after: 远野纱夜: 「如果我遇到危险，千代会拉着我的手来救我。就像刚才那样」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:544` `sayo-to-chiyo-san`
+  - ja `543`: 千代さんの笑顔に安心して、早速歩き出す。
+  - before: 看到千代先生的笑容我放心了，立刻迈开步子。
+  - after: 看到千代的笑容我放心了，立刻迈开步子。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:546` `sayo-to-chiyo-san`
+  - ja `545`: しかし、すぐに千代さんは動きを止めた。
+  - before: 但千代先生很快就停下了脚步。
+  - after: 但千代很快就停下了脚步。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:554` `sayo-to-chiyo-san`
+  - ja `553`: 千代さんは大きな声で桐島先輩の名前を呼んだ。
+  - before: 千代先生大声叫出了桐岛前辈的名字。
+  - after: 千代大声叫出了桐岛前辈的名字。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:561` `sayo-to-chiyo-san`
+  - ja `560`: まさか、本当に現れるだなんて……と、そこまで思って、そういえば千代さんは桐島先輩の居場所が何となく分かるのだと思い出した。
+  - before: 没想到他还真出现了……想到这里，我才想起千代先生能隐约感知桐岛前辈的位置。
+  - after: 没想到他还真出现了……想到这里，我才想起千代能隐约感知桐岛前辈的位置。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:583` `sayo-to-chiyo-san`
+  - ja `582`: 桐島先輩の言葉に、ああ！　と納得する千代さん。
+  - before: 听到桐岛前辈的话，千代先生一副恍然大悟的样子。
+  - after: 听到桐岛前辈的话，千代一副恍然大悟的样子。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:645` `sayo-to-chiyo-san`
+  - ja `643`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:656` `sayo-to-chiyo-san`
+  - ja `653`: 少しだけ間を置くと、私は千代さんの方に歩み寄った。
+  - before: 稍微停顿了一下，我向千代先生走了过去。
+  - after: 稍微停顿了一下，我向千代走了过去。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:660` `sayo-to-chiyo-san`
+  - ja `657`: 遠野　紗夜: 「ええ。私が桐島先輩に散々言われた後、千代さんがフォローして下さいました」
+  - before: 远野纱夜: 「是的。我被桐岛前辈说了很多之后，千代先生帮我打了圆场」
+  - after: 远野纱夜: 「是的。我被桐岛前辈说了很多之后，千代帮我打了圆场」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:666` `sayo-to-chiyo-san`
+  - ja `663`: そんな先輩を見て、私と千代さんは互いに微笑みながら肩を竦ませた。
+  - before: 看着那样的前辈，我和千代先生互相微笑着耸了耸肩。
+  - after: 看着那样的前辈，我和千代互相微笑着耸了耸肩。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:952` `sayo-to-chiyo-san`
+  - ja `948`: 千代さんに渡したら喜んでくれるだろうか？
+  - before: 如果送给千代小姐，她会高兴吗？
+  - after: 如果送给千代，她会高兴吗？
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1064` `sayo-to-chiyo-san`
+  - ja `1060`: けれど、それは、桐島先輩の隣に千代さんがいたからだ。
+  - before: 但是，那是因为桐岛前辈身边有千代小姐在。
+  - after: 但是，那是因为桐岛前辈身边有千代在。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1065` `sayo-to-chiyo-san`
+  - ja `1061`: 遠野　紗夜: 「……そういえば、千代さんはどうしたのですか？　今日のお昼にも見かけなかったし、今もいないようですが……」
+  - before: 远野纱夜: 「……说起来，千代小姐怎么了？中午也没见到她，现在好像也不在……」
+  - after: 远野纱夜: 「……说起来，千代怎么了？中午也没见到她，现在好像也不在……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1203` `sayo-to-chiyo-san`
+  - ja `1199`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1310` `hikari-ojo`
+  - ja `1306`: 日生 光: 「……で、お嬢。このブレスレットは誰から？」
+  - before: 日生光: 「……话说回来，大小姐。这个手链是谁送的？」
+  - after: 日生光: 「……话说回来，小姐。这个手链是谁送的？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1380` `sayo-to-chiyo-san`
+  - ja `1376`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1422` `sayo-to-chiyo-san`
+  - ja `1418`: そう言って笑った千代さんは本当に嬉しそうで、まさか自分が送ったものでこんなに喜んでくれると思わなくて、
+  - before: 这么说着笑了的千代先生看起来真的很高兴，没想到我送的东西能让他这么开心，
+  - after: 这么说着笑了的千代看起来真的很高兴，没想到我送的东西能让他这么开心，
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:1424` `chiyo-ojousan`
+  - ja `1420`: 千代: 「ありがとうございます！！　お嬢さん！！」
+  - before: 千代: 「谢谢你！！大小姐！！」
+  - after: 千代: 「谢谢你！！小姐！！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2056` `sayo-to-chiyo-san`
+  - ja `2051`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2097` `sayo-to-chiyo-san`
+  - ja `2091`: 遠野　紗夜: 「……千代さん！」
+  - before: 远野纱夜: 「……千代先生！」
+  - after: 远野纱夜: 「……千代！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2115` `sayo-to-chiyo-san`
+  - ja `2109`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2139` `sayo-to-chiyo-san`
+  - ja `2133`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2140` `sayo-to-chiyo-san`
+  - ja `2134`: 私の足は無意識に千代さんを追いかけた。
+  - before: 我的脚无意识地追着千代先生。
+  - after: 我的脚无意识地追着千代。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2143` `sayo-to-chiyo-san`
+  - ja `2137`: 私は走りながら、千代さんのことを考えていた。
+  - before: 我一边跑着，一边想着千代先生的事。
+  - after: 我一边跑着，一边想着千代的事。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2165` `sayo-to-chiyo-san`
+  - ja `2159`: 遠野　紗夜: 「どうしましょう……。先輩……。千代さんをこのまま放っておけません……」
+  - before: 远野纱夜: 「怎么办……。前辈……。不能就这样放着千代先生不管……」
+  - after: 远野纱夜: 「怎么办……。前辈……。不能就这样放着千代不管……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2526` `sayo-to-chiyo-san`
+  - ja `2519`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2577` `sayo-to-chiyo-san`
+  - ja `2570`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3025` `sayo-to-chiyo-san`
+  - ja `3017`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3142` `chiyo-sayo-san`
+  - ja `3133`: 千代: 「紗夜、さん？」
+  - before: 千代: 「纱夜、小姐？」
+  - after: 千代: 「纱夜？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3145` `chiyo-sayo-san`
+  - ja `3136`: 千代: 「紗夜さん……。ああ、でも今までずっと『お嬢さん』と言っていたから、あまり馴れませんね」
+  - before: 千代: 「纱夜小姐……啊，不过之前一直叫『小姐』，所以有点不习惯呢」
+  - after: 千代: 「纱夜……啊，不过之前一直叫『小姐』，所以有点不习惯呢」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3147` `chiyo-sayo-san`
+  - ja `3138`: 千代: 「紗夜さん……」
+  - before: 千代: 「纱夜小姐……」
+  - after: 千代: 「纱夜……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3154` `sayo-to-chiyo-san`
+  - ja `3145`: 遠野　紗夜: 「千代さんが言うなら、私は何でも構いません」
+  - before: 远野纱夜: 「如果千代先生这么说的话，我什么都无所谓」
+  - after: 远野纱夜: 「如果千代这么说的话，我什么都无所谓」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3177` `sayo-to-chiyo-san`
+  - ja `3168`: 遠野　紗夜: 「千代さんの名前は七葵先輩が考えたのですか？」
+  - before: 远野纱夜: 「千代先生的名字是七葵前辈取的吗？」
+  - after: 远野纱夜: 「千代的名字是七葵前辈取的吗？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3180` `sayo-to-chiyo-san`
+  - ja `3171`: 遠野　紗夜: 「千代さんの名前は女性的な様に思いますが、何か意味などあるのですか？」
+  - before: 远野纱夜: 「千代先生的名字我觉得看起来偏女性化，有什么含义吗？」
+  - after: 远野纱夜: 「千代的名字我觉得看起来偏女性化，有什么含义吗？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3182` `sayo-to-chiyo-san`
+  - ja `3173`: 遠野　紗夜: 「千代さんもですか？」
+  - before: 远野纱夜: 「千代先生也不知道吗？」
+  - after: 远野纱夜: 「千代也不知道吗？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3221` `sayo-to-chiyo-san`
+  - ja `3212`: とても驚いた様子の千代さん。
+  - before: 千代先生似乎非常惊讶。
+  - after: 千代似乎非常惊讶。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3230` `sayo-to-chiyo-san`
+  - ja `3221`: 千代さんのこと？
+  - before: 是关于千代先生的事吗？
+  - after: 是关于千代的事吗？
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3231` `sayo-to-chiyo-san`
+  - ja `3222`: そういえば、私は千代さんがどうして色々な場所に行こうとするのか分からずにいる。
+  - before: 说起来，我一直不明白为什么千代先生总要去各种地方。
+  - after: 说起来，我一直不明白为什么千代总要去各种地方。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3232` `sayo-to-chiyo-san`
+  - ja `3223`: 千代さんの行きたい場所が分かるというのならば、七葵先輩にはその理由が既に分かっているのかもしれない。
+  - before: 既然七葵前辈知道千代先生想去的地方，或许他已经知道理由了。
+  - after: 既然七葵前辈知道千代想去的地方，或许他已经知道理由了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3239` `sayo-to-chiyo-san`
+  - ja `3230`: そこには、いつものように笑う千代さんの姿。
+  - before: 那里是千代先生一如既往的笑脸。
+  - after: 那里是千代一如既往的笑脸。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3240` `sayo-to-chiyo-san`
+  - ja `3231`: 遠野　紗夜: 「七葵先輩、あちらの方で千代さんが呼んでいます」
+  - before: 远野纱夜: 「七葵前辈，千代先生在那边叫您」
+  - after: 远野纱夜: 「七葵前辈，千代在那边叫您」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3260` `sayo-to-chiyo-san`
+  - ja `3251`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3268` `sayo-to-chiyo-san`
+  - ja `3259`: 私は千代さんの手を握る。
+  - before: 我握住了千代先生的手。
+  - after: 我握住了千代的手。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3278` `sayo-to-chiyo-san`
+  - ja `3269`: 千代さんの眸は光の先ではなく、私と七葵先輩へと向けられていた。
+  - before: 千代先生的目光没有投向光，而是落在我和七葵前辈身上。
+  - after: 千代的目光没有投向光，而是落在我和七葵前辈身上。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3285` `sayo-to-chiyo-san`
+  - ja `3276`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3293` `sayo-to-chiyo-san`
+  - ja `3284`: 最早、私も千代さんの言葉を七葵先輩に伝えようとはしていない。
+  - before: 我已经不再试图把千代先生的话转达给七葵前辈了。
+  - after: 我已经不再试图把千代的话转达给七葵前辈了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3299` `sayo-to-chiyo-san`
+  - ja `3290`: 私は千代さんの服を掴んだ。
+  - before: 我抓住了千代先生的衣服。
+  - after: 我抓住了千代的衣服。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3305` `sayo-to-chiyo-san`
+  - ja `3296`: 千代さんがどうして様々な場所へ私達を連れて行ったのか、その理由も。
+  - before: 为什么千代先生要带我们去各种地方，那个理由我也明白了。
+  - after: 为什么千代要带我们去各种地方，那个理由我也明白了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3315` `sayo-to-chiyo-san`
+  - ja `3306`: 遠野　紗夜: 「千代さんは、七葵先輩の眸に映らなくなったことをあんなにも嘆いていたではありませんか！」
+  - before: 远野纱夜: 「千代先生，不是那么悲痛地叹息着不在七葵前辈眼眸中映出这件事吗！」
+  - after: 远野纱夜: 「千代，不是那么悲痛地叹息着不在七葵前辈眼眸中映出这件事吗！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3355` `sayo-to-chiyo-san`
+  - ja `3346`: 千代さんはそのまま奥の方へと突き進んでいく。
+  - before: 千代先生直接朝深处走去。
+  - after: 千代直接朝深处走去。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3358` `sayo-to-chiyo-san`
+  - ja `3349`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3360` `sayo-to-chiyo-san`
+  - ja `3351`: 千代さんは、私の言葉に振り返り、微かに笑った。
+  - before: 千代先生听到我的话，回头微微一笑。
+  - after: 千代听到我的话，回头微微一笑。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3384` `sayo-to-chiyo-san`
+  - ja `3375`: 遠野　紗夜: 「千代さんの場所？」
+  - before: 远野纱夜: 「千代先生的地方？」
+  - after: 远野纱夜: 「千代的地方？」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3387` `sayo-to-chiyo-san`
+  - ja `3378`: 千代さんは、変わらず微笑みを浮かべたまま。
+  - before: 千代先生依然保持着微笑。
+  - after: 千代依然保持着微笑。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3390` `sayo-to-chiyo-san`
+  - ja `3381`: その視線の先には、今は映らないはずの千代さんがいる。
+  - before: 视线的前方，是现在本应无法映出的千代先生。
+  - after: 视线的前方，是现在本应无法映出的千代。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3407` `sayo-to-chiyo-san`
+  - ja `3398`: 千代さんの正体は『秋桜』？
+  - before: 千代先生的真面目是『秋樱』？
+  - after: 千代的真面目是『秋樱』？
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3415` `sayo-to-chiyo-san`
+  - ja `3406`: 遠野　紗夜: 「何故、千代さんが消えなければならないのですか！」
+  - before: 远野纱夜: 「为什么，千代先生必须消失！」
+  - after: 远野纱夜: 「为什么，千代必须消失！」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3473` `sayo-to-chiyo-san`
+  - ja `3464`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3548` `sayo-to-chiyo-san`
+  - ja `3539`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/15_chiyo.md:4` `sayo-to-chiyo-san`
+  - ja `4`: 遠野　紗夜: 「千代さん、私の所へ来ませんか？」
+  - before: 远野纱夜: 「千代先生，您要不要来我这边？」
+  - after: 远野纱夜: 「千代，您要不要来我这边？」
+- `bookish_zhcn/reading_order/15_chiyo.md:16` `sayo-to-chiyo-san`
+  - ja `16`: 遠野　紗夜: 「千代さんが泣いていることを知っているのに、このままにすることが出来ますか？　少なくとも、私には出来ません！」
+  - before: 远野纱夜: 「明知道千代先生在哭，我怎么能就这样不管？至少，我做不到！」
+  - after: 远野纱夜: 「明知道千代在哭，我怎么能就这样不管？至少，我做不到！」
+- `bookish_zhcn/reading_order/15_chiyo.md:18` `sayo-to-chiyo-san`
+  - ja `18`: 千代さんの手を握る。
+  - before: 我握住了千代先生的手。
+  - after: 我握住了千代的手。
+- `bookish_zhcn/reading_order/15_chiyo.md:21` `sayo-to-chiyo-san`
+  - ja `21`: 遠野　紗夜: 「ええ、好きにします。……行きましょう、千代さん」
+  - before: 远野纱夜: 「嗯，我就随便了。……我们走吧，千代先生」
+  - after: 远野纱夜: 「嗯，我就随便了。……我们走吧，千代」
+- `bookish_zhcn/reading_order/15_chiyo.md:22` `sayo-to-chiyo-san`
+  - ja `22`: 私は千代さんの手を引き、家路へと歩き始める。
+  - before: 我牵着千代先生的手，开始往回家的路上走。
+  - after: 我牵着千代的手，开始往回家的路上走。
+- `bookish_zhcn/reading_order/15_chiyo.md:48` `sayo-to-chiyo-san`
+  - ja `48`: 遠野　紗夜: 「ですから、千代さんもそんなことは気にせず……」
+  - before: 远野纱夜: 「所以，千代先生也不用在意这些……」
+  - after: 远野纱夜: 「所以，千代也不用在意这些……」
+- `bookish_zhcn/reading_order/15_chiyo.md:52` `sayo-to-chiyo-san`
+  - ja `52`: 千代さんは首を振る。声が震えていた。
+  - before: 千代先生摇了摇头。声音在颤抖。
+  - after: 千代摇了摇头。声音在颤抖。
+- `bookish_zhcn/reading_order/15_chiyo.md:61` `sayo-to-chiyo-san`
+  - ja `61`: そんな私を見て、千代さんは、一瞬はっとした顔を見せ、今の私と同じ様に焦り始める。
+  - before: 看到我这样，千代先生瞬间露出了惊愕的表情，然后和我一样开始慌张起来。
+  - after: 看到我这样，千代瞬间露出了惊愕的表情，然后和我一样开始慌张起来。
+- `bookish_zhcn/reading_order/15_chiyo.md:81` `sayo-to-chiyo-san`
+  - ja `81`: まさか、千代さんに告白をされたとは言えず、そのまま黙っていると、何かを察してくれたのか、それ以上は何も言わず手を引いてくれた。
+  - before: 我没办法说出千代先生向我告白的事，就那样沉默着，他似乎察觉到了什么，没有再追问，而是拉着我的手走了。
+  - after: 我没办法说出千代向我告白的事，就那样沉默着，他似乎察觉到了什么，没有再追问，而是拉着我的手走了。
+- `bookish_zhcn/reading_order/15_chiyo.md:91` `sayo-to-chiyo-san`
+  - ja `91`: 千代さんのこと。
+  - before: 关于千代先生的事。
+  - after: 关于千代的事。
+- `bookish_zhcn/reading_order/15_chiyo.md:153` `sayo-to-chiyo-san`
+  - ja `152`: 遠野　紗夜: 「何故、先輩の眸からは千代さんの様な存在が消えてしまったのでしょうか？」
+  - before: 远野纱夜: 「为什么前辈的眼中，像千代先生那样的存在就消失了呢？」
+  - after: 远野纱夜: 「为什么前辈的眼中，像千代那样的存在就消失了呢？」
+- `bookish_zhcn/reading_order/15_chiyo.md:206` `sayo-to-chiyo-san`
+  - ja `205`: 遠野　紗夜: 「貴方が千代さんに会って話そうとしていたこと、それは彼の正体なのですね」
+  - before: 远野纱夜: 「您一直想跟千代小姐好好谈谈的那件事，指的就是她的真实身份吧」
+  - after: 远野纱夜: 「您一直想跟千代好好谈谈的那件事，指的就是她的真实身份吧」
+- `bookish_zhcn/reading_order/15_chiyo.md:244` `sayo-to-chiyo-san`
+  - ja `242`: 千代さんはコスモスの花の中にいた。
+  - before: 千代小姐正置身于秋樱丛中。
+  - after: 千代正置身于秋樱丛中。
+- `bookish_zhcn/reading_order/15_chiyo.md:246` `sayo-to-chiyo-san`
+  - ja `244`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/15_chiyo.md:250` `sayo-to-chiyo-san`
+  - ja `248`: 遠野　紗夜: 「私こそ、千代さんに謝らないといけないことがあってここへ来ました」
+  - before: 远野纱夜: 「我才是，因为有必须向千代小姐道歉的事，才来到这里的」
+  - after: 远野纱夜: 「我才是，因为有必须向千代道歉的事，才来到这里的」
+- `bookish_zhcn/reading_order/15_chiyo.md:253` `sayo-to-chiyo-san`
+  - ja `251`: 千代さんの言葉に胸がぎゅうと締め付けられた。
+  - before: 千代小姐的话让我的心一紧。
+  - after: 千代的话让我的心一紧。
+- `bookish_zhcn/reading_order/15_chiyo.md:258` `sayo-to-chiyo-san`
+  - ja `256`: 私の言葉に千代さんは目を伏せた。
+  - before: 听了我的话，千代小姐垂下了眼帘。
+  - after: 听了我的话，千代垂下了眼帘。
+- `bookish_zhcn/reading_order/15_chiyo.md:287` `sayo-to-chiyo-san`
+  - ja `285`: 千代さんは花が綻ぶように笑う。私の一番好きな彼の表情だった。
+  - before: 千代小姐如花绽放般笑了起来。那是我最喜欢的神情。
+  - after: 千代如花绽放般笑了起来。那是我最喜欢的神情。
+- `bookish_zhcn/reading_order/15_chiyo.md:300` `sayo-to-chiyo-san`
+  - ja `298`: 遠野　紗夜: 「千代さん、いなくならないで下さい……」
+  - before: 远野纱夜: 「千代小姐，请不要消失……」
+  - after: 远野纱夜: 「千代，请不要消失……」
+- `bookish_zhcn/reading_order/15_chiyo.md:302` `sayo-to-chiyo-san`
+  - ja `300`: 私の言葉に千代さんは淋しく笑うだけで何も答えない。
+  - before: 面对我的话，千代小姐只是寂寞地笑了笑，什么也没回答。
+  - after: 面对我的话，千代只是寂寞地笑了笑，什么也没回答。
+- `bookish_zhcn/reading_order/15_chiyo.md:305` `sayo-to-chiyo-san`
+  - ja `303`: 千代さんは一瞬驚いた顔をした後、ふと優しい目つきになり、
+  - before: 千代小姐先是露出一丝惊讶的表情，随即眼神变得温柔起来，
+  - after: 千代先是露出一丝惊讶的表情，随即眼神变得温柔起来，
+- `bookish_zhcn/reading_order/15_chiyo.md:310` `sayo-to-chiyo-san`
+  - ja `308`: 私は嗚咽を押し込みながら、自分自身の正直な気持ちを千代さんに伝える。
+  - before: 我强忍住哽咽，将自己真实的心意告诉了千代小姐。
+  - after: 我强忍住哽咽，将自己真实的心意告诉了千代。
+- `bookish_zhcn/reading_order/15_chiyo.md:312` `sayo-to-chiyo-san`
+  - ja `310`: 遠野　紗夜: 「けれど、千代さん、私は貴方と一緒に桜の花が見たいのです」
+  - before: 远野纱夜: 「但是，千代小姐，我想和您一起看樱花」
+  - after: 远野纱夜: 「但是，千代，我想和您一起看樱花」
+- `bookish_zhcn/reading_order/15_chiyo.md:337` `sayo-to-chiyo-san`
+  - ja `335`: 千代さんの言葉に私は堪らず柔らかい芝草の上に膝をついた。
+  - before: 听了千代小姐的话，我不由得失落地跪在了柔软的草坪上。
+  - after: 听了千代的话，我不由得失落地跪在了柔软的草坪上。
+- `bookish_zhcn/reading_order/15_chiyo.md:344` `sayo-to-chiyo-san`
+  - ja `342`: きっと、彼の方が私よりもずっと千代さんと話したいはず。
+  - before: 一定，他肯定比我想跟千代小姐说话得多。
+  - after: 一定，他肯定比我想跟千代说话得多。
+- `bookish_zhcn/reading_order/15_chiyo.md:349` `sayo-to-chiyo-san`
+  - ja `347`: 千代さんはそう言うと、秋桜の花を突っ切り、地面に蹲ったままの私に手を差し伸べた。
+  - before: 千代小姐说着，穿过秋樱花丛，向蹲在地上的我伸出了手。
+  - after: 千代说着，穿过秋樱花丛，向蹲在地上的我伸出了手。
+- `bookish_zhcn/reading_order/15_chiyo.md:352` `sayo-to-chiyo-san`
+  - ja `350`: 私は溢れ落ちる涙を手で拭い、千代さんの手を取った。
+  - before: 我用手擦去不断涌出的泪水，握住了千代小姐的手。
+  - after: 我用手擦去不断涌出的泪水，握住了千代的手。
+- `bookish_zhcn/reading_order/15_chiyo.md:355` `sayo-to-chiyo-san`
+  - ja `353`: 私と千代さんは互いに目を見張った。
+  - before: 我和千代小姐都惊讶地睁大了眼睛。
+  - after: 我和千代都惊讶地睁大了眼睛。
+- `bookish_zhcn/reading_order/15_chiyo.md:364` `chiyo-sayo-san`
+  - ja `362`: 千代: 「紗夜さん」
+  - before: 千代: 「纱夜小姐」
+  - after: 千代: 「纱夜」
+- `bookish_zhcn/reading_order/15_chiyo.md:365` `chiyo-sayo-san`
+  - ja `363`: 初めて、『紗夜さん』と呼ばれ、私は顔をあげた。
+  - before: 第一次被叫做『纱夜小姐』，我抬起了头。
+  - after: 第一次被叫做『纱夜』，我抬起了头。
+- `bookish_zhcn/reading_order/15_chiyo.md:369` `sayo-to-chiyo-san`
+  - ja `367`: けれど、気付くとすぐ目の前に千代さんの顔があり、それが口づけだということに気が付いた。
+  - before: 可是，当我回过神时，千代小姐的脸就在眼前，我意识到那是亲吻。
+  - after: 可是，当我回过神时，千代的脸就在眼前，我意识到那是亲吻。
+- `bookish_zhcn/reading_order/15_chiyo.md:372` `sayo-to-chiyo-san`
+  - ja `370`: 千代さんの体が淡く発光している。
+  - before: 千代小姐的身体正泛着淡淡的光芒。
+  - after: 千代的身体正泛着淡淡的光芒。
+- `bookish_zhcn/reading_order/15_chiyo.md:376` `sayo-to-chiyo-san`
+  - ja `374`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/15_chiyo.md:381` `chiyo-sayo-san`
+  - ja `379`: 千代: 「紗夜さん、俺は貴方のことが大好きです」
+  - before: 千代: 「纱夜小姐，我非常喜欢你」
+  - after: 千代: 「纱夜，我非常喜欢你」
+- `bookish_zhcn/reading_order/15_chiyo.md:386` `sayo-to-chiyo-san`
+  - ja `384`: 千代さんは目をすうっと細めると、周囲によく通る声で言った。
+  - before: 千代先生眯起眼睛，用周围都能清楚听到的声音说道。
+  - after: 千代眯起眼睛，用周围都能清楚听到的声音说道。
+- `bookish_zhcn/reading_order/15_chiyo.md:391` `sayo-to-chiyo-san`
+  - ja `389`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/15_chiyo.md:394` `sayo-to-chiyo-san`
+  - ja `392`: 私の体は薄れかかった千代さんに触れる。
+  - before: 我的身体触碰到了渐渐模糊的千代先生。
+  - after: 我的身体触碰到了渐渐模糊的千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:17` `hikari-senpai`
+  - ja `15`: 今日は確か光先輩と一緒にいるのではなかっただろうか。
+  - before: 今天他应该和光先生在一起才对。
+  - after: 今天他应该和光前辈在一起才对。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:22` `hikari-senpai`
+  - ja `20`: 遠野　紗夜: 「分かっています。光先輩なら見なかったですよ」
+  - before: 远野纱夜: 「我知道。光先生的话我没看到」
+  - after: 远野纱夜: 「我知道。光前辈的话我没看到」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:83` `hikari-senpai`
+  - ja `80`: 遠野　紗夜: 「光先輩と一緒にいることがです」
+  - before: 远野纱夜: 「和光先生在一起这件事」
+  - after: 远野纱夜: 「和光前辈在一起这件事」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:88` `hikari-senpai`
+  - ja `85`: 遠野　紗夜: 「……別に、光先輩が嫌いなわけではないのです。ただ、今まで知っていた彼の方が偽物だということが未だ信じられなくて」
+  - before: 远野纱夜: 「……我并不是讨厌光先生。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:126` `chiyo-ojousan`
+  - ja `123`: 千代: 「七葵くーん！！　……あ！　お嬢さん！　お嬢さん！！」
+  - before: 千代: 「七葵君——！！……啊！大小姐！大小姐！！」
+  - after: 千代: 「七葵君——！！……啊！小姐！小姐！！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:127` `sayo-to-chiyo-san`
+  - ja `124`: 遠野　紗夜: 「千代さん」
+  - before: 远野纱夜: 「千代先生」
+  - after: 远野纱夜: 「千代」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:130` `chiyo-ojousan`
+  - ja `127`: 千代: 「お嬢さん！　こんにちは！！」
+  - before: 千代: 「大小姐！你好！！」
+  - after: 千代: 「小姐！你好！！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:141` `hikari-senpai`
+  - ja `138`: 遠野　紗夜: 「桐島先輩はこの後、光先輩を迎えに行くのですか？」
+  - before: 远野纱夜: 「桐岛前辈接下来要去接光先生吗？」
+  - after: 远野纱夜: 「桐岛前辈接下来要去接光前辈吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:169` `hikari-senpai`
+  - ja `164`: 遠野　紗夜: 「おはようございます。光先輩」
+  - before: 远野纱夜: 「早上好。光先生」
+  - after: 远野纱夜: 「早上好。光前辈」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:252` `hikari-senpai`
+  - ja `246`: 引きずるように光先輩を連れて行く。
+  - before: 他像拖东西一样把光先生带走了。
+  - after: 他像拖东西一样把光前辈带走了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:255` `sayo-to-chiyo-san`
+  - ja `249`: 遠野　紗夜: 「千代さんは先輩達と一緒に行かないのですか？」
+  - before: 远野纱夜: 「千代小姐不跟前辈们一起走吗？」
+  - after: 远野纱夜: 「千代不跟前辈们一起走吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:264` `sayo-to-chiyo-san`
+  - ja `257`: 人の多い所では、私に迷惑がかかるからと隣にいるものの千代さんからは話し出そうとしない。
+  - before: 我和千代小姐漫无目的地走着。
+  - after: 我和千代漫无目的地走着。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:280` `sayo-to-chiyo-san`
+  - ja `272`: 千代さんは深く頭を下げ、私は慌てて手を振る。
+  - before: 千代小姐深深地低下头，我慌忙摆手。
+  - after: 千代深深地低下头，我慌忙摆手。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:281` `sayo-to-chiyo-san`
+  - ja `273`: 遠野　紗夜: 「い、いえ。千代さんが謝るようなことでは……」
+  - before: 远野纱夜: 「不、不用。这不是千代小姐该道歉的事……」
+  - after: 远野纱夜: 「不、不用。这不是千代该道歉的事……」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:284` `sayo-to-chiyo-san`
+  - ja `276`: 地団駄踏む千代さんに、
+  - before: 看着跺脚的千代小姐，
+  - after: 看着跺脚的千代，
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:301` `sayo-to-chiyo-san`
+  - ja `293`: 千代さんは少し驚いたような顔をしたかと思うと、すぐに柔らかく微笑んだ。
+  - before: 千代小姐先是露出了有些惊讶的表情，随即温柔地微笑起来。
+  - after: 千代先是露出了有些惊讶的表情，随即温柔地微笑起来。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:417` `sayo-to-chiyo-san`
+  - ja `404`: 兄に千代さんのことが知れてしまったのかと思った。
+  - before: 我还以为哥哥知道千代先生的事了。
+  - after: 我还以为哥哥知道千代的事了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1930` `sayo-to-chiyo-san`
+  - ja `1863`: 遠野　紗夜: 「千代さん！」
+  - before: 远野纱夜: 「千代小姐！」
+  - after: 远野纱夜: 「千代！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1938` `chiyo-ojousan`
+  - ja `1871`: 千代: 「すみません……。お嬢さんと約束したことが、どうも楽しみで仕方がなくて」
+  - before: 千代: 「抱歉……因为跟大小姐约好的事，我实在期待得不得了。」
+  - after: 千代: 「抱歉……因为跟小姐约好的事，我实在期待得不得了。」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1945` `sayo-to-chiyo-san`
+  - ja `1878`: 苦笑する千代さんに、どうやら随分と苦労している様子が窺い知れる。
+  - before: 看千代先生苦笑的样子，能看出他吃了不少苦头。
+  - after: 看千代苦笑的样子，能看出他吃了不少苦头。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1946` `chiyo-ojousan`
+  - ja `1879`: 千代: 「お嬢さんは一人ですか？」
+  - before: 千代: 「大小姐一个人吗？」
+  - after: 千代: 「小姐一个人吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1966` `sayo-to-chiyo-san`
+  - ja `1899`: 遠野　紗夜: 「いつものことですから。……千代さん。もしも、お暇でしたら私達について行きますか？」
+  - before: 远野纱夜: 「这是常有的事。……千代先生，如果您有空的话，要跟我们一起去吗？」
+  - after: 远野纱夜: 「这是常有的事。……千代，如果您有空的话，要跟我们一起去吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1988` `sayo-to-chiyo-san`
+  - ja `1919`: 兄と蒼と千代さん。
+  - before: 哥哥、苍和千代先生。
+  - after: 哥哥、苍和千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1997` `sayo-to-chiyo-san`
+  - ja `1928`: それならば、千代さんとも気兼ねなく話せるだろう。
+  - before: 这样的话，也能跟千代先生自在地聊天了。
+  - after: 这样的话，也能跟千代自在地聊天了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2029` `sayo-to-chiyo-san`
+  - ja `1958`: 遠野　紗夜: 「千代さん、私としばらくお話でもしませんか？」
+  - before: 远野纱夜: 「千代先生，要跟我聊一会儿吗？」
+  - after: 远野纱夜: 「千代，要跟我聊一会儿吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2033` `sayo-to-chiyo-san`
+  - ja `1962`: 千代さんは遠くの方をどこか懐かしむ様に目を細めて眺めていた。
+  - before: 千代先生眯起眼睛望着远方，眼神带着几分怀念。
+  - after: 千代眯起眼睛望着远方，眼神带着几分怀念。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2049` `sayo-to-chiyo-san`
+  - ja `1978`: 遠野　紗夜: 「千代さんは、ここでずっと何をしていたのですか？」
+  - before: 远野纱夜: 「千代小姐，你之前一直在这里做什么呢？」
+  - after: 远野纱夜: 「千代，你之前一直在这里做什么呢？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2057` `sayo-to-chiyo-san`
+  - ja `1986`: 千代さんの笑顔はいつも花の様に穏やかで、私の心を安心させる。
+  - before: 千代小姐的笑容总是像花一样温和，让我的心安定下来。
+  - after: 千代的笑容总是像花一样温和，让我的心安定下来。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2171` `sayo-to-chiyo-san`
+  - ja `2096`: 千代さん。
+  - before: 千代小姐。
+  - after: 千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2172` `sayo-to-chiyo-san`
+  - ja `2097`: 千代さんには、とても申し訳ないことをしてしまった。
+  - before: 我对千代小姐感到很过意不去。
+  - after: 我对千代感到很过意不去。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2179` `sayo-to-chiyo-san`
+  - ja `2104`: 千代さんの方を見ると、彼はにこにこと私を安心させる様に笑っていた。
+  - before: 我看向千代小姐，他正笑眯眯地看着我，像是让我安心。
+  - after: 我看向千代，他正笑眯眯地看着我，像是让我安心。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2230` `sayo-to-chiyo-san`
+  - ja `2151`: 千代さんだけがこの場の雰囲気を何とかしようと、色々と話をしてくれるのだけれど、私の方も何も喋ることは出来ず、結局一方通行となり会話が止まってしまう。
+  - before: 只有千代小姐想缓和一下气氛，不停地找各种话题聊天，但我也说不出什么话来，结果还是变成了单方面的独角戏，对话就这么断了。
+  - after: 只有千代想缓和一下气氛，不停地找各种话题聊天，但我也说不出什么话来，结果还是变成了单方面的独角戏，对话就这么断了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2232` `sayo-to-chiyo-san`
+  - ja `2153`: 肩を落とす千代さんに、そんなことはないのですと必死に目で訴える。
+  - before: 看着垂头丧气的千代小姐，我拼命用眼神告诉她「不是这样的」。
+  - after: 看着垂头丧气的千代，我拼命用眼神告诉她「不是这样的」。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2235` `sayo-to-chiyo-san`
+  - ja `2156`: 蒼も千代さんの姿が見えているのなら、何か喋ってくれれば良いのに。
+  - before: 既然苍也能看见千代小姐，那就说点什么啊。
+  - after: 既然苍也能看见千代，那就说点什么啊。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2243` `sayo-to-chiyo-san`
+  - ja `2164`: 突然、千代さんが小さな声をあげ、歩くのを止めた。
+  - before: 突然，千代小姐轻轻叫了一声，停下了脚步。
+  - after: 突然，千代轻轻叫了一声，停下了脚步。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2247` `sayo-to-chiyo-san`
+  - ja `2168`: 千代さんは、私の手を取り、来た道を逆走する。
+  - before: 千代小姐拽着我的手，顺着来路往回跑。
+  - after: 千代拽着我的手，顺着来路往回跑。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2257` `sayo-to-chiyo-san`
+  - ja `2178`: 千代さんが突然走り出したのは、桐島先輩が傍にいたからだったのかと納得した。
+  - before: 我这才明白，千代小姐突然跑起来，是因为看到了桐岛前辈。
+  - after: 我这才明白，千代突然跑起来，是因为看到了桐岛前辈。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2275` `sayo-to-chiyo-san`
+  - ja `2196`: 気恥ずかしいのか、桐島先輩は千代さんと目を合わせようとしない。
+  - before: 桐岛前辈像是有点难为情，不肯正视千代小姐。
+  - after: 桐岛前辈像是有点难为情，不肯正视千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2286` `sayo-to-chiyo-san`
+  - ja `2207`: 私は桐島先輩と千代さんの二人を見た。
+  - before: 我看向桐岛前辈和千代小姐。
+  - after: 我看向桐岛前辈和千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2291` `sayo-to-chiyo-san`
+  - ja `2212`: 遠野 十夜: 「ということは、もしかしてあれかな。千代というのは人の名前で、千代さんは、幽霊か何かなのかい？」
+  - before: 远野十夜: 「也就是说，难道是这样吗。千代是人的名字，而千代小姐难道是幽灵之类的？」
+  - after: 远野十夜: 「也就是说，难道是这样吗。千代是人的名字，而千代难道是幽灵之类的？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2293` `sayo-to-chiyo-san`
+  - ja `2214`: 遠野 十夜: 「そうかい。じゃあ、ここにいる全ての人には千代さんの姿が見えているというわけなのか。凄いな」
+  - before: 远野十夜: 「这样啊。那也就是说，现在在场的所有人都看得见千代小姐了？真厉害啊」
+  - after: 远野十夜: 「这样啊。那也就是说，现在在场的所有人都看得见千代了？真厉害啊」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2298` `sayo-to-chiyo-san`
+  - ja `2219`: 遠野 十夜: 「ええと、千代さん？　初めましてでいいのかな？　ああ、でもずっと前からいたのか」
+  - before: 远野十夜: 「呃，千代小姐？说初次见面可以吗？啊，不过你好像一直都在啊」
+  - after: 远野十夜: 「呃，千代？说初次见面可以吗？啊，不过你好像一直都在啊」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2364` `sayo-to-chiyo-san`
+  - ja `2280`: 千代さんだけがこの場の雰囲気を何とかしようと、色々と話をしてくれるのだけれど、私の方も何も喋ることは出来ず、結局一方通行となり会話が止まってしまう。
+  - before: 只有千代小姐想缓和一下气氛，不停地找各种话题聊天，但我也说不出什么话来，结果还是变成了单方面的独角戏，对话就这么断了。
+  - after: 只有千代想缓和一下气氛，不停地找各种话题聊天，但我也说不出什么话来，结果还是变成了单方面的独角戏，对话就这么断了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2366` `sayo-to-chiyo-san`
+  - ja `2282`: 肩を落とす千代さんに、そんなことはないのですと必死に目で訴える。
+  - before: 看着垂头丧气的千代小姐，我拼命用眼神告诉她「不是这样的」。
+  - after: 看着垂头丧气的千代，我拼命用眼神告诉她「不是这样的」。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2369` `sayo-to-chiyo-san`
+  - ja `2285`: 蒼も千代さんの姿が見えているのなら、何か喋ってくれれば良いのに。
+  - before: 既然苍也能看见千代小姐，那就说点什么啊。
+  - after: 既然苍也能看见千代，那就说点什么啊。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2377` `sayo-to-chiyo-san`
+  - ja `2293`: 突然、千代さんが小さな声をあげ、歩くのを止めた。
+  - before: 突然，千代小姐轻轻叫了一声，停下了脚步。
+  - after: 突然，千代轻轻叫了一声，停下了脚步。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2381` `sayo-to-chiyo-san`
+  - ja `2297`: 千代さんは、私の手を取り、来た道を逆走する。
+  - before: 千代小姐拽着我的手，顺着来路往回跑。
+  - after: 千代拽着我的手，顺着来路往回跑。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2391` `sayo-to-chiyo-san`
+  - ja `2307`: 千代さんが突然走り出したのは、桐島先輩が傍にいたからだったのかと納得した。
+  - before: 我这才明白，千代小姐突然跑起来，是因为看到了桐岛前辈。
+  - after: 我这才明白，千代突然跑起来，是因为看到了桐岛前辈。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2409` `sayo-to-chiyo-san`
+  - ja `2325`: 気恥ずかしいのか、桐島先輩は千代さんと目を合わせようとしない。
+  - before: 桐岛前辈像是有点难为情，不肯正视千代小姐。
+  - after: 桐岛前辈像是有点难为情，不肯正视千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2420` `sayo-to-chiyo-san`
+  - ja `2336`: 私は桐島先輩と千代さんの二人を見た。
+  - before: 我看向桐岛前辈和千代小姐。
+  - after: 我看向桐岛前辈和千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2425` `sayo-to-chiyo-san`
+  - ja `2341`: 遠野 十夜: 「ということは、もしかしてあれかな。千代というのは人の名前で、千代さんは、幽霊か何かなのかい？」
+  - before: 远野十夜: 「也就是说，难道是这样吗。千代是人的名字，而千代小姐难道是幽灵之类的？」
+  - after: 远野十夜: 「也就是说，难道是这样吗。千代是人的名字，而千代难道是幽灵之类的？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2427` `sayo-to-chiyo-san`
+  - ja `2343`: 遠野 十夜: 「そうかい。じゃあ、ここにいる全ての人には千代さんの姿が見えているというわけなのか。凄いな」
+  - before: 远野十夜: 「这样啊。那也就是说，现在在场的所有人都看得见千代小姐了？真厉害啊」
+  - after: 远野十夜: 「这样啊。那也就是说，现在在场的所有人都看得见千代了？真厉害啊」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2432` `sayo-to-chiyo-san`
+  - ja `2348`: 遠野 十夜: 「ええと、千代さん？　初めましてでいいのかな？　ああ、でもずっと前からいたのか」
+  - before: 远野十夜: 「呃，千代小姐？说初次见面可以吗？啊，不过你好像一直都在啊」
+  - after: 远野十夜: 「呃，千代？说初次见面可以吗？啊，不过你好像一直都在啊」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2701` `sayo-to-chiyo-san`
+  - ja `2606`: 少し離れた場所で、千代さんが片手を大きく振っている。
+  - before: 在稍远的地方，千代先生正大力挥着一只手。
+  - after: 在稍远的地方，千代正大力挥着一只手。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2707` `sayo-to-chiyo-san`
+  - ja `2612`: 不安に垂れ下がる眉、私はどうも千代さんのこの表情に弱い。
+  - before: 他不安地垂下眉毛，我总对千代先生这副表情没辙。
+  - after: 他不安地垂下眉毛，我总对千代这副表情没辙。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2853` `sayo-to-chiyo-san`
+  - ja `2756`: 遠野　紗夜: 「千代さん……」
+  - before: 远野纱夜: 「千代小姐……」
+  - after: 远野纱夜: 「千代……」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2980` `sayo-to-chiyo-san`
+  - ja `2881`: 遠野　紗夜: 「千代さん？」
+  - before: 远野纱夜: 「千代小姐？」
+  - after: 远野纱夜: 「千代？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3449` `sayo-to-chiyo-san`
+  - ja `3331`: 遠野　紗夜: 「……蒼。ここに千代さんはいますか？」
+  - before: 远野纱夜: 「……苍。千代先生在这里吗？」
+  - after: 远野纱夜: 「……苍。千代在这里吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3452` `sayo-to-chiyo-san`
+  - ja `3334`: 私は、いつ千代さんがここを出ていったのか分からなかった。
+  - before: 我不知道千代小姐是什么时候离开这里的。
+  - after: 我不知道千代是什么时候离开这里的。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3466` `sayo-to-chiyo-san`
+  - ja `3347`: 千代さんの声が聞こえなくなった。
+  - before: 千代小姐的身影看不见了。
+  - after: 千代的身影看不见了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3467` `sayo-to-chiyo-san`
+  - ja `3347`: 千代さんの声が聞こえなくなった。
+  - before: 千代小姐的声音也听不见了。
+  - after: 千代的声音也听不见了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3490` `sayo-to-chiyo-san`
+  - ja `3370`: 遠野　紗夜: 「千代さんのことです！」
+  - before: 远野纱夜: 「千代先生的事！」
+  - after: 远野纱夜: 「千代的事！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3492` `sayo-to-chiyo-san`
+  - ja `3372`: 遠野　紗夜: 「見えなくなってしまったのです……千代さんの姿が」
+  - before: 远野纱夜: 「变得看不见了……千代先生的身影」
+  - after: 远野纱夜: 「变得看不见了……千代的身影」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3618` `sayo-to-chiyo-san`
+  - ja `3492`: 日生先輩、千代さん。
+  - before: 日生前辈，千代小姐。
+  - after: 日生前辈，千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3683` `sayo-to-chiyo-san`
+  - ja `3555`: 遠野　紗夜: 「千代さん……？」
+  - before: 远野纱夜: 「千代小姐……？」
+  - after: 远野纱夜: 「千代……？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3687` `sayo-to-chiyo-san`
+  - ja `3559`: 遠野　紗夜: 「千代さん！！」
+  - before: 远野纱夜: 「千代小姐！！」
+  - after: 远野纱夜: 「千代！！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3688` `sayo-to-chiyo-san`
+  - ja `3560`: 私は勢いよく起きあがると同時に、もう一度、今度はハッキリと名前を呼び、千代さんの首に手を回した。
+  - before: 我猛地坐起身，同时再次清晰地叫出他的名字，然后搂住了千代小姐的脖子。
+  - after: 我猛地坐起身，同时再次清晰地叫出他的名字，然后搂住了千代的脖子。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3691` `sayo-to-chiyo-san`
+  - ja `3563`: 遠野　紗夜: 「ええ！！　見えます！！　この目で、この耳で、この腕で、千代さんの存在を感じることが出来ます！！」
+  - before: 远野纱夜: 「是的！！我看得见！！用这双眼睛、这对耳朵、这只手臂，我能感受到千代小姐的存在！！」
+  - after: 远野纱夜: 「是的！！我看得见！！用这双眼睛、这对耳朵、这只手臂，我能感受到千代的存在！！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3692` `sayo-to-chiyo-san`
+  - ja `3564`: 千代さんの身体から少し離れ、しかし手だけは離さずにいた。
+  - before: 我稍微离开千代小姐的身体，但手仍没有松开。
+  - after: 我稍微离开千代的身体，但手仍没有松开。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3695` `sayo-to-chiyo-san`
+  - ja `3567`: 喜ぶ私とは対照的に、眸に映る千代さんの表情は翳っていた。
+  - before: 与欣喜的我相反，映入眼帘的千代小姐的表情笼罩着阴霾。
+  - after: 与欣喜的我相反，映入眼帘的千代的表情笼罩着阴霾。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3699` `sayo-to-chiyo-san`
+  - ja `3571`: 遠野　紗夜: 「千代さん、その体は……？」
+  - before: 远野纱夜: 「千代小姐，你的身体……？」
+  - after: 远野纱夜: 「千代，你的身体……？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3700` `sayo-to-chiyo-san`
+  - ja `3572`: 千代さんの体は、足下からうっすらと透けていた。
+  - before: 千代小姐的身体，从脚下开始微微变得透明。
+  - after: 千代的身体，从脚下开始微微变得透明。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3714` `sayo-to-chiyo-san`
+  - ja `3586`: この人には、千代さんの姿が見えていない。
+  - before: 这个人看不见千代小姐的身影。
+  - after: 这个人看不见千代的身影。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3733` `sayo-to-chiyo-san`
+  - ja `3605`: その短い沈黙を破ったのは千代さんだった。
+  - before: 打破这段短暂沉默的是千代小姐。
+  - after: 打破这段短暂沉默的是千代。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3737` `sayo-to-chiyo-san`
+  - ja `3609`: 千代さんは、私を落ち着ける様にといつも以上に優しく語りかける。
+  - before: 千代小姐用一种比平时更加温柔的语气，像是在安抚我一般说道。
+  - after: 千代用一种比平时更加温柔的语气，像是在安抚我一般说道。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3744` `sayo-to-chiyo-san`
+  - ja `3616`: 千代さんは淋しそうに笑う。
+  - before: 千代小姐寂寞地笑了。
+  - after: 千代寂寞地笑了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3766` `sayo-to-chiyo-san`
+  - ja `3638`: 千代さんは、桐島先輩に視線を投げる。
+  - before: 千代小姐把视线投向桐岛前辈。
+  - after: 千代把视线投向桐岛前辈。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3775` `sayo-to-chiyo-san`
+  - ja `3645`: 遠野　紗夜: 「千代さん、どこに行きましょうか？　千代さんのお好きな場所で構いませんよ」
+  - before: 远野纱夜: 「千代小姐，我们去哪儿好呢？只要是千代小姐喜欢的地方，哪里都可以哦。」
+  - after: 远野纱夜: 「千代，我们去哪儿好呢？只要是千代喜欢的地方，哪里都可以哦。」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3776` `sayo-to-chiyo-san`
+  - ja `3646`: 私は千代さんの手を引き、足早に歩いた。
+  - before: 我拉着千代小姐的手，快步走了起来。
+  - after: 我拉着千代的手，快步走了起来。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3778` `sayo-to-chiyo-san`
+  - ja `3648`: 千代さんは私が手を引くまま黙ってついてきてくれた。
+  - before: 千代小姐默默地任由我拉着，跟在我身后。
+  - after: 千代默默地任由我拉着，跟在我身后。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3785` `sayo-to-chiyo-san`
+  - ja `3655`: 代わりに、千代さんが物語る。
+  - before: 取而代之的是，千代小姐开始讲述。
+  - after: 取而代之的是，千代开始讲述。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3795` `sayo-to-chiyo-san`
+  - ja `3665`: 遠野　紗夜: 「……私も千代さんの幸せを永遠に願っています」
+  - before: 远野纱夜: 「……我也永远祝愿千代小姐幸福。」
+  - after: 远野纱夜: 「……我也永远祝愿千代幸福。」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3796` `sayo-to-chiyo-san`
+  - ja `3666`: 前を向いている私には、千代さんの表情を確認することは出来ない。
+  - before: 因为面向前方，我无法确认千代小姐的表情。
+  - after: 因为面向前方，我无法确认千代的表情。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3797` `sayo-to-chiyo-san`
+  - ja `3667`: けれども千代さんは、私の手を強く握り返した。
+  - before: 但千代小姐用力握紧了我的手。
+  - after: 但千代用力握紧了我的手。
+- `bookish_zhcn/reading_order/18_kuro.md:111` `sayo-to-chiyo-san`
+  - ja `111`: 千代さんが消えた。
+  - before: 千代先生消失了。
+  - after: 千代消失了。
+- `bookish_zhcn/reading_order/18_kuro.md:112` `sayo-to-chiyo-san`
+  - ja `112`: 桐島先輩にとって千代さんは大切な友人だったはず。
+  - before: 对桐岛前辈来说，千代先生应该是重要的朋友。
+  - after: 对桐岛前辈来说，千代应该是重要的朋友。
+- `bookish_zhcn/reading_order/18_kuro.md:705` `sayo-to-chiyo-san`
+  - ja `705`: 千代さん。
+  - before: 千代小姐。
+  - after: 千代。
+- `bookish_zhcn/reading_order/18_kuro.md:707` `sayo-to-chiyo-san`
+  - ja `707`: こうして桐島先輩の言うように幻想が見える様になっても、千代さんの姿が見えないということは千代さんは存在していないということなのだろう。
+  - before: 即使现在像桐岛前辈所说的那样能看到幻想了，也看不到千代小姐的身影，那就说明千代小姐并不存在吧。
+  - after: 即使现在像桐岛前辈所说的那样能看到幻想了，也看不到千代的身影，那就说明千代并不存在吧。
+- `bookish_zhcn/reading_order/18_kuro.md:1714` `hinase-senpai`
+  - ja `1713`: それは日生先輩が私に残していった本だった。
+  - before: 那是日生学长留给我的书。
+  - after: 那是日生前辈留给我的书。
+- `bookish_zhcn/reading_order/18_kuro.md:1734` `hinase-senpai`
+  - ja `1733`: 何故、これを日生先輩が？
+  - before: 为什么日生学长会有这个？
+  - after: 为什么日生前辈会有这个？
+- `bookish_zhcn/reading_order/18_kuro.md:1768` `hinase-senpai`
+  - ja `1767`: 日生先輩は全て知っていたのだろうか？
+  - before: 日生学长知道这一切吗？
+  - after: 日生前辈知道这一切吗？
+- `bookish_zhcn/reading_order/18_kuro.md:1771` `hinase-senpai`
+  - ja `1770`: 私は別れ際の日生先輩の言葉を思い出していた。
+  - before: 我想起了分别时日生学长对我说的话。
+  - after: 我想起了分别时日生前辈对我说的话。
+- `bookish_zhcn/reading_order/18_kuro.md:1780` `hinase-senpai`
+  - ja `1779`: はい、そうですね。日生先輩。
+  - before: 是啊，没错。日生学长。
+  - after: 是啊，没错。日生前辈。
+- `bookish_zhcn/reading_order/19_ao.md:850` `sayo-to-chiyo-san`
+  - ja `848`: 遠野　紗夜: 「千代さんの正体、もしかして、それは『秋桜』の花ではないのですか？」
+  - before: 远野纱夜: 「千代小姐的真实身份，难道……就是‘秋樱’花吗？」
+  - after: 远野纱夜: 「千代的真实身份，难道……就是‘秋樱’花吗？」
+- `bookish_zhcn/reading_order/19_ao.md:862` `sayo-to-chiyo-san`
+  - ja `860`: 遠野　紗夜: 「だけど……それなのに、千代さんは消えてしまった。秋桜の花も枯れてなくなってしまった……」
+  - before: 远野纱夜: 「可是……即便如此，千代小姐还是消失了。秋樱的花也枯萎不见了……」
+  - after: 远野纱夜: 「可是……即便如此，千代还是消失了。秋樱的花也枯萎不见了……」
+- `bookish_zhcn/reading_order/19_ao.md:864` `sayo-to-chiyo-san`
+  - ja `862`: 遠野　紗夜: 「だからこそ千代さんは消えてしまったと？」
+  - before: 远野纱夜: 「所以千代小姐就消失了？」
+  - after: 远野纱夜: 「所以千代就消失了？」
+- `bookish_zhcn/reading_order/19_ao.md:1436` `hinase-senpai`
+  - ja `1434`: それは日生先輩が私に残していった本だった。
+  - before: 那是日生学长留给我的书。
+  - after: 那是日生前辈留给我的书。
+- `bookish_zhcn/reading_order/19_ao.md:1456` `hinase-senpai`
+  - ja `1454`: 何故、これを日生先輩が？
+  - before: 为什么日生学长会有这个？
+  - after: 为什么日生前辈会有这个？
+- `bookish_zhcn/reading_order/19_ao.md:1815` `sayo-to-chiyo-san`
+  - ja `1813`: 遠野　紗夜: 「千代さんのことですが……」
+  - before: 远野纱夜: 「是关于千代小姐的事……」
+  - after: 远野纱夜: 「是关于千代的事……」
+- `bookish_zhcn/reading_order/19_ao.md:1817` `sayo-to-chiyo-san`
+  - ja `1815`: 遠野　紗夜: 「千代さんとは一体、何だったのでしょう？」
+  - before: 远野纱夜: 「千代小姐，究竟是什么人呢？」
+  - after: 远野纱夜: 「千代，究竟是什么人呢？」
+- `bookish_zhcn/reading_order/19_ao.md:1820` `sayo-to-chiyo-san`
+  - ja `1818`: 遠野　紗夜: 「もしかして……私の勘違いかもしれませんが、千代さんはもしや秋桜の花だったのではありませんか？」
+  - before: 远野纱夜: 「也许是我搞错了，但千代小姐，会不会其实是秋樱的花？」
+  - after: 远野纱夜: 「也许是我搞错了，但千代，会不会其实是秋樱的花？」
+- `bookish_zhcn/reading_order/19_ao.md:1833` `sayo-to-chiyo-san`
+  - ja `1831`: 遠野　紗夜: 「どうして、桐島先輩には見えるのですか？　どうして、私には千代さんの姿が見えたのですか！？」
+  - before: 远野纱夜: 「为什么桐岛前辈能看到？为什么我能看到千代小姐的样子！？」
+  - after: 远野纱夜: 「为什么桐岛前辈能看到？为什么我能看到千代的样子！？」
+- `bookish_zhcn/reading_order/19_ao.md:1836` `sayo-to-chiyo-san`
+  - ja `1834`: 遠野　紗夜: 「どうして、貴方は千代さんの正体が秋桜なのだと分かったのですか！？」
+  - before: 远野纱夜: 「为什么前辈知道千代小姐的真实身份是秋樱！？」
+  - after: 远野纱夜: 「为什么前辈知道千代的真实身份是秋樱！？」
+- `bookish_zhcn/reading_order/19_ao.md:1848` `sayo-to-chiyo-san`
+  - ja `1846`: 私はこの目に千代さんの姿が映らなくなった日のことを思い出した。
+  - before: 我想起了千代小姐从我眼中消失的那一天。
+  - after: 我想起了千代从我眼中消失的那一天。
+- `bookish_zhcn/reading_order/19_ao.md:1864` `sayo-to-chiyo-san`
+  - ja `1862`: 千代さんが私の目に映らなくなった理由。
+  - before: 千代小姐从我眼中消失的原因。
+  - after: 千代从我眼中消失的原因。
+- `bookish_zhcn/reading_order/19_ao.md:1867` `sayo-to-chiyo-san`
+  - ja `1865`: そして、桐島先輩は千代さんを否定した。
+  - before: 然后，桐岛前辈否定了千代小姐。
+  - after: 然后，桐岛前辈否定了千代。
+- `bookish_zhcn/reading_order/19_ao.md:1868` `sayo-to-chiyo-san`
+  - ja `1866`: だから、千代さんは消えてしまった。
+  - before: 所以，千代小姐消失了。
+  - after: 所以，千代消失了。
+- `bookish_zhcn/reading_order/19_ao.md:1871` `sayo-to-chiyo-san`
+  - ja `1869`: 桐島先輩と千代さん、二人の間には私などでは計り知れない絆があったはずなのに。
+  - before: 桐岛前辈和千代小姐之间，明明有着我无法估量的羁绊。
+  - after: 桐岛前辈和千代之间，明明有着我无法估量的羁绊。
+- `bookish_zhcn/reading_order/19_ao.md:2029` `hinase-senpai`
+  - ja `2027`: 日生先輩は全て知っていたのだろうか？
+  - before: 日生学长知道这一切吗？
+  - after: 日生前辈知道这一切吗？
+
+## 对齐警告
+
+- `bookish_zhcn/reading_order/00_hajimari.md` ja_nonempty=36, zh_nonempty=38
+- `bookish_zhcn/reading_order/00_hajimari_gate.md` ja_nonempty=2, zh_nonempty=5
+- `bookish_zhcn/reading_order/00_name.md` ja_nonempty=5, zh_nonempty=7
+- `bookish_zhcn/reading_order/01_prologue.md` ja_nonempty=1124, zh_nonempty=1125
+- `bookish_zhcn/reading_order/02_chapter1.md` ja_nonempty=5794, zh_nonempty=5865
+- `bookish_zhcn/reading_order/03_chapter2.md` ja_nonempty=4491, zh_nonempty=4543
+- `bookish_zhcn/reading_order/04_chapter3.md` ja_nonempty=8057, zh_nonempty=8151
+- `bookish_zhcn/reading_order/05_natsuko.md` ja_nonempty=3, zh_nonempty=5
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md` ja_nonempty=803, zh_nonempty=819
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md` ja_nonempty=644, zh_nonempty=646
+- `bookish_zhcn/reading_order/08_hinase.md` ja_nonempty=2953, zh_nonempty=2955
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md` ja_nonempty=6344, zh_nonempty=6468
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md` ja_nonempty=85, zh_nonempty=89
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md` ja_nonempty=430, zh_nonempty=432
+- `bookish_zhcn/reading_order/12_kirishima.md` ja_nonempty=3634, zh_nonempty=3636
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md` ja_nonempty=416, zh_nonempty=418
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md` ja_nonempty=3666, zh_nonempty=3668
+- `bookish_zhcn/reading_order/15_chiyo.md` ja_nonempty=468, zh_nonempty=470
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md` ja_nonempty=3592, zh_nonempty=3652
+- `bookish_zhcn/reading_order/17_chapter6.md` ja_nonempty=3, zh_nonempty=5
+- `bookish_zhcn/reading_order/18_kuro.md` ja_nonempty=3129, zh_nonempty=3131
+- `bookish_zhcn/reading_order/19_ao.md` ja_nonempty=4776, zh_nonempty=4778
+- `bookish_zhcn/reading_order/20_atogaki.md` ja_nonempty=203, zh_nonempty=205
+
+## 人工审核说明
+
+- `*.operations.jsonl` 是全量操作记录，可按 `human_status` 做二次人工验收。
+- `*.alignment_warnings.jsonl` 记录非空行数不一致文件；本轮不使用非空行 zip，而是使用说话人锚点与局部日文触发语确认。

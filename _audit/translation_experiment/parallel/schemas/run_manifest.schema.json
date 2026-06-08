@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "run_manifest.schema.json",
+  "title": "Parallel Translation Review Run Manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "run_id",
+    "review_set_id",
+    "candidate_id",
+    "source_file",
+    "current_file",
+    "human_view",
+    "jsonl",
+    "model",
+    "prompt",
+    "decoding",
+    "status"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "parallel-translation-review/v0.1"
+    },
+    "run_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "review_set_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "candidate_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_file": {
+      "type": "string",
+      "minLength": 1
+    },
+    "current_file": {
+      "type": "string",
+      "minLength": 1
+    },
+    "human_view": {
+      "type": "string",
+      "minLength": 1
+    },
+    "jsonl": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model": {
+      "type": "object",
+      "required": ["provider", "name"],
+      "properties": {
+        "provider": {
+          "type": ["string", "null"]
+        },
+        "name": {
+          "type": ["string", "null"]
+        },
+        "version": {
+          "type": ["string", "null"]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "prompt": {
+      "type": "object",
+      "required": ["id", "source"],
+      "properties": {
+        "id": {
+          "type": ["string", "null"]
+        },
+        "source": {
+          "type": ["string", "null"]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "decoding": {
+      "type": "object",
+      "properties": {
+        "temperature": {
+          "type": ["number", "integer", "null"]
+        },
+        "top_p": {
+          "type": ["number", "integer", "null"]
+        },
+        "max_output_tokens": {
+          "type": ["integer", "null"],
+          "minimum": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pilot", "candidate", "reviewing", "closed"]
+    },
+    "created_at": {
+      "type": ["string", "null"]
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

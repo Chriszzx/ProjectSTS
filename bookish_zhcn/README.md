@@ -7,16 +7,25 @@
 - Source ARC: `SCRDATA.ARC`
 - SHA-256: `7244f1047d4f58f6960926d0c83b3d8397edfbafe9e3984ea073f26cd86ac680`
 - Structure source: `bookish` scene-order ladder generated from `choices.txt`.
-- Translation source: `bookish/bookish_complete.ja.zh.epub` is the authoritative JP/ZH source; `translated_processed_output_v2`, `processed_output_v2`, `Json/v0.1.0`, and `Modified/ja_zh` are fallbacks.
+- Translation source: `bookish/bookish_complete.ja.zh.epub` is the default JP/ZH source used by the generator.
+- Current Markdown has been reconciled against the read-only Apple Books reference package `死神与少女 Bookish 中文完整剧本.epub`.
+- Apple Books reference package digest: `c4a4abd8a2e57efd60814b9d18354e64848b4b91d0de1cf4815661c69c289131` (53 files, 3659562 bytes).
+- The Apple Books package is a reference only; it is not copied, moved, regenerated, or modified by this workspace.
+- Root `bookish_complete.zh.epub` is the frozen EPUB reference packaged from this reviewed `bookish_zhcn` state.
+- New zh-CN EPUB generation should write `bookish_zhcn.epub`, leaving `bookish_complete.zh.epub` as the reference.
+- Legacy translation outputs are ignored by default; they are loaded only when `BookishTranslator(..., allow_legacy_fallbacks=True)` is used for debugging.
 - Source `$...$` interactive word markers are stripped while keeping the marked word as plain text.
 - EPUB output uses `reading_order/`, mirroring the Japanese main-ladder plus side-route return structure.
 - `reader_manual.md` is inserted before the story body in the generated EPUB.
 - `cover.jpg` is packaged as the generated EPUB cover image.
 - `_audit/translation_alignment_audit.md` lists likely untranslated, structurally mismatched, or length-outlier lines.
-- Translation source files loaded: 442
-- Translation line pairs loaded: 44846
+- Legacy fallback loading: disabled
+- Legacy source files loaded: 0
+- Legacy line pairs loaded: 0
 - Authoritative EPUB pairs loaded: 53017
-- Missing translation hits are left as Japanese so they can be reviewed directly.
+- `reading_order/`, appendices, `reader_manual.md`, and ignored `complete_epub.md` are reconstructed from the Apple Books reference XHTML.
+- Top-level chapter Markdown is rebuilt from matching Books reference blocks where the source structure is exact; chapter 4 and chapter 5 use context-scoped line mappings for branch material.
+- Current audit after Apple Books reconciliation: 371 `speaker_shape_mismatch` findings, 0 `japanese_kana_in_translation`, 0 `unchanged_japanese_line`.
 
 ## Chapter Files
 

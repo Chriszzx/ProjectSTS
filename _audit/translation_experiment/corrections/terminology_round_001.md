@@ -1,0 +1,2401 @@
+# 术语准则回填记录：terminology_round_001
+
+> 生成时间：2026-06-08 11:06:36
+> 范围：`bookish_zhcn/reading_order/*.md`
+> 原则：只自动回填用户已确认且无需上下文判断的术语；语义敏感项仅列入人工候选。
+
+## 本轮状态
+
+- 自动回填：663
+- 人工候选：602
+
+## 自动规则统计
+
+### clock-tower
+
+- 说明：時計塔：时钟塔
+- 初判：用户确认 `時計塔` 统一译为“时钟塔”。
+- 本轮应用：189
+
+### librarian
+
+- 说明：司書：图书管理员
+- 初判：用户确认 `司書` 固定译为“图书管理员”，不混用“司书”。
+- 本轮应用：180
+
+### kotoba-theme
+
+- 说明：言葉：言语
+- 初判：用户确认主题词 `言葉` 固定为“言语”；实际外语/语言系统语境保留“语言”。
+- 本轮应用：147
+
+### fantasy-monogatari
+
+- 说明：幻想物語：幻想物语
+- 初判：按用户确认的字面策略，`物語` 在术语性表达中保留“物语”。
+- 本轮应用：5
+
+### kago-no-tori-title
+
+- 说明：籠の鳥：笼中鸟
+- 初判：用户确认只固定 `籠の鳥` 标题为《笼中鸟》。
+- 本轮应用：2
+
+### chiyo-flower-terms
+
+- 说明：秋桜/コスモス/桜：秋樱/波斯菊/樱花
+- 初判：用户确认按揭示层级处理：`コスモス` 为“波斯菊”，`秋桜` 为“秋樱”，`桜` 为“樱花”。
+- 本轮应用：12
+
+### honmono-nisemono
+
+- 说明：本物/偽物：正牌/冒牌
+- 初判：用户要求尝试非直译对照；本轮采用“正牌/冒牌”统一 `本物/偽物` 身份轴。
+- 本轮应用：128
+
+## 人工候选统计
+
+### monogatari-review
+
+- 说明：物語：故事/物语人工判断
+- 初判：剩余“故事”需对照原文判断：`物語` 术语性用“物语”，普通 `話/お話` 可保留“故事/话”。
+- 本轮候选：200
+
+### kotoba-language-review
+
+- 说明：言葉：语言/言语人工判断
+- 初判：剩余“语言”需判断是否为实际语言系统；若是主题 `言葉`，应改为“言语”。
+- 本轮候选：81
+
+### ao-color-review
+
+- 说明：蒼色/青：苍色母题人工判断
+- 初判：`蒼色/青` 需结合苍、天空、眼睛、书脊、夜色母题检查，不自动替换。
+- 本轮候选：121
+
+### honmono-review
+
+- 说明：本物/偽物：真假身份轴人工判断
+- 初判：剩余真假表达需判断是否属于 `本物/偽物` 身份轴；若是，优先“正牌/冒牌”。
+- 本轮候选：200
+
+## 自动回填明细
+
+- `bookish_zhcn/reading_order/00_hajimari.md:24` `clock-tower`
+  - before: 远野纱夜: 「没什么……刚才抬头看钟楼的时候也这么想了，今天的天空真是格外明亮呢」
+  - after: 远野纱夜: 「没什么……刚才抬头看时钟塔的时候也这么想了，今天的天空真是格外明亮呢」
+- `bookish_zhcn/reading_order/00_name.md:6` `fantasy-monogatari`
+  - before: 那么，去吧，远野纱夜。现在要讲述的是您的故事。一个美丽的幻想故事
+  - after: 那么，去吧，远野纱夜。现在要讲述的是您的故事。一个美丽的幻想物语
+- `bookish_zhcn/reading_order/01_prologue.md:15` `kotoba-theme`
+  - before: 「我在寻找世界上最美的话语。」
+  - after: 「我在寻找世界上最美的言语。」
+- `bookish_zhcn/reading_order/01_prologue.md:16` `kotoba-theme`
+  - before: 「美丽的话语，是指诗吗？」
+  - after: 「美丽的言语，是指诗吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:25` `kotoba-theme`
+  - before: 并且能够共同拥有的美丽话语。」
+  - after: 并且能够共同拥有的美丽言语。」
+- `bookish_zhcn/reading_order/01_prologue.md:232` `kotoba-theme`
+  - before: 远野十夜: 「然后，旅人少女对死神说道：‘我在寻找世界上最美的话语’」
+  - after: 远野十夜: 「然后，旅人少女对死神说道：‘我在寻找世界上最美的言语’」
+- `bookish_zhcn/reading_order/01_prologue.md:233` `kotoba-theme`
+  - before: 远野纱夜: 「世界上最美的话语吗」
+  - after: 远野纱夜: 「世界上最美的言语吗」
+- `bookish_zhcn/reading_order/01_prologue.md:361` `clock-tower`
+  - before: 然后，这个时计塔
+  - after: 然后，这个时钟塔
+- `bookish_zhcn/reading_order/01_prologue.md:373` `clock-tower`
+  - before: 宫泽夏帆: 「在注意到我之前，你一直在看时计塔对吧～？」
+  - after: 宫泽夏帆: 「在注意到我之前，你一直在看时钟塔对吧～？」
+- `bookish_zhcn/reading_order/01_prologue.md:374` `clock-tower`
+  - before: 远野纱夜: 「啊，是的。没什么特别的意思。……只是觉得今天这个时计塔也依然停着呢」
+  - after: 远野纱夜: 「啊，是的。没什么特别的意思。……只是觉得今天这个时钟塔也依然停着呢」
+- `bookish_zhcn/reading_order/01_prologue.md:385` `clock-tower`
+  - before: 这个时计塔，好像是一百多年前建造的。
+  - after: 这个时钟塔，好像是一百多年前建造的。
+- `bookish_zhcn/reading_order/01_prologue.md:388` `clock-tower`
+  - before: 这个小镇之所以被这样称呼，或许也是因为这座钟塔吧。
+  - after: 这个小镇之所以被这样称呼，或许也是因为这座时钟塔吧。
+- `bookish_zhcn/reading_order/01_prologue.md:435` `clock-tower`
+  - before: 女学生A: 「呐呐，听说了吗？　钟楼的传闻」
+  - after: 女学生A: 「呐呐，听说了吗？　时钟塔的传闻」
+- `bookish_zhcn/reading_order/01_prologue.md:436` `clock-tower`
+  - before: 听到『钟塔』这个词，我微微一动。
+  - after: 听到『时钟塔』这个词，我微微一动。
+- `bookish_zhcn/reading_order/01_prologue.md:466` `clock-tower`
+  - before: 时计塔和死神——到底是什么样的传闻呢？我内心满怀期待，心潮澎湃。
+  - after: 时钟塔和死神——到底是什么样的传闻呢？我内心满怀期待，心潮澎湃。
+- `bookish_zhcn/reading_order/01_prologue.md:504` `clock-tower`
+  - before: 班主任: 「大家可能已经听说了，从前几天开始，有传闻说时计塔附近出现了可疑人物。」
+  - after: 班主任: 「大家可能已经听说了，从前几天开始，有传闻说时钟塔附近出现了可疑人物。」
+- `bookish_zhcn/reading_order/01_prologue.md:512` `clock-tower`
+  - before: 那个会出现在时计塔前的死神。
+  - after: 那个会出现在时钟塔前的死神。
+- `bookish_zhcn/reading_order/01_prologue.md:585` `librarian`
+  - before: 司书: 「老师嘛——，是永远的17岁哦——」
+  - after: 图书管理员: 「老师嘛——，是永远的17岁哦——」
+- `bookish_zhcn/reading_order/01_prologue.md:587` `librarian`
+  - before: 司书: 「怎么可能骗人！　太失礼了！　真是的，吵的话就回去！！」
+  - after: 图书管理员: 「怎么可能骗人！　太失礼了！　真是的，吵的话就回去！！」
+- `bookish_zhcn/reading_order/01_prologue.md:592` `librarian`
+  - before: 司书: 「真是的……。现在的年轻人啊~……」
+  - after: 图书管理员: 「真是的……。现在的年轻人啊~……」
+- `bookish_zhcn/reading_order/01_prologue.md:595` `librarian`
+  - before: 司书: 「抱歉啊，远野同学」
+  - after: 图书管理员: 「抱歉啊，远野同学」
+- `bookish_zhcn/reading_order/01_prologue.md:597` `librarian`
+  - before: 司书: 「好的好的」
+  - after: 图书管理员: 「好的好的」
+- `bookish_zhcn/reading_order/01_prologue.md:599` `librarian`
+  - before: 司书: 「你也是真的喜欢书呢」
+  - after: 图书管理员: 「你也是真的喜欢书呢」
+- `bookish_zhcn/reading_order/01_prologue.md:602` `librarian`
+  - before: 司书: 「你常坐的位置空着哦」
+  - after: 图书管理员: 「你常坐的位置空着哦」
+- `bookish_zhcn/reading_order/01_prologue.md:740` `librarian`
+  - before: 司书: 「唉。终于注意到了。抱歉在你沉浸在书中的时候打扰，但大家都已经走了哦」
+  - after: 图书管理员: 「唉。终于注意到了。抱歉在你沉浸在书中的时候打扰，但大家都已经走了哦」
+- `bookish_zhcn/reading_order/01_prologue.md:743` `librarian`
+  - before: 司书: 「我要关门了，那本书怎么办？」
+  - after: 图书管理员: 「我要关门了，那本书怎么办？」
+- `bookish_zhcn/reading_order/01_prologue.md:745` `librarian`
+  - before: 司书: 「可以哦——」
+  - after: 图书管理员: 「可以哦——」
+- `bookish_zhcn/reading_order/01_prologue.md:747` `librarian`
+  - before: 司书: 「……今天嘛——，嗯~，选的书还挺小众的呢」
+  - after: 图书管理员: 「……今天嘛——，嗯~，选的书还挺小众的呢」
+- `bookish_zhcn/reading_order/01_prologue.md:749` `librarian`
+  - before: 司书: 「啊哈哈。嘛，虽然这么说。从现在年轻人的兴趣来看感觉有点偏离了」
+  - after: 图书管理员: 「啊哈哈。嘛，虽然这么说。从现在年轻人的兴趣来看感觉有点偏离了」
+- `bookish_zhcn/reading_order/01_prologue.md:750` `librarian`
+  - before: 司书: 「嘛，说是远野同学的风格倒也像是远野同学的风格」
+  - after: 图书管理员: 「嘛，说是远野同学的风格倒也像是远野同学的风格」
+- `bookish_zhcn/reading_order/01_prologue.md:753` `librarian`
+  - before: 司书: 「总觉得，看着远野同学就让我想起过去的自己呢」
+  - after: 图书管理员: 「总觉得，看着远野同学就让我想起过去的自己呢」
+- `bookish_zhcn/reading_order/01_prologue.md:755` `librarian`
+  - before: 司书: 「啊。不过，也不是什么很久以前的事哦！」
+  - after: 图书管理员: 「啊。不过，也不是什么很久以前的事哦！」
+- `bookish_zhcn/reading_order/01_prologue.md:757` `librarian`
+  - before: 司书: 「……好——，完成了！　来，请收好」
+  - after: 图书管理员: 「……好——，完成了！　来，请收好」
+- `bookish_zhcn/reading_order/01_prologue.md:760` `librarian`
+  - before: 司书: 「我也是呢，以前是这个学校的学生哦」
+  - after: 图书管理员: 「我也是呢，以前是这个学校的学生哦」
+- `bookish_zhcn/reading_order/01_prologue.md:762` `librarian`
+  - before: 司书: 「是的。我也和远野同学一样是个书虫呢。经常在这里借书看」
+  - after: 图书管理员: 「是的。我也和远野同学一样是个书虫呢。经常在这里借书看」
+- `bookish_zhcn/reading_order/01_prologue.md:763` `librarian`
+  - before: 司书: 「被最心爱的书包围着，放学后，一直沉浸在书中直到放学时间……」
+  - after: 图书管理员: 「被最心爱的书包围着，放学后，一直沉浸在书中直到放学时间……」
+- `bookish_zhcn/reading_order/01_prologue.md:765` `librarian`
+  - before: 司书: 「就是这么回事」
+  - after: 图书管理员: 「就是这么回事」
+- `bookish_zhcn/reading_order/01_prologue.md:770` `librarian`
+  - before: 司书: 「啊哈哈，好像是的。连我自己都有点意外」
+  - after: 图书管理员: 「啊哈哈，好像是的。连我自己都有点意外」
+- `bookish_zhcn/reading_order/01_prologue.md:772` `librarian`
+  - before: 司书: 「谢谢。能被你这么说，我也很高兴」
+  - after: 图书管理员: 「谢谢。能被你这么说，我也很高兴」
+- `bookish_zhcn/reading_order/01_prologue.md:773` `librarian`
+  - before: 司书: 「……啊。不对，现在不是聊这个的时候呢」
+  - after: 图书管理员: 「……啊。不对，现在不是聊这个的时候呢」
+- `bookish_zhcn/reading_order/01_prologue.md:776` `librarian`
+  - before: 司书: 「啊，等一下」
+  - after: 图书管理员: 「啊，等一下」
+- `bookish_zhcn/reading_order/01_prologue.md:778` `librarian`
+  - before: 司书: 「远野同学，你一个人回家吧？　要小心哦」
+  - after: 图书管理员: 「远野同学，你一个人回家吧？　要小心哦」
+- `bookish_zhcn/reading_order/01_prologue.md:779` `librarian`
+  - before: 司书: 「你看。最近一直有传闻说出现了可疑人物」
+  - after: 图书管理员: 「你看。最近一直有传闻说出现了可疑人物」
+- `bookish_zhcn/reading_order/01_prologue.md:782` `librarian`
+  - before: 司书: 「对对」
+  - after: 图书管理员: 「对对」
+- `bookish_zhcn/reading_order/01_prologue.md:783` `librarian`
+  - before: 司书: 「毕竟被起了‘死神’这样的绰号嘛。对女孩子来说尤其危险吧。而且，远野小姐又是个美人，更容易被盯上哦～！」
+  - after: 图书管理员: 「毕竟被起了‘死神’这样的绰号嘛。对女孩子来说尤其危险吧。而且，远野小姐又是个美人，更容易被盯上哦～！」
+- `bookish_zhcn/reading_order/01_prologue.md:787` `librarian`
+  - before: 司书: 「遇到危险的话，就大声喊。附近没人的时候，就全速奔跑逃跑！　知道了吗？」
+  - after: 图书管理员: 「遇到危险的话，就大声喊。附近没人的时候，就全速奔跑逃跑！　知道了吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:788` `librarian`
+  - before: 司书: 「就这些。再见」
+  - after: 图书管理员: 「就这些。再见」
+- `bookish_zhcn/reading_order/01_prologue.md:1141` `clock-tower`
+  - before: 他仰起头。视线所及之处，不是钟塔，而是无限延伸的苍空。
+  - after: 他仰起头。视线所及之处，不是时钟塔，而是无限延伸的苍空。
+- `bookish_zhcn/reading_order/01_prologue.md:1152` `clock-tower`
+  - before: 远野纱夜: 「钟塔之下」
+  - after: 远野纱夜: 「时钟塔之下」
+- `bookish_zhcn/reading_order/02_chapter1.md:198` `clock-tower`
+  - before: 远野纱夜: 「在时计塔下遇到的死神，金色的头发、苍蓝的眼眸，非常美丽。」
+  - after: 远野纱夜: 「在时钟塔下遇到的死神，金色的头发、苍蓝的眼眸，非常美丽。」
+- `bookish_zhcn/reading_order/02_chapter1.md:288` `clock-tower`
+  - before: 映入眼帘的是时计塔。
+  - after: 映入眼帘的是时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:479` `clock-tower`
+  - before: 我一直站在原地，今天也抬头仰望那座钟楼。
+  - after: 我一直站在原地，今天也抬头仰望那座时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:481` `clock-tower`
+  - before: 我一边仰望钟楼，一边回想着昨天的事。
+  - after: 我一边仰望时钟塔，一边回想着昨天的事。
+- `bookish_zhcn/reading_order/02_chapter1.md:498` `clock-tower`
+  - before: ？？？: 「你总是抬头看那座钟楼呢，纱夜。」
+  - after: ？？？: 「你总是抬头看那座时钟塔呢，纱夜。」
+- `bookish_zhcn/reading_order/02_chapter1.md:729` `clock-tower`
+  - before: 日生光: 「我们学校最近在传，说时计塔前出现了死神。」
+  - after: 日生光: 「我们学校最近在传，说时钟塔前出现了死神。」
+- `bookish_zhcn/reading_order/02_chapter1.md:730` `clock-tower`
+  - before: 远野纱夜: 「我遇到苍也是在时计塔前面，而且他自己也自称‘死神’。」
+  - after: 远野纱夜: 「我遇到苍也是在时钟塔前面，而且他自己也自称‘死神’。」
+- `bookish_zhcn/reading_order/02_chapter1.md:1175` `clock-tower`
+  - before: 我们边走边聊着过去的回忆，这时，我注意到了伫立在钟塔前的身影。
+  - after: 我们边走边聊着过去的回忆，这时，我注意到了伫立在时钟塔前的身影。
+- `bookish_zhcn/reading_order/02_chapter1.md:1177` `clock-tower`
+  - before: 那个人正抬头望着钟塔。
+  - after: 那个人正抬头望着时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:1235` `clock-tower`
+  - before: 巴女士抬头望向钟塔。
+  - after: 巴女士抬头望向时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:1429` `clock-tower`
+  - before: 卧待堂在时计塔过去一点的地方，对于总在那里等她的夏帆来说，绕去卧待堂是绕远路。
+  - after: 卧待堂在时钟塔过去一点的地方，对于总在那里等她的夏帆来说，绕去卧待堂是绕远路。
+- `bookish_zhcn/reading_order/02_chapter1.md:1430` `clock-tower`
+  - before: 即便如此还让她特意陪我，我感到很过意不去，所以主动说要送她到时计塔。
+  - after: 即便如此还让她特意陪我，我感到很过意不去，所以主动说要送她到时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:1456` `clock-tower`
+  - before: 啊，原来不知不觉已经走到时计塔前了。
+  - after: 啊，原来不知不觉已经走到时钟塔前了。
+- `bookish_zhcn/reading_order/02_chapter1.md:1462` `clock-tower`
+  - before: 时计塔前。
+  - after: 时钟塔前。
+- `bookish_zhcn/reading_order/02_chapter1.md:1467` `clock-tower`
+  - before: 我抬头望向时计塔。
+  - after: 我抬头望向时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:1469` `clock-tower`
+  - before: 她当时也这样抬头看着时计塔，到底在想什么呢。
+  - after: 她当时也这样抬头看着时钟塔，到底在想什么呢。
+- `bookish_zhcn/reading_order/02_chapter1.md:1550` `clock-tower`
+  - before: 我一边倒退着断断续续地道谢，一边和哥哥离开了时计塔。
+  - after: 我一边倒退着断断续续地道谢，一边和哥哥离开了时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:1624` `kago-no-tori-title`
+  - before: 远野纱夜: 「《笼中之鸟》」
+  - after: 远野纱夜: 「《笼中鸟》」
+- `bookish_zhcn/reading_order/02_chapter1.md:1685` `kago-no-tori-title`
+  - before: 远野纱夜: 「是一本叫《笼中之鸟》的书」
+  - after: 远野纱夜: 「是一本叫《笼中鸟》的书」
+- `bookish_zhcn/reading_order/02_chapter1.md:2106` `clock-tower`
+  - before: 苍: 「在时计塔前面就行。那个地方我也认识」
+  - after: 苍: 「在时钟塔前面就行。那个地方我也认识」
+- `bookish_zhcn/reading_order/02_chapter1.md:2344` `clock-tower`
+  - before: 苍: 「比如这条商业街和钟塔，大多是西式外观的建筑，而附近的民宅却是和式」
+  - after: 苍: 「比如这条商业街和时钟塔，大多是西式外观的建筑，而附近的民宅却是和式」
+- `bookish_zhcn/reading_order/02_chapter1.md:2488` `clock-tower`
+  - before: 苍: 「比如这条商业街和钟塔，大多是西式外观的建筑，而附近的民宅却是和式」
+  - after: 苍: 「比如这条商业街和时钟塔，大多是西式外观的建筑，而附近的民宅却是和式」
+- `bookish_zhcn/reading_order/02_chapter1.md:2727` `clock-tower`
+  - before: 那里，还有那座时计塔的存在。
+  - after: 那里，还有那座时钟塔的存在。
+- `bookish_zhcn/reading_order/02_chapter1.md:2788` `kotoba-theme`
+  - before: 连我自己都觉得不可思议，话语自然而然地就说了出来。
+  - after: 连我自己都觉得不可思议，言语自然而然地就说了出来。
+- `bookish_zhcn/reading_order/02_chapter1.md:2805` `kotoba-theme`
+  - before: 远野纱夜: 「我想知道。那些美丽的语言」
+  - after: 远野纱夜: 「我想知道。那些美丽的言语」
+- `bookish_zhcn/reading_order/02_chapter1.md:2871` `clock-tower`
+  - before: 那里，还有那座时计塔的存在。
+  - after: 那里，还有那座时钟塔的存在。
+- `bookish_zhcn/reading_order/02_chapter1.md:2932` `kotoba-theme`
+  - before: 连我自己都觉得不可思议，话语自然而然地就说了出来。
+  - after: 连我自己都觉得不可思议，言语自然而然地就说了出来。
+- `bookish_zhcn/reading_order/02_chapter1.md:2949` `kotoba-theme`
+  - before: 远野纱夜: 「我想知道。那些美丽的语言」
+  - after: 远野纱夜: 「我想知道。那些美丽的言语」
+- `bookish_zhcn/reading_order/02_chapter1.md:3117` `clock-tower`
+  - before: 像往常一样抬头看向时计塔。
+  - after: 像往常一样抬头看向时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:3144` `clock-tower`
+  - before: 他抬头看向时计塔，这次又不安地垂下眉毛。
+  - after: 他抬头看向时钟塔，这次又不安地垂下眉毛。
+- `bookish_zhcn/reading_order/02_chapter1.md:3173` `clock-tower`
+  - before: 千代: 「……那位女士，她看着这座时计塔的时候，究竟在想些什么呢」
+  - after: 千代: 「……那位女士，她看着这座时钟塔的时候，究竟在想些什么呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:3175` `clock-tower`
+  - before: 千代: 「是说那位女性的事。她仰望这座时计塔的身影，看起来总让人觉得很不安」
+  - after: 千代: 「是说那位女性的事。她仰望这座时钟塔的身影，看起来总让人觉得很不安」
+- `bookish_zhcn/reading_order/02_chapter1.md:3177` `clock-tower`
+  - before: 说起来，我第一次在这里看到巴女士时，她正凝视着这座时计塔。
+  - after: 说起来，我第一次在这里看到巴女士时，她正凝视着这座时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:3520` `clock-tower`
+  - before: 太宰姐姐: 「是去了那个钟楼之后」
+  - after: 太宰姐姐: 「是去了那个时钟塔之后」
+- `bookish_zhcn/reading_order/02_chapter1.md:3526` `clock-tower`
+  - before: 太宰姐姐: 「友惠说过。在钟楼前看到了黑发的美丽孩子」
+  - after: 太宰姐姐: 「友惠说过。在时钟塔前看到了黑发的美丽孩子」
+- `bookish_zhcn/reading_order/02_chapter1.md:3531` `clock-tower`
+  - before: 远野纱夜: 「……如果在时计塔前面的话，我确实遇到过巴女士几次……」
+  - after: 远野纱夜: 「……如果在时钟塔前面的话，我确实遇到过巴女士几次……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3533` `clock-tower`
+  - before: 不如说，回想起来，我几乎每次见到她都是在钟塔前面。
+  - after: 不如说，回想起来，我几乎每次见到她都是在时钟塔前面。
+- `bookish_zhcn/reading_order/02_chapter1.md:3534` `clock-tower`
+  - before: 而且，我也知道她和那座钟塔之间，有着不浅的渊源。
+  - after: 而且，我也知道她和那座时钟塔之间，有着不浅的渊源。
+- `bookish_zhcn/reading_order/02_chapter1.md:3537` `kotoba-theme`
+  - before: 果然，我还是不明白这个人话语中的含义，也不明白她为什么这么执着地触碰我。
+  - after: 果然，我还是不明白这个人言语中的含义，也不明白她为什么这么执着地触碰我。
+- `bookish_zhcn/reading_order/02_chapter1.md:3558` `kotoba-theme`
+  - before: 太宰女士偏过头，像要将话语唾弃般低语道：
+  - after: 太宰女士偏过头，像要将言语唾弃般低语道：
+- `bookish_zhcn/reading_order/02_chapter1.md:3571` `clock-tower`
+  - before: 太宰姐姐: 「所以，我希望她尽量不要去钟楼……」
+  - after: 太宰姐姐: 「所以，我希望她尽量不要去时钟塔……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3572` `clock-tower`
+  - before: 远野纱夜: 「时计塔？」
+  - after: 远野纱夜: 「时钟塔？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3587` `clock-tower`
+  - before: 远野纱夜: 「而且，居然还是在那个钟塔附近……」
+  - after: 远野纱夜: 「而且，居然还是在那个时钟塔附近……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3609` `clock-tower`
+  - before: 远野纱夜: 「……我在意巴女士，大概，是因为巴女士也看着那座钟塔吧」
+  - after: 远野纱夜: 「……我在意巴女士，大概，是因为巴女士也看着那座时钟塔吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:3610` `clock-tower`
+  - before: 远野纱夜: 「我想，巴女士是不是也和我一样，感觉到了那座钟塔的什么」
+  - after: 远野纱夜: 「我想，巴女士是不是也和我一样，感觉到了那座时钟塔的什么」
+- `bookish_zhcn/reading_order/02_chapter1.md:3613` `clock-tower`
+  - before: 远野纱夜: 「不过……现在想想，我和巴女士对钟塔所感受到的含义，恐怕是完全不同的吧」
+  - after: 远野纱夜: 「不过……现在想想，我和巴女士对时钟塔所感受到的含义，恐怕是完全不同的吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:3614` `clock-tower`
+  - before: 远野纱夜: 「巴女士那边，似乎并不是被钟塔本身所吸引，而是被另外的某种思绪所束缚着」
+  - after: 远野纱夜: 「巴女士那边，似乎并不是被时钟塔本身所吸引，而是被另外的某种思绪所束缚着」
+- `bookish_zhcn/reading_order/02_chapter1.md:3615` `clock-tower`
+  - before: 她那时看着钟塔，也许是因为她快要回想起自己曾在附近寻死的事了。
+  - after: 她那时看着时钟塔，也许是因为她快要回想起自己曾在附近寻死的事了。
+- `bookish_zhcn/reading_order/02_chapter1.md:3618` `clock-tower`
+  - before: 远野纱夜: 「看来，我对那座钟塔，有着非同一般的兴趣呢」
+  - after: 远野纱夜: 「看来，我对那座时钟塔，有着非同一般的兴趣呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:3630` `clock-tower`
+  - before: 远野纱夜: 「她是为了找回自己的记忆，才不停地去那座钟塔的吗？」
+  - after: 远野纱夜: 「她是为了找回自己的记忆，才不停地去那座时钟塔的吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3631` `clock-tower`
+  - before: 那时，尽管她在那么多人面前丑态百出，也还是拼命想到钟塔前面去。
+  - after: 那时，尽管她在那么多人面前丑态百出，也还是拼命想到时钟塔前面去。
+- `bookish_zhcn/reading_order/02_chapter1.md:3633` `clock-tower`
+  - before: 苍: 「既然是在那座钟塔下失去了记忆，也许她确实感觉到了什么」
+  - after: 苍: 「既然是在那座时钟塔下失去了记忆，也许她确实感觉到了什么」
+- `bookish_zhcn/reading_order/02_chapter1.md:3705` `clock-tower`
+  - before: 那天之后，在时计塔前
+  - after: 那天之后，在时钟塔前
+- `bookish_zhcn/reading_order/02_chapter1.md:3835` `clock-tower`
+  - before: 远野纱夜: 「几天前的傍晚，在时计塔前面」
+  - after: 远野纱夜: 「几天前的傍晚，在时钟塔前面」
+- `bookish_zhcn/reading_order/02_chapter1.md:4010` `clock-tower`
+  - before: 远野纱夜: 「几天前的傍晚，在时计塔前面」
+  - after: 远野纱夜: 「几天前的傍晚，在时钟塔前面」
+- `bookish_zhcn/reading_order/02_chapter1.md:4135` `librarian`
+  - before: 司书: 「是—？」
+  - after: 图书管理员: 「是—？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4142` `librarian`
+  - before: 司书: 「啊——，好的好的。可以哦—。有身份证的复印件吗？」
+  - after: 图书管理员: 「啊——，好的好的。可以哦—。有身份证的复印件吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4146` `librarian`
+  - before: 司书: 「身份证」
+  - after: 图书管理员: 「身份证」
+- `bookish_zhcn/reading_order/02_chapter1.md:4151` `librarian`
+  - before: 司书: 「不不。你是这里的学生吧。要办许可证的人的身份证复印件，总之需要能证明对方身份的东西才能办哦—」
+  - after: 图书管理员: 「不不。你是这里的学生吧。要办许可证的人的身份证复印件，总之需要能证明对方身份的东西才能办哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4159` `librarian`
+  - before: 司书: 「特殊情况？」
+  - after: 图书管理员: 「特殊情况？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4161` `librarian`
+  - before: 司书: 「明天也可以哦—」
+  - after: 图书管理员: 「明天也可以哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4163` `librarian`
+  - before: 司书: 「明天也可以哦—」
+  - after: 图书管理员: 「明天也可以哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4165` `librarian`
+  - before: 司书: 「嘛，没办法……。好吧，给你办」
+  - after: 图书管理员: 「嘛，没办法……。好吧，给你办」
+- `bookish_zhcn/reading_order/02_chapter1.md:4168` `librarian`
+  - before: 司书: 「保密哦？本来是不可以的」
+  - after: 图书管理员: 「保密哦？本来是不可以的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4170` `librarian`
+  - before: 司书: 「是远野的熟人吧？」
+  - after: 图书管理员: 「是远野的熟人吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4172` `librarian`
+  - before: 司书: 「那没问题。作为代替，好好负责照顾哦」
+  - after: 图书管理员: 「那没问题。作为代替，好好负责照顾哦」
+- `bookish_zhcn/reading_order/02_chapter1.md:4174` `librarian`
+  - before: 司书: 「……是个认真的学生真好呢？」
+  - after: 图书管理员: 「……是个认真的学生真好呢？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4180` `librarian`
+  - before: 司书: 「啊，好的好的」
+  - after: 图书管理员: 「啊，好的好的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4182` `librarian`
+  - before: 司书: 「报纸？啊——县民新闻好像有」
+  - after: 图书管理员: 「报纸？啊——县民新闻好像有」
+- `bookish_zhcn/reading_order/02_chapter1.md:4188` `librarian`
+  - before: 司书: 「哎呀，熟人？」
+  - after: 图书管理员: 「哎呀，熟人？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4213` `librarian`
+  - before: 司书: 「是—？」
+  - after: 图书管理员: 「是—？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4220` `librarian`
+  - before: 司书: 「啊——，好的好的。可以哦—。有身份证的复印件吗？」
+  - after: 图书管理员: 「啊——，好的好的。可以哦—。有身份证的复印件吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4224` `librarian`
+  - before: 司书: 「身份证」
+  - after: 图书管理员: 「身份证」
+- `bookish_zhcn/reading_order/02_chapter1.md:4229` `librarian`
+  - before: 司书: 「不不。你是这里的学生吧。要办许可证的人的身份证复印件，总之需要能证明对方身份的东西才能办哦—」
+  - after: 图书管理员: 「不不。你是这里的学生吧。要办许可证的人的身份证复印件，总之需要能证明对方身份的东西才能办哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4237` `librarian`
+  - before: 司书: 「明天也可以哦—」
+  - after: 图书管理员: 「明天也可以哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4239` `librarian`
+  - before: 司书: 「明天也可以哦—」
+  - after: 图书管理员: 「明天也可以哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4242` `librarian`
+  - before: 司书: 「明天也可以哦—」
+  - after: 图书管理员: 「明天也可以哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4244` `librarian`
+  - before: 司书: 「嘛，没办法……。好吧，给你办」
+  - after: 图书管理员: 「嘛，没办法……。好吧，给你办」
+- `bookish_zhcn/reading_order/02_chapter1.md:4247` `librarian`
+  - before: 司书: 「保密哦？本来是不可以的」
+  - after: 图书管理员: 「保密哦？本来是不可以的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4249` `librarian`
+  - before: 司书: 「是远野的熟人吧？」
+  - after: 图书管理员: 「是远野的熟人吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4251` `librarian`
+  - before: 司书: 「那没问题。作为代替，好好负责照顾哦」
+  - after: 图书管理员: 「那没问题。作为代替，好好负责照顾哦」
+- `bookish_zhcn/reading_order/02_chapter1.md:4253` `librarian`
+  - before: 司书: 「……是个认真的学生真好呢？」
+  - after: 图书管理员: 「……是个认真的学生真好呢？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4259` `librarian`
+  - before: 司书: 「啊，好的好的」
+  - after: 图书管理员: 「啊，好的好的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4261` `librarian`
+  - before: 司书: 「报纸？啊——县民新闻好像有」
+  - after: 图书管理员: 「报纸？啊——县民新闻好像有」
+- `bookish_zhcn/reading_order/02_chapter1.md:4267` `librarian`
+  - before: 司书: 「哎呀，熟人？」
+  - after: 图书管理员: 「哎呀，熟人？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4296` `clock-tower`
+  - before: 那时，他在钟塔前对我说『希望你知道』。
+  - after: 那时，他在时钟塔前对我说『希望你知道』。
+- `bookish_zhcn/reading_order/02_chapter1.md:4303` `clock-tower`
+  - before: 远野纱夜: 「我听说巴小姐的事了，还有钟塔里的事」
+  - after: 远野纱夜: 「我听说巴小姐的事了，还有时钟塔里的事」
+- `bookish_zhcn/reading_order/02_chapter1.md:4355` `clock-tower`
+  - before: 像往常一样，经过钟塔前面。
+  - after: 像往常一样，经过时钟塔前面。
+- `bookish_zhcn/reading_order/02_chapter1.md:4406` `clock-tower`
+  - before: 苍: 「和上次一样，钟塔前就行」
+  - after: 苍: 「和上次一样，时钟塔前就行」
+- `bookish_zhcn/reading_order/02_chapter1.md:4407` `clock-tower`
+  - before: 远野纱夜: 「……好的。周六十二点，在钟塔前碰头呢」
+  - after: 远野纱夜: 「……好的。周六十二点，在时钟塔前碰头呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:4770` `kotoba-theme`
+  - before: 来自爱人的甜蜜话语。
+  - after: 来自爱人的甜蜜言语。
+- `bookish_zhcn/reading_order/02_chapter1.md:4808` `kotoba-theme`
+  - before: 一起寻找话语的约定。他认认真真地想要遵守它。
+  - after: 一起寻找言语的约定。他认认真真地想要遵守它。
+- `bookish_zhcn/reading_order/02_chapter1.md:4811` `kotoba-theme`
+  - before: 既不是为了她的事，也不是为了千代的事，而是为了这部故事中隐藏的话语。
+  - after: 既不是为了她的事，也不是为了千代的事，而是为了这部故事中隐藏的言语。
+- `bookish_zhcn/reading_order/02_chapter1.md:4819` `librarian`
+  - before: 司书: 「好好好。下次要记得在截止日期前还哦～」
+  - after: 图书管理员: 「好好好。下次要记得在截止日期前还哦～」
+- `bookish_zhcn/reading_order/02_chapter1.md:4820` `librarian`
+  - before: 司书: 「好了好了。下次要在归还期限之前还哦—」
+  - after: 图书管理员: 「好了好了。下次要在归还期限之前还哦—」
+- `bookish_zhcn/reading_order/02_chapter1.md:4822` `librarian`
+  - before: 司书: 「哎呀，远野先生。你是来还书的吗？」
+  - after: 图书管理员: 「哎呀，远野先生。你是来还书的吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4824` `librarian`
+  - before: 司书: 「想请教的事？」
+  - after: 图书管理员: 「想请教的事？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4826` `librarian`
+  - before: 司书: 「是啊，没错。怎么了吗？」
+  - after: 图书管理员: 「是啊，没错。怎么了吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4830` `librarian`
+  - before: 司书: 「嗯——毕业相册？　说起来，前阵子你借走过了呢。我当时就觉得有点奇怪……」
+  - after: 图书管理员: 「嗯——毕业相册？　说起来，前阵子你借走过了呢。我当时就觉得有点奇怪……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4831` `librarian`
+  - before: 司书: 「太宰阿兔……」
+  - after: 图书管理员: 「太宰阿兔……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4835` `librarian`
+  - before: 司书: 「是啊。我知道哦」
+  - after: 图书管理员: 「是啊。我知道哦」
+- `bookish_zhcn/reading_order/02_chapter1.md:4836` `librarian`
+  - before: 司书: 「嗯。我认识哦。」
+  - after: 图书管理员: 「嗯。我认识哦。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4837` `librarian`
+  - before: 司书: 「她很有名。资产家的大小姐，漂亮又活泼……」
+  - after: 图书管理员: 「她很有名。资产家的大小姐，漂亮又活泼……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4838` `clock-tower`
+  - before: 远野纱夜: 「以前我在时计塔前遇见过她。」
+  - after: 远野纱夜: 「以前我在时钟塔前遇见过她。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4839` `librarian`
+  - before: 司书: 「哦？认识的人啊。现在太宰女士在做什么呢？还好吗？」
+  - after: 图书管理员: 「哦？认识的人啊。现在太宰女士在做什么呢？还好吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4842` `librarian`
+  - before: 司书: 「哎呀……看来情况不太好呢。」
+  - after: 图书管理员: 「哎呀……看来情况不太好呢。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4848` `librarian`
+  - before: 司书: 「啊，好的好的」
+  - after: 图书管理员: 「啊，好的好的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4857` `librarian`
+  - before: 司书: 「你是从谁那里听说的？」
+  - after: 图书管理员: 「你是从谁那里听说的？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4860` `librarian`
+  - before: 司书: 「姐姐？」
+  - after: 图书管理员: 「姐姐？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4862` `librarian`
+  - before: 司书: 「啊，好的好的」
+  - after: 图书管理员: 「啊，好的好的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4865` `librarian`
+  - before: 司书: 「啊，好的好的」
+  - after: 图书管理员: 「啊，好的好的」
+- `bookish_zhcn/reading_order/02_chapter1.md:4872` `librarian`
+  - before: 司书: 「我跟她只是同一个委员会的，一次也没分到过同一个班呢」
+  - after: 图书管理员: 「我跟她只是同一个委员会的，一次也没分到过同一个班呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:4874` `librarian`
+  - before: 司书: 「是吗啊……太宰桑啊。感觉，好怀念啊」
+  - after: 图书管理员: 「是吗啊……太宰桑啊。感觉，好怀念啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:4875` `librarian`
+  - before: 司书: 「是吗……太宰同学啊。总觉得好怀念啊。」
+  - after: 图书管理员: 「是吗……太宰同学啊。总觉得好怀念啊。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4876` `librarian`
+  - before: 司书: 「说真的，我也不是很了解她的。」
+  - after: 图书管理员: 「说真的，我也不是很了解她的。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4878` `librarian`
+  - before: 司书: 「她和自己的班主任偷偷交往着呢」
+  - after: 图书管理员: 「她和自己的班主任偷偷交往着呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:4879` `librarian`
+  - before: 司书: 「她啊，偷偷和班主任在交往呢。」
+  - after: 图书管理员: 「她啊，偷偷和班主任在交往呢。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4880` `librarian`
+  - before: 司书: 「有一天终于暴露了，全校都炸开了锅。」
+  - after: 图书管理员: 「有一天终于暴露了，全校都炸开了锅。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4881` `librarian`
+  - before: 司书: 「两个人马上被叫到了办公室，她被罚在家反省一周，那个老师被调到了外地的学校，事情就这样了结了。」
+  - after: 图书管理员: 「两个人马上被叫到了办公室，她被罚在家反省一周，那个老师被调到了外地的学校，事情就这样了结了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4882` `librarian`
+  - before: 司书: 「之所以没有闹得太大，一方面是因为她是资产家的大小姐，也要顾及体面。」
+  - after: 图书管理员: 「之所以没有闹得太大，一方面是因为她是资产家的大小姐，也要顾及体面。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4884` `librarian`
+  - before: 司书: 「他是个好老师啊。」
+  - after: 图书管理员: 「他是个好老师啊。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4885` `librarian`
+  - before: 司书: 「有点迷迷糊糊的，早上还会顶着睡翘的头发来上学，被学生取笑。」
+  - after: 图书管理员: 「有点迷迷糊糊的，早上还会顶着睡翘的头发来上学，被学生取笑。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4886` `librarian`
+  - before: 司书: 「就是有点迷糊，早上还顶着睡癖来，被学生取笑什么的。」
+  - after: 图书管理员: 「就是有点迷糊，早上还顶着睡癖来，被学生取笑什么的。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4888` `librarian`
+  - before: 司书: 「他们俩，好像原本打算私奔的。」
+  - after: 图书管理员: 「他们俩，好像原本打算私奔的。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4892` `librarian`
+  - before: 司书: 「不过，也不是不能理解。老师和学生，资产家的独生女，还有有婚约的男人……」
+  - after: 图书管理员: 「不过，也不是不能理解。老师和学生，资产家的独生女，还有有婚约的男人……」
+- `bookish_zhcn/reading_order/02_chapter1.md:4894` `librarian`
+  - before: 司书: 「好像是这样的。据说是很久以前就约定好的人。」
+  - after: 图书管理员: 「好像是这样的。据说是很久以前就约定好的人。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4897` `librarian`
+  - before: 司书: 「谁知道呢。这我就不清楚了。」
+  - after: 图书管理员: 「谁知道呢。这我就不清楚了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4898` `librarian`
+  - before: 司书: 「谁知道呢。这我就不知道了。」
+  - after: 图书管理员: 「谁知道呢。这我就不知道了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4900` `librarian`
+  - before: 司书: 「而且，被调到很远很远的地方的话，可能再也见不到了。」
+  - after: 图书管理员: 「而且，被调到很远很远的地方的话，可能再也见不到了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4901` `librarian`
+  - before: 司书: 「而且，被调到很远很远的地方去了，也许再也见不到了。」
+  - after: 图书管理员: 「而且，被调到很远很远的地方去了，也许再也见不到了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4906` `librarian`
+  - before: 司书: 「哎呀，没想到远野同学居然是现实主义者呢。」
+  - after: 图书管理员: 「哎呀，没想到远野同学居然是现实主义者呢。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4911` `librarian`
+  - before: 司书: 「啊啊，是啊。如果她是个能像你这样思考的人，一定就不会变成现在这样了吧」
+  - after: 图书管理员: 「啊啊，是啊。如果她是个能像你这样思考的人，一定就不会变成现在这样了吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:4912` `librarian`
+  - before: 司书: 「嗯，也是呢。如果她能像你这样想的话，大概就不会变成这样了吧。」
+  - after: 图书管理员: 「嗯，也是呢。如果她能像你这样想的话，大概就不会变成这样了吧。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4913` `librarian`
+  - before: 司书: 「但是，她不是那样的人。」
+  - after: 图书管理员: 「但是，她不是那样的人。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4914` `librarian`
+  - before: 司书: 「老师会爱上自己，最后一定会选择自己」
+  - after: 图书管理员: 「老师会爱上自己，最后一定会选择自己」
+- `bookish_zhcn/reading_order/02_chapter1.md:4917` `librarian`
+  - before: 司书: 「你是不是一直这么想的呢？」
+  - after: 图书管理员: 「你是不是一直这么想的呢？」
+- `bookish_zhcn/reading_order/02_chapter1.md:4919` `librarian`
+  - before: 司书: 「但是，老师过了约定的时间，却没来到约定的地点」
+  - after: 图书管理员: 「但是，老师过了约定的时间，却没来到约定的地点」
+- `bookish_zhcn/reading_order/02_chapter1.md:4921` `librarian`
+  - before: 司书: 「大概是受不了了吧」
+  - after: 图书管理员: 「大概是受不了了吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:4922` `librarian`
+  - before: 司书: 「大概是承受不住了吧。」
+  - after: 图书管理员: 「大概是承受不住了吧。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4923` `librarian`
+  - before: 司书: 「而且，还被说了很多很难听的话。」
+  - after: 图书管理员: 「而且，还被说了很多很难听的话。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4924` `librarian`
+  - before: 司书: 「能相信的存在，也许只有老师一个人了。」
+  - after: 图书管理员: 「能相信的存在，也许只有老师一个人了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4926` `librarian`
+  - before: 司书: 「……是啊。差不多，就是在时钟塔那一带吧」
+  - after: 图书管理员: 「……是啊。差不多，就是在时钟塔那一带吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:4927` `clock-tower`
+  - before: 司书: 「……是的。大概就在钟楼那一带吧。」
+  - after: 司书: 「……是的。大概就在时钟塔那一带吧。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4927` `librarian`
+  - before: 司书: 「……是的。大概就在时钟塔那一带吧。」
+  - after: 图书管理员: 「……是的。大概就在时钟塔那一带吧。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4929` `librarian`
+  - before: 司书: 「是啊，她伴随着事故，把对老师的全部回忆都忘掉了」
+  - after: 图书管理员: 「是啊，她伴随着事故，把对老师的全部回忆都忘掉了」
+- `bookish_zhcn/reading_order/02_chapter1.md:4930` `librarian`
+  - before: 司书: 「是的，她随着事故一起，把关于老师的回忆全部忘记了。」
+  - after: 图书管理员: 「是的，她随着事故一起，把关于老师的回忆全部忘记了。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4931` `librarian`
+  - before: 司书: 「周围的人都为她着想而闭口不言，所以她也没有机会知道。」
+  - after: 图书管理员: 「周围的人都为她着想而闭口不言，所以她也没有机会知道。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4936` `librarian`
+  - before: 司书: 「谁知道呢？这种事我不是她，所以不清楚。」
+  - after: 图书管理员: 「谁知道呢？这种事我不是她，所以不清楚。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4937` `librarian`
+  - before: 司书: 「谁知道呢？这个嘛，我又不是她，所以不清楚。」
+  - after: 图书管理员: 「谁知道呢？这个嘛，我又不是她，所以不清楚。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4947` `clock-tower`
+  - before: 女学生A: 「嗯。好像有个女人在时计塔前一直嘀嘀咕咕地说着什么。」
+  - after: 女学生A: 「嗯。好像有个女人在时钟塔前一直嘀嘀咕咕地说着什么。」
+- `bookish_zhcn/reading_order/02_chapter1.md:4972` `clock-tower`
+  - before: 不知不觉间，我来到了时计塔前。
+  - after: 不知不觉间，我来到了时钟塔前。
+- `bookish_zhcn/reading_order/02_chapter1.md:4973` `clock-tower`
+  - before: 时计塔前有巴女士和苍两个人。
+  - after: 时钟塔前有巴女士和苍两个人。
+- `bookish_zhcn/reading_order/02_chapter1.md:4980` `clock-tower`
+  - before: 她仰望时计塔。
+  - after: 她仰望时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:5031` `clock-tower`
+  - before: 太宰友惠: 「在这座钟楼前，我一直等着的啊？」
+  - after: 太宰友惠: 「在这座时钟塔前，我一直等着的啊？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5194` `clock-tower`
+  - before: 苍: 「时计塔前，十二点吧。记得」
+  - after: 苍: 「时钟塔前，十二点吧。记得」
+- `bookish_zhcn/reading_order/02_chapter1.md:5438` `clock-tower`
+  - before: 抬头仰望钟塔。
+  - after: 抬头仰望时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:5443` `clock-tower`
+  - before: 我明白她为什么不安地注视着钟塔了。
+  - after: 我明白她为什么不安地注视着时钟塔了。
+- `bookish_zhcn/reading_order/02_chapter1.md:5445` `clock-tower`
+  - before: 一直，仰望着这座钟塔，等待所爱之人来到这里。
+  - after: 一直，仰望着这座时钟塔，等待所爱之人来到这里。
+- `bookish_zhcn/reading_order/02_chapter1.md:5478` `clock-tower`
+  - before: 她把手背在身后，仰望着钟塔。
+  - after: 她把手背在身后，仰望着时钟塔。
+- `bookish_zhcn/reading_order/02_chapter1.md:5512` `kotoba-theme`
+  - before: 我觉得她的话语支离破碎，完全不像清醒的人说的。
+  - after: 我觉得她的言语支离破碎，完全不像清醒的人说的。
+- `bookish_zhcn/reading_order/02_chapter1.md:5625` `kotoba-theme`
+  - before: 太宰友惠: 「话语……？」
+  - after: 太宰友惠: 「言语……？」
+- `bookish_zhcn/reading_order/02_chapter1.md:5640` `kotoba-theme`
+  - before: 桐岛七葵: 「你总是牵着沉默不语的我的手，代替寡言少语的我编织话语，我既觉得那是可爱的，同时也感到不安」
+  - after: 桐岛七葵: 「你总是牵着沉默不语的我的手，代替寡言少语的我编织言语，我既觉得那是可爱的，同时也感到不安」
+- `bookish_zhcn/reading_order/02_chapter1.md:5645` `kotoba-theme`
+  - before: 桐岛七葵: 「所以，我现在，在此赠予你话语」
+  - after: 桐岛七葵: 「所以，我现在，在此赠予你言语」
+- `bookish_zhcn/reading_order/02_chapter1.md:5730` `clock-tower`
+  - before: 她也没有再出现在那个时计塔前。
+  - after: 她也没有再出现在那个时钟塔前。
+- `bookish_zhcn/reading_order/02_chapter1.md:5731` `clock-tower`
+  - before: 大概，她再也不会出现在那个时计塔前，
+  - after: 大概，她再也不会出现在那个时钟塔前，
+- `bookish_zhcn/reading_order/02_chapter1.md:5812` `kotoba-theme`
+  - before: 桐岛七葵: 「思念也好，话语也好，都会直接灌入脑海。」
+  - after: 桐岛七葵: 「思念也好，言语也好，都会直接灌入脑海。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5880` `kotoba-theme`
+  - before: 那句话是: 「希望你能理解我话语的含义。」
+  - after: 那句话是: 「希望你能理解我言语的含义。」
+- `bookish_zhcn/reading_order/02_chapter1.md:5900` `kotoba-theme`
+  - before: 远野纱夜: 「那就是你话语的真相吗？」
+  - after: 远野纱夜: 「那就是你言语的真相吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:6014` `librarian`
+  - before: 司书: 「远野同学」
+  - after: 图书管理员: 「远野同学」
+- `bookish_zhcn/reading_order/02_chapter1.md:6015` `librarian`
+  - before: 司书官一脸笑眯眯地朝我们走过来。
+  - after: 图书管理员官一脸笑眯眯地朝我们走过来。
+- `bookish_zhcn/reading_order/02_chapter1.md:6018` `librarian`
+  - before: 司书: 「之前我跟你说过太宰同学的事吧？」
+  - after: 图书管理员: 「之前我跟你说过太宰同学的事吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:6020` `librarian`
+  - before: 司书: 「我呢，从你嘴里听到的一个词让我有点在意。后来我也从熟人那里确认过了」
+  - after: 图书管理员: 「我呢，从你嘴里听到的一个词让我有点在意。后来我也从熟人那里确认过了」
+- `bookish_zhcn/reading_order/02_chapter1.md:6021` `librarian`
+  - before: 司书: 「你当时说了什么‘太宰同学的姐姐’之类的话，但太宰巴同学是独生女。她没有姐姐。哎呀，我总觉得哪里不对劲嘛。啊哈哈……」
+  - after: 图书管理员: 「你当时说了什么‘太宰同学的姐姐’之类的话，但太宰巴同学是独生女。她没有姐姐。哎呀，我总觉得哪里不对劲嘛。啊哈哈……」
+- `bookish_zhcn/reading_order/03_chapter2.md:36` `clock-tower`
+  - before: 假日午前。在时计塔前。
+  - after: 假日午前。在时钟塔前。
+- `bookish_zhcn/reading_order/03_chapter2.md:37` `clock-tower`
+  - before: 在时计塔前等待时，周围突然开始嘈杂起来。
+  - after: 在时钟塔前等待时，周围突然开始嘈杂起来。
+- `bookish_zhcn/reading_order/03_chapter2.md:78` `librarian`
+  - before: 司书: 「嗯——，不是光追着文字好玩，而是幻想那个世界才有趣吧？」
+  - after: 图书管理员: 「嗯——，不是光追着文字好玩，而是幻想那个世界才有趣吧？」
+- `bookish_zhcn/reading_order/03_chapter2.md:79` `librarian`
+  - before: 回头一看，司书官站在那里。
+  - after: 回头一看，图书管理员官站在那里。
+- `bookish_zhcn/reading_order/03_chapter2.md:82` `librarian`
+  - before: 司书: 「呼呼呼——真是的，就是因为有你们这样的书迷在，我连假日都得出勤，累人啊」
+  - after: 图书管理员: 「呼呼呼——真是的，就是因为有你们这样的书迷在，我连假日都得出勤，累人啊」
+- `bookish_zhcn/reading_order/03_chapter2.md:86` `librarian`
+  - before: 因此，司书官们即使假日也不得不出勤。
+  - after: 因此，图书管理员官们即使假日也不得不出勤。
+- `bookish_zhcn/reading_order/03_chapter2.md:89` `librarian`
+  - before: 司书: 「这里的书们也会很高兴吧，被你们这样读着」
+  - after: 图书管理员: 「这里的书们也会很高兴吧，被你们这样读着」
+- `bookish_zhcn/reading_order/03_chapter2.md:90` `librarian`
+  - before: 司书: 「数量这么多，有些书藏在深处就沉了下去。那种书你们——尤其是苍君都有在读呢」
+  - after: 图书管理员: 「数量这么多，有些书藏在深处就沉了下去。那种书你们——尤其是苍君都有在读呢」
+- `bookish_zhcn/reading_order/03_chapter2.md:92` `librarian`
+  - before: 司书: 「话说回来，真少见呢。宫泽同学居然会来这儿」
+  - after: 图书管理员: 「话说回来，真少见呢。宫泽同学居然会来这儿」
+- `bookish_zhcn/reading_order/03_chapter2.md:94` `librarian`
+  - before: 司书: 「所以就打了招呼一直跟到这里来了啊。可惜！」
+  - after: 图书管理员: 「所以就打了招呼一直跟到这里来了啊。可惜！」
+- `bookish_zhcn/reading_order/03_chapter2.md:97` `librarian`
+  - before: 司书: 「啊哈哈」
+  - after: 图书管理员: 「啊哈哈」
+- `bookish_zhcn/reading_order/03_chapter2.md:99` `librarian`
+  - before: 司书: 「好好，什么事，苍君」
+  - after: 图书管理员: 「好好，什么事，苍君」
+- `bookish_zhcn/reading_order/03_chapter2.md:102` `librarian`
+  - before: 司书: 「嗯——……好吧，我考虑一下」
+  - after: 图书管理员: 「嗯——……好吧，我考虑一下」
+- `bookish_zhcn/reading_order/03_chapter2.md:105` `librarian`
+  - before: 司书官干脆地说道。
+  - after: 图书管理员官干脆地说道。
+- `bookish_zhcn/reading_order/03_chapter2.md:106` `librarian`
+  - before: 司书: 「基本没戏」
+  - after: 图书管理员: 「基本没戏」
+- `bookish_zhcn/reading_order/03_chapter2.md:108` `librarian`
+  - before: 司书: 「你说为什么，你没听我说话吗？这里，好歹是学校的图书馆」
+  - after: 图书管理员: 「你说为什么，你没听我说话吗？这里，好歹是学校的图书馆」
+- `bookish_zhcn/reading_order/03_chapter2.md:109` `librarian`
+  - before: 司书: 「与其说是大家的东西，不如说是这个学校的东西吧」
+  - after: 图书管理员: 「与其说是大家的东西，不如说是这个学校的东西吧」
+- `bookish_zhcn/reading_order/03_chapter2.md:110` `librarian`
+  - before: 司书: 「而且你现在身份不明吧」
+  - after: 图书管理员: 「而且你现在身份不明吧」
+- `bookish_zhcn/reading_order/03_chapter2.md:115` `librarian`
+  - before: 我第一次想要申请那张许可证时，并不知道这一点，很是着急，但多亏了这位司书官的帮助才得以解决。
+  - after: 我第一次想要申请那张许可证时，并不知道这一点，很是着急，但多亏了这位图书管理员官的帮助才得以解决。
+- `bookish_zhcn/reading_order/03_chapter2.md:116` `librarian`
+  - before: 不过，苍的情况不可能一直瞒下去，最终她把事情的全部都告诉了询问苍身份的这位司书官。
+  - after: 不过，苍的情况不可能一直瞒下去，最终她把事情的全部都告诉了询问苍身份的这位图书管理员官。
+- `bookish_zhcn/reading_order/03_chapter2.md:119` `librarian`
+  - before: 司书: 「跟理事长说说的话说不定能行……嘛，别太期待」
+  - after: 图书管理员: 「跟理事长说说的话说不定能行……嘛，别太期待」
+- `bookish_zhcn/reading_order/03_chapter2.md:125` `librarian`
+  - before: 司书: 「哪儿的话。我也说了，我和这些书们都很高兴被人读的」
+  - after: 图书管理员: 「哪儿的话。我也说了，我和这些书们都很高兴被人读的」
+- `bookish_zhcn/reading_order/03_chapter2.md:126` `librarian`
+  - before: 司书: 「毕竟，书是为了被人读才存在的」
+  - after: 图书管理员: 「毕竟，书是为了被人读才存在的」
+- `bookish_zhcn/reading_order/03_chapter2.md:127` `librarian`
+  - before: 司书: 「全世界哪怕只有一个人读了，那也算完成了作为书的使命对吧？我可是书的同伴哦」
+  - after: 图书管理员: 「全世界哪怕只有一个人读了，那也算完成了作为书的使命对吧？我可是书的同伴哦」
+- `bookish_zhcn/reading_order/03_chapter2.md:129` `librarian`
+  - before: 司书: 「所——以——说宫泽同学」
+  - after: 图书管理员: 「所——以——说宫泽同学」
+- `bookish_zhcn/reading_order/03_chapter2.md:133` `librarian`
+  - before: 司书: 「先从内容简单的书开始读读看吧。你看，难得来一趟图书馆嘛」
+  - after: 图书管理员: 「先从内容简单的书开始读读看吧。你看，难得来一趟图书馆嘛」
+- `bookish_zhcn/reading_order/03_chapter2.md:135` `librarian`
+  - before: 司书: 「你看，就当是帮助书本吧。来，站起来站起来」
+  - after: 图书管理员: 「你看，就当是帮助书本吧。来，站起来站起来」
+- `bookish_zhcn/reading_order/03_chapter2.md:273` `clock-tower`
+  - before: 在钟塔前与夏帆告别。
+  - after: 在时钟塔前与夏帆告别。
+- `bookish_zhcn/reading_order/03_chapter2.md:317` `kotoba-theme`
+  - before: 他所说的『约定』，是指以前在山丘上说的『寻找美丽的语言』那件事。
+  - after: 他所说的『约定』，是指以前在山丘上说的『寻找美丽的言语』那件事。
+- `bookish_zhcn/reading_order/03_chapter2.md:321` `kotoba-theme`
+  - before: 话语停住了。
+  - after: 言语停住了。
+- `bookish_zhcn/reading_order/03_chapter2.md:937` `clock-tower`
+  - before: 约定的时间是十二点。在时计塔前。
+  - after: 约定的时间是十二点。在时钟塔前。
+- `bookish_zhcn/reading_order/03_chapter2.md:1700` `clock-tower`
+  - before: 远野纱夜: 「在时计塔前见面的时候，您说会跟着我，您真的没有别的事吗？」
+  - after: 远野纱夜: 「在时钟塔前见面的时候，您说会跟着我，您真的没有别的事吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:1830` `clock-tower`
+  - before: 远野纱夜: 「在时计塔前见面的时候，您说会跟着我，您真的没有别的事吗？」
+  - after: 远野纱夜: 「在时钟塔前见面的时候，您说会跟着我，您真的没有别的事吗？」
+- `bookish_zhcn/reading_order/03_chapter2.md:2111` `clock-tower`
+  - before: 约定好了两小时在钟塔前集合一次。这是我们之间的约定。
+  - after: 约定好了两小时在时钟塔前集合一次。这是我们之间的约定。
+- `bookish_zhcn/reading_order/03_chapter2.md:2271` `clock-tower`
+  - before: 约定好了两小时在钟塔前集合一次。这是我们之间的约定。
+  - after: 约定好了两小时在时钟塔前集合一次。这是我们之间的约定。
+- `bookish_zhcn/reading_order/03_chapter2.md:3763` `clock-tower`
+  - before: 卧待春夫: 「初次见面。我是做旧书店生意的，店在钟塔附近，叫卧待春夫」
+  - after: 卧待春夫: 「初次见面。我是做旧书店生意的，店在时钟塔附近，叫卧待春夫」
+- `bookish_zhcn/reading_order/03_chapter2.md:3765` `honmono-nisemono`
+  - before: 路易斯: 「哦！那么，您就是那家书店的真正主人了！」
+  - after: 路易斯: 「哦！那么，您就是那家书店的真正牌人了！」
+- `bookish_zhcn/reading_order/03_chapter2.md:4296` `kotoba-theme`
+  - before: 我一边沉浸于那些话语中，一边走着。
+  - after: 我一边沉浸于那些言语中，一边走着。
+- `bookish_zhcn/reading_order/04_chapter3.md:2743` `clock-tower`
+  - before: 回过神来，已经走到时计塔前面了。
+  - after: 回过神来，已经走到时钟塔前面了。
+- `bookish_zhcn/reading_order/04_chapter3.md:2994` `clock-tower`
+  - before: 回过神来，已经走到时计塔前面了。
+  - after: 回过神来，已经走到时钟塔前面了。
+- `bookish_zhcn/reading_order/04_chapter3.md:3435` `kotoba-theme`
+  - before: 刺人的话语和强烈的视线。
+  - after: 刺人的言语和强烈的视线。
+- `bookish_zhcn/reading_order/04_chapter3.md:3473` `kotoba-theme`
+  - before: 他的话语在我耳边挥之不去。
+  - after: 他的言语在我耳边挥之不去。
+- `bookish_zhcn/reading_order/04_chapter3.md:3568` `kotoba-theme`
+  - before: 未能说完的话语。
+  - after: 未能说完的言语。
+- `bookish_zhcn/reading_order/04_chapter3.md:3580` `kotoba-theme`
+  - before: 然后，像是要把心底所有的污秽都吐出来一样，化成了话语一股脑地倾泻出来。
+  - after: 然后，像是要把心底所有的污秽都吐出来一样，化成了言语一股脑地倾泻出来。
+- `bookish_zhcn/reading_order/04_chapter3.md:3691` `kotoba-theme`
+  - before: 苍的话语，仿佛刚刚才说过一样，清晰地留在耳边。
+  - after: 苍的言语，仿佛刚刚才说过一样，清晰地留在耳边。
+- `bookish_zhcn/reading_order/04_chapter3.md:4177` `kotoba-theme`
+  - before: 我尽量用冷静、礼貌的话语对她们说。
+  - after: 我尽量用冷静、礼貌的言语对她们说。
+- `bookish_zhcn/reading_order/04_chapter3.md:4878` `librarian`
+  - before: 司书: 「……所以就来这里了」
+  - after: 图书管理员: 「……所以就来这里了」
+- `bookish_zhcn/reading_order/04_chapter3.md:4880` `librarian`
+  - before: 司书: 「哈啊～～……真是的，怎么偏偏就找到我这里来了呢」
+  - after: 图书管理员: 「哈啊～～……真是的，怎么偏偏就找到我这里来了呢」
+- `bookish_zhcn/reading_order/04_chapter3.md:4884` `librarian`
+  - before: 司书: 「……哈啊。我就在想总有一天会变成这样」
+  - after: 图书管理员: 「……哈啊。我就在想总有一天会变成这样」
+- `bookish_zhcn/reading_order/04_chapter3.md:4888` `librarian`
+  - before: 司书: 「开玩笑啦」
+  - after: 图书管理员: 「开玩笑啦」
+- `bookish_zhcn/reading_order/04_chapter3.md:4891` `librarian`
+  - before: 司书: 「可以啊，无所谓。只要待在这里就行」
+  - after: 图书管理员: 「可以啊，无所谓。只要待在这里就行」
+- `bookish_zhcn/reading_order/04_chapter3.md:4895` `librarian`
+  - before: 司书: 「你没听苍君说吗？苍君从今天开始被特别许可在开放日以外也能来这里」
+  - after: 图书管理员: 「你没听苍君说吗？苍君从今天开始被特别许可在开放日以外也能来这里」
+- `bookish_zhcn/reading_order/04_chapter3.md:4919` `librarian`
+  - before: 司书: 「呐，聊得正开心时打扰不好意思。……我从刚才就在意了，那个布偶装是什么？」
+  - after: 图书管理员: 「呐，聊得正开心时打扰不好意思。……我从刚才就在意了，那个布偶装是什么？」
+- `bookish_zhcn/reading_order/04_chapter3.md:4925` `librarian`
+  - before: 司书: 「是吗？」
+  - after: 图书管理员: 「是吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:4927` `librarian`
+  - before: 司书: 「诶诶诶——。倒是可以，为什么？学生会办公室不行吗？」
+  - after: 图书管理员: 「诶诶诶——。倒是可以，为什么？学生会办公室不行吗？」
+- `bookish_zhcn/reading_order/04_chapter3.md:4933` `librarian`
+  - before: 司书: 「原来是这样。那也没办法呢。放在不碍事的地方吧」
+  - after: 图书管理员: 「原来是这样。那也没办法呢。放在不碍事的地方吧」
+- `bookish_zhcn/reading_order/04_chapter3.md:4938` `librarian`
+  - before: 司书: 「喂，你们！铃响了呢！」
+  - after: 图书管理员: 「喂，你们！铃响了呢！」
+- `bookish_zhcn/reading_order/04_chapter3.md:4940` `librarian`
+  - before: 司书: 「剩下的我来处理，你们快走吧」
+  - after: 图书管理员: 「剩下的我来处理，你们快走吧」
+- `bookish_zhcn/reading_order/04_chapter3.md:6539` `honmono-nisemono`
+  - before: ？？？: 「终于，真正的日生光出现了」
+  - after: ？？？: 「终于，正牌日生光出现了」
+- `bookish_zhcn/reading_order/04_chapter3.md:6556` `honmono-nisemono`
+  - before: 日生光: 「他害怕的是，万一真正的自己被当成冒牌货了怎么办」
+  - after: 日生光: 「他害怕的是，万一真正的自己被当成冒牌了怎么办」
+- `bookish_zhcn/reading_order/04_chapter3.md:6709` `honmono-nisemono`
+  - before: ？？？: 「终于，真正的日生光出现了」
+  - after: ？？？: 「终于，正牌日生光出现了」
+- `bookish_zhcn/reading_order/04_chapter3.md:6726` `honmono-nisemono`
+  - before: 日生光: 「他害怕的是，万一真正的自己被当成冒牌货了怎么办」
+  - after: 日生光: 「他害怕的是，万一真正的自己被当成冒牌了怎么办」
+- `bookish_zhcn/reading_order/04_chapter3.md:7255` `clock-tower`
+  - before: 苍: 「时计塔」
+  - after: 苍: 「时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7256` `clock-tower`
+  - before: 远野纱夜: 「时计塔？」
+  - after: 远野纱夜: 「时钟塔？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7257` `clock-tower`
+  - before: 苍: 「嗯。顺着这条路直走就有时计塔」
+  - after: 苍: 「嗯。顺着这条路直走就有时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7258` `clock-tower`
+  - before: 远野纱夜: 「时计塔……」
+  - after: 远野纱夜: 「时钟塔……」
+- `bookish_zhcn/reading_order/04_chapter3.md:7259` `clock-tower`
+  - before: 日生光: 「时计塔啊……希望他在那里就好」
+  - after: 日生光: 「时钟塔啊……希望他在那里就好」
+- `bookish_zhcn/reading_order/04_chapter3.md:7290` `clock-tower`
+  - before: 苍: 「时计塔」
+  - after: 苍: 「时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7291` `clock-tower`
+  - before: 远野纱夜: 「时计塔？」
+  - after: 远野纱夜: 「时钟塔？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7292` `clock-tower`
+  - before: 苍: 「嗯。顺着这条路直走就有时计塔」
+  - after: 苍: 「嗯。顺着这条路直走就有时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7293` `clock-tower`
+  - before: 远野纱夜: 「时计塔……」
+  - after: 远野纱夜: 「时钟塔……」
+- `bookish_zhcn/reading_order/04_chapter3.md:7294` `clock-tower`
+  - before: 日生光: 「时计塔啊……希望他在那里就好」
+  - after: 日生光: 「时钟塔啊……希望他在那里就好」
+- `bookish_zhcn/reading_order/04_chapter3.md:7329` `clock-tower`
+  - before: 苍: 「时计塔」
+  - after: 苍: 「时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7330` `clock-tower`
+  - before: 远野纱夜: 「时计塔？」
+  - after: 远野纱夜: 「时钟塔？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7331` `clock-tower`
+  - before: 苍: 「嗯。顺着这条路直走就有时计塔」
+  - after: 苍: 「嗯。顺着这条路直走就有时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7332` `clock-tower`
+  - before: 远野纱夜: 「时计塔……」
+  - after: 远野纱夜: 「时钟塔……」
+- `bookish_zhcn/reading_order/04_chapter3.md:7333` `clock-tower`
+  - before: 日生光: 「时计塔啊……希望他在那里就好」
+  - after: 日生光: 「时钟塔啊……希望他在那里就好」
+- `bookish_zhcn/reading_order/04_chapter3.md:7347` `clock-tower`
+  - before: 宫泽夏帆: 「我们走着去吧。反正时计塔那个地方我们已经知道了嘛～」
+  - after: 宫泽夏帆: 「我们走着去吧。反正时钟塔那个地方我们已经知道了嘛～」
+- `bookish_zhcn/reading_order/04_chapter3.md:7376` `clock-tower`
+  - before: 苍: 「时计塔」
+  - after: 苍: 「时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7377` `clock-tower`
+  - before: 远野纱夜: 「时计塔？」
+  - after: 远野纱夜: 「时钟塔？」
+- `bookish_zhcn/reading_order/04_chapter3.md:7378` `clock-tower`
+  - before: 苍: 「嗯。顺着这条路直走就有时计塔」
+  - after: 苍: 「嗯。顺着这条路直走就有时钟塔」
+- `bookish_zhcn/reading_order/04_chapter3.md:7379` `clock-tower`
+  - before: 远野纱夜: 「时计塔……」
+  - after: 远野纱夜: 「时钟塔……」
+- `bookish_zhcn/reading_order/04_chapter3.md:7380` `clock-tower`
+  - before: 日生光: 「时计塔啊……希望他在那里就好」
+  - after: 日生光: 「时钟塔啊……希望他在那里就好」
+- `bookish_zhcn/reading_order/04_chapter3.md:7412` `clock-tower`
+  - before: 他在时计塔前茫然地站着。
+  - after: 他在时钟塔前茫然地站着。
+- `bookish_zhcn/reading_order/04_chapter3.md:7485` `kotoba-theme`
+  - before: 他低声吐出了反省的话语。
+  - after: 他低声吐出了反省的言语。
+- `bookish_zhcn/reading_order/04_chapter3.md:7736` `clock-tower`
+  - before: 他在时计塔前茫然地站着。
+  - after: 他在时钟塔前茫然地站着。
+- `bookish_zhcn/reading_order/04_chapter3.md:7809` `kotoba-theme`
+  - before: 他低声吐出了反省的话语。
+  - after: 他低声吐出了反省的言语。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:122` `kotoba-theme`
+  - before: 不由自主地去揣测话语背后的含义，这是我的坏习惯吧。
+  - after: 不由自主地去揣测言语背后的含义，这是我的坏习惯吧。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:265` `kotoba-theme`
+  - before: 不由自主地去揣测话语背后的含义，这是我的坏习惯吧。
+  - after: 不由自主地去揣测言语背后的含义，这是我的坏习惯吧。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:660` `clock-tower`
+  - before: 日生光: 「如你所知，时计塔。」
+  - after: 日生光: 「如你所知，时钟塔。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:674` `clock-tower`
+  - before: 远野纱夜: 「为什么有时计塔的钥匙？」
+  - after: 远野纱夜: 「为什么有时钟塔的钥匙？」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:679` `clock-tower`
+  - before: 远野纱夜: 「其实我心里很激动。我现在在时计塔里面。一直在外面仰望的时计塔里面。」
+  - after: 远野纱夜: 「其实我心里很激动。我现在在时钟塔里面。一直在外面仰望的时钟塔里面。」
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:696` `clock-tower`
+  - before: 如从外观可以想象的那样，时计塔非常高，因此里面的楼梯数量也相当可观。
+  - after: 如从外观可以想象的那样，时钟塔非常高，因此里面的楼梯数量也相当可观。
+- `bookish_zhcn/reading_order/06_chapter4_to_hinase_branch.md:746` `clock-tower`
+  - before: 远野纱夜: 「一直以来，一直都……从看到这座时计塔的时候就在想。为什么，时间不会前进呢。」
+  - after: 远野纱夜: 「一直以来，一直都……从看到这座时钟塔的时候就在想。为什么，时间不会前进呢。」
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:615` `clock-tower`
+  - before: 像往常一样和夏帆分开后，我没有直接回家，而是仰头望着那座时计塔。
+  - after: 像往常一样和夏帆分开后，我没有直接回家，而是仰头望着那座时钟塔。
+- `bookish_zhcn/reading_order/07_hinase_chapter4_branch.md:624` `clock-tower`
+  - before: 从指缝间能看到的时计塔。
+  - after: 从指缝间能看到的时钟塔。
+- `bookish_zhcn/reading_order/08_hinase.md:362` `kotoba-theme`
+  - before: 远野纱夜: 「日生前辈会给我我想要的话语。他向我伸出了援手……大概是因为这个吧」
+  - after: 远野纱夜: 「日生前辈会给我我想要的言语。他向我伸出了援手……大概是因为这个吧」
+- `bookish_zhcn/reading_order/08_hinase.md:1203` `clock-tower`
+  - before: 来到时计塔前时，本应早就回家的夏帆正等着我们。
+  - after: 来到时钟塔前时，本应早就回家的夏帆正等着我们。
+- `bookish_zhcn/reading_order/08_hinase.md:1280` `clock-tower`
+  - before: 正在时计塔等着，
+  - after: 正在时钟塔等着，
+- `bookish_zhcn/reading_order/08_hinase.md:1919` `honmono-nisemono`
+  - before: 日生光: 「真货和假货的区别。」
+  - after: 日生光: 「正牌和冒牌的区别。」
+- `bookish_zhcn/reading_order/08_hinase.md:1922` `honmono-nisemono`
+  - before: 女学生: 「光看是看不出来的。在我看来，你看起来很像真货。」
+  - after: 女学生: 「光看是看不出来的。在我看来，你看起来很像正牌。」
+- `bookish_zhcn/reading_order/08_hinase.md:1931` `honmono-nisemono`
+  - before: 日生光: 「除非杀掉真正的日生光，彻底销毁证据。」
+  - after: 日生光: 「除非杀掉正牌日生光，彻底销毁证据。」
+- `bookish_zhcn/reading_order/08_hinase.md:1937` `honmono-nisemono`
+  - before: 日生光: 「确实。真正的日生光虽然迟了，但发现了自己和我的区别，对自己是真货有了自信。」
+  - after: 日生光: 「确实。正牌日生光虽然迟了，但发现了自己和我的区别，对自己是正牌有了自信。」
+- `bookish_zhcn/reading_order/08_hinase.md:1938` `honmono-nisemono`
+  - before: 女学生: 「然后，作为假货的你会离开这个小镇。」
+  - after: 女学生: 「然后，作为冒牌的你会离开这个小镇。」
+- `bookish_zhcn/reading_order/08_hinase.md:2201` `kotoba-theme`
+  - before: 更多更多温柔的话语。
+  - after: 更多更多温柔的言语。
+- `bookish_zhcn/reading_order/08_hinase.md:2343` `clock-tower`
+  - before: 时计塔。
+  - after: 时钟塔。
+- `bookish_zhcn/reading_order/08_hinase.md:2478` `honmono-nisemono`
+  - before: 日生紫: 「至今为止和我们在一起的「日生光」是冒牌货」
+  - after: 日生紫: 「至今为止和我们在一起的「日生光」是冒牌」
+- `bookish_zhcn/reading_order/08_hinase.md:2490` `honmono-nisemono`
+  - before: 日生光: 「刚才这位祖母也说了，你认为是『日生光』的那个是『冒牌货」
+  - after: 日生光: 「刚才这位祖母也说了，你认为是『日生光』的那个是『冒牌」
+- `bookish_zhcn/reading_order/08_hinase.md:2512` `honmono-nisemono`
+  - before: 日生光: 「要怎样才能让你相信呢。那个冒牌货昨天就已经不知道跑到哪里去了」
+  - after: 日生光: 「要怎样才能让你相信呢。那个冒牌昨天就已经不知道跑到哪里去了」
+- `bookish_zhcn/reading_order/08_hinase.md:2522` `kotoba-theme`
+  - before: 但是，我之所以没能那么说，并不是因为他抛出的话语把我打倒了。
+  - after: 但是，我之所以没能那么说，并不是因为他抛出的言语把我打倒了。
+- `bookish_zhcn/reading_order/08_hinase.md:2579` `honmono-nisemono`
+  - before: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌货，那岂不得憋屈死。」
+  - after: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌，那岂不得憋屈死。」
+- `bookish_zhcn/reading_order/08_hinase.md:2582` `honmono-nisemono`
+  - before: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为真正的我才是本物！」
+  - after: 日生光: 「所以，我没有选择离开，而是决定暂时观望机会。那家伙也不可能真的完美，因为真正的我才是正牌！」
+- `bookish_zhcn/reading_order/08_hinase.md:2583` `honmono-nisemono`
+  - before: 日生光: 「我一直在找。能分辨假货和真货的证据。」
+  - after: 日生光: 「我一直在找。能分辨冒牌和正牌的证据。」
+- `bookish_zhcn/reading_order/08_hinase.md:2586` `honmono-nisemono`
+  - before: 日生光: 「真是蠢到家了！！居然被冒牌货的谎言耍得团团转！！」
+  - after: 日生光: 「真是蠢到家了！！居然被冒牌的谎言耍得团团转！！」
+- `bookish_zhcn/reading_order/08_hinase.md:2629` `honmono-nisemono`
+  - before: 是吗。原来真货会这样发怒啊，我像站在旁观者立场一样冷静地想道。
+  - after: 是吗。原来正牌会这样发怒啊，我像站在旁观者立场一样冷静地想道。
+- `bookish_zhcn/reading_order/08_hinase.md:2672` `honmono-nisemono`
+  - before: 如果我认识的那个人是冒牌货的话，
+  - after: 如果我认识的那个人是冒牌的话，
+- `bookish_zhcn/reading_order/08_hinase.md:2770` `honmono-nisemono`
+  - before: 日生光: 「为了接近真货，我把容貌、兴趣爱好全部改了。」
+  - after: 日生光: 「为了接近正牌，我把容貌、兴趣爱好全部改了。」
+- `bookish_zhcn/reading_order/08_hinase.md:2771` `honmono-nisemono`
+  - before: 日生光: 「连这说话方式，也和真货一样吧？」
+  - after: 日生光: 「连这说话方式，也和正牌一样吧？」
+- `bookish_zhcn/reading_order/08_hinase.md:2773` `honmono-nisemono`
+  - before: 和真货一样。
+  - after: 和正牌一样。
+- `bookish_zhcn/reading_order/08_hinase.md:2775` `honmono-nisemono`
+  - before: 远野纱夜: 「……我并不怎么了解真正的‘日生光’。」
+  - after: 远野纱夜: 「……我并不怎么了解正牌‘日生光’。」
+- `bookish_zhcn/reading_order/08_hinase.md:2777` `honmono-nisemono`
+  - before: 是的。对我来说，那才是『真货』。
+  - after: 是的。对我来说，那才是『正牌』。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:854` `clock-tower`
+  - before: 像往常一样和夏帆分开后，我没有直接回家，而是仰头望着那座时计塔。
+  - after: 像往常一样和夏帆分开后，我没有直接回家，而是仰头望着那座时钟塔。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:863` `clock-tower`
+  - before: 从指缝间能看到的时计塔。
+  - after: 从指缝间能看到的时钟塔。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2777` `kotoba-theme`
+  - before: 苍: 「我之前也说过，我和你都在寻找美丽的语言。你身边有我，这是必然的」
+  - after: 苍: 「我之前也说过，我和你都在寻找美丽的言语。你身边有我，这是必然的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2791` `librarian`
+  - before: 司书: 「哎呀，今天也来了啊。来得正好。苍君在哦」
+  - after: 图书管理员: 「哎呀，今天也来了啊。来得正好。苍君在哦」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2877` `kotoba-theme`
+  - before: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的话语里包含着喜欢对方的心情，那就算是爱的告白吧」
+  - after: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的言语里包含着喜欢对方的心情，那就算是爱的告白吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2899` `librarian`
+  - before: 司书: 「哎呀，今天也来了啊。来得正好。苍君在哦」
+  - after: 图书管理员: 「哎呀，今天也来了啊。来得正好。苍君在哦」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:2977` `kotoba-theme`
+  - before: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的话语里包含着喜欢对方的心情，那就算是爱的告白吧」
+  - after: 千代: 「唔——我也很难解释……该怎么说呢，如果刚才苍的言语里包含着喜欢对方的心情，那就算是爱的告白吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3705` `honmono-nisemono`
+  - before: 桐岛七葵: 「真正的『日生光』？那你说我们一直见到的是谁？」
+  - after: 桐岛七葵: 「正牌『日生光』？那你说我们一直见到的是谁？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3706` `honmono-nisemono`
+  - before: 日生光: 「冒牌货『日生光」
+  - after: 日生光: 「冒牌『日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3714` `honmono-nisemono`
+  - before: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌货的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+  - after: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3716` `honmono-nisemono`
+  - before: 桐岛七葵: 「可你说自己是真正的『日生光』吧？」
+  - after: 桐岛七葵: 「可你说自己是正牌『日生光』吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3717` `honmono-nisemono`
+  - before: 日生光: 「正因为是真的，才不知道啊。冒牌货反而知道更多真相」
+  - after: 日生光: 「正因为是真的，才不知道啊。冒牌反而知道更多真相」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3722` `honmono-nisemono`
+  - before: 远野纱夜: 「那，真正的您和冒牌货『日生光』穿着相同的服装，这是什么原因？」
+  - after: 远野纱夜: 「那，真正的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3731` `honmono-nisemono`
+  - before: 日生光: 「我回到这个镇上，从发现我的冒牌货那天起，就一直在监视『日生光』。当然，也监视了你们」
+  - after: 日生光: 「我回到这个镇上，从发现我的冒牌那天起，就一直在监视『日生光』。当然，也监视了你们」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3734` `honmono-nisemono`
+  - before: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌货」
+  - after: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3741` `honmono-nisemono`
+  - before: 日生光: 「正因为是真的啊。单论这一点，反而冒牌货可能更接近真的」
+  - after: 日生光: 「正因为是真的啊。单论这一点，反而冒牌可能更接近真的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3744` `honmono-nisemono`
+  - before: 桐岛七葵: 「但也有可能你本人是冒牌货，在说谎吧？」
+  - after: 桐岛七葵: 「但也有可能你本人是冒牌，在说谎吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3747` `honmono-nisemono`
+  - before: 远野纱夜: 「……简单来说，您直接出现在冒牌货面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+  - after: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3753` `honmono-nisemono`
+  - before: 日生光: 「冒牌货知道真的存在」
+  - after: 日生光: 「冒牌知道真的存在」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3770` `honmono-nisemono`
+  - before: 日生光: 「但是，我是真的。真正的『日生光』。那家伙，不是我」
+  - after: 日生光: 「但是，我是真的。正牌『日生光』。那家伙，不是我」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3773` `honmono-nisemono`
+  - before: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌货。因为那家伙不是真的嘛」
+  - after: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是真的嘛」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3774` `honmono-nisemono`
+  - before: 苍: 「那么，假设我们认识的『日生光』是冒牌货，作为真正的『日生光』，你打算今后怎么做？」
+  - after: 苍: 「那么，假设我们认识的『日生光』是冒牌，作为正牌『日生光』，你打算今后怎么做？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3852` `honmono-nisemono`
+  - before: 桐岛七葵: 「真正的『日生光』？那你说我们一直见到的是谁？」
+  - after: 桐岛七葵: 「正牌『日生光』？那你说我们一直见到的是谁？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3853` `honmono-nisemono`
+  - before: 日生光: 「冒牌货『日生光」
+  - after: 日生光: 「冒牌『日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3861` `honmono-nisemono`
+  - before: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌货的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+  - after: 远野纱夜: 「如果您的话是真的，那就意味着存在两个外貌相同的叫『日生光』的人。您说是冒牌的那位日生前辈，难道不是二重身或者失散的兄弟吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3863` `honmono-nisemono`
+  - before: 桐岛七葵: 「可你说自己是真正的『日生光』吧？」
+  - after: 桐岛七葵: 「可你说自己是正牌『日生光』吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3864` `honmono-nisemono`
+  - before: 日生光: 「正因为是真的，才不知道啊。冒牌货反而知道更多真相」
+  - after: 日生光: 「正因为是真的，才不知道啊。冒牌反而知道更多真相」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3869` `honmono-nisemono`
+  - before: 远野纱夜: 「那，真正的您和冒牌货『日生光』穿着相同的服装，这是什么原因？」
+  - after: 远野纱夜: 「那，真正的您和冒牌『日生光』穿着相同的服装，这是什么原因？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3878` `honmono-nisemono`
+  - before: 日生光: 「我回到这个镇上，从发现我的冒牌货那天起，就一直在监视『日生光』。当然，也监视了你们」
+  - after: 日生光: 「我回到这个镇上，从发现我的冒牌那天起，就一直在监视『日生光』。当然，也监视了你们」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3881` `honmono-nisemono`
+  - before: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌货」
+  - after: 日生光: 「希望你们能找到证据，证明『日生光』是冒牌」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3888` `honmono-nisemono`
+  - before: 日生光: 「正因为是真的啊。单论这一点，反而冒牌货可能更接近真的」
+  - after: 日生光: 「正因为是真的啊。单论这一点，反而冒牌可能更接近真的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3891` `honmono-nisemono`
+  - before: 桐岛七葵: 「但也有可能你本人是冒牌货，在说谎吧？」
+  - after: 桐岛七葵: 「但也有可能你本人是冒牌，在说谎吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3894` `honmono-nisemono`
+  - before: 远野纱夜: 「……简单来说，您直接出现在冒牌货面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+  - after: 远野纱夜: 「……简单来说，您直接出现在冒牌面前不就好了吗？那样的话，通过检查之类的方法，就能知道谁是真的了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3900` `honmono-nisemono`
+  - before: 日生光: 「冒牌货知道真的存在」
+  - after: 日生光: 「冒牌知道真的存在」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3917` `honmono-nisemono`
+  - before: 日生光: 「但是，我是真的。真正的『日生光』。那家伙，不是我」
+  - after: 日生光: 「但是，我是真的。正牌『日生光』。那家伙，不是我」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3920` `honmono-nisemono`
+  - before: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌货。因为那家伙不是真的嘛」
+  - after: 日生光: 「我和那家伙都是相同的『日生光』，但一定有什么东西能证明那家伙是冒牌。因为那家伙不是真的嘛」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3921` `honmono-nisemono`
+  - before: 苍: 「那么，假设我们认识的『日生光』是冒牌货，作为真正的『日生光』，你打算今后怎么做？」
+  - after: 苍: 「那么，假设我们认识的『日生光』是冒牌，作为正牌『日生光』，你打算今后怎么做？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3999` `honmono-nisemono`
+  - before: 远野十夜: 「你没见过那个真正的『日生前辈』和冒牌的『日生前辈』站在一起的样子吧。」
+  - after: 远野十夜: 「你没见过那个正牌『日生前辈』和冒牌的『日生前辈』站在一起的样子吧。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4006` `kotoba-theme`
+  - before: 远野十夜: 「不管他的话是谎言还是真相，任何话语都有其意义。」
+  - after: 远野十夜: 「不管他的话是谎言还是真相，任何言语都有其意义。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4076` `honmono-nisemono`
+  - before: 远野十夜: 「你没见过那个真正的『日生前辈』和冒牌的『日生前辈』站在一起的样子吧。」
+  - after: 远野十夜: 「你没见过那个正牌『日生前辈』和冒牌的『日生前辈』站在一起的样子吧。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4083` `kotoba-theme`
+  - before: 远野十夜: 「不管他的话是谎言还是真相，任何话语都有其意义。」
+  - after: 远野十夜: 「不管他的话是谎言还是真相，任何言语都有其意义。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4181` `honmono-nisemono`
+  - before: 远野纱夜: 「关于日生前辈的事。就是找出那个真品和冒牌货的区别。我们在学校会和日生前辈碰面，但你不一样」
+  - after: 远野纱夜: 「关于日生前辈的事。就是找出那个真品和冒牌的区别。我们在学校会和日生前辈碰面，但你不一样」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4191` `clock-tower`
+  - before: 仿佛那座时计塔一样。
+  - after: 仿佛那座时钟塔一样。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4417` `kotoba-theme`
+  - before: 他那带着几分无奈的眼神和话语，让桐岛前辈立刻反驳了回去。
+  - after: 他那带着几分无奈的眼神和言语，让桐岛前辈立刻反驳了回去。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4444` `kotoba-theme`
+  - before: 苍: 「当然。我在寻找话语。为此，故事是必不可少的」
+  - after: 苍: 「当然。我在寻找言语。为此，故事是必不可少的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4448` `kotoba-theme`
+  - before: 寻找美丽的语言，虽然是由我提出的，但他比我要认真得多。
+  - after: 寻找美丽的言语，虽然是由我提出的，但他比我要认真得多。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4847` `honmono-nisemono`
+  - before: 桐岛七葵: 「你也该老实回答了吧。为什么你作为本尊，却不肯出现在假货面前？」
+  - after: 桐岛七葵: 「你也该老实回答了吧。为什么你作为正牌，却不肯出现在冒牌面前？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4853` `honmono-nisemono`
+  - before: 日生光: 「我没有自信。我非常害怕被别人说我是冒牌货。」
+  - after: 日生光: 「我没有自信。我非常害怕被别人说我是冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4861` `honmono-nisemono`
+  - before: 日生光: 「真正的『日生光』、假的『日生光』，还有理想的『日生光』。」
+  - after: 日生光: 「正牌『日生光』、假的『日生光』，还有理想的『日生光』。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4878` `honmono-nisemono`
+  - before: 日生光: 「之后就如各位所知，久违地回到家里，却发现有个和我一模一样的冒牌货大摇大摆地待在那里。」
+  - after: 日生光: 「之后就如各位所知，久违地回到家里，却发现有个和我一模一样的冒牌大摇大摆地待在那里。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4881` `honmono-nisemono`
+  - before: 日生光: 「周围的人毫不怀疑。关系不错的朋友、共同生活了几十年的外婆，全都深信不疑地认为那个冒牌货才是本尊。」
+  - after: 日生光: 「周围的人毫不怀疑。关系不错的朋友、共同生活了几十年的外婆，全都深信不疑地认为那个冒牌才是正牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4882` `honmono-nisemono`
+  - before: 日生光: 「这就是我不愿意出现在那家伙面前的原因。以现在的情况来看，反而是我更像冒牌货。」
+  - after: 日生光: 「这就是我不愿意出现在那家伙面前的原因。以现在的情况来看，反而是我更像冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4888` `kotoba-theme`
+  - before: 话语背后，能隐约看到比话语本身强烈得多的感情。
+  - after: 言语背后，能隐约看到比言语本身强烈得多的感情。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4891` `honmono-nisemono`
+  - before: 远野纱夜: 「那么，现在我们接触的这个『日生光』，是『本尊』吗？」
+  - after: 远野纱夜: 「那么，现在我们接触的这个『日生光』，是『正牌』吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4892` `honmono-nisemono`
+  - before: 日生光: 「所以我从一开始就说了，我是『本尊』啊。」
+  - after: 日生光: 「所以我从一开始就说了，我是『正牌』啊。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4894` `honmono-nisemono`
+  - before: 日生光: 「那也没办法。因为本尊和冒牌货，都在扮演同一个理想的『日生光』。」
+  - after: 日生光: 「那也没办法。因为正牌和冒牌，都在扮演同一个理想的『日生光』。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4910` `honmono-nisemono`
+  - before: 苍: 「本尊和冒牌货，甚至还出现了理想的『日生光』吗。」
+  - after: 苍: 「正牌和冒牌，甚至还出现了理想的『日生光』吗。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4919` `honmono-nisemono`
+  - before: 桐岛七葵: 「那家伙去追日生了……追那个自称‘真货’的家伙了」
+  - after: 桐岛七葵: 「那家伙去追日生了……追那个自称‘正牌’的家伙了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4952` `honmono-nisemono`
+  - before: 远野纱夜: 「真正的‘日生光’、假货‘日生光’、理想的‘日生光’……」
+  - after: 远野纱夜: 「正牌‘日生光’、冒牌‘日生光’、理想的‘日生光’……」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4961` `honmono-nisemono`
+  - before: 远野纱夜: 「据说存在一个理想的‘日生光’，而真货和假货都在分别扮演那个理想的‘日生光’」
+  - after: 远野纱夜: 「据说存在一个理想的‘日生光’，而正牌和冒牌都在分别扮演那个理想的‘日生光’」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4970` `kotoba-theme`
+  - before: 远野十夜: 「话语可以随意捏造。但真相只存在一个」
+  - after: 远野十夜: 「言语可以随意捏造。但真相只存在一个」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4972` `honmono-nisemono`
+  - before: 远野十夜: 「虽然我也不清楚到底哪个才是真正的‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+  - after: 远野十夜: 「虽然我也不清楚到底哪个才是正牌‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4977` `kotoba-theme`
+  - before: 听了哥哥的话，我感觉之前一直似懂非懂的那个人的话语，稍微能理解了一点。
+  - after: 听了哥哥的话，我感觉之前一直似懂非懂的那个人的言语，稍微能理解了一点。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4978` `honmono-nisemono`
+  - before: 那个人说过，希望我们能找到『日生光』是假货的证据。
+  - after: 那个人说过，希望我们能找到『日生光』是冒牌的证据。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5031` `honmono-nisemono`
+  - before: 远野纱夜: 「真正的‘日生光’、假货‘日生光’、理想的‘日生光’……」
+  - after: 远野纱夜: 「正牌‘日生光’、冒牌‘日生光’、理想的‘日生光’……」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5040` `honmono-nisemono`
+  - before: 远野纱夜: 「据说存在一个理想的‘日生光’，而真货和假货都在分别扮演那个理想的‘日生光’」
+  - after: 远野纱夜: 「据说存在一个理想的‘日生光’，而正牌和冒牌都在分别扮演那个理想的‘日生光’」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5049` `kotoba-theme`
+  - before: 远野十夜: 「话语可以随意捏造。但真相只存在一个」
+  - after: 远野十夜: 「言语可以随意捏造。但真相只存在一个」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5051` `honmono-nisemono`
+  - before: 远野十夜: 「虽然我也不清楚到底哪个才是真正的‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+  - after: 远野十夜: 「虽然我也不清楚到底哪个才是正牌‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5056` `kotoba-theme`
+  - before: 听了哥哥的话，我感觉之前一直似懂非懂的那个人的话语，稍微能理解了一点。
+  - after: 听了哥哥的话，我感觉之前一直似懂非懂的那个人的言语，稍微能理解了一点。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5057` `honmono-nisemono`
+  - before: 那个人说过，希望我们能找到『日生光』是假货的证据。
+  - after: 那个人说过，希望我们能找到『日生光』是冒牌的证据。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5266` `kotoba-theme`
+  - before: 远野纱夜: 「哥哥说：话语再怎么都能虚假。但是真相只有一个」
+  - after: 远野纱夜: 「哥哥说：言语再怎么都能虚假。但是真相只有一个」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5268` `honmono-nisemono`
+  - before: 远野十夜: 「虽然我也不清楚到底哪个才是真正的‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+  - after: 远野十夜: 「虽然我也不清楚到底哪个才是正牌‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5273` `kotoba-theme`
+  - before: 苍: 「如果话语不可信、无法伪造的话，这样想不是很自然吗？」
+  - after: 苍: 「如果言语不可信、无法伪造的话，这样想不是很自然吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5277` `kotoba-theme`
+  - before: 苍: 「嗯，是啊。首先，如果话语不可信，那么连‘日生光有两个人’这句话本身也不该相信吧」
+  - after: 苍: 「嗯，是啊。首先，如果言语不可信，那么连‘日生光有两个人’这句话本身也不该相信吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5346` `kotoba-theme`
+  - before: 远野纱夜: 「哥哥说：话语再怎么都能虚假。但是真相只有一个」
+  - after: 远野纱夜: 「哥哥说：言语再怎么都能虚假。但是真相只有一个」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5348` `honmono-nisemono`
+  - before: 远野十夜: 「虽然我也不清楚到底哪个才是真正的‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+  - after: 远野十夜: 「虽然我也不清楚到底哪个才是正牌‘日生光’，但比起相信言语，更应该找出无法说谎的东西」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5353` `kotoba-theme`
+  - before: 苍: 「如果话语不可信、无法伪造的话，这样想不是很自然吗？」
+  - after: 苍: 「如果言语不可信、无法伪造的话，这样想不是很自然吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5357` `kotoba-theme`
+  - before: 苍: 「嗯，是啊。首先，如果话语不可信，那么连‘日生光有两个人’这句话本身也不该相信吧」
+  - after: 苍: 「嗯，是啊。首先，如果言语不可信，那么连‘日生光有两个人’这句话本身也不该相信吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5438` `honmono-nisemono`
+  - before: 日生光: 「我想换个叫法，好跟那个冒牌货区分开来啦。纱夜叫纱夜，苍先生叫苍先生，但桐岛君名字是七葵，所以就叫小七。」
+  - after: 日生光: 「我想换个叫法，好跟那个冒牌区分开来啦。纱夜叫纱夜，苍先生叫苍先生，但桐岛君名字是七葵，所以就叫小七。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5462` `honmono-nisemono`
+  - before: 日生光: 「名字明明是用来区分的，可被冒用了名字的我，还能算是‘真货’吗？」
+  - after: 日生光: 「名字明明是用来区分的，可被冒用了名字的我，还能算是‘正牌’吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5517` `honmono-nisemono`
+  - before: 日生光: 「这样我就是真货了。」
+  - after: 日生光: 「这样我就是正牌了。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5776` `honmono-nisemono`
+  - before: 远野纱夜: 「我终于明白了。明白那个能证明谁才是冒牌货、谁才是真货的方法」
+  - after: 远野纱夜: 「我终于明白了。明白那个能证明谁才是冒牌、谁才是正牌的方法」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5779` `honmono-nisemono`
+  - before: 远野纱夜: 「在两个日生光并排的情况下，我会准确判断出哪一个是真货」
+  - after: 远野纱夜: 「在两个日生光并排的情况下，我会准确判断出哪一个是正牌」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5780` `honmono-nisemono`
+  - before: 日生光: 「那有什么确切的依据吗？不会弄错真货和假货吧？」
+  - after: 日生光: 「那有什么确切的依据吗？不会弄错正牌和冒牌吧？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5795` `honmono-nisemono`
+  - before: 千代: 「你是什么时候发现真货和假货的区别的？」
+  - after: 千代: 「你是什么时候发现正牌和冒牌的区别的？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6003` `kotoba-theme`
+  - before: 接着，她冲着我劈头盖脸地骂出了所有能想到的恶毒话语。
+  - after: 接着，她冲着我劈头盖脸地骂出了所有能想到的恶毒言语。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6094` `honmono-nisemono`
+  - before: 桐岛七葵: 「是啊。那家伙，真正的日生光去哪儿了？」
+  - after: 桐岛七葵: 「是啊。那家伙，正牌日生光去哪儿了？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6097` `honmono-nisemono`
+  - before: 苍: 「根据纱夜的话来整理，从一开始，你们面前就没有出现过真正的日生光。」
+  - after: 苍: 「根据纱夜的话来整理，从一开始，你们面前就没有出现过正牌日生光。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6132` `honmono-nisemono`
+  - before: 日生光: 「明明抓着我这个冒牌货，却毫不怀疑地喊着『光先生』呢。」
+  - after: 日生光: 「明明抓着我这个冒牌，却毫不怀疑地喊着『光先生』呢。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6139` `honmono-nisemono`
+  - before: 日生光: 「看到您那副样子，我立刻就明白真货为什么逃跑了。确实，这实在是太压抑了。」
+  - after: 日生光: 「看到您那副样子，我立刻就明白正牌为什么逃跑了。确实，这实在是太压抑了。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6142` `honmono-nisemono`
+  - before: 日生光: 「意识到这一点之后，我就老实照着办了。很轻松哦，完全变成真正的日生光这件事。」
+  - after: 日生光: 「意识到这一点之后，我就老实照着办了。很轻松哦，完全变成正牌日生光这件事。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6181` `honmono-nisemono`
+  - before: 关于他的事，关于一直以来发生的事，关于真正的日生光现在怎么样了的事，还有……
+  - after: 关于他的事，关于一直以来发生的事，关于正牌日生光现在怎么样了的事，还有……
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6191` `honmono-nisemono`
+  - before: 远野纱夜: 「有两个一模一样的人，在本人不在的时候，冒牌货顶替了正主——这种童话故事谁会信呢？」
+  - after: 远野纱夜: 「有两个一模一样的人，在本人不在的时候，冒牌顶替了正牌——这种童话故事谁会信呢？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6224` `honmono-nisemono`
+  - before: 日生光: 「唉——明明以为能顺利成功的。只要没被你发现，我本来能变成真货的」
+  - after: 日生光: 「唉——明明以为能顺利成功的。只要没被你发现，我本来能变成正牌的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6227` `honmono-nisemono`
+  - before: 远野纱夜: 「如果你真想变成真货，你本来能撒出更完美的谎的」
+  - after: 远野纱夜: 「如果你真想变成正牌，你本来能撒出更完美的谎的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6228` `honmono-nisemono`
+  - before: 远野纱夜: 「甚至能在我们得知真货存在之前，就变成真货——难道不是吗？」
+  - after: 远野纱夜: 「甚至能在我们得知正牌存在之前，就变成正牌——难道不是吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6242` `kotoba-theme`
+  - before: 面对我的话语，他只是沉默着。
+  - after: 面对我的言语，他只是沉默着。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6250` `honmono-nisemono`
+  - before: 苍: 「但你并没有那么做。不仅如此，你还特意采取了行动——让我们知道存在真货和假货两个日生光」
+  - after: 苍: 「但你并没有那么做。不仅如此，你还特意采取了行动——让我们知道存在正牌和冒牌两个日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6251` `honmono-nisemono`
+  - before: 苍: 「然后，你让我们去寻找证明假货是假货的证据」
+  - after: 苍: 「然后，你让我们去寻找证明冒牌是冒牌的证据」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6272` `honmono-nisemono`
+  - before: 远野纱夜: 「只是，我所认识的那个『日生光』并不是真货——一直都是『你」
+  - after: 远野纱夜: 「只是，我所认识的那个『日生光』并不是正牌——一直都是『你」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6336` `clock-tower`
+  - before: 远野纱夜: 「这是——时计塔的钥匙……！」
+  - after: 远野纱夜: 「这是——时钟塔的钥匙……！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6337` `clock-tower`
+  - before: 桐岛七葵: 「时计塔？为什么那家伙会有那种东西……事到如今说这些也没用了吧」
+  - after: 桐岛七葵: 「时钟塔？为什么那家伙会有那种东西……事到如今说这些也没用了吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6360` `clock-tower`
+  - before: 苍: 「这还用问吗——时计塔」
+  - after: 苍: 「这还用问吗——时钟塔」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6381` `clock-tower`
+  - before: 远野纱夜: 「没关系。我也想知道时计塔里到底有什么」
+  - after: 远野纱夜: 「没关系。我也想知道时钟塔里到底有什么」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6414` `honmono-nisemono`
+  - before: 日生光: 「唉——明明以为能顺利成功的。只要没被你发现，我本来能变成真货的」
+  - after: 日生光: 「唉——明明以为能顺利成功的。只要没被你发现，我本来能变成正牌的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6417` `honmono-nisemono`
+  - before: 远野纱夜: 「如果你真想变成真货，你本来能撒出更完美的谎的」
+  - after: 远野纱夜: 「如果你真想变成正牌，你本来能撒出更完美的谎的」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6418` `honmono-nisemono`
+  - before: 远野纱夜: 「甚至能在我们得知真货存在之前，就变成真货——难道不是吗？」
+  - after: 远野纱夜: 「甚至能在我们得知正牌存在之前，就变成正牌——难道不是吗？」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6432` `kotoba-theme`
+  - before: 面对我的话语，他只是沉默着。
+  - after: 面对我的言语，他只是沉默着。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6440` `honmono-nisemono`
+  - before: 苍: 「但你并没有那么做。不仅如此，你还特意采取了行动——让我们知道存在真货和假货两个日生光」
+  - after: 苍: 「但你并没有那么做。不仅如此，你还特意采取了行动——让我们知道存在正牌和冒牌两个日生光」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6441` `honmono-nisemono`
+  - before: 苍: 「然后，你让我们去寻找证明假货是假货的证据」
+  - after: 苍: 「然后，你让我们去寻找证明冒牌是冒牌的证据」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6462` `honmono-nisemono`
+  - before: 远野纱夜: 「只是，我所认识的那个『日生光』并不是真货——一直都是『你」
+  - after: 远野纱夜: 「只是，我所认识的那个『日生光』并不是正牌——一直都是『你」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6526` `clock-tower`
+  - before: 远野纱夜: 「这是——时计塔的钥匙……！」
+  - after: 远野纱夜: 「这是——时钟塔的钥匙……！」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6527` `clock-tower`
+  - before: 桐岛七葵: 「时计塔？为什么那家伙会有那种东西……事到如今说这些也没用了吧」
+  - after: 桐岛七葵: 「时钟塔？为什么那家伙会有那种东西……事到如今说这些也没用了吧」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6550` `clock-tower`
+  - before: 苍: 「这还用问吗——时计塔」
+  - after: 苍: 「这还用问吗——时钟塔」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6579` `clock-tower`
+  - before: 来到时计塔前，我用力握了一下手中的钥匙。
+  - after: 来到时钟塔前，我用力握了一下手中的钥匙。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6609` `clock-tower`
+  - before: 到底为什么日生前辈会把时计塔的钥匙交给我呢。
+  - after: 到底为什么日生前辈会把时钟塔的钥匙交给我呢。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6610` `clock-tower`
+  - before: 这个时计塔里究竟有什么东西呢。
+  - after: 这个时钟塔里究竟有什么东西呢。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6661` `honmono-nisemono`
+  - before: 那儿的，不是刚才应该在港口的他……而是真正的日生光。
+  - after: 那儿的，不是刚才应该在港口的他……而是正牌日生光。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6664` `honmono-nisemono`
+  - before: 真正的日生光似乎昏迷着，双眼紧闭。
+  - after: 正牌日生光似乎昏迷着，双眼紧闭。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6704` `honmono-nisemono`
+  - before: 不过，后来真正的日生光告诉了我们。
+  - after: 不过，后来正牌日生光告诉了我们。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6713` `honmono-nisemono`
+  - before: 日生光: 「我明明应该在这里，那眼前的那个家伙是谁？那不是我。那是个长着我模样的冒牌货。」
+  - after: 日生光: 「我明明应该在这里，那眼前的那个家伙是谁？那不是我。那是个长着我模样的冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6714` `honmono-nisemono`
+  - before: 日生光: 「更让我惊讶的是，所有人都对那个冒牌货是『日生光』深信不疑。」
+  - after: 日生光: 「更让我惊讶的是，所有人都对那个冒牌是『日生光』深信不疑。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6716` `honmono-nisemono`
+  - before: 日生光: 「要是外人，倒还说得通。可就连有血缘关系的奶奶，都对面那个假货深信不疑，这一点可真让我吃惊。」
+  - after: 日生光: 「要是外人，倒还说得通。可就连有血缘关系的奶奶，都对面那个冒牌深信不疑，这一点可真让我吃惊。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6721` `honmono-nisemono`
+  - before: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌货，那岂不得憋屈死。」
+  - after: 日生光: 「你说对吧？因为那家伙，可是完美地扮演了大家所期望的‘日生光’啊。要是没人相信我的话，反而认定我是冒牌，那岂不得憋屈死。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6735` `honmono-nisemono`
+  - before: 日生光: 「之后，我继续监视着那个冒牌货。」
+  - after: 日生光: 「之后，我继续监视着那个冒牌。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6738` `honmono-nisemono`
+  - before: 日生光: 「一开始我完全搞不懂他在干什么，可偷听了对话才发现，那家伙好像是在主动跟你们暴露冒牌货的存在。」
+  - after: 日生光: 「一开始我完全搞不懂他在干什么，可偷听了对话才发现，那家伙好像是在主动跟你们暴露冒牌的存在。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6741` `clock-tower`
+  - before: 日生光: 「大概就在那之后不久吧。哐当一下被敲晕，后面的事你也猜到了，等我回过神来，就已经被扔进那座时计塔里了。」
+  - after: 日生光: 「大概就在那之后不久吧。哐当一下被敲晕，后面的事你也猜到了，等我回过神来，就已经被扔进那座时钟塔里了。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6819` `honmono-nisemono`
+  - before: 就连我这个没接触过本尊的人都能看出来。
+  - after: 就连我这个没接触过正牌的人都能看出来。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6820` `honmono-nisemono`
+  - before: 这，就是正主。
+  - after: 这，就是正牌。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6836` `honmono-nisemono`
+  - before: 我想，一定没有人能察觉到他是冒牌货吧。那个少女也是。
+  - after: 我想，一定没有人能察觉到他是冒牌吧。那个少女也是。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6840` `honmono-nisemono`
+  - before: 「终于，真正的日生光出现了」
+  - after: 「终于，正牌日生光出现了」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:6842` `honmono-nisemono`
+  - before: 他似乎在我传达消息之前，就已经察觉到了真货的存在。
+  - after: 他似乎在我传达消息之前，就已经察觉到了正牌的存在。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:38` `librarian`
+  - before: 司书: 「好～了。那边，吵～到别人了哦～。不能安静的话就出去！」
+  - after: 图书管理员: 「好～了。那边，吵～到别人了哦～。不能安静的话就出去！」
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:80` `honmono-nisemono`
+  - before: 因为，我所认识的，是那个『冒牌货』。
+  - after: 因为，我所认识的，是那个『冒牌』。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:77` `honmono-nisemono`
+  - before: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:86` `honmono-nisemono`
+  - before: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是真货长得多吧」
+  - after: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是正牌长得多吧」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:279` `kotoba-theme`
+  - before: 我为刚才自己还多少介意桐岛前辈的话语而感到一阵难为情。
+  - after: 我为刚才自己还多少介意桐岛前辈的言语而感到一阵难为情。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:316` `chiyo-flower-terms`
+  - before: 千代: 「我，非常喜欢樱花花」
+  - after: 千代: 「我，非常喜欢樱花」
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:374` `kotoba-theme`
+  - before: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着话语」
+  - after: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着言语」
+- `bookish_zhcn/reading_order/12_kirishima.md:859` `kotoba-theme`
+  - before: 可现在他的话语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+  - after: 可现在他的言语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+- `bookish_zhcn/reading_order/12_kirishima.md:888` `kotoba-theme`
+  - before: 这到底算不算答案，我也不太明白的话语。
+  - after: 这到底算不算答案，我也不太明白的言语。
+- `bookish_zhcn/reading_order/12_kirishima.md:1989` `kotoba-theme`
+  - before: 啊，话语只在脑海中描绘，毫无意义。
+  - after: 啊，言语只在脑海中描绘，毫无意义。
+- `bookish_zhcn/reading_order/12_kirishima.md:2071` `kotoba-theme`
+  - before: 两人牛头不对马嘴的话语。
+  - after: 两人牛头不对马嘴的言语。
+- `bookish_zhcn/reading_order/12_kirishima.md:2105` `kotoba-theme`
+  - before: 他完全没注意到千代拼命的话语，一边四下张望寻找他的身影一边说道。
+  - after: 他完全没注意到千代拼命的言语，一边四下张望寻找他的身影一边说道。
+- `bookish_zhcn/reading_order/12_kirishima.md:2758` `clock-tower`
+  - before: 时计塔。
+  - after: 时钟塔。
+- `bookish_zhcn/reading_order/12_kirishima.md:2942` `clock-tower`
+  - before: 千代: 「这座时计塔，还是一动不动地停着呢」
+  - after: 千代: 「这座时钟塔，还是一动不动地停着呢」
+- `bookish_zhcn/reading_order/12_kirishima.md:2950` `clock-tower`
+  - before: 我再次仰望时计塔。
+  - after: 我再次仰望时钟塔。
+- `bookish_zhcn/reading_order/12_kirishima.md:3225` `kotoba-theme`
+  - before: 远野纱夜: 「海的景色实在太美了，不由得吐出了诗人般的话语」
+  - after: 远野纱夜: 「海的景色实在太美了，不由得吐出了诗人般的言语」
+- `bookish_zhcn/reading_order/12_kirishima.md:3250` `kotoba-theme`
+  - before: 但涌上的话语如同露珠般消散了。
+  - after: 但涌上的言语如同露珠般消散了。
+- `bookish_zhcn/reading_order/12_kirishima.md:3383` `kotoba-theme`
+  - before: 愤怒、悲伤，各种感情混杂在一起，脑海中各种话语纷飞。
+  - after: 愤怒、悲伤，各种感情混杂在一起，脑海中各种言语纷飞。
+- `bookish_zhcn/reading_order/12_kirishima.md:3553` `chiyo-flower-terms`
+  - before: 如樱花般飘舞的秋樱花瓣，此刻也已完全停止飘落。
+  - after: 如樱花般飘舞的秋樱瓣，此刻也已完全停止飘落。
+- `bookish_zhcn/reading_order/12_kirishima.md:3686` `kotoba-theme`
+  - before: 把自己能想到的所有话语，都传达给眼前的他。
+  - after: 把自己能想到的所有言语，都传达给眼前的他。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:77` `honmono-nisemono`
+  - before: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:86` `honmono-nisemono`
+  - before: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是真货长得多吧」
+  - after: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是正牌长得多吧」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:279` `kotoba-theme`
+  - before: 我为刚才自己还多少介意桐岛前辈的话语而感到一阵难为情。
+  - after: 我为刚才自己还多少介意桐岛前辈的言语而感到一阵难为情。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:316` `chiyo-flower-terms`
+  - before: 千代: 「我，非常喜欢樱花花」
+  - after: 千代: 「我，非常喜欢樱花」
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:366` `kotoba-theme`
+  - before: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着话语」
+  - after: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着言语」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:879` `kotoba-theme`
+  - before: 可现在他的话语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+  - after: 可现在他的言语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:908` `kotoba-theme`
+  - before: 这到底算不算答案，我也不太明白的话语。
+  - after: 这到底算不算答案，我也不太明白的言语。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2008` `kotoba-theme`
+  - before: 啊，话语只在脑海中描绘，毫无意义。
+  - after: 啊，言语只在脑海中描绘，毫无意义。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2090` `kotoba-theme`
+  - before: 两人牛头不对马嘴的话语。
+  - after: 两人牛头不对马嘴的言语。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2127` `kotoba-theme`
+  - before: 他完全没注意到千代拼命的话语，一边四下张望寻找他的身影一边说道。
+  - after: 他完全没注意到千代拼命的言语，一边四下张望寻找他的身影一边说道。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2800` `clock-tower`
+  - before: 时计塔。
+  - after: 时钟塔。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2984` `clock-tower`
+  - before: 千代: 「这座时计塔，还是一动不动地停着呢」
+  - after: 千代: 「这座时钟塔，还是一动不动地停着呢」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:2992` `clock-tower`
+  - before: 我再次仰望时计塔。
+  - after: 我再次仰望时钟塔。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3263` `kotoba-theme`
+  - before: 远野纱夜: 「海的景色实在太美了，不由得吐出了诗人般的话语」
+  - after: 远野纱夜: 「海的景色实在太美了，不由得吐出了诗人般的言语」
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3288` `kotoba-theme`
+  - before: 但涌上的话语如同露珠般消散了。
+  - after: 但涌上的言语如同露珠般消散了。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3421` `kotoba-theme`
+  - before: 愤怒、悲伤，各种感情混杂在一起，脑海中各种话语纷飞。
+  - after: 愤怒、悲伤，各种感情混杂在一起，脑海中各种言语纷飞。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3591` `chiyo-flower-terms`
+  - before: 如樱花般飘舞的秋樱花瓣，此刻也已完全停止飘落。
+  - after: 如樱花般飘舞的秋樱瓣，此刻也已完全停止飘落。
+- `bookish_zhcn/reading_order/14_chiyo_kirishima_branch.md:3724` `kotoba-theme`
+  - before: 把自己能想到的所有话语，都传达给眼前的他。
+  - after: 把自己能想到的所有言语，都传达给眼前的他。
+- `bookish_zhcn/reading_order/15_chiyo.md:265` `kotoba-theme`
+  - before: 远野纱夜: 「我来帮你们传递话语！！这样还不行吗！？」
+  - after: 远野纱夜: 「我来帮你们传递言语！！这样还不行吗！？」
+- `bookish_zhcn/reading_order/15_chiyo.md:278` `kotoba-theme`
+  - before: 我的脸上早已被泪水弄得一塌糊涂，话语也断断续续，拼命地想挽留住他。
+  - after: 我的脸上早已被泪水弄得一塌糊涂，言语也断断续续，拼命地想挽留住他。
+- `bookish_zhcn/reading_order/15_chiyo.md:349` `chiyo-flower-terms`
+  - before: 千代说着，穿过秋樱花丛，向蹲在地上的我伸出了手。
+  - after: 千代说着，穿过秋樱丛，向蹲在地上的我伸出了手。
+- `bookish_zhcn/reading_order/15_chiyo.md:413` `chiyo-flower-terms`
+  - before: 在梦里，不知为何我变成了秋樱花的模样。
+  - after: 在梦里，不知为何我变成了秋樱的模样。
+- `bookish_zhcn/reading_order/15_chiyo.md:428` `chiyo-flower-terms`
+  - before: 醒来后，我变成了不是秋樱花的、普通人的模样。
+  - after: 醒来后，我变成了不是秋樱的、普通人的模样。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:88` `honmono-nisemono`
+  - before: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌货」
+  - after: 远野纱夜: 「……我并不是讨厌光前辈。只是，至今仍然不敢相信我所认识的他是冒牌」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:97` `honmono-nisemono`
+  - before: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是真货长得多吧」
+  - after: 桐岛七葵: 「毕竟，是血缘相通的家人啊。相处的时间，也是正牌长得多吧」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:292` `kotoba-theme`
+  - before: 我为刚才自己还多少介意桐岛前辈的话语而感到一阵难为情。
+  - after: 我为刚才自己还多少介意桐岛前辈的言语而感到一阵难为情。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:329` `chiyo-flower-terms`
+  - before: 千代: 「我，非常喜欢樱花花」
+  - after: 千代: 「我，非常喜欢樱花」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:381` `kotoba-theme`
+  - before: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着话语」
+  - after: 远野十夜: 「死神与少女两人正在旅行中。现在正辗转于各个国家，寻找着言语」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:801` `clock-tower`
+  - before: 同时，我意识到不知不觉已经走到了钟塔前。
+  - after: 同时，我意识到不知不觉已经走到了时钟塔前。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2054` `kotoba-theme`
+  - before: 找不到适合那句寂寞话语的回应，我有点憎恨自己，最后只能含糊地附和了一句。
+  - after: 找不到适合那句寂寞言语的回应，我有点憎恨自己，最后只能含糊地附和了一句。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2107` `kotoba-theme`
+  - before: 可现在他的话语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+  - after: 可现在他的言语却吵闹地涌入我毫无知觉的头部、耳朵、指尖、双脚，直至全身。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2137` `kotoba-theme`
+  - before: 这到底算不算答案，我也不太明白的话语。
+  - after: 这到底算不算答案，我也不太明白的言语。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2681` `kotoba-theme`
+  - before: 明明确实传到了耳中，但话语却进不了脑子里。
+  - after: 明明确实传到了耳中，但言语却进不了脑子里。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2731` `librarian`
+  - before: 司书: 「像像♪」
+  - after: 图书管理员: 「像像♪」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2735` `librarian`
+  - before: 司书: 「哎呀，不知道吗？恩爱的爱就是『LOVE』。爱！爱！」
+  - after: 图书管理员: 「哎呀，不知道吗？恩爱的爱就是『LOVE』。爱！爱！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2743` `librarian`
+  - before: 司书: 「就是这样！」
+  - after: 图书管理员: 「就是这样！」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2747` `librarian`
+  - before: 司书: 「啊哈哈。语言这种东西，会随着时代微妙地变化，也会不断产生新的词汇。我有时候也跟不上年轻人说的话呢」
+  - after: 图书管理员: 「啊哈哈。语言这种东西，会随着时代微妙地变化，也会不断产生新的词汇。我有时候也跟不上年轻人说的话呢」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2760` `librarian`
+  - before: 司书: 「苍君，人各有擅长和不擅长的事，但流行语不太适合她哦」
+  - after: 图书管理员: 「苍君，人各有擅长和不擅长的事，但流行语不太适合她哦」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2766` `librarian`
+  - before: 司书: 「喂！你该不会打算问遍这里的每一个人吧！？」
+  - after: 图书管理员: 「喂！你该不会打算问遍这里的每一个人吧！？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2778` `librarian`
+  - before: 司书: 「那里还有别人在吗？」
+  - after: 图书管理员: 「那里还有别人在吗？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2780` `librarian`
+  - before: 司书: 「总觉得你像是在跟苍君以外的什么人说话呢」
+  - after: 图书管理员: 「总觉得你像是在跟苍君以外的什么人说话呢」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2788` `kotoba-theme`
+  - before: 那是一句否定的话语。
+  - after: 那是一句否定的言语。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2826` `kotoba-theme`
+  - before: 这立刻回复的话语中，我感到了一种强烈的意志。
+  - after: 这立刻回复的言语中，我感到了一种强烈的意志。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2983` `kotoba-theme`
+  - before: 我未能将涌到喉咙口的话语说出口。
+  - after: 我未能将涌到喉咙口的言语说出口。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3016` `kotoba-theme`
+  - before: 苍: 「你在想什么，怀念什么，会说出怎样的话语」
+  - after: 苍: 「你在想什么，怀念什么，会说出怎样的言语」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3273` `chiyo-flower-terms`
+  - before: 远野纱夜: 「嗯。是大波斯菊的梦……不过细节我忘了。」
+  - after: 远野纱夜: 「嗯。是波斯菊的梦……不过细节我忘了。」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3437` `librarian`
+  - before: 司书: 「怎么了？吵架了？」
+  - after: 图书管理员: 「怎么了？吵架了？」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3444` `librarian`
+  - before: 司书: 「是吗？……那就好。嘛，这里是图书馆，请注意不要打扰到大家。好，大家散了散了」
+  - after: 图书管理员: 「是吗？……那就好。嘛，这里是图书馆，请注意不要打扰到大家。好，大家散了散了」
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3470` `kotoba-theme`
+  - before: 这些都是否定的话语。
+  - after: 这些都是否定的言语。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3685` `kotoba-theme`
+  - before: 惊讶的表情，惊讶的话语。
+  - after: 惊讶的表情，惊讶的言语。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3794` `kotoba-theme`
+  - before: 我不知该如何回答，最终从喉咙里挤出的，是鹦鹉学舌般的话语。
+  - after: 我不知该如何回答，最终从喉咙里挤出的，是鹦鹉学舌般的言语。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3813` `kotoba-theme`
+  - before: 代替泪水涌出的话语。
+  - after: 代替泪水涌出的言语。
+- `bookish_zhcn/reading_order/18_kuro.md:143` `clock-tower`
+  - before: 在时计塔前，与夏帆告别。
+  - after: 在时钟塔前，与夏帆告别。
+- `bookish_zhcn/reading_order/18_kuro.md:158` `clock-tower`
+  - before: 我抬头仰望时计塔。
+  - after: 我抬头仰望时钟塔。
+- `bookish_zhcn/reading_order/18_kuro.md:182` `clock-tower`
+  - before: 苍: 「第一次见到你，也是在这座时计塔前面呢。」
+  - after: 苍: 「第一次见到你，也是在这座时钟塔前面呢。」
+- `bookish_zhcn/reading_order/18_kuro.md:387` `kotoba-theme`
+  - before: 我的话语充满了矛盾。
+  - after: 我的言语充满了矛盾。
+- `bookish_zhcn/reading_order/18_kuro.md:424` `clock-tower`
+  - before: 正因如此，一直以来我才会仰望这座时计塔。
+  - after: 正因如此，一直以来我才会仰望这座时钟塔。
+- `bookish_zhcn/reading_order/18_kuro.md:429` `clock-tower`
+  - before: 我沉默着，卧待先生仰望时计塔说道。
+  - after: 我沉默着，卧待先生仰望时钟塔说道。
+- `bookish_zhcn/reading_order/18_kuro.md:471` `clock-tower`
+  - before: 我喃喃自语，再次仰望钟塔。
+  - after: 我喃喃自语，再次仰望时钟塔。
+- `bookish_zhcn/reading_order/18_kuro.md:520` `kotoba-theme`
+  - before: 远野十夜: 「纱夜的话语、一举一动，全部铭记在我的这双眼睛、这对耳朵里。」
+  - after: 远野十夜: 「纱夜的言语、一举一动，全部铭记在我的这双眼睛、这对耳朵里。」
+- `bookish_zhcn/reading_order/18_kuro.md:612` `clock-tower`
+  - before: 在钟塔前，夏帆已经在等我了。
+  - after: 在时钟塔前，夏帆已经在等我了。
+- `bookish_zhcn/reading_order/18_kuro.md:794` `kotoba-theme`
+  - before: 远野纱夜: 「读书的时候，话语会进入我的心里，然后世界就变广阔了」
+  - after: 远野纱夜: 「读书的时候，言语会进入我的心里，然后世界就变广阔了」
+- `bookish_zhcn/reading_order/18_kuro.md:849` `kotoba-theme`
+  - before: 远野十夜: 「每当你用声音编织出话语，我的世界就变得广阔起来」
+  - after: 远野十夜: 「每当你用声音编织出言语，我的世界就变得广阔起来」
+- `bookish_zhcn/reading_order/18_kuro.md:1732` `kotoba-theme`
+  - before: 两人宿命般地相遇，踏上了寻找世界上最美妙语言的旅程。
+  - after: 两人宿命般地相遇，踏上了寻找世界上最美妙言语的旅程。
+- `bookish_zhcn/reading_order/18_kuro.md:1913` `kotoba-theme`
+  - before: 现在，我似乎能理解您话语的含义了。
+  - after: 现在，我似乎能理解您言语的含义了。
+- `bookish_zhcn/reading_order/18_kuro.md:1935` `kotoba-theme`
+  - before: 我们在旅行。从西向东，寻找着世界上最美的语言。
+  - after: 我们在旅行。从西向东，寻找着世界上最美的言语。
+- `bookish_zhcn/reading_order/18_kuro.md:1940` `kotoba-theme`
+  - before: 我对他说我在寻找世界上最美的语言，他问世上真有那种东西吗。
+  - after: 我对他说我在寻找世界上最美的言语，他问世上真有那种东西吗。
+- `bookish_zhcn/reading_order/18_kuro.md:1974` `clock-tower`
+  - before: 这里是时计塔的内部。
+  - after: 这里是时钟塔的内部。
+- `bookish_zhcn/reading_order/18_kuro.md:2057` `clock-tower`
+  - before: 樱花开放的季节还太早，而且首先这里是时计塔的顶上。
+  - after: 樱花开放的季节还太早，而且首先这里是时钟塔的顶上。
+- `bookish_zhcn/reading_order/18_kuro.md:2062` `chiyo-flower-terms`
+  - before: 我试着抓住一片樱花花瓣，淡红色的花瓣却穿透了我的手。
+  - after: 我试着抓住一片樱花瓣，淡红色的花瓣却穿透了我的手。
+- `bookish_zhcn/reading_order/18_kuro.md:2068` `chiyo-flower-terms`
+  - before: 远野十夜: 「嗯。看得到。美丽的樱花花瓣」
+  - after: 远野十夜: 「嗯。看得到。美丽的樱花瓣」
+- `bookish_zhcn/reading_order/18_kuro.md:2090` `clock-tower`
+  - before: 从时计塔表盘透进的微弱的蓝色光芒。
+  - after: 从时钟塔表盘透进的微弱的蓝色光芒。
+- `bookish_zhcn/reading_order/18_kuro.md:2485` `clock-tower`
+  - before: 那里是时计塔的前面。
+  - after: 那里是时钟塔的前面。
+- `bookish_zhcn/reading_order/18_kuro.md:2541` `kotoba-theme`
+  - before: 被饱含热意的话语和视线所俘获，我陷入了梦境。
+  - after: 被饱含热意的言语和视线所俘获，我陷入了梦境。
+- `bookish_zhcn/reading_order/18_kuro.md:2681` `fantasy-monogatari`
+  - before: 这是一个美丽的幻想故事。
+  - after: 这是一个美丽的幻想物语。
+- `bookish_zhcn/reading_order/18_kuro.md:2718` `kotoba-theme`
+  - before: 少女一遍又一遍地呢喃着故事中的话语。
+  - after: 少女一遍又一遍地呢喃着故事中的言语。
+- `bookish_zhcn/reading_order/18_kuro.md:2869` `kotoba-theme`
+  - before: 远野纱夜: 「我的时间停止了，而我活了下来。活着，和你一起继续寻找世界上最美的语言」
+  - after: 远野纱夜: 「我的时间停止了，而我活了下来。活着，和你一起继续寻找世界上最美的言语」
+- `bookish_zhcn/reading_order/18_kuro.md:2931` `kotoba-theme`
+  - before: 远野十夜: 「她说她在寻找美丽的语言。她说她不知道这个世界最美的语言是什么。」
+  - after: 远野十夜: 「她说她在寻找美丽的言语。她说她不知道这个世界最美的言语是什么。」
+- `bookish_zhcn/reading_order/18_kuro.md:2933` `kotoba-theme`
+  - before: 远野十夜: 「对。我停止了少女的时间，和她约定一起寻找美丽的语言。」
+  - after: 远野十夜: 「对。我停止了少女的时间，和她约定一起寻找美丽的言语。」
+- `bookish_zhcn/reading_order/18_kuro.md:2935` `kotoba-theme`
+  - before: 远野十夜: 「只是待在她身边，等待她找到美丽的语言。」
+  - after: 远野十夜: 「只是待在她身边，等待她找到美丽的言语。」
+- `bookish_zhcn/reading_order/18_kuro.md:2979` `kotoba-theme`
+  - before: 远野纱夜: 「你实现了我的愿望——寻找最美的语言。」
+  - after: 远野纱夜: 「你实现了我的愿望——寻找最美的言语。」
+- `bookish_zhcn/reading_order/18_kuro.md:2997` `kotoba-theme`
+  - before: 远野纱夜: 「因为，我已经知道这个世上最美的语言是什么了。」
+  - after: 远野纱夜: 「因为，我已经知道这个世上最美的言语是什么了。」
+- `bookish_zhcn/reading_order/18_kuro.md:2998` `kotoba-theme`
+  - before: 远野十夜: 「最美的语言……？」
+  - after: 远野十夜: 「最美的言语……？」
+- `bookish_zhcn/reading_order/18_kuro.md:3015` `kotoba-theme`
+  - before: 远野纱夜: 「那……是你映照出我内心的话语吗？」
+  - after: 远野纱夜: 「那……是你映照出我内心的言语吗？」
+- `bookish_zhcn/reading_order/18_kuro.md:3020` `kotoba-theme`
+  - before: 唯一、绝对、永恒的东西。被全世界认可，且能够共享的最美的语言。
+  - after: 唯一、绝对、永恒的东西。被全世界认可，且能够共享的最美的言语。
+- `bookish_zhcn/reading_order/18_kuro.md:3024` `kotoba-theme`
+  - before: 呐，你知道我找到的这个世上最美的语言是什么吗？
+  - after: 呐，你知道我找到的这个世上最美的言语是什么吗？
+- `bookish_zhcn/reading_order/18_kuro.md:3036` `clock-tower`
+  - before: 从那本应停止的时计塔传来。
+  - after: 从那本应停止的时钟塔传来。
+- `bookish_zhcn/reading_order/18_kuro.md:3104` `kotoba-theme`
+  - before: 他脸上表情与看似满足的话语截然相反，让我疑惑。
+  - after: 他脸上表情与看似满足的言语截然相反，让我疑惑。
+- `bookish_zhcn/reading_order/18_kuro.md:3168` `kotoba-theme`
+  - before: 十夜: 「我终于明白了你说的美丽话语」
+  - after: 十夜: 「我终于明白了你说的美丽言语」
+- `bookish_zhcn/reading_order/18_kuro.md:3179` `kotoba-theme`
+  - before: 旅行最初的目的——世界上最美的话语，正是用来表达这种重要存在的形态和本质的。
+  - after: 旅行最初的目的——世界上最美的言语，正是用来表达这种重要存在的形态和本质的。
+- `bookish_zhcn/reading_order/19_ao.md:410` `kotoba-theme`
+  - before: 出乎意料的话语。感觉这是第一次从哥哥嘴里听到这样的话。
+  - after: 出乎意料的言语。感觉这是第一次从哥哥嘴里听到这样的话。
+- `bookish_zhcn/reading_order/19_ao.md:449` `kotoba-theme`
+  - before: 从西向东，寻找着世界上最美的话语。
+  - after: 从西向东，寻找着世界上最美的言语。
+- `bookish_zhcn/reading_order/19_ao.md:455` `kotoba-theme`
+  - before: 她告诉我她在寻找世界上最美的话语，
+  - after: 她告诉我她在寻找世界上最美的言语，
+- `bookish_zhcn/reading_order/19_ao.md:733` `kotoba-theme`
+  - before: 我无法忍受沉默，又继续寻找话语。
+  - after: 我无法忍受沉默，又继续寻找言语。
+- `bookish_zhcn/reading_order/19_ao.md:815` `chiyo-flower-terms`
+  - before: 然而，那里却没有最关键的秋樱花。
+  - after: 然而，那里却没有最关键的秋樱。
+- `bookish_zhcn/reading_order/19_ao.md:1163` `clock-tower`
+  - before: 苍: 「是指，像那座时计塔一样吗？」
+  - after: 苍: 「是指，像那座时钟塔一样吗？」
+- `bookish_zhcn/reading_order/19_ao.md:1174` `clock-tower`
+  - before: 当初第一次看见那座时计塔时，我就想过，为什么时间是停止的呢。
+  - after: 当初第一次看见那座时钟塔时，我就想过，为什么时间是停止的呢。
+- `bookish_zhcn/reading_order/19_ao.md:1178` `clock-tower`
+  - before: 确实，纱夜很在意时计塔的时间停止了这件事。
+  - after: 确实，纱夜很在意时钟塔的时间停止了这件事。
+- `bookish_zhcn/reading_order/19_ao.md:1205` `clock-tower`
+  - before: 难道说，它也停了吗？像那座时计塔一样。
+  - after: 难道说，它也停了吗？像那座时钟塔一样。
+- `bookish_zhcn/reading_order/19_ao.md:1207` `clock-tower`
+  - before: 时计塔，我和他第一次相遇的地方。
+  - after: 时钟塔，我和他第一次相遇的地方。
+- `bookish_zhcn/reading_order/19_ao.md:1246` `clock-tower`
+  - before: 不久，走到那座时计塔时，我发现了他。
+  - after: 不久，走到那座时钟塔时，我发现了他。
+- `bookish_zhcn/reading_order/19_ao.md:1248` `clock-tower`
+  - before: 他正仰望着时计塔。
+  - after: 他正仰望着时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:1262` `clock-tower`
+  - before: 我抬头仰望时计塔。
+  - after: 我抬头仰望时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:1263` `clock-tower`
+  - before: 远野纱夜: 「这座时计塔，还是停着的呢」
+  - after: 远野纱夜: 「这座时钟塔，还是停着的呢」
+- `bookish_zhcn/reading_order/19_ao.md:1410` `clock-tower`
+  - before: 回家路上，经过时计塔前时，果然没有看到他的身影。
+  - after: 回家路上，经过时钟塔前时，果然没有看到他的身影。
+- `bookish_zhcn/reading_order/19_ao.md:1454` `kotoba-theme`
+  - before: 两人宿命般地相遇，踏上了寻找世界上最美妙语言的旅程。
+  - after: 两人宿命般地相遇，踏上了寻找世界上最美妙言语的旅程。
+- `bookish_zhcn/reading_order/19_ao.md:1774` `clock-tower`
+  - before: 她没来这儿，也没去钟塔。
+  - after: 她没来这儿，也没去时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:1776` `librarian`
+  - before: 司书: 「哎呀，苍君。晚上好」
+  - after: 图书管理员: 「哎呀，苍君。晚上好」
+- `bookish_zhcn/reading_order/19_ao.md:1778` `librarian`
+  - before: 司书: 「远野同学？远野同学的话，最近没看到身影呢～」
+  - after: 图书管理员: 「远野同学？远野同学的话，最近没看到身影呢～」
+- `bookish_zhcn/reading_order/19_ao.md:1780` `librarian`
+  - before: 司书: 「谁知道呢。不归我管辖，不清楚呢。她怎么了？」
+  - after: 图书管理员: 「谁知道呢。不归我管辖，不清楚呢。她怎么了？」
+- `bookish_zhcn/reading_order/19_ao.md:1802` `clock-tower`
+  - before: 我不想靠钟塔太近。
+  - after: 我不想靠时钟塔太近。
+- `bookish_zhcn/reading_order/19_ao.md:1834` `kotoba-theme`
+  - before: 话语如连珠炮般涌出。
+  - after: 言语如连珠炮般涌出。
+- `bookish_zhcn/reading_order/19_ao.md:2127` `librarian`
+  - before: 司书: 「啊，远野同学」
+  - after: 图书管理员: 「啊，远野同学」
+- `bookish_zhcn/reading_order/19_ao.md:2131` `librarian`
+  - before: 司书: 「最近，没来图书馆呢，怎么了？」
+  - after: 图书管理员: 「最近，没来图书馆呢，怎么了？」
+- `bookish_zhcn/reading_order/19_ao.md:2134` `librarian`
+  - before: 司书: 「哎呀，是吗？那，并不是讨厌书了呢」
+  - after: 图书管理员: 「哎呀，是吗？那，并不是讨厌书了呢」
+- `bookish_zhcn/reading_order/19_ao.md:2136` `librarian`
+  - before: 司书: 「呵呵。太好了。还以为要失去珍贵的文学少女了」
+  - after: 图书管理员: 「呵呵。太好了。还以为要失去珍贵的文学少女了」
+- `bookish_zhcn/reading_order/19_ao.md:2139` `librarian`
+  - before: 司书: 「啊！说起来，他在找你哦」
+  - after: 图书管理员: 「啊！说起来，他在找你哦」
+- `bookish_zhcn/reading_order/19_ao.md:2141` `librarian`
+  - before: 司书: 「苍君」
+  - after: 图书管理员: 「苍君」
+- `bookish_zhcn/reading_order/19_ao.md:2144` `librarian`
+  - before: 司书: 「嗯，不久前来图书馆问『纱夜在不在」
+  - after: 图书管理员: 「嗯，不久前来图书馆问『纱夜在不在」
+- `bookish_zhcn/reading_order/19_ao.md:2147` `librarian`
+  - before: 司书: 「那么，随时想来的话就来吧。等着你哦」
+  - after: 图书管理员: 「那么，随时想来的话就来吧。等着你哦」
+- `bookish_zhcn/reading_order/19_ao.md:2217` `clock-tower`
+  - before: 就像那座时计塔一样，永远不变，是停滞的时间。
+  - after: 就像那座时钟塔一样，永远不变，是停滞的时间。
+- `bookish_zhcn/reading_order/19_ao.md:2321` `clock-tower`
+  - before: 苍: 「以前见过同样的东西。是日生藏在时计塔里的」
+  - after: 苍: 「以前见过同样的东西。是日生藏在时钟塔里的」
+- `bookish_zhcn/reading_order/19_ao.md:2592` `clock-tower`
+  - before: 远野纱夜: 「那个，如果可以的话，请避开时计塔和卧待堂附近……」
+  - after: 远野纱夜: 「那个，如果可以的话，请避开时钟塔和卧待堂附近……」
+- `bookish_zhcn/reading_order/19_ao.md:2656` `clock-tower`
+  - before: 苍: 「我在找你。学校、图书馆、时计塔、你家门口都去了，但怎么都找不到你」
+  - after: 苍: 「我在找你。学校、图书馆、时钟塔、你家门口都去了，但怎么都找不到你」
+- `bookish_zhcn/reading_order/19_ao.md:2835` `fantasy-monogatari`
+  - before: 远野十夜: 「将这个美丽的幻想故事继续读下去的职责。」
+  - after: 远野十夜: 「将这个美丽的幻想物语继续读下去的职责。」
+- `bookish_zhcn/reading_order/19_ao.md:3104` `clock-tower`
+  - before: 那天，在时计塔前看到她的时候，
+  - after: 那天，在时钟塔前看到她的时候，
+- `bookish_zhcn/reading_order/19_ao.md:3164` `kotoba-theme`
+  - before: 远野纱夜: 「我想知道。那些美丽的语言」
+  - after: 远野纱夜: 「我想知道。那些美丽的言语」
+- `bookish_zhcn/reading_order/19_ao.md:3253` `kotoba-theme`
+  - before: 话语在脑海中浮现又消失。
+  - after: 言语在脑海中浮现又消失。
+- `bookish_zhcn/reading_order/19_ao.md:3254` `kotoba-theme`
+  - before: 但这也只是最初那会儿，渐渐地连话语都想不起来了。
+  - after: 但这也只是最初那会儿，渐渐地连言语都想不起来了。
+- `bookish_zhcn/reading_order/19_ao.md:3389` `clock-tower`
+  - before: 我一边想着这些事一边前行，不知不觉便走到了能看见钟塔的位置。
+  - after: 我一边想着这些事一边前行，不知不觉便走到了能看见时钟塔的位置。
+- `bookish_zhcn/reading_order/19_ao.md:3401` `clock-tower`
+  - before: 她正仰望着钟塔。
+  - after: 她正仰望着时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:3416` `kotoba-theme`
+  - before: 我的脑海中浮现出魔法师的话语。
+  - after: 我的脑海中浮现出魔法师的言语。
+- `bookish_zhcn/reading_order/19_ao.md:3682` `kotoba-theme`
+  - before: 远野十夜: 「不过，这只是到找到答案为止。如果你找到了世界上最美的语言，旅途就结束了。」
+  - after: 远野十夜: 「不过，这只是到找到答案为止。如果你找到了世界上最美的言语，旅途就结束了。」
+- `bookish_zhcn/reading_order/19_ao.md:3802` `clock-tower`
+  - before: 我正眺望着时计塔，旁边有人跟我搭话。
+  - after: 我正眺望着时钟塔，旁边有人跟我搭话。
+- `bookish_zhcn/reading_order/19_ao.md:3813` `clock-tower`
+  - before: 卧待春夫: 「是吗。那就好。因为你一直待在时计塔，我还以为你在打发时间呢」
+  - after: 卧待春夫: 「是吗。那就好。因为你一直待在时钟塔，我还以为你在打发时间呢」
+- `bookish_zhcn/reading_order/19_ao.md:3818` `clock-tower`
+  - before: 卧待春夫: 「有好好吃饭吗？时计塔应该很冷吧，有取暖吗？」
+  - after: 卧待春夫: 「有好好吃饭吗？时钟塔应该很冷吧，有取暖吗？」
+- `bookish_zhcn/reading_order/19_ao.md:3820` `clock-tower`
+  - before: 第一次潜入时计塔时没有注意到。
+  - after: 第一次潜入时钟塔时没有注意到。
+- `bookish_zhcn/reading_order/19_ao.md:3821` `clock-tower`
+  - before: 准备这个的人毫无疑问是把时计塔钥匙交给远野纱夜的人。
+  - after: 准备这个的人毫无疑问是把时钟塔钥匙交给远野纱夜的人。
+- `bookish_zhcn/reading_order/19_ao.md:3827` `clock-tower`
+  - before: 我默默看着肩膀抖动的春夫，他渐渐止住了笑，仰望着时计塔。
+  - after: 我默默看着肩膀抖动的春夫，他渐渐止住了笑，仰望着时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:3871` `clock-tower`
+  - before: 春夫离开后，我依然眺望着时计塔。
+  - after: 春夫离开后，我依然眺望着时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:4128` `kotoba-theme`
+  - before: 我缓缓张开颤抖的嘴唇，编织着话语。
+  - after: 我缓缓张开颤抖的嘴唇，编织着言语。
+- `bookish_zhcn/reading_order/19_ao.md:4143` `kotoba-theme`
+  - before: 我一边抽泣，一边继续吐出话语。
+  - after: 我一边抽泣，一边继续吐出言语。
+- `bookish_zhcn/reading_order/19_ao.md:4222` `clock-tower`
+  - before: 我走向了他应该在的时计塔前。
+  - after: 我走向了他应该在的时钟塔前。
+- `bookish_zhcn/reading_order/19_ao.md:4226` `clock-tower`
+  - before: 他身着白衣，仰望着时计塔。
+  - after: 他身着白衣，仰望着时钟塔。
+- `bookish_zhcn/reading_order/19_ao.md:4266` `clock-tower`
+  - before: 从这里什么都看不到。天空也好，时计塔也好。
+  - after: 从这里什么都看不到。天空也好，时钟塔也好。
+- `bookish_zhcn/reading_order/19_ao.md:4487` `kotoba-theme`
+  - before: 对于这忏悔般的话语，我这样回应道。
+  - after: 对于这忏悔般的言语，我这样回应道。
+- `bookish_zhcn/reading_order/19_ao.md:4495` `kotoba-theme`
+  - before: 那么，他所寻求的话语大概也是一样的吧。
+  - after: 那么，他所寻求的言语大概也是一样的吧。
+- `bookish_zhcn/reading_order/19_ao.md:4505` `kotoba-theme`
+  - before: 远野纱夜: 「况且，我已经找到了。这个世界上最美的话语。」
+  - after: 远野纱夜: 「况且，我已经找到了。这个世界上最美的言语。」
+- `bookish_zhcn/reading_order/19_ao.md:4541` `kotoba-theme`
+  - before: 世界上最美的话语。
+  - after: 世界上最美的言语。
+- `bookish_zhcn/reading_order/19_ao.md:4593` `fantasy-monogatari`
+  - before: 这是一个美丽的幻想故事。
+  - after: 这是一个美丽的幻想物语。
+- `bookish_zhcn/reading_order/19_ao.md:4726` `clock-tower`
+  - before: ？？？: 「在苍蓝的天空下，停摆的钟塔下――」
+  - after: ？？？: 「在苍蓝的天空下，停摆的时钟塔下――」
+- `bookish_zhcn/reading_order/19_ao.md:4791` `clock-tower`
+  - before: 苍: 「那一天，在钟塔前，她的故事即将终结的时候，」
+  - after: 苍: 「那一天，在时钟塔前，她的故事即将终结的时候，」
+- `bookish_zhcn/reading_order/19_ao.md:4803` `kotoba-theme`
+  - before: 苍: 「他意识到了。她所说的那句话的含义。那句世界最美的语言。」
+  - after: 苍: 「他意识到了。她所说的那句话的含义。那句世界最美的言语。」
+- `bookish_zhcn/reading_order/19_ao.md:4840` `kotoba-theme`
+  - before: 远野纱夜: 「那些语言，即使与我追寻的不同，也各自是美丽的语言」
+  - after: 远野纱夜: 「那些语言，即使与我追寻的不同，也各自是美丽的言语」
+- `bookish_zhcn/reading_order/19_ao.md:4842` `kotoba-theme`
+  - before: 苍: 「我们曾一起旅行。寻找世界最美的语言的旅行。我曾以为那是漫无目的的旅行」
+  - after: 苍: 「我们曾一起旅行。寻找世界最美的言语的旅行。我曾以为那是漫无目的的旅行」
+- `bookish_zhcn/reading_order/19_ao.md:4844` `kotoba-theme`
+  - before: 苍: 「但是，和你在一起的过程中，我阅读了各种各样的故事，每次都能了解到美丽的语言」
+  - after: 苍: 「但是，和你在一起的过程中，我阅读了各种各样的故事，每次都能了解到美丽的言语」
+- `bookish_zhcn/reading_order/19_ao.md:4845` `kotoba-theme`
+  - before: 苍: 「那或许不是你所说的世界最美的语言，但确实有什么东西在我心中回响」
+  - after: 苍: 「那或许不是你所说的世界最美的言语，但确实有什么东西在我心中回响」
+- `bookish_zhcn/reading_order/19_ao.md:4846` `kotoba-theme`
+  - before: 苍: 「然后，在抵达的终点终于找到了。那句世界最美的语言」
+  - after: 苍: 「然后，在抵达的终点终于找到了。那句世界最美的言语」
+- `bookish_zhcn/reading_order/19_ao.md:4876` `kotoba-theme`
+  - before: 听到她强硬的话语，他笑了笑，然后眺望着远方说道。
+  - after: 听到她强硬的言语，他笑了笑，然后眺望着远方说道。
+- `bookish_zhcn/reading_order/19_ao.md:4882` `kotoba-theme`
+  - before: 苍: 「和你一起旅行，我明白了什么是世界最美的语言」
+  - after: 苍: 「和你一起旅行，我明白了什么是世界最美的言语」
+- `bookish_zhcn/reading_order/19_ao.md:4898` `kotoba-theme`
+  - before: 彼此渴求，彼此填补空缺，然后意识到世界最美的语言的两人，发生了奇迹。
+  - after: 彼此渴求，彼此填补空缺，然后意识到世界最美的言语的两人，发生了奇迹。
+- `bookish_zhcn/reading_order/19_ao.md:4906` `kotoba-theme`
+  - before: 所谓世界最美的语言，就是表现那些珍重之物形态与本质的东西。
+  - after: 所谓世界最美的言语，就是表现那些珍重之物形态与本质的东西。
+- `bookish_zhcn/reading_order/20_atogaki.md:90` `honmono-nisemono`
+  - before: 卧待春夫: 「顺便说，这件事，那个……冒牌货『日生光』也注意到了」
+  - after: 卧待春夫: 「顺便说，这件事，那个……冒牌『日生光』也注意到了」
+- `bookish_zhcn/reading_order/20_atogaki.md:100` `honmono-nisemono`
+  - before: 卧待春夫: 「他没有时间了。当然，他本也可以成为真货」
+  - after: 卧待春夫: 「他没有时间了。当然，他本也可以成为正牌」
+- `bookish_zhcn/reading_order/20_atogaki.md:106` `clock-tower`
+  - before: 卧待春夫: 「他把钟塔的钥匙交给了最后会追自己的她，并藏起了成为她幻想契机的『死神与少女』那本书」
+  - after: 卧待春夫: 「他把时钟塔的钥匙交给了最后会追自己的她，并藏起了成为她幻想契机的『死神与少女』那本书」
+- `bookish_zhcn/reading_order/20_atogaki.md:108` `clock-tower`
+  - before: 卧待春夫: 「不过我真没想到她会连书带钟塔钥匙一起拿走。不愧是盗贼啊」
+  - after: 卧待春夫: 「不过我真没想到她会连书带时钟塔钥匙一起拿走。不愧是盗贼啊」
+- `bookish_zhcn/reading_order/20_atogaki.md:154` `honmono-nisemono`
+  - before: 卧待春夫: 「你正如所见，是这个世界里的局外人，而冒牌货日生君是知道她的一切却仍然能爱她的人。而且更重要的是，他有着把公主带出去的职责」
+  - after: 卧待春夫: 「你正如所见，是这个世界里的局外人，而冒牌日生君是知道她的一切却仍然能爱她的人。而且更重要的是，他有着把公主带出去的职责」
+- `bookish_zhcn/reading_order/20_atogaki.md:202` `fantasy-monogatari`
+  - before: 桐岛七葵: 「这不是悲剧故事，也不是喜剧故事。而是一个美丽的幻想故事」
+  - after: 桐岛七葵: 「这不是悲剧故事，也不是喜剧故事。而是一个美丽的幻想物语」
+
+## 人工候选样例
+
+- `bookish_zhcn/reading_order/01_prologue.md:5` `ao-color-review`
+  - text: 苍蓝色的天空。
+- `bookish_zhcn/reading_order/01_prologue.md:46` `ao-color-review`
+  - text: 远野十夜: 「‘嗯……我上次去的地方是一片无边无际的蓝色大海。越过那片大海，还有另一片土地，那里有和我们不同的鸟儿。」
+- `bookish_zhcn/reading_order/01_prologue.md:103` `ao-color-review`
+  - text: 远野十夜: 「嗯……我上次去的地方是一片无边无际的蓝色大海。」
+- `bookish_zhcn/reading_order/01_prologue.md:835` `ao-color-review`
+  - text: 既不是蓝色也不是红色，是染上黑暗的瞬间的苍。
+- `bookish_zhcn/reading_order/01_prologue.md:960` `ao-color-review`
+  - text: 苍蓝色的天空。
+- `bookish_zhcn/reading_order/01_prologue.md:961` `ao-color-review`
+  - text: 染上苍蓝色的世界。
+- `bookish_zhcn/reading_order/01_prologue.md:964` `ao-color-review`
+  - text: 如同映照出这片天空一般的苍蓝色眼眸。
+- `bookish_zhcn/reading_order/01_prologue.md:1147` `ao-color-review`
+  - text: 远野纱夜: 「一片苍色的天空」
+- `bookish_zhcn/reading_order/02_chapter1.md:284` `ao-color-review`
+  - text: 淡蓝色的天空中，挂着同样淡薄的云彩。
+- `bookish_zhcn/reading_order/02_chapter1.md:502` `ao-color-review`
+  - text: 那金色的头发、雪白的肌肤、蓝色的眼眸。
+- `bookish_zhcn/reading_order/02_chapter1.md:713` `ao-color-review`
+  - text: 他先垂下眼睛低语了一句，然后再次用那双苍蓝色的眼睛直视着我说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:1379` `ao-color-review`
+  - text: 蓝色的眼眸低垂，长长的睫毛投下阴影。
+- `bookish_zhcn/reading_order/02_chapter1.md:1477` `ao-color-review`
+  - text: 蓝色的眼眸微微睁大。
+- `bookish_zhcn/reading_order/02_chapter1.md:2121` `ao-color-review`
+  - text: 我用手掩住嘴，看着他那双苍蓝色的眼眸说道。
+- `bookish_zhcn/reading_order/02_chapter1.md:2125` `ao-color-review`
+  - text: 他的眼睛眯了起来，那双蓝色的眼眸似乎变得更加深邃了。
+- `bookish_zhcn/reading_order/02_chapter1.md:2642` `ao-color-review`
+  - text: 他那双苍蓝色的眼眸映着同样蓝色的海。
+- `bookish_zhcn/reading_order/02_chapter1.md:3297` `ao-color-review`
+  - text: 我抬眼看向他那苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/02_chapter1.md:4414` `ao-color-review`
+  - text: 看到那本特征鲜明的青色封面的书，
+- `bookish_zhcn/reading_order/02_chapter1.md:4433` `ao-color-review`
+  - text: 蓝色的眼眸低垂，长长的睫毛落下阴影。
+- `bookish_zhcn/reading_order/02_chapter1.md:4560` `ao-color-review`
+  - text: 那双苍蓝色的眼眸映照着我们的身影。
+- `bookish_zhcn/reading_order/02_chapter1.md:5105` `ao-color-review`
+  - text: 蓝色封面的书。远野十夜的书。《笼中鸟》。
+- `bookish_zhcn/reading_order/02_chapter1.md:6005` `ao-color-review`
+  - text: 苍合上书，把蓝色封面对着我。
+- `bookish_zhcn/reading_order/03_chapter2.md:500` `ao-color-review`
+  - text: 说着，哥哥从书架上抽出一本蓝色封面的书。
+- `bookish_zhcn/reading_order/03_chapter2.md:3862` `ao-color-review`
+  - text: 途中看到的天空，从清澈的蓝色
+- `bookish_zhcn/reading_order/03_chapter2.md:3875` `ao-color-review`
+  - text: 我也同样仰起头，原本淡蓝色的天空变得深沉，那些离太阳近的云朵等事物被染成了橙色，稍远一些的则染上了暗色。
+- `bookish_zhcn/reading_order/04_chapter3.md:568` `ao-color-review`
+  - text: 依旧是那双苍色的眼眸。
+- `bookish_zhcn/reading_order/04_chapter3.md:573` `ao-color-review`
+  - text: 当那双冰冷的苍色眼眸眯起来时，
+- `bookish_zhcn/reading_order/04_chapter3.md:756` `ao-color-review`
+  - text: 说着，他把一本蓝色封面的书展示给我。
+- `bookish_zhcn/reading_order/04_chapter3.md:5048` `ao-color-review`
+  - text: 苍终于将那双苍色的眼眸转向我。
+- `bookish_zhcn/reading_order/04_chapter3.md:8307` `ao-color-review`
+  - text: 高大的身躯上系着得体的深蓝色蝴蝶结。
+- `bookish_zhcn/reading_order/08_hinase.md:723` `ao-color-review`
+  - text: 日生光: 「彩带的颜色不一样。蓝色的就是雷，红色的就是普通的吧。真有你的啊。」
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:3075` `ao-color-review`
+  - text: 窗外的景色逐渐从淡蓝色变成深红色。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4162` `ao-color-review`
+  - text: 我注意到其中有一本眼熟的蓝色封面的书。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:4469` `ao-color-review`
+  - text: 那熟悉的苍色封面。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5483` `ao-color-review`
+  - text: 他解开蓝色丝带，拿起一块碎屑。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5634` `ao-color-review`
+  - text: 哥哥解开蓝色丝带，把一颗星形饼干放进我嘴里。
+- `bookish_zhcn/reading_order/09_chapter4_after_hinase_branch.md:5698` `ao-color-review`
+  - text: 哥哥解开蓝色丝带，把一颗星形饼干放进我嘴里。
+- `bookish_zhcn/reading_order/10_chapter5_to_kirichiyo_branch.md:7` `ao-color-review`
+  - text: 天空很高，淡蓝色的背景上漂浮着被拉长的白云。
+- `bookish_zhcn/reading_order/11_kirishima_chapter5_branch.md:66` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/13_chiyo_chapter5_branch.md:66` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:77` `ao-color-review`
+  - text: 那是澄澈的水蓝色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1055` `ao-color-review`
+  - text: 在他蓝色的眼眸中，清晰地映出了我的身影。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1098` `ao-color-review`
+  - text: 然后向上望去，对上了蓝色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1195` `ao-color-review`
+  - text: 在他蓝色的眼眸中，清晰地映出了我的身影。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1244` `ao-color-review`
+  - text: 然后向上望去，对上了蓝色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1314` `ao-color-review`
+  - text: 稍微有点难为情，我游移的视线撞上了那双蓝色的眼睛。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1466` `ao-color-review`
+  - text: 蓝色——让人想起某人的眼眸的颜色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1493` `ao-color-review`
+  - text: 蓝色的眼眸和黑色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1565` `ao-color-review`
+  - text: 蓝色——让人想起某人的眼眸的颜色。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1592` `ao-color-review`
+  - text: 蓝色的眼眸和黑色的眼眸。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1619` `ao-color-review`
+  - text: 这么近的距离，我能看到他苍蓝色的眼眸里映出我的样子。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:1625` `ao-color-review`
+  - text: 啊，好像要被那苍蓝色的眼眸吸进去了。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2167` `ao-color-review`
+  - text: 双脚站在地面上，环顾四周，整个世界都融入了苍蓝色之中。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2185` `ao-color-review`
+  - text: 他的一切颜色都很淡，但却是这里所有人中唯一没有融入苍蓝色的。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2224` `ao-color-review`
+  - text: 苍蓝色的天空很快就消失了，现在已完全变成漆黑的夜晚。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2358` `ao-color-review`
+  - text: 苍蓝色的天空很快就消失了，现在已完全变成漆黑的夜晚。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:2692` `ao-color-review`
+  - text: 淡淡的蓝色天空，感觉有些寒冷萧瑟。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3015` `ao-color-review`
+  - text: 苍蓝色的眼眸一眨不眨地凝视着我。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3236` `ao-color-review`
+  - text: 听我这样说，那双蓝色的眼睛微微眯了起来。
+- `bookish_zhcn/reading_order/16_chapter5_after_kirichiyo_branch.md:3822` `ao-color-review`
+  - text: 映照出此世夹缝的苍蓝色眼眸。
+- `bookish_zhcn/reading_order/18_kuro.md:190` `ao-color-review`
+  - text: 我和他的距离缩短了，近到能清楚看见他那双苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/18_kuro.md:201` `ao-color-review`
+  - text: 那双苍蓝色的眼眸变得更深邃了。
+- `bookish_zhcn/reading_order/18_kuro.md:243` `ao-color-review`
+  - text: 『那家伙』，大概是指那个有着苍蓝色眼眸的人吧。
+- `bookish_zhcn/reading_order/18_kuro.md:785` `ao-color-review`
+  - text: 那是本暗蓝色的封面书。
+- `bookish_zhcn/reading_order/18_kuro.md:860` `ao-color-review`
+  - text: 早上醒来时，我身在青黑色的海底。
+- `bookish_zhcn/reading_order/18_kuro.md:867` `ao-color-review`
+  - text: 头顶也是同样的蓝色，但也许因为更接近太阳，比在地上看到的更苍白，阳光照射到的地方颜色尤其淡薄。
+- `bookish_zhcn/reading_order/18_kuro.md:1026` `ao-color-review`
+  - text: 我也自然地放慢了脚步，和周围保持同样的步调，抬头望着淡蓝色的天空，想着心事。
+- `bookish_zhcn/reading_order/18_kuro.md:1062` `ao-color-review`
+  - text: 回头一看，那里没有人影，取而代之的是两只猫——一黑一白——蹲在墙头一动不动，用蓝色的眼睛盯着我。
+- `bookish_zhcn/reading_order/18_kuro.md:1709` `ao-color-review`
+  - text: 在众多书籍中，有一本散发着异彩的青色书脊。
+- `bookish_zhcn/reading_order/18_kuro.md:1713` `ao-color-review`
+  - text: 那本青色的书上，既没有标题，也没有任何文字记录。
+- `bookish_zhcn/reading_order/18_kuro.md:1722` `ao-color-review`
+  - text: 那是深邃、深邃的青色天空。
+- `bookish_zhcn/reading_order/18_kuro.md:2090` `ao-color-review`
+  - text: 从时钟塔表盘透进的微弱的蓝色光芒。
+- `bookish_zhcn/reading_order/18_kuro.md:2344` `ao-color-review`
+  - text: 午后淡蓝色的天空。
+- `bookish_zhcn/reading_order/18_kuro.md:2345` `ao-color-review`
+  - text: 不久，随着高升的太阳落下，影子染上浓重，天空从淡蓝变成苍色。
+- `bookish_zhcn/reading_order/18_kuro.md:2346` `ao-color-review`
+  - text: 苍色，介于之间的颜色。那只是短暂的一瞬。
+- `bookish_zhcn/reading_order/18_kuro.md:2348` `ao-color-review`
+  - text: 随后，苍色变得更加深沉，世界进入了夜晚。
+- `bookish_zhcn/reading_order/18_kuro.md:2356` `ao-color-review`
+  - text: 远野十夜: 「苍色」
+- `bookish_zhcn/reading_order/18_kuro.md:2358` `ao-color-review`
+  - text: 远野十夜: 「纱夜以前说过苍色是间隙的颜色，但对我来说，苍色看起来是夜的颜色啊」
+- `bookish_zhcn/reading_order/18_kuro.md:2359` `ao-color-review`
+  - text: 远野十夜: 「以前纱夜说过苍色是间隙的颜色，但对我来说，苍色看起来是夜的颜色啊」
+- `bookish_zhcn/reading_order/18_kuro.md:2371` `ao-color-review`
+  - text: 远野纱夜: 「那么，苍色是终结的颜色吗？」
+- `bookish_zhcn/reading_order/18_kuro.md:2578` `ao-color-review`
+  - text: 身披白色长袍、拥有金色头发和苍色眼眸的死神，伫立在夜的黑暗中。
+- `bookish_zhcn/reading_order/18_kuro.md:2717` `ao-color-review`
+  - text: 远野纱夜: 「太阳沉落，夜晚到来前那一刻的天空的颜色。深邃，深邃。苍色的天空。在那之下，伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:72` `ao-color-review`
+  - text: 听他这么一说，我才注意到。书脊的颜色是蓝色的。
+- `bookish_zhcn/reading_order/19_ao.md:206` `ao-color-review`
+  - text: 凝视着那双苍蓝色的眼睛，我意识到: 「啊，原来如此，我是想要被帮助啊」
+- `bookish_zhcn/reading_order/19_ao.md:227` `ao-color-review`
+  - text: 他站在那里，并不打算坐下。他用那双苍蓝色的眼睛俯视着坐着的我。
+- `bookish_zhcn/reading_order/19_ao.md:304` `ao-color-review`
+  - text: 他的手指碰到了我的眼下。苍蓝色的眸子里映出了我的身影。
+- `bookish_zhcn/reading_order/19_ao.md:716` `ao-color-review`
+  - text: 他啪地合上书，终于用那双苍蓝色的眼睛看向我。
+- `bookish_zhcn/reading_order/19_ao.md:1272` `ao-color-review`
+  - text: 我凝视着他那苍蓝色的眼眸片刻，嘴角浮现出笑意。
+- `bookish_zhcn/reading_order/19_ao.md:1432` `ao-color-review`
+  - text: 在众多书籍中，有一本苍蓝色的书脊格外显眼。
+- `bookish_zhcn/reading_order/19_ao.md:1435` `ao-color-review`
+  - text: 苍蓝色的封面上没有写任何标题。
+- `bookish_zhcn/reading_order/19_ao.md:1444` `ao-color-review`
+  - text: 那是深邃、深邃的青色天空。
+- `bookish_zhcn/reading_order/19_ao.md:2312` `ao-color-review`
+  - text: 似曾相识的苍色装帧让我瞬间认出那是《远野十夜》的书。
+- `bookish_zhcn/reading_order/19_ao.md:2397` `ao-color-review`
+  - text: 他有着浅金色头发和苍蓝色眼睛，
+- `bookish_zhcn/reading_order/19_ao.md:2446` `ao-color-review`
+  - text: 魔法师: 「在苍蓝色的天空下，一直等待着夜晚来临。」
+- `bookish_zhcn/reading_order/19_ao.md:2456` `ao-color-review`
+  - text: 在苍蓝色的天空下，等待着夜晚。
+- `bookish_zhcn/reading_order/19_ao.md:2604` `ao-color-review`
+  - text: 大海是一片寒凉萧瑟的蓝色，配合着刺骨的寒风和周围的寂静，让人莫名感到忧郁。
+- `bookish_zhcn/reading_order/19_ao.md:2677` `ao-color-review`
+  - text: 我和他的距离缩短了，近到能清楚看见他那双苍蓝色的眼眸。
+- `bookish_zhcn/reading_order/19_ao.md:2690` `ao-color-review`
+  - text: 我抬头看向他，在他那双深邃如透明的苍色眼眸中，清晰地映出了自己的身影。
+- `bookish_zhcn/reading_order/19_ao.md:2938` `ao-color-review`
+  - text: 苍蓝色的封面，仅镶着淡淡的金边，装订朴素，没有名字的书。
+- `bookish_zhcn/reading_order/19_ao.md:3081` `ao-color-review`
+  - text: 苍色的封面在黑暗中看来，黑得几乎分不清那是不是苍色。
+- `bookish_zhcn/reading_order/19_ao.md:3110` `ao-color-review`
+  - text: 浅金色的头发，苍蓝色的眼眸，他的一切都与我不同。
+- `bookish_zhcn/reading_order/19_ao.md:3188` `ao-color-review`
+  - text: 周围是一片灰蒙蒙的蓝色。
+- `bookish_zhcn/reading_order/19_ao.md:3203` `ao-color-review`
+  - text: 然后，我望向苍蓝色的天空。
+- `bookish_zhcn/reading_order/19_ao.md:3365` `ao-color-review`
+  - text: 我第一次见到远野纱夜，并非是在那片苍色的天空之下。
+- `bookish_zhcn/reading_order/19_ao.md:3379` `ao-color-review`
+  - text: 那本《死神与少女》，我已经反反复复读过不知几千遍，苍色封面上金色的装饰部分已多处磨损，内页也因长年累月而晒得泛黄，褪成了橙色。
+- `bookish_zhcn/reading_order/19_ao.md:3491` `ao-color-review`
+  - text: 男人的视线落在我手中那本苍蓝色的书上。
+- `bookish_zhcn/reading_order/19_ao.md:3919` `ao-color-review`
+  - text: 远野纱夜: 「太阳沉落，夜晚到来前那一刻的天空的颜色。深邃，深邃。苍色的天空。在那之下，伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:4118` `ao-color-review`
+  - text: 远野十夜: 「……太阳西沉，夜晚到来之前那一瞬间的天空颜色。那是一片深邃、深邃的苍色天空。其下伫立着死神的身影」
+- `bookish_zhcn/reading_order/19_ao.md:4267` `ao-color-review`
+  - text: 从这里能看到的，只有他蓝色的眼眸、流泻的金发，还有锐利的刀尖。
+- `bookish_zhcn/reading_order/19_ao.md:4334` `ao-color-review`
+  - text: 他只是将那蓝色的眼眸面向我，将那刀刃对准我，纹丝不动地听着我的话。
+- `bookish_zhcn/reading_order/19_ao.md:4416` `ao-color-review`
+  - text: 睁开眼睛，他那蓝色的眼眸中满是惊讶。
+- `bookish_zhcn/reading_order/19_ao.md:4432` `ao-color-review`
+  - text: 从他蓝色的眼眸中落下了水滴，打在我的脸颊上。
+- `bookish_zhcn/reading_order/19_ao.md:4501` `ao-color-review`
+  - text: 我恍惚想道，天空如此明亮，难道连夜晚也是蓝色的吗？
+- `bookish_zhcn/reading_order/19_ao.md:4577` `ao-color-review`
+  - text: 天空是蓝色的。
+- `bookish_zhcn/reading_order/19_ao.md:4579` `ao-color-review`
+  - text: 对我来说，蓝色不是夹缝的颜色，而是终焉的颜色。
+- `bookish_zhcn/reading_order/19_ao.md:4580` `ao-color-review`
+  - text: 来到这个国家，知道天空的颜色不是蓝色而是黑色时，我感觉仿佛知道了另一个夜晚。
+- `bookish_zhcn/reading_order/19_ao.md:4596` `ao-color-review`
+  - text: 他有着淡金色的头发和蓝色的眼睛，
+- `bookish_zhcn/reading_order/19_ao.md:4647` `ao-color-review`
+  - text: 少女凝视着那双蓝色的眼睛。
+- `bookish_zhcn/reading_order/19_ao.md:4666` `ao-color-review`
+  - text: 蓝色装帧的书。死神心想，这颜色和自己的眼睛颜色很像。
+- `bookish_zhcn/reading_order/19_ao.md:4711` `ao-color-review`
+  - text: 死神感受着从少女那里得到的蓝色《死神与少女》。
+- `bookish_zhcn/reading_order/19_ao.md:4880` `ao-color-review`
+  - text: 他苍蓝色的眼眸捕捉到她黑色的眼眸。
+- `bookish_zhcn/reading_order/01_prologue.md:26` `honmono-review`
+  - text: 「这世上真的存在那种东西吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:265` `honmono-review`
+  - text: 远野纱夜: 「……那样的东西，真的存在吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:276` `honmono-review`
+  - text: 远野十夜: 「哦，真的吗！！」
+- `bookish_zhcn/reading_order/01_prologue.md:392` `honmono-review`
+  - text: 宫泽夏帆: 「真的吗？」
+- `bookish_zhcn/reading_order/01_prologue.md:472` `honmono-review`
+  - text: 女学生A: 「夏目……真的耶！已经到时间了！糟了！」
+- `bookish_zhcn/reading_order/01_prologue.md:599` `honmono-review`
+  - text: 图书管理员: 「你也是真的喜欢书呢」
+- `bookish_zhcn/reading_order/01_prologue.md:671` `honmono-review`
+  - text: 然后，他用认真的眼神看着我。
+- `bookish_zhcn/reading_order/01_prologue.md:767` `honmono-review`
+  - text: 仅看那个眼神，就能明白这个人真的很喜欢书。
+- `bookish_zhcn/reading_order/01_prologue.md:1030` `honmono-review`
+  - text: 如果，真的……
+- `bookish_zhcn/reading_order/02_chapter1.md:130` `honmono-review`
+  - text: 医生: 「真的说过啊。我还记得那时候的你总是很开心。」
+- `bookish_zhcn/reading_order/02_chapter1.md:197` `honmono-review`
+  - text: 远野纱夜: 「你也这么觉得吧？但这是真的。」
+- `bookish_zhcn/reading_order/02_chapter1.md:387` `honmono-review`
+  - text: 远野纱夜: 「……真的没关系吗？中途交给了那个人。」
+- `bookish_zhcn/reading_order/02_chapter1.md:841` `honmono-review`
+  - text: ？？？: 「我想向你道谢。真的非常感谢你。」
+- `bookish_zhcn/reading_order/02_chapter1.md:856` `honmono-review`
+  - text: 日生前辈反问道，她噗嗤一笑，然后突然露出认真的表情。
+- `bookish_zhcn/reading_order/02_chapter1.md:906` `honmono-review`
+  - text: ？？？: 「昨天真的非常感谢。……那么，再见。」
+- `bookish_zhcn/reading_order/02_chapter1.md:1027` `honmono-review`
+  - text: 远野纱夜: 「哎……这样真的好吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1048` `honmono-review`
+  - text: 远野纱夜: 「哎呀，真的吗？」
+- `bookish_zhcn/reading_order/02_chapter1.md:1069` `honmono-review`
+  - text: 远野纱夜: 「今天，真的非常感谢您」
+- `bookish_zhcn/reading_order/02_chapter1.md:1210` `honmono-review`
+  - text: 太宰友惠: 「呵呵。真的很可爱呢。和纱夜酱是不同的感觉」
+- `bookish_zhcn/reading_order/02_chapter1.md:1900` `honmono-review`
+  - text: 胜负真的只在一瞬间。
+- `bookish_zhcn/reading_order/02_chapter1.md:2238` `honmono-review`
+  - text: 远野纱夜: 「不过，哥哥……您说只要喊您的名字您就会立刻赶到，这是真的吗？哥哥明天还要上班吧？」
+- `bookish_zhcn/reading_order/02_chapter1.md:2668` `honmono-review`
+  - text: 远野纱夜: 「我喜欢大海。真的，感觉它无边无际地延伸着」
+- `bookish_zhcn/reading_order/02_chapter1.md:3302` `honmono-review`
+  - text: 远野纱夜: 「我确实在意您的事，这是真的。但我也确实有些在意的事」
+- `bookish_zhcn/reading_order/02_chapter1.md:3316` `honmono-review`
+  - text: 毕竟我和巴女士真的只是前几天才见过面，没有任何关系。
+- `bookish_zhcn/reading_order/02_chapter1.md:3324` `honmono-review`
+  - text: 苍: 「这个地方，真的很吵啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:3349` `honmono-review`
+  - text: 远野纱夜: 「您真的很温柔呢」
+- `bookish_zhcn/reading_order/02_chapter1.md:3431` `honmono-review`
+  - text: 护士C: 「真的吗？如果身体不舒服，要不要检查一下？」
+- `bookish_zhcn/reading_order/02_chapter1.md:3432` `honmono-review`
+  - text: 远野纱夜: 「对不起。真的没什么。只是被吓到了，太害怕了……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3519` `honmono-review`
+  - text: 那副样子看起来非常悲伤，让我觉得，她真的很在乎巴女士。
+- `bookish_zhcn/reading_order/02_chapter1.md:3629` `honmono-review`
+  - text: 远野纱夜: 「巴女士，当时真的很拼命啊」
+- `bookish_zhcn/reading_order/02_chapter1.md:3632` `honmono-review`
+  - text: 就算她精神真的出了问题，那种执念般的眼神，光是现在回想起来，都让我脊背发凉。
+- `bookish_zhcn/reading_order/02_chapter1.md:3654` `honmono-review`
+  - text: 苍: 「如果巴真的想想起来，总有一天她会想起来的吧」
+- `bookish_zhcn/reading_order/02_chapter1.md:3762` `honmono-review`
+  - text: 桐岛七葵: 「……我真的没有在意。不过，我觉得你确实应该注意前方」
+- `bookish_zhcn/reading_order/02_chapter1.md:3763` `honmono-review`
+  - text: 远野纱夜: 「真的很对不起……！」
+- `bookish_zhcn/reading_order/02_chapter1.md:3813` `honmono-review`
+  - text: 远野纱夜: 「关于便当的事，真的很对不起」
+- `bookish_zhcn/reading_order/02_chapter1.md:3923` `honmono-review`
+  - text: 宫泽夏帆: 「这你可能不信，但这是真的……」
+- `bookish_zhcn/reading_order/02_chapter1.md:3925` `honmono-review`
+  - text: 日生光: 「真的假的」
+- `bookish_zhcn/reading_order/02_chapter1.md:3988` `honmono-review`
+  - text: 远野纱夜: 「关于便当的事，真的很对不起」
+- `bookish_zhcn/reading_order/02_chapter1.md:4104` `honmono-review`
+  - text: 远野纱夜: 「那么，真正的爱好是？」
+- 其余 442 条见 `*.review.jsonl`。
+
+## 人工审核说明
+
+- `*.operations.jsonl` 是自动回填记录。
+- `*.review.jsonl` 是需要人工或 LLM 精判的候选项，特别是“物语/故事”“语言/言语”“苍色/青色”“正牌/冒牌”。
