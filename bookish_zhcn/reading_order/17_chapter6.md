@@ -859,6 +859,11 @@
 
 ---
 
+> 进入黑之章：[黑之章](reading_order_18_kuro.xhtml)（远野十夜/黑之章后续）
+> 进入苍之章：[苍之章](reading_order_19_ao.xhtml)（苍线后续）
+
+---
+
 <!-- anchor: badend-ch6-340 -->
 ## 六章-终
 
@@ -886,8 +891,3 @@
 少女: 「就这样，死神与少女两人」
 
 > 返回选择：[六章 01](#badend-ch6-choice)
-
----
-
-> 进入黑之章：[黑之章](reading_order_18_kuro.xhtml)（远野十夜/黑之章后续）
-> 进入苍之章：[苍之章](reading_order_19_ao.xhtml)（苍线后续）

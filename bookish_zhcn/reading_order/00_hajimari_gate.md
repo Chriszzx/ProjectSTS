@@ -4,6 +4,6 @@
 
 ---
 
-> 继续阅读：[开端内容](reading_order_00_hajimari.xhtml)
+> 继续阅读：[开端](reading_order_00_hajimari.xhtml)
 
 > 跳至：[序章](reading_order_01_prologue.xhtml)
