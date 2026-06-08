@@ -315,6 +315,30 @@ class BookishEpubGenerationTests(unittest.TestCase):
         self.assertLess(xhtml.index(page_break), xhtml.index(anchor))
         self.assertLess(xhtml.index(anchor), heading)
 
+    def test_japanese_navigation_followed_by_anchor_places_anchor_on_new_page(self):
+        xhtml = markdown_to_epub_xhtml(
+            "\n".join(
+                [
+                    "# 六章",
+                    "",
+                    "> 飛ぶ：[六章-終](#badend-ch6-340)（選択「諦める」）",
+                    "",
+                    "<!-- anchor: badend-ch6-340 -->",
+                    "## 六章-終",
+                    "",
+                    "終局本文。",
+                ]
+            ),
+            "六章",
+            "ja",
+        )
+
+        page_break = '<hr class="scene-break scene-page-break" />'
+        anchor = '<span id="badend-ch6-340" class="route-anchor"></span>'
+        heading = xhtml.index("<h2", xhtml.index(anchor))
+        self.assertLess(xhtml.index(page_break), xhtml.index(anchor))
+        self.assertLess(xhtml.index(anchor), heading)
+
 
 if __name__ == "__main__":
     unittest.main()
